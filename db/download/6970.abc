@@ -1,0 +1,69 @@
+X: 1
+T: 72nd Highlanders' Farewell To Aberdeen, The
+Z: gaitazampogna_32
+S: https://thesession.org/tunes/6970#setting6970
+R: barndance
+M: 4/4
+L: 1/8
+K: Cmaj
+|: e|{g}A{Gdc}d{gdc}d{g}e3/4f/4|g3/4f/4{g}e3/4d/4{g}f2|{gf}gB{GdGe}B{g}c3/4d/4| {g}e3/4f/4{g}e3/4c/4{g}A2|
+{g}A{Gdc}d{gdc}d{g}e3/4f/4|g3/4f/4{g}e3/4d/4{g}f2| {gf}gB/4{G}B3/4{g}f3/4e/4{g}d3/4c/4|{Gdc}d2{gdc}d:|
+|:{gf}g| {ag}aA{GdGe}A{d}c|{gBd}B{e}G{g}A2|{g}A{Gdc}d{g}A{Gdc}d| {g}e3/4d/4{gcd}c3/4B/4{g}A{gf}g|
+{ag}aA{GdGe}A{d}c|{gBd}B{e}G{g}A2| {g}A{Gdc}d{g}f3/4e/4{g}d3/4c/4|{Gdc}d2{gdc}d:|
+X: 2
+T: 72nd Highlanders' Farewell To Aberdeen, The
+Z: DonaldK
+S: https://thesession.org/tunes/6970#setting18552
+R: barndance
+M: 4/4
+L: 1/8
+K: Dmaj
+A<B|A2d2 d2(ef)|g>f e<d f4|(g2B2) B2(cd)|e>f e<c A2A<B|(A2d2) d2(ef)|g>f e<d f4|(g2B2) f>e d<c|d4 d2:|f<g|a2A2 A2((3AB=c)|B2G2 A2A<B|(A2d2) A2d2|e>d c<B A2f<g|a2A2 A2((3AB=c)|B2G2 A2A<B|(A2d2) f>e d<c|d4 d2:|
+X: 3
+T: 72nd Highlanders' Farewell To Aberdeen, The
+Z: ceolachan
+S: https://thesession.org/tunes/6970#setting28287
+R: barndance
+M: 4/4
+L: 1/8
+K: Dmaj
+|: B |A2 d2 d2 ef | gfed f3 f | g2 B2 B2 cd | efed dcBA |
+A2 d2 d2 ef | gfed f3 f | g2 B2 cdec |[1 d4 d3 :|[2 d4 d2 ||
+|: fg |a2 A2 A2 =c2 | B2 GB A3 B | A2 d2 dcde | f2 e2 e2 fg |
+a2 A2 A2 =c2 | B2 GB A3 B | A2 d2 fedc |[1 d4 d2 :|[2 d4 d3 |]
+X: 4
+T: 72nd Highlanders' Farewell To Aberdeen, The
+Z: ceolachan
+S: https://thesession.org/tunes/6970#setting28288
+R: barndance
+M: 4/4
+L: 1/8
+K: Dmaj
+|: cB |A2 d2 d2 ef | gfed f4 | g2 B2 B2 cd | efed dcBA |
+A2 d2 d2 ef | gfed f4 | g2 B2 cdec | d6 :|
+|: fg |a2 A2 A2 =c2 | B2 G2 A3 B | A2 d2 dcde | f2 e2 e2 fg |
+a2 A2 A2 =c2 | B2 G2 A3 B | A2 d2 fedc | d6 :|
+X: 5
+T: 72nd Highlanders' Farewell To Aberdeen, The
+Z: ceolachan
+S: https://thesession.org/tunes/6970#setting28289
+R: barndance
+M: 4/4
+L: 1/8
+K: Dmaj
+|: c>B |A2 d2 d2 e>f | g>fe<d f2- f>f | g2 B2 B2 c>d | e>fe>d d>cB>A |
+A2 d2- d2 e>f | g>fe<d f4 | g2 B2 f>ed<c | d4 d2 :|
+|: f>g |a2 A2 A2 =c2 | B2 G2 A2- A>^G | A2 d2 A>Bc<d | f2 e2 e2 (3efg |
+a2 A2 A2- A>=c | B2 G2 A4 | A2 d2 f>ed<c | d4 d2 :|
+X: 6
+T: 72nd Highlanders' Farewell To Aberdeen, The
+Z: ceolachan
+S: https://thesession.org/tunes/6970#setting28292
+R: barndance
+M: 4/4
+L: 1/8
+K: Dmaj
+|: e2 |A2 d2 d2 e>f | g>fe>d f4 | g2 B2 B2 c>d | e>fe>c A4 |
+A2 d2 d2 e>f | g>fe>d f4 | g2 B<B f>ed>c | d4 d2 :|
+|: g2 |a2 A2 A2 c2 | B2 G2 A4 | A2 d2 A2 d2 | e>dc>B A2 g2 |
+a2 A2 A2 c2 | B2 G2 A4 | A2 d2 f>ed>c | d4 d2 :|

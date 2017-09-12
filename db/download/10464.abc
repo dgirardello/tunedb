@@ -1,0 +1,39 @@
+X: 1
+T: Flat Cap
+Z: Barry Pearce
+S: https://thesession.org/tunes/10464#setting10464
+R: three-two
+M: 3/2
+L: 1/8
+K: Dmin
+|:DEFGA2D2FGA2|c2G4C2EFGE|DEFGA2D2FGA2|d2A4GF EFGE:|
+|:DEFG ABAG ABAG|c2C4C2EFGE|DEFG ABAF ABAF|d2A4GF EFGE:|
+|:f2d2g2e2f2d2|A2e4c2efge|f2d2g2e2f3e|d2A4GF EFGE:|
+|:defd efge fgaf|g2e4c2efge|defd efge agfe|d2A4GF EFGE:|
+|:F2A2G2B2F2A2|c2G4C2EFGE|F2A2G2B2F2A2|d2A4GF EFGE:|
+X: 2
+T: Flat Cap
+Z: ceolachan
+S: https://thesession.org/tunes/10464#setting20928
+R: three-two
+M: 3/2
+L: 1/8
+K: Dmin
+|: DEFG A2D2 FGA2 |c2G2- G2C2 EFGE | DEFG A2D2 FGA2 | d2A2- A2GF EFGE :|
+|: DEFG ABAG ABAG | c2C2- C2C2 EFGE | DEFG ABAF ABAF | d2A2- A2GF EFGE :|
+|: f2d2 g2e2 f2d2 | g2e2- e2c2 efge | f2d2 g2e2 f3e | d2A2- A2GF EFGE :|
+|: defd efge fgaf | g2e2- e2c2 efge | defd efge agfe | d2A2- A2GF EFGE :|
+|: F2A2 G2B2 F2A2 | c2G2- G2C2 EFGE | F2A2 G2B2 F2A2 | d2A2- A2GF EFGE :|
+X: 3
+T: Flat Cap
+Z: ceolachan
+S: https://thesession.org/tunes/10464#setting20929
+R: three-two
+M: 3/2
+L: 1/8
+K: Dmix
+|: DEFG A3D FGA2 |c2E2- E2c2 EFGB | DEFG A2D2 F2A2 | d2D2- D2A2 EFGB :|
+|: DEFG A3c BAGE | c2E2- E2c2 E2G2 | DEFG ABAF A2B^c | d2D2- D2A2 EFGE :|
+|: f2d2 g2fe f2d2 | c2e2- e2A2 efge | f2d2 g2fe f2e2 | d2D2- D2A2 EFGB :|
+|: defd efge fgaf | b2e2- e2^c2 efg2 | defd efge agfe | d2D2- D2A2 EFGE :|
+|: F2A2 G2B2 FGA2 | c2E2- E2c2 EFG2 | F2A2 GABG FGA^c | d2D2- D2G2 F2E2 :|

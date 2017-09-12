@@ -1,0 +1,30 @@
+X: 1
+T: Hill's Fancy
+Z: Dr. Dow
+S: https://thesession.org/tunes/7765#setting7765
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Gmin
+|:FA|BFdc B2dc|BFdc B2ed|cFed c2ed|cFed cgec|
+dFdc Bdcd|BFdc BfdB|Agec AFGA|B2d2 B2:|
+|:fe|dBfe d2fe|(3dcB fB bBfB|AFcB A2cB|AFeF cFce|
+(3dcB fe d2fe|(3dcB fB gBfB|Agec AFGA|B2d2 B2:|
+X: 2
+T: Hill's Fancy
+Z: Dr. Dow
+S: https://thesession.org/tunes/7765#setting19112
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Gmaj
+dc|B<Fdc B2dc|B<Fdc B2ed|c<Fed c2ed|c<Fed cdcB|B<Fdc B2dc|B<Fdc BcdB|cded cFGA|B2d2B2:||:fe|dBfe d2fe|dfga bfed|cFed c2ed|cdcB Agfe|dBfe d2fe|dfga bfed|cdcB AFGA|B2d2B2:|BA|GDBA G2B2|GDBA G2B2|ADcB A2c2|ABAG FDEF|GDBA G2B2|GDBA G2B2|ABAG FDEF|G2B2 G2:||:dc|BGdc B2d2|BGBd gdBG|ADcB A2c2|ABAG FAdc| BGdc B2d2|BGBd gdBG|ABAG FDEF|G2B2 G2:|
+X: 3
+T: Hill's Fancy
+Z: Dr. Dow
+S: https://thesession.org/tunes/7765#setting19113
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Amaj
+E2|AEcB A2 c2|AEcB A2 c2|BEdc B2 d2|BcBA GEFG|AEcB A2 c2|AEcB A2 c2|BcBA GEFG|A2 c2 A2:||:ed|cAed c2 e2|cAce aecA|BEdc B2 d2|BcBA GBed|cAed c2 e2|cAce aecA|BcBA GEFG|A2 c2 A2:|

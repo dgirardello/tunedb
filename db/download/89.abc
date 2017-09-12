@@ -1,0 +1,95 @@
+X: 1
+T: Rambling Pitchfork, The
+Z: Jeremy
+S: https://thesession.org/tunes/89#setting89
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+F2F AFF|dFF AFF|G2G ABc|ded cAG|FEF AFF|dFF AFF|GFG BAG|FDD D3:|d2e fed|ecA ABc|dcd fed|faf gfe|d2e fed|ecA BAF|GFG BAG|FDD D3:|
+X: 2
+T: Rambling Pitchfork, The
+Z: Grack
+S: https://thesession.org/tunes/89#setting12626
+R: jig
+M: 6/8
+L: 1/8
+K: Fmaj
+F2F AGF | cAG AGF | G2G A2B | d2d cAG|F2F AGF | cAG AGF | G2A BAG | AFD D3 :||: ~f3 fcF | FAc fcA | G2G A2B | d2d cAG ||[1 ~f3 fcF | FAc fcA | G2A BAG | AFD D3 :||[2 fef gfg | afd cAF | G2A BAG | AFD D3 |||| d2e fed | ede A=B^c | d2e fed | g2g gec || d2e fed | ede A2=B | G2A BAG | AFD D3 |||| d2e fed | ede A=B^c | d2e fed | afa def || afd gec| fed cAF | G2A BAG | AFD D3 ||
+X: 3
+T: Rambling Pitchfork, The
+Z: ceolachan
+S: https://thesession.org/tunes/89#setting12627
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+F3 AFF | dFF AFD | GFG ABc | ded cAG |FAF AFF | dFF AFD | GFG BAB | AFD D2 :|d2 e fed | ecA AFA | dcd efg | faf gfe |[1 dcd fed | ecA AGF | GFG BAB | AFD D2 :|[2 a2 f gfe | fed ecA | GFG BAB | AFD D2 |]
+X: 4
+T: Rambling Pitchfork, The
+Z: GaryAMartin
+S: https://thesession.org/tunes/89#setting24316
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+F2F AFF|dFF AFD|GFG ABc|ded cBA|
+F2F AFF|dFF AFD|GFG BAG|AFD [1D2E:| [2DFA||
+dcd fed|ecA ABc|dcd efg|aba gfe|
+dcd fed|ecA AGF|GFG BAG|AFD [1DFA:|[2D2E|]
+X: 5
+T: Rambling Pitchfork, The
+Z: Kevin Rietmann
+S: https://thesession.org/tunes/89#setting24731
+R: jig
+M: 6/8
+L: 1/8
+K: Dmix
+AG|~F3 AFF | cFF AFD | ~G3 ABc | ded ^cAG |FEF AFF | cFF AFE |DGG BAG | AFD D2E |
+FDD ADD | cBc AFD |GFG ABc | fed cAG | ~F3 AFF | cFF AFD | ~G3 BAG | AFD DED |
+|d2e fed | e^cA ABA | d^cd efg | faf gfe | d2e fdd | e^cA ABA | ~G3 BAG | AFD D2A |
+d2e fdd | e^cA ABA | d^cd fed | faf g2g | a2f g2e | fed cAF | ~G3 BAG | AFD D2E |
+X: 6
+T: Rambling Pitchfork, The
+Z: JACKB
+S: https://thesession.org/tunes/89#setting24741
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+AG|F3 AFF | cFF AFD | G3 AB^c | ded ^cAG |
+FEF AFF | cFF AFD |DGG BAG | AFD D2E |
+FDD ADD | cBc AFD |GFG AB^c | ded ^cAG |
+F3 AFF | cFF AFD | G3 BAG | AFD D2 ||
+|d2e fed | e^cA ABA | d^cd efg | faf gfe |
+d2e fdd | e^cA ABA | G3 BAG | AFD D2A |
+d2e fdd | e^cA ABA | d^cd fed | faf g3 |
+a2f g2e | fed cAF | G3 BAG | AFD D2E ||
+X: 7
+T: Rambling Pitchfork, The
+Z: didier
+S: https://thesession.org/tunes/89#setting25500
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+F2G AFA | dcA AGF |1 G3 ABc | ded cAG :|2 GFG ABG | AFD D3||
+d2e f2d | dcA ABc | d2e f2g | afd dcA |
+[1 d2e f2d | ecA AGF | GFG ABG | AFD D3 :|
+[2 afa geg | fed cAF | G2A BAG | AFD D3 ||
+X: 8
+T: Rambling Pitchfork, The
+Z: Zjuul Portside
+S: https://thesession.org/tunes/89#setting29372
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+E |FDD ADD|dcd AFD|G2A Bgf|efe dBA|
+|FDD ADD|dcd AGF| G2A BGB|AFD D2E|
+|FDD ADD|dcd AFD|G2A Bgf|efe dBA|
+|FDD ADD|dcd AGF| G2A BGB|AFD DFA|
+|d2e fdf|ecA ABc|d2e f2g|agf edc|
+|d2e fdf|ecA AGF|G2A BGB|AFD DFA|
+|d2e fdf|ecA ABc|d2e f2g|agf ede|
+|agf efe|dBA BAF|G2A BGB|AFD D3|

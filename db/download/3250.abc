@@ -1,0 +1,38 @@
+X: 1
+T: Derry, The
+Z: Aidan Crossey
+S: https://thesession.org/tunes/3250#setting3250
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Dmaj
+|:AG|F2Ad fdAF|G2Bd gdBG|F2Ad fdAF|E2GB ecAG|
+F2Ad fdAF|G2Bd g2ag|fafd Bgec|d2 f2 d2:|
+|:fg|a2fd Adfa|g2ec Aceg|a2fd Adgf|(3efd (3cdB A2fg|
+a2fd Adfa|gece g2ag|fafd Bgec|d2 f2 d2:|
+|:AG|(3FED AD BDAD|dcdf ecAG|(3FED AD BDAD|EGFA GBAG|
+(3FED AD BDAC|dcdf eceg|(3fgf df gece|df (3edc d2:|
+|:(3efg|a^gab afdf|gfga gece|a^gab afdf|(3efd (3cdB A2 (3efg|
+a^gab afdf|gfef gbag|(3fgf df gece|df (3edc d2:|
+|:fg|(3aaa fd Adfd|(3aaa ec Acec|fdge afbg| ecdB A2 fg|
+(3aaa fd Adfd|(3ggg ec A2ag|fdAF Egec|d2 f2 d2:|
+|:FG|AFAd fedc|BGBe gfed|cAce agfe|fcdB A2 FG|
+AFAd fedc|BGBd g2ag|fafd Bgec|d2 f2 d2:|
+X: 2
+T: Derry, The
+Z: Ash O'Rourke
+S: https://thesession.org/tunes/3250#setting29255
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Dmaj
+|: ~F2 Ad fdAF | ~G2 Bd gdBG | ~F2 Ad fdAF | ~E2 cd ecAG |
+~F2 Ad fdAF |~G2 Bd g2 .ag | (3.f.g.f df eAce |1d3 cd BAG :|2d3 cd efg |]
+|: .a2 fd Adfa| .g2 ec A2 (3.e.f.g | .a2 fd Aggf | (3.e.f.e (3.d.cB A2 (3.e.f.g |
+a2 fd Adfa| gfef gbag|  (3.f.g.f df eAce  |1d3 cd efg :|2d3 cd BAF |]
+|: ~D2 AD BDAD | dcdf ecAF | ~D2 AD BDAD | (3.E.F.G (3.F.G.A GBAF |
+~D2 AD BDAD | dcdf ecAg | fAdf eAce |1d3 cd BAF :|2d3 cd efg |]
+|: ~a3 b afdf | ~g3 a gece | ~a3 b afdf | e2 (3.d.cB A2 (3.e.f.g |
+~a3 b afdf | gfef g2 ag | (3.f.g.f df eAce |1d3 cd efg :|2d3 cd EFG |]
+|: .A2 .Ad (3..g.f.e dA | BGBd gfed | cAcd edcd | (3.g.f.e (3.d.cB A2 FG |
+AFAd (3.g.f.e dA | BGBd g2 ag | (3.f.g.f df eAce | d3 cd EFG :|]

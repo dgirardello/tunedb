@@ -1,0 +1,74 @@
+X: 1
+T: Standing Abbey, The
+Z: slainte
+S: https://thesession.org/tunes/8342#setting8342
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Gmaj
+|:GFGB dgfg|e2ce dBGB|c2Ac BAGB|ADFA dcBA|
+GFGB dgfg|e2ce dBGB|cBAc BG~G2|1 ADFA G2BA:|2 ADFA G3z||
+d^cdf afdf|a^gab a=gfe|defg ~a3b|agfe dcBA|
+GFGB dgfg|e2ce dBGB|cBAc BG~G2|ADFA G3z|
+d^cdf afdf|a^gab a=gfe|defg abc'b|agfe dcBA|
+GFGB dgfg|e2ce dBGB|cBAc BG~G2|ADFA G2BA||
+X: 2
+T: Standing Abbey, The
+Z: KJM
+S: https://thesession.org/tunes/8342#setting25053
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Gmaj
+|:~G3B dggf|(3efe)ce dBGB|cEAc BDGB|ADFA dcBA|
+|~G3B dggf|(3efe)ce dBGB|cEAc BDGB|[1 ADFA G2BA]:|[2 ADFA G2(3AB^c)]|
+|:d^cdf afdf|a3b agfe|defg afbf|agfe dcBA|
+|~G3B dggf|(3efe)ce dBGB|cEAc BDGB|[1 ADFA G2(3AB^c)]:|[2 ADFA G2(3DEF)]|
+X: 3
+T: Standing Abbey, The
+Z: Thady Quill
+S: https://thesession.org/tunes/8342#setting29471
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Gmaj
+|: GFGA (3BAG gf | egce dBGB | ce (3ABc BdGB | AD (3FGA  dcBA |
+| GFGA (3BAG gf | egce dBGB | ce (3ABc BdGB | ADFA G3D :|
+|:  dcdf afdf | abc'b agfe | defg abc'b | (3aba (3gfe (3ded (3cBA |
+| GFGA (3BAG gf | egce dBGB | (3cec Ac (3BdB GB | AD (3FGA G3D :|
+X: 4
+T: Standing Abbey, The
+Z: ceolachan
+S: https://thesession.org/tunes/8342#setting30494
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Gmaj
+|: u(3DEF |vG>vFuG>uB d>Bg>f | (3ege c>e d>BG>B | c>BA>c {B/c/}B>AG>B | A>GF>A d<cB<A |
+G>FG>B d>Bg>f | (3ege c>e d>BG>B | c>BA>c (3BdB G>B | (3AcA F>A G2 :|
+|: (3ABc |d>^cd>f a>fd>f | a>bc'>b a>gf>e | d>ef>g a>bc'>b | a>gf>e d>cB>A |
+G>FG>B d>Bg>f | (3ege c>e d>BG>B | c>BA>B (3BdB G>B | (3AcA F>A G2 :|
+X: 5
+T: Standing Abbey, The
+Z: ceolachan
+S: https://thesession.org/tunes/8342#setting30495
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Fmaj
+|: C2 |{G/}F>EF>A c>Af>e  | (3ded B>d c>AF>A || (3BdB G>B (3AcA F>G | E>Gc>=B d>c_B>G |
+F>EF>A c>Af>e  | (3ded B>d c>(AF)>A | (3BdB G>B (3AcA F>A | (3GAG E>G F3/ z/ :|
+|: A>B |{d/}c>=Bc>e  g>(ec)>e | g>ab>a g>fe>d | c>de>f g>ab>a | (3gag (3fed (3cdc (3BAG |
+F>EF>A c>Af>e  | (3ded B>d c>AF>A | (3BdB G>B (3AcA F>A | (3GAG E>G F3/ z/ :|
+X: 6
+T: Standing Abbey, The
+Z: ceolachan
+S: https://thesession.org/tunes/8342#setting30502
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Gmaj
+|: D2 |{A/}G>FG>B d>Bg>f | (3efe c>e d>BG>B | (3cec A>c (3BdB G>A | F>Ad>^c e>d=c>A |
+G>FG>B d>Bg>f | (3efe c>e d>BG>B | (3cec A>c (3BdB G>B | (3ABA F>A G3/ z/ :|
+|: B>c |{e/}d>^cd>f a>fd>f | a>bc'>b a>gf>e | d>ef>g a>bc'>b | (3aba (3gfe (3ded (3cBA |
+G>FG>B d>Bg>f | (3efe c>e d>BG>B | (3cec A>c (3BdB G>B | (3ABA F>A G3/ z/ :|

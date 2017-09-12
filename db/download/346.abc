@@ -1,0 +1,111 @@
+X: 1
+T: Music For A Found Harmonium
+Z: Will Harmon
+S: https://thesession.org/tunes/346#setting346
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+DE|:FDGD FDDD|FDGD FDDD|FDGD FDDD|EDCD FDDD:|
+|:EDCD EDCD|FDCD FDCD|GDED CDGD|1 FDDD D2 DD:|2 FDDD D2 D=F||
+K: Cmaj
+|:cFEF {EF}GFEF|1 cFEF EE2 F:|2 cFEF EE2 D||
+K: Fmaj
+|BFDF GFDF|BFDF GFDF|BFEF GEEG|BFEF GEEG|
+|^cGEG cGGG|^cGEG cGGG|^cGEG cGGG|^cGEG cGGG|
+K: Dmaj
+|:FDGD FDDD|FDGD FDDD|FDGD FDDD|EDCD FDDD:|
+|:EDCD EDCD|FD=CD FDCD|GDED CDED|1 FDDD D2 DD:|2 FDDD D4||
+X: 2
+T: Music For A Found Harmonium
+Z: philmoz
+S: https://thesession.org/tunes/346#setting13148
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+|:[FD]D[DG]D [DF]DDD|[FD]D[DG]D [DF]DDD|[FD]D[DG]D [DF]DDD|"A"EDCD "D"[DF]DDD:|!
+X: 3
+T: Music For A Found Harmonium
+Z: bogman
+S: https://thesession.org/tunes/346#setting13149
+R: reel
+M: 4/4
+L: 1/8
+K: Amaj
+AB|:cAdA cAAA|cAdA cAAA|cAdA cAAA|BAGA cAAA:||:BAGA BAGA|cAGA cAGA|dABA GAdA|1 cAAA A2 AA:|2 cAAA A2 A=c|||:gcBc {Bc}dcBc|1 gcBc BB2 c:|2 gcBc BB2 A|||fcAc dcAc|fcAc dcAc|fcBc dBBd|fcBc dBBd||^gdBd gddd|^gdBd gddd|^gdBd gddd|^gdBd gddd||:cAdA cAAA|cAdA cAAA|cAdA cAAA|BAGA cAAA:||:BAGA BAGA|cA=GA cAGA|dABA GABA|1 cAAA A2 AA:|2 cAAA A4||
+X: 4
+T: Music For A Found Harmonium
+Z: JACKB
+S: https://thesession.org/tunes/346#setting27169
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+GA|:BGcG BGGG|BGcG BGGG|BGcG BGGG|AGFG BGGG:|
+|:AGFG AGFG|BGFG BGFG|cGAG FGcG|1 BGGG G2 GG:|2 BGGG G2 G=B||
+K:Fmaj
+|:fBAB {AB}cBAB|1 fBAB AA2 B:|2 fBAB AA2 G||
+K:Bmaj
+|eBGB cBGB|eBGB cBGB|eBAB cAAc|eBAB cAAc|
+|^fcAc fccc|^fcAc fccc|^fcAc fccc|^fcAc fccc|
+K:Gmaj
+|:BGcG BGGG|BGcG BGGG|BGcG BGGG|AGFG BGGG:|
+|:AGFG AGFG|BG=FG BGFG|cGAG FGAG|1 BGGG G2 GG:|2 BGGG G4||
+X: 5
+T: Music For A Found Harmonium
+Z: JACKB
+S: https://thesession.org/tunes/346#setting27172
+R: reel
+M: 4/4
+L: 1/8
+K: Cmaj
+CD|:ECFC EC C2|ECFC EC C2|ECFC EC C2|DCB,C EC C2|
+ECFC EC C2|ECFC EC C2|ECFC EC C2|DCB,C EC C2||
+|:DCB,C DCB,C|ECB,C ECB,C|FCDC B,CFC|EC C2 C2 C2|
+DCB,C DCB,C|ECB,C ECB,C|FCDC B,CFC|EC C2 C2 C=E||
+|:_B_EDE FEDE| BEDE FE E2|_B_EDE FE E2|BEDE DE E2|
+_B_EDE FEDE| BEDE FE E2|_B_EDE FE E2|BEDE DE E2||
+|_A_ECE FE E2|AECE FE E2|_A_EDE FDDF|AEDE FDDF|
+|=BFDF =B,F F2|BFDF BF F2|^BFDF =B,F F2|BFDF B,F F2|
+=BFDF =B,F F2|BFDF BF F2|^BFDF =B,F F2|BFDF B,F F2|
+|:ECFC EC C2|ECFC EC C2|ECFC EC C2|DCB,C EC C2:|
+|:DCB,C DCB,C|EC_B,C ECB,C|FCA,C FCB,C|1 ECCC C2 C2:|2 ECCC C4||
+X: 6
+T: Music For A Found Harmonium
+Z: JACKB
+S: https://thesession.org/tunes/346#setting27173
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+DE|:FDGD FD D2|FDGD FD D2|FDGD FD D2|EDCD FD D2|
+FDGD FD D2|FDGD FD D2|FDGD FD D2|EDCD FD D2||
+|:EDCD EDCD|FDCD FDCD|GDED CDGD|FD D2 D2 D2|
+EDCD EDCD|FDCD FDCD|GDED CDGD|FD D2 D2 D=F||
+|:_c_FEF GFEF| cFEF GF F2|_c_FEF GF F2|cFEF EF F2|
+_c_FEF GFEF| cFEF GF F2|_c_FEF GF F2|cFEF EF F2||
+|_B_FDF GF F2|BFDF GF F2|_B_FEF GEEG|BFEF GEEG|
+|=cGEG =CG G2|cGEG cG G2|^cGEG =CG G2|cGEG CG G2|
+=cGEG =CG G2|cGEG cG G2|^cGEG =CG G2|cGEG CG G2|
+|:FDGD FD D2|FDGD FD D2|FDGD FD D2|EDCD FD D2:|
+|:EDCD EDCD|FD_CD FDCD|GDB,D GDCD|1 FDDD D2 D2:|2 FDDD D4||
+X: 7
+T: Music For A Found Harmonium
+Z: JACKB
+S: https://thesession.org/tunes/346#setting27174
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+GA|:BGcG BG G2|BGcG BG G2|BGcG BG G2|AGFG BG G2|
+BGcG BG G2|BGcG BG G2|BGcG BG G2|AGFG BG G2||
+|:AGFG AGFG|BGFG BGFG|cGAG FGcG|BG G2 G2 G2|
+AGFG AGFG|BGFG BGFG|cGAG FGcG|BG G2 G2 G=B||
+|:_f_BAB cBAB| fBAB cB B2|_f_BAB cB B2|fBAB AB B2|
+_f_BAB cBAB| fBAB cB B2|_f_BAB cB B2|fBAB AB B2||
+|_e_BGB cB B2|eBGB cB B2|_e_BAB cAAc|eBAB cAAc|
+|=fcAc =Fc c2|fcAc fc c2|^fcAc =Fc c2|fcAc Fc c2|
+=fcAc =Fc c2|fcAc fc c2|^fcAc =Fc c2|fcAc Fc c2|
+|:BGcG BG G2|BGcG BG G2|BGcG BG G2|AGFG BG G2:|
+|:AGFG AGFG|BG_FG BGFG|cGEG cGFG|1 BGGG G2 G2:|2 BGGG G4||

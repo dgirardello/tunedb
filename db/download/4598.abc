@@ -1,0 +1,24 @@
+X: 1
+T: Half Gate, The
+Z: Jason G
+S: https://thesession.org/tunes/4598#setting4598
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+|: ~G3 DGB | dBe dBG | ~A3 EAB | cAF DFA |
+~G3 DGB | dBe dBG | c z c dcA |1 AGF G z D :|2 AGF GBd ||
+|: ~g3 fga | gdB GAB | A z a abg | fd^c dfa |
+~g3 fga | gdB GAB | c z c dcA |1 AGF GBd :|2 AGF G z D ||
+X: 2
+T: Half Gate, The
+Z: JACKB
+S: https://thesession.org/tunes/4598#setting26877
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+|: G3 DGB | dBe dBG | A3 EAB | cAF DFA |
+G3 D3 | dBe dBG | c3 dcA |1 AGF G2D :|2 AGF GBd ||
+|: g3 fga | gdB GAB | A2a abg | fd^c dfa |
+g3 fga | gdB GAB | c3 dcA |1 AGF GBd :|2 AGF G2D ||

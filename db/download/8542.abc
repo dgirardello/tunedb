@@ -1,0 +1,60 @@
+X: 1
+T: Knockawhinna, The
+Z: jakep
+S: https://thesession.org/tunes/8542#setting8542
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+DGF G2A | BdG ABc | dgf d2^c | ded cAF |
+DGF G2A | BdG ABc | dgf ded |1 cAF G2E :|2 cAF G2^G |]
+K: Dmaj
+AFA d2e | faf gec | d2f ecA | GFG AFG |
+AFA d2e | faf gec | a2a gec |1 edc d2B :|2 edc d^c=c |]
+K: Gmaj
+BAB GBd | gfg ece | dBd cAc | BGB AFD |
+d^cd GBd | gfa gfa | gdB cAF |1 AGF G2A :|2 AGF G2E |]
+X: 2
+T: Knockawhinna, The
+Z: ceolachan
+S: https://thesession.org/tunes/8542#setting30111
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+|: F |DGF G2 A | BdG ABc | dgf d>ed | ded cAF |
+D2 G G2 A | B/c/dG AA/B/c | dgf d>ed | cAF G2 :|
+K: D Major
+|: F/G/ |AFA d2 e | faf g2 e | dfd ecA | GBG AE/F/G |
+AF/G/A d2 e | f/g/af gec | af/g/a gec | Adc d2 :|
+K: G Major
+|: c |B/c/dB GBd | g2 g ece | dB/c/d cAc | BG/A/B AFD |
+d^cd GB/=c/d | gba gfa | gdB cAd | AGF G2 :|
+X: 3
+T: Knockawhinna, The
+Z: ceolachan
+S: https://thesession.org/tunes/8542#setting30121
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+|: E |DEF G2 A | BAG ABc | dge ded | ded cAF |
+DEF G2 A | BAG ABc | d^cd =cAF |[1 AGF G2 :|[2 AGF GFG ||
+|: AFA d2 e | faf gfe | d2 e dcA | GFG AFG |
+AFA d2 e | faf g3 | a2 a ge^c |[1 ed^c  ddd :|[2 ed^c dc=c ||
+|: BAB GBd | g2 g ege | ddB cBA | BAG FED |
+BAB GBd | g2 a g2 a | gec edB |[1 AGF GFG :|[2 AGF G2 |]
+X: 4
+T: Knockawhinna, The
+Z: ceolachan
+S: https://thesession.org/tunes/8542#setting30122
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+|: E |DEF G2 A | BAG ABc | dge ded | ded cAF |
+DEF G2 A | BAG AA/B/c | d^cd =cAF | AGF G2 :|
+|: F/G/ |AF/G/A d2 e | faf gfe | d2 f e^cA | GE/F/G AFD |
+AFA d2 e | f2 f ge/f/g | a2 a ge^c |[1 ed^c  d2 :|[2 ed^c dc=c ||
+|: B^AB GBd | g2 g ece | d^cd =cAc | BGB AFD |
+B2 B GB/c/d | gfa g2 a | gdB cAF |[1 AGF G2 A :|[2 AGF G2 |]

@@ -1,0 +1,24 @@
+X: 1
+T: Duck River
+Z: gentzen
+S: https://thesession.org/tunes/7066#setting7066
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+A,B,|D2 DD ED DD|F2 A2 A2 Ad|B2 Ad B2 AG |F2 FF ED B,A,|
+A,B, DD ED DD|F2 A2 A2 Ad|B2 Ad B2 AG|FD EC D2:|
+fa aa a2 ag|fd dd d2 dd|b2 bb b2 ba|ge ee e2 ee|
+fa aa a2 ag|fd dd d2 AB|d2 AB d2 AG|FD EC D2 D2|
+X: 2
+T: Duck River
+Z: DonaldK
+S: https://thesession.org/tunes/7066#setting21829
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+A,2D2 DFED|FA2B A3c|B2Ac B2A2|F2E2 DB,B,D|
+A,2D2 DFED|FA2B A2AB|d2AB dBAG|FDEC D4:|
+{fg}a4 a2ag|fd2e d2B2|{ga}b4 b2ba|ged2 e4|
+{fg}a4 a2ag|fd2e d2AB|d2AB dBAG|FDEC D4:|

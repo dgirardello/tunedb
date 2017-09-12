@@ -1,0 +1,61 @@
+X: 1
+T: Sporting Nell
+Z: Kuddel
+S: https://thesession.org/tunes/1781#setting1781
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+AD (3FED A2 dB|ABAG EFGB|AD (3FED A2 dB|ABGE EDDB|
+AD (3FED A2 dB|ABAG EFGB|AD (3FED A2 dB|~A2 GE ED D2||
+cdec d3 B| cdef gedB|cdec d2 dB|cAGE ED D2|
+cdec d3 B| cdef gedf|eaag efed|cAGE ED D2||
+X: 2
+T: Sporting Nell
+Z: joe fidkid
+S: https://thesession.org/tunes/1781#setting15224
+R: reel
+M: 4/4
+L: 1/8
+K: Ddor
+|:AD{F}ED A2 dc|AcGE {F}ED (3EFG|AD{F}ED A2 dc|1 AcGE {F}ED D2:|2 AcGE {F}EDEG|[|~c2 ec gcec|~c2 ec AddB|~c2 ec gcec|AcGE {F}EDEG|~c2 ec gcec|~c2 ec Adde|f3 d efed|cAAG Addc|] [D4A,4] z4|
+X: 3
+T: Sporting Nell
+Z: Dr. Dow
+S: https://thesession.org/tunes/1781#setting15225
+R: reel
+M: 4/4
+L: 1/8
+K: Dmix
+AD~D2 A2dc|AcAG EG~G2|AD~D2 A2dc|AcGE ED~D2:|^cdec ~d3A|(3B^cd ef gedA|^cdec deed|^cAGE ED~D2|^cdec ~d3A|(3B^cd ef gedg|eaag eged|^cAGE ED~D2||
+X: 4
+T: Sporting Nell
+Z: Manu Novo
+S: https://thesession.org/tunes/1781#setting15226
+R: reel
+M: 4/4
+L: 1/8
+K: Dmix
+AD (3EFG AB cd|dccA GED2|AD (3EFG AB cA|1GEED AFD2:|2GEED FAd2||dedc A2 (3Bcd|edcA G2 Ad|dedc ABcA|GEED FAd2|dedc A2 (3Bcd|edcA G2 Adde|f2 ed|cAGE EDAF||AD (3EFG AB cA|dBcA GED2|AD (3EFG AB cA|1GEED AFD2:|2GEED FAd2||
+X: 5
+T: Sporting Nell
+Z: Kevin Rietmann
+S: https://thesession.org/tunes/1781#setting24857
+R: reel
+M: 4/4
+L: 1/8
+K: Dmix
+|:A ~D3 A4- | A2AG EFGE | A ~D3 A4 | ABAG E2D2 :|
+|:efge defg | a2ag e2d2 | efge d4- | d2 AG E2D2 :|
+X: 6
+T: Sporting Nell
+Z: JACKB
+S: https://thesession.org/tunes/1781#setting29167
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+|:dB|AD (3FED A2 dB|ABAG EFGB|AD D2 A2 dB|ABGE EDDB|
+ADFD A2 dB|ABAG EFGB|AD (3FED A2 dB|ABGE EDDd||
+|: ^cdec d3A|(3B^cd ef gedA|^cdec deed|^cAGE EDDd|
+^cdec d3A|(3B^cd ef gedg|eaag eged|^cAGE ED D2||

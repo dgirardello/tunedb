@@ -1,0 +1,50 @@
+X: 1
+T: Saint Lawrence
+Z: fidicen
+S: https://thesession.org/tunes/1081#setting1081
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+ABA FAd|f2d A2d|c2B G2B|B2A F2G|
+ABA FAd|f2d A2d|cec ABc|d3 d3:|
+|:a2g B2g|g2f A2d|cde ABc|dcB A2f|
+a2g B2g|g2f A2d|d2c cBc|d3 d3:||
+X: 2
+T: Saint Lawrence
+Z: ceolachan
+S: https://thesession.org/tunes/1081#setting14314
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+B |ABA FAd | f2 d A2 d | c2 B G2 B | B2 A F2 G |
+ABA F>Ad | f2 d A2 d | cde ABc | d3 d2 B |
+ABA FAd | f2 d A2 d | c2 B G2 B | BcB F2 G |
+A>BA FAd | f2 d A2 d | c2 e B2 c | d3 d2 ||
+|: f |a2 g B3 | g2 f A3 | d2 c cBc | edB A2 f |
+a2 g B^AB | g2 f A3 | d2 c cBc | edd d2 :|
+X: 3
+T: Saint Lawrence
+Z: ceolachan
+S: https://thesession.org/tunes/1081#setting22003
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+|: B |ABA FAd | f2 d A2 d | c2 B GFG | B2 A F2 G |
+ABA FAd | f2 d A2 d | c2 B GFG | d3 d2 :|
+|: f |a2 g B2 g | g2 f A2 d | cec ABc | dcB A2 f |
+a2 g B2 g | g2 f A2 d | cec ABc | d3 d2 :|
+X: 4
+T: Saint Lawrence
+Z: ceolachan
+S: https://thesession.org/tunes/1081#setting22004
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+|: F/G/ |ABA FGA | f2 d A3 | cBA GFG | B2 A F2 G |
+AA/A/A FGA | f2 d AB/c/d | cBc ABc | d3- d2 :|
+|: f/g/ |a2 g B^AB | g2 f A^GA | c^Bc A2 c | dcB A2 f |
+a2 g B^AB | g2 f A3 | cBc ABc | d3- d2 :|

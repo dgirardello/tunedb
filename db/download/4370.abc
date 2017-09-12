@@ -1,0 +1,69 @@
+X: 1
+T: Flying To The Fleadh
+Z: RogueFiddler
+S: https://thesession.org/tunes/4370#setting4370
+R: slip jig
+M: 9/8
+L: 1/8
+K: Bmin
+Bc|:~d3 Bcd cBA|~B3 c2d e2g|~f3 efg fed|~e3 a2e dce|
+~d3 B2d cBA|~B3 c2d e2g|~f3 efg fed|1 ede a2e dBc:|2 ~e3 a2e d2e||
+|:~f3 efa fed|~e3 a2e dcA|~B3 c2d e2g|~f3 c2A cde|
+~f3 efa fed|~e3 a2e dcA|B2d c2e d2f|1 edc aec d2e:|2 edc aec B2c||
+|:~d3 ~c3 dcB|~c3 ~B3 cde|~d3 ~c3 def|edc aec B2c|
+~d3 ~c3 dcB|~c3 ~B3 cBA|B2d c2e def|edc aec B2c:|
+X: 2
+T: Flying To The Fleadh
+Z: RogueFiddler
+S: https://thesession.org/tunes/4370#setting17046
+R: slip jig
+M: 9/8
+L: 1/8
+K: Bmin
+|:~f3 efa fed|~e3 a2e dcA|~B3 c2d e2g|~f3 c2A cde|~f3 efa fed|~e3 a2e dcA|BFd cFe dGf|1 edc aec d2e:|2 edc aec B2c|||:~d c3 dcB|~c B3 cde|~d c3 def|edc aec B2c|~d c3 dcB|~c B3 cBA|BFd cFe def|edc aec B2c:|
+X: 3
+T: Flying To The Fleadh
+Z: RogueFiddler
+S: https://thesession.org/tunes/4370#setting17047
+R: slip jig
+M: 9/8
+L: 1/8
+K: Bmin
+|:~f3 efa fed|~e3 a2e dcA|~B3 c2d e2g|~f3 c2A cde|~f3 efa fed|~e3 a2e dcA|BFd cFe dGf|1 edc aec d2e:|2 edc aec B2c|||:~d3 c3 dcB|~c3 B3 cde|~d3 c3 def|edc aec B2c|~d3 c3 dcB|~c3 B3 cBA|BFd cFe def|edc aec B2c:|
+X: 4
+T: Flying To The Fleadh
+Z: Pierre LAÏLY
+S: https://thesession.org/tunes/4370#setting17048
+R: slip jig
+M: 9/8
+L: 1/8
+K: Bmin
+ded Bcd cBA|~B3 c2d efg|~f3 efg fed|~e3 aed cde|ded Bcd cBA|~B3 c2d efg|~f3 efg fed|1 edc aec B2c:|2 edc aec d2e|||:~f3 efa fed|~e3 aed cBA|~B3 c2d efg|~f3 cAF Ace|~f3 efa fed|~e3 aed cBA|B2d c2e d2f|1 edc aec d2e:|2 edc aec B2c|||:dFF cFF dcB|cEE BEE cde|dFF cFF def|edc aec B2c|dFF cFF dcB|cEE BEE cBA|B2d c2e d2f|edc aec B2c:|
+X: 5
+T: Flying To The Fleadh
+Z: JACKB
+S: https://thesession.org/tunes/4370#setting23342
+R: slip jig
+M: 9/8
+L: 1/8
+K: Bmin
+ded Bcd cBA|B3 cAd efg|f3 efg fed|e3 aed cde|
+ded Bcd cBA|B3 cAd efg|f3 efg fed|1 edc aec B2c:|2 edc aec d2e||
+|:f3 efa fed|e3 aed cBA|B3 cAd efg|f3 cAF Ace|
+f3 efa fed|e3 aed cBA|BFd cAe dAf|1 edc aec d2e:|2 edc aec B2c||
+|:dFF cFF dcB|cEE BEE cde|dFF cFF def|edc aec B2c|
+dFF cFF dcB|cEE BEE cBA|BFd cAe dAf|edc aec B2c:||
+X: 6
+T: Flying To The Fleadh
+Z: jdicarlo
+S: https://thesession.org/tunes/4370#setting24767
+R: slip jig
+M: 9/8
+L: 1/8
+K: Bmin
+~d3 Bcd cBA | ~B3 cFd efg | ~f3 efg fed | ~e3 aed cde |
+ded Bcd cBA | ~B3 cFd efg | ~f3 efg fed |1 edc aec ~B3 :|2 edc aec d2e ||
+|: fdA dfa fed | ~e3 aed cBA | ~B3 cFd efg | ~f3 cAF Ace |
+fdA dfa fed | ~e3 aed cBA | BFd cFe dGf |1 edc aec d2e :|2 edc aec B2c ||
+|: dFF cFF dcB | cEE BEE cde | dFF cFF def | edc aec B2c |
+dFF cFF dcB | cEE BEE cBA | BFd cFe dGf | edc aec ~B3 ||

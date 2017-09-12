@@ -1,0 +1,47 @@
+X: 1
+T: Morning Lark, The
+Z: Bannerman
+S: https://thesession.org/tunes/2060#setting2060
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+AFD D2A,|DEF Adc|BGG DGG|B2B BdB|
+AFD D2A,|DEF A3|def gfe|fd^c d2B:|
+|:ABd fdd|add fdB|Add fed|edB BAF|
+Add fdd|add fdd|faf ede|fd^c d2B:|
+X: 2
+T: Morning Lark, The
+Z: slainte
+S: https://thesession.org/tunes/2060#setting15457
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+|:B|AFD D2A,|DEF Adc|BGG dGG|BAG BdB|AFD D2A,|DEF ABc|def gfe|fdc d2:||:B|Add fdd|add fdB|Add fdd|edB BdB|Add fdd|add fdd|~f3 ede|fdc d2:|
+X: 3
+T: Morning Lark, The
+Z: Mars
+S: https://thesession.org/tunes/2060#setting28979
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+AFD D3 | DEF Ad=c | BGG DGG | BGG BdB |
+AFD D3 | DEF A2B | def gfe | fdc dcB :|
+|: Add fdd | add fdd | Add fdd | edB BAB |
+Add fdd | add fed | ~f3 ede |1 fdc dcB :|2 fdc d3 |]
+X: 4
+T: Morning Lark, The
+Z: ceolachan
+S: https://thesession.org/tunes/2060#setting29875
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+d2 B |:AFA DFE | DEF A2 d | BGG dGG | BGG BAd |
+AF/G/A DFE | DEF A2 B | def gfe | fdB BdB :|
+A2 d fd/e/f | ede fdB | Add fdd | edB BdB |
+Add fdf |ede fdd | a2 f g2 e | fdB BdB |
+Add fdd | edd fdd | Add fdd | edB BdB |
+A2 d fdf |ede fdd | f/g/ a2 g2 e | fdB BdB |]

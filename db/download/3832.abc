@@ -1,0 +1,44 @@
+X: 1
+T: Kirkhill
+Z: Gard
+S: https://thesession.org/tunes/3832#setting3832
+R: jig
+M: 6/8
+L: 1/8
+K: Amaj
+|:e|c<AA (A2e)|(f<ae) f>ga|c>AA (A2c)|(c<dA) (B2e)|
+c>AA (A2e)|(f<ae) f>ga|a>ec (a2B)|(c<eA) A2 :|
+|: e|f>ga (a2e)|(f<ae) f>ga|a>ec (A2c)|(B<cA) (B2e)|
+[1 f>ga (a2e)|(f<ae) f>ga|A>ec (a2B)|(c<eA) A2 :|
+[2 c>AA (A2e)|(f<ae) f>ga|a>ec (a2B)|(c<eA) A2 ||
+|:e|A>AA (c2d)|c>dB A>ce|a>ec (A2c)|(B<cA) (B2e)|
+A>AA (c2d)|c>dB A>ce|a>ec (a2B)|(c<eA) A2 :|
+e|f>ea (f2e)|a>ec A>Bc|a>ec (B2c)|(B<cA) B>ce|
+f>ea (f2e)|a>ec A>Bc|a>ec (a2B)|(c<eA) A>ce|
+f>ea (f2e)|a>ec A>Bc|a>ec (A2c)|(B<cA) B2 e|
+c>dB (A2e)|f>ea A>Bc|a>ec (a2B)|(c<eA) A3 ||
+X: 2
+T: Kirkhill
+Z: JACKB
+S: https://thesession.org/tunes/3832#setting16760
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+|:d|B2G G2d|e<gd e>fg|B2G G2B|A<BG A2d|B2G G2d|e<gd e>fg|g>dB g2A|B<dG G2:|||:d|e>fg g2d|e<gd e>fg|g>dB G2B|A<BG A2d|e>fg g2d|e<gd e>fg|g>dB g2A|B<dG G2:|||:d|G3 B2c|B>cA G>Bd|g>dB G2B|A<BG A2d|G3 B2c|B>cA G>Bd|g>dB g2A |B<dG G2:|||:Bd|e>dg e2d|g>dB G>Bd|g>dB G2B|A<BG A>Bd|e>dg e2d|g>dB G>Bd|g>dB g2A|B<dG G2:||
+X: 3
+T: Kirkhill
+Z: JACKB
+S: https://thesession.org/tunes/3832#setting30409
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+|:A|F2D D2A|B<dA B>cd|F2D D2F|E<FD E2A|
+F2D D2A|B<dA B>cd|d>AF d2E|F<AD D2:||
+|:A|B>cd d2A|B<dA B>cd|d>AF D2F|E<FD E2A|
+B>cd d2A|B<dA B>cd|d>AF d2E|F<AD D2:||
+|:A|D3 F2G|F>GE D>FA|d>AF D2F|E<FD E2A|
+D3 F2G|F>GE D>FA|d>AF d2E |F<AD D2:||
+|:FA|B>Ad B2A|d>AF D>FA|d>AF D2F|E<FD E>FA|
+B>Ad B2A|d>AF D>FA|d>AF d2E|F<AD D2:||

@@ -1,0 +1,24 @@
+X: 1
+T: Loch Ruan
+Z: Gard
+S: https://thesession.org/tunes/3657#setting3657
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Dmaj
+(A>B)|d2 (Aa) f2 (ed)|e2 (fg) B2 (e>d)|c2 (BA) g2 (ec)|d2 (ef) A2 (A>B)|
+d2 (Aa) f2 (ed)|e2 (fg) B2 (e>d)|c2 (BA) g2 (ec)|d2 d2 d2 f>g|
+a2 (fd) Aa fg|e2 (fg) B2 (e>f)|g2 (ec) Ag ec|d2 (ef) A2 (f>g)|
+a2 (fd) Aa fd|e2 (fg) B2 (e>d)|c2 (BA) g2 (ec)|d2 d2 d2 z2|
+X: 2
+T: Loch Ruan
+Z: JACKB
+S: https://thesession.org/tunes/3657#setting30539
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Gmaj
+(D>E)|G2 (Dd) B2 (AG)|A2 (Bc) E2 (A>G)|F2 (ED) c2 (AF)|G2 (AB) D2 (D>E)|
+G2 (Dd) B2 (AG)|A2 (Bc) E2 (A>G)|F2 (ED) c2 (AF)|G2 G2 G2 B>c|
+d2 (BG) Dd BG|A2 (Bc) E2 (A>B)|c2 (AF) Dc AF|G2 (AB) D2 (B>c)|
+d2 (BG) Dd BG|A2 (Bc) E2 (A>G)|F2 (ED) c2 (AF)|G2 G2 G2 z2|

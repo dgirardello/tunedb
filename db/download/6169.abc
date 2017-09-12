@@ -1,0 +1,23 @@
+X: 1
+T: Limerick, The
+Z: Kenny
+S: https://thesession.org/tunes/6169#setting6169
+R: slide
+M: 12/8
+L: 1/8
+K: Gmaj
+DEF GAB e2 ^c A2 G | FAF EFE DFA d2 A |
+DEF GAB e2 ^c A2 G | FGF DEF G3 G3 :|
+BcB B2 A BcB B2 A | G3 BAG A2 G E2 D |
+BcB B2 A BcB B3 | GFE FED B3 B3 |
+X: 2
+T: Limerick, The
+Z: Daniel Parker
+S: https://thesession.org/tunes/6169#setting30828
+R: slide
+M: 12/8
+L: 1/8
+K: Gmaj
+|:DEF GAB e2^c A2G|FAF EAE DFA d2A|DEF GAB e2^c A2G|FAF DEF G3 G3:|
+BdB {Bc}B2A BdB {Bc}B2A|~G3 BAG A2G E2D|BcB {Bc}B2A BcB {Bc}B2A|GFE FED B3 B3|
+DEF GAB e2^c A2G|FAF EAE DFA d2A|DEF GAB e2^c A2g|FAF DEF G3 G3|

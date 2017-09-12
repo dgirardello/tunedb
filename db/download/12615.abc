@@ -1,0 +1,62 @@
+X: 1
+T: Zelda
+Z: Mix O'Lydian
+S: https://thesession.org/tunes/12615#setting21222
+R: jig
+M: 6/8
+L: 1/8
+K: Emin
+B2 E B2 E | cBA B2 E | BAG F2 A | AGF G2 E |
+B2 E B2 E | cBA B2 E | BAG F2 A | AGF E2 z ||
+EFG B,2 B, | EFG C2 C | EFG F2 F | AGF G2 E |
+EFG B,2 B, | EFG C2 C | EFG F2 F | AGF E3 ||
+X: 2
+T: Zelda
+Z: Mix O'Lydian
+S: https://thesession.org/tunes/12615#setting21223
+R: jig
+M: 6/8
+L: 1/8
+K: Amin
+e2 A e2 A | fed e2 A | edc B2 d | dcB c2 A |
+e2 A e2 A | fed e2 A | edc B2 d | dcB A2 z ||
+ABc E2 E | ABc F2 F | ABc B2 B | dcB c2 A |
+ABc E2 E | ABc F2 F | ABc B2 B | dcB A3 ||
+X: 3
+T: Zelda
+Z: Robleo
+S: https://thesession.org/tunes/12615#setting21228
+R: jig
+M: 6/8
+L: 1/8
+K: Amin
+|: e2 a e2 c | def e2 e | edc B2 B | Bcd c2 A |
+e2 a e2 c | def e2 e | edc B2 B | BcB A3 :|
+ABc E2 E | ABc F2 F | ABc B2 B | dcB c2 A |
+ABc E2 E | ABc F2 F | ABc B2 B | dcB A3 |
+ABc e2 e | ABc f2 f | edc B2 B | Bcd c2 A |
+ABc e2 e | ABc f2 f | edc B2 B | BcB A3 |
+X: 4
+T: Zelda
+Z: swisspiper
+S: https://thesession.org/tunes/12615#setting21230
+R: jig
+M: 6/8
+L: 1/8
+K: Bmin
+"Bm"f2B f2B |gfe "D"f3 |fed "F#m"c2c|cde "Bm"d2B|
+"Bm"f2B f2B |gfe "D"f3 |fed "F#m"c2c|cdc "Bm"B3 :|
+|: Bcd "Bm"F2F |Bcd "G"G2G|Bcd "A"c2c |edc "Bm"d2B |
+Bcd "Bm"F2F |Bcd "G"G2G|Bcd "A"c2c |edc "Bm"B3 :|
+X: 5
+T: Zelda
+Z: banjouke
+S: https://thesession.org/tunes/12615#setting21284
+R: jig
+M: 6/8
+L: 1/8
+K: Amin
+"Am" e2 A e2 A |"Dm" fed "Am" e2 A |"C" edc "Em" B2 d |"G" dcB "Am" c2 A |
+"Am" e2 A e2 A |"Dm" fed "Am" e2 A |"C" edc "Em" B2 d | "G" dcB "Am" A2 z ||
+"Dm" ABc "Am" E2 E |"Dm" ABc "G7" F2 F |"Dm" ABc "Em" B2 B |"G" dcB "Am" c2 A |
+"Dm" ABc "Am" E2 E |"Dm" ABc "G7" F2 F |"Dm" ABc "Em" B2 B |"G"dcB "Am" A3 ||

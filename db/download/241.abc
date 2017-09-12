@@ -1,0 +1,103 @@
+X: 1
+T: Old Gray Goose, The
+Z: b.maloney
+S: https://thesession.org/tunes/241#setting241
+R: jig
+M: 6/8
+L: 1/8
+K: Emin
+(E/F/)|GBG FAF|GEE E2F|DFA dAG|FDD DEF|
+MGFG AGA|BAB gfg|edB ({c}B)AF GEE E2:|
+|:F|G2G dBG|GA (B/c/) dBG|A2A ecA|A(Bc/d/) ecA|
+GAG dBG|egf ({a}g)fg|edB MBAF|GEE E2:|
+|:d|efe edB|def g2e|fdd add|fag fed|
+gfg fef|def ({a}g)fg|edB MBAF|GEE E2:|
+|:c|BGG AFF|GEE E2c|BGG dAG|FDD D2c|
+BGG AGF|GEE ({a}g)fg|edB MBAF|GEE E2:|
+|:f|gbg faf|gee e2f|gbg fag|fdd def|
+gbg faf|egf ({a}g)fg|edB MBAF|GEE E2:|
+|:f|gdc BcA|GEE E2f|gdB dAG|FDD DEF|
+G3 ({B}A)GA|Bcb ({a}g)fg|edB MBAF|EGG G2:|
+X: 2
+T: Old Gray Goose, The
+Z: sifudave54
+S: https://thesession.org/tunes/241#setting12948
+R: jig
+M: 6/8
+L: 1/8
+K: Emin
+|: B | efe fdB | def g2 a | fdd add | fag fed | gfg efe | dfe ggg | edB BAF | GDD D2 :|
+X: 3
+T: Old Gray Goose, The
+Z: walterbracht
+S: https://thesession.org/tunes/241#setting12949
+R: jig
+M: 6/8
+L: 1/8
+K: Emin
+EF|GBG FAF|GEE EFE|vD/vE/FA dAG|{FG}FEF DEF|~G3 ~A3|~B3 gfg|{ef}edB {Bc}BAF |GEE E2:||:D|~G3 dGe|dGe dBG|GAA (^c/B/)Ae|Af A^g Aa|~G3 dBA|GdB Ggf|{ef}edB {Bc}BAF |GEE E2:||:A|Bee {ef}edB|def gfe|{fg}fdd add|f/g/ag fed|~e3 edB|def Ggf|{ef}edB {Bc}BAF |GEE E2:||:c|BGB AFA|GBE E2c|BGB ~A2G|FA EA Dc|BGB AGF|GFE gfg|{ef}edB {Bc}BAF |GEE E2:||:f|gfg aga|bd'e' e2f|gbd' {ab}a2g|{fg}fef def|Ggg eff|def Bgf|{ef}edB {Bc}BAF |GEE E2:||:f|geB {Bc}BAB|GB FB Ef|gdB ~A2G|FEF D2f||geB {Bc}BAB|GFE gfg|{ef}edB {Bc}BAF |GEE E2:|
+X: 4
+T: Old Gray Goose, The
+Z: schriltz
+S: https://thesession.org/tunes/241#setting12950
+R: jig
+M: 6/8
+L: 1/8
+K: Emin
+F|GBG FAF|GEE EFE|DFA dAG|FDD DEF|GFG AGA|BAB gfg|edB BAF GEE E2:||:D|GFG dBG|GFG dBG|A2A e^cA|AEA e^cA|GFG dBG|GBd gfg|edB BAF|GEE E2:||:d|efe edB|def gfe|fdd add|fag fed|efe edB|def gfg|edB BAF|GEE E2:||:c|BGG AFF|GEE E2c|BGG AdA|FDD D2c|BGG AFF|GEE gfg|edB BAF|GEE E2:||:f|gbg faf|gee e2f|gbg fag|fdd def|gbg fef|def gfe|edB BAF|GEE E2:||:f|gdB BAB|GEE Eef|gdB dAG|FDD DEF|GFG AGA|BAB gfg|edB BAF|GEE E2:|
+X: 5
+T: Old Gray Goose, The
+Z: JACKB
+S: https://thesession.org/tunes/241#setting25992
+R: jig
+M: 6/8
+L: 1/8
+K: Emin
+E/F/|GBG FAF|GEE E3|DFA dAG|FDD DEF|
+G3 AGA|BAB g3|edB BAF GEE E2:|
+|:D|GFG dBG|GFG dBG|A3 e^cA|AEA e^cA|
+G3 dBG|GBd g3|edB BAF|GEE E2:|
+|:d|efe edB|def gfe|fdd add|fag fed|
+e3 edB|def gfg|edB BAF|GEE E2:|
+|:c|BGG AFF|GEE E2c|BGG AdA|FDD D2c|
+BGG AFF|GEE g3|edB BAF|GEE E2:|
+|:f|gbg faf|gee e2f|gbg fag|fdd def|
+g3 f3|def gfe|edB BAF|GEE E2:|
+|:f|gdB BAB|GEE E2f|gdB dAG|FDD DEF|
+GFG AGA|BAB g3|edB BAF|GEE E2:|
+X: 6
+T: Old Gray Goose, The
+Z: brujamala
+S: https://thesession.org/tunes/241#setting26730
+R: jig
+M: 6/8
+L: 1/8
+K: Emin
+EF |: GBG FAF | GED EFE | DF/G/A dAG | FAF DEF|
+GFG AGA | BAB gag | edB BAF | GED E2:|
+D|: GFG dBA | GAB dBG| ABA ecA| ABA ecA |
+GFG dBd | efg gag | edB BAF |1 GED EBA :|2 GED E3 :|
+|: efe edB | def gfe| fed add | fag fed |
+| e2f edB | def gfe | fdB BAF | GED E:|
+Ac|: B3 BAF|GED EAc|ABd BAG|FAF DEF|
+G2B ABc|BAB gag|edB BAF|GED E2:|
+f |: gfg aga | bge e2f | gfg bag | faf def |
+gfe fed | edB egf | edB BAF | GED E :|
+ef |: gdB BAF | GED E2f | gdB dAG | FAF DEF |
+GFG AGA | BAB gag | edB BAF |1 GED E2f :|2 GED E3 :|
+X: 7
+T: Old Gray Goose, The
+Z: Moxhe
+S: https://thesession.org/tunes/241#setting27521
+R: jig
+M: 6/8
+L: 1/8
+K: Emin
+E|GBG FAF|GEE E2F|GBG FAG|FDD DEF|
+GFG AGA|Bde/f/ gfe|dBG AGF|GEE E2:|
+|:D|G>AB/c/ dBG|BAB dBG|A>Bc/d/ ecA|cBc/d/ ecA|
+G>AB/c/ dAd|egf/a/ gfe|dBG AGF|GEE E2:|
+|:f|gbg afa|gee e2f|gbg fag|fdd def|
+g/a/bg f/g/af|egf/a/ gfe|dBG AGF|GEE E2:|
+|:a|gdB AGF|GEE E2f|gdB ABG|FDD DEF|
+GFG AGB/c/|def gfe|dBG AGF|GEE E2:|

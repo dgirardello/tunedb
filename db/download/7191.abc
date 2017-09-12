@@ -1,0 +1,55 @@
+X: 1
+T: Busindre
+Z: gaitazampogna_32
+S: https://thesession.org/tunes/7191#setting7191
+R: reel
+M: 4/4
+L: 1/8
+K: Fdor
+|: c{a}c{B}cf cgfe | c{a}c{B}cf fgfe | dBBd fBdf | edef gccg |
+c{a}c{B}cf cgfe | c{a}c{B}cf fgfe | dBBd fBdf |1 de{d}ed edeg :|2 de{d}ed (edef/g/) ||
+|: acea ceac | egBe gBeg | dfBd fBdf | agfe defg |
+ac/c/c/c/a ceac | egBe gBeg | dfBd fBde |1 de{d}ed (edef/g/) :|2 e4- e4 ||
+X: 2
+T: Busindre
+Z: swisspiper
+S: https://thesession.org/tunes/7191#setting18736
+R: reel
+M: 4/4
+L: 1/8
+K: Edor
+|: B{g}B{A}Be Bfed | B{g}B{A}Be efed | cAAc eAce | dcde fBBf |B{g}B{A}Be Bfed | B{g}B{A}Be efed | cAAc eAce |1 cd{c}dc dcdf :|2 cd{c}dc (dcde/f/) |||: gBdg BdgB | dfAd fAdf | ceAc eAce | gfed cdef |gB/B/B/B/g BdgB | dfAd fAdf | ceAc eAcd |1 cd{c}dc (dcde/f/) :|2 d4- d4 ||
+X: 3
+T: Busindre
+Z: ssurcin
+S: https://thesession.org/tunes/7191#setting21030
+R: reel
+M: 4/4
+L: 1/8
+K: Edor
+|:~B3e Bfed|~B3e Bfed|cAAc eAce|dcde fddf|
+~B3e Bfed|~B3e Bfed|cAAc eAce|1cddc dcdf:|2cddc dcdf||
+|:~d3B ABdA|BddB ABdB|~c3B ABcd|effe dfcf|
+~d3B ABdA|BddB ABdB|~c3B ABcd|1efcf d2ec:|2efcf d2ed|]
+X: 4
+T: Busindre
+Z: Yooval
+S: https://thesession.org/tunes/7191#setting29137
+R: reel
+M: 4/4
+L: 1/8
+K: Bmin
+|B{g}B{A}Be B{g}fed | B{g}B{A}Be B{g}fed | {f}c{d}A{e}Ac {g}eA{e}ce | {g}dcde {g}fd{c}df |
+B{g}B{A}Be B{g}fed | B{g}B{A}Be B{g}fed | {f}c{d}A{e}Ac {g}eA{e}ce | {f}cd{f}dc {g}dc{g}df |
+B{g}B{A}Be B{g}fed | B{g}B{A}Be B{g}fed | {f}c{d}A{e}Ac {g}eA{e}ce | {g}dcde {g}fd{c}df |
+B{g}B{A}B{g}B eBfd | B{g}B{A}Be B{g}fed | {f}c{d}A{e}Ac {g}eA{e}ce | {f}cd{f}dc {g}dc{g}df ||
+|:d{g}d{G}dB {g}AB{g}dA|{g}Bd{c}dB {g}ABdA|c{g}c{G}cB {g}AB{g}ce|f2{g}fe f{g}fdf|
+d{g}d{G}dB {g}AB{g}dA|{g}Bd{c}dB {g}ABdA|c{g}c{G}cB {g}AB{g}ce|faef {g}d2fA:|]
+B{g}B{A}Be B{g}fed | B{g}B{A}Be B{g}fed | {f}c{d}A{e}Ac {g}eA{e}ce | {g}dcde {g}fd{c}df |
+B{g}B{A}Be B{g}fed | B{g}B{A}Be B{g}fed | {f}c{d}A{e}Ac {g}eA{e}ce | {f}cd{f}dc {g}dc{g}df |
+B{g}B{A}Be B{g}fed | B{g}B{A}Be B{g}fed | {f}c{d}A{e}Ac {g}eA{e}ce | {g}dcde {g}fd{c}df |
+B{g}B{A}B{g}B eBfd | B{g}B{A}Be B{g}fed | {f}c{d}A{e}Ac {g}eA{e}ce | {f}cd{f}dc {g}dc{g}df ||
+{af}gBdg BdgB | {g}dfAd fAdf | {g}ceA{d}c eA{d}ce | {af}gf{g}ed {g}cdef |
+{af}gBdg BdgB |{g}dfAd fAdf |{g} ceA{d}c eA{d}ce | cd{c}dc {f}dc(5Bcdef |
+{af}gBdg BdgB | {g}dfAd fAdf | {g}ceA{d}c eA{d}ce | {af}gf{g}ed {g}cdef |
+{af}gBdB gBdg |{g}fAdf AdfA |{g} eA{d}ce Acec | d{g}d{G}dc d4 ||

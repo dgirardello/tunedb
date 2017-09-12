@@ -1,0 +1,43 @@
+X: 1
+T: King, The
+Z: Kenny
+S: https://thesession.org/tunes/7514#setting7514
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+G3 AGA | Bcd efg | GFG AGA | BGE EDE |
+G3 AGA | Bcd efg | dcB AGA |1 BGG G2 D :|2 BGG GBd ||
+|: gfg e3 | edB def | gfg aga | bge e2 f |
+gfg aga | bge efg | dcB AGA |1 BGG GBd :|2 BGF G2 E ||
+|: DGG BGG | AGG BGG | efg dcB | AGA AGE |
+DGG BGG | AGG BGG | efg dcB |1 AGE G2 E :|2 AGF G3 ||
+|: efg fBB | bag fBB | eBB fBB | gfe fdB |
+efg fBB | bag fBB | efg fdB |1 egf e2 d :|2 egf edB ||
+X: 2
+T: King, The
+Z: ceolachan
+S: https://thesession.org/tunes/7514#setting18980
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+|: G2 G AGA | B^cd efg | GFG AGA | BGE E2 D |G2 G AGA | B^cd efg | dcB AGA |[1 BGE G2 D :|[2 BGE GBd |||: gfg e2 e | edB def | gfg aga | bag e2 f |gfg a2 a | bag efg | dcB AGA |1 BGE GBd :|2 AGE G2 E |||: DGG BGG | AGG BGG | efg dcB | AGA AGE |DGG BGG | AGG BGG | efg dcB |1 AGE G2 E :|2 AGE G2 B |||: efg fBB | bag fBB | eBB fBB | gfe fdB |efg fBB | bag fBB | efg fdB |1 e/f/gf e2 d :|2 e/f/gf edB |]
+X: 3
+T: King, The
+Z: ceolachan
+S: https://thesession.org/tunes/7514#setting18981
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+G2 G AGA | Bcd efg | G2 G AGA | BGE E2 D |G2 G AGA | Bcd efg | DcB AGA | BGG G2 :|gfg efg | fdd def | gfg aga | bge e2 f |gfg aga | bge efg | dcB cBA | BGG G2 :|DGG BGG | AGG BGG | efg dBG | AEE EFE |DGG BGG | AGG BGG | efg dBG | AGG G2 :|efg fBB | bag fBB | eBB fBB | gfe ^dBB |efg fBB | bag fBB | efg fe^d | e3- e2 :|
+X: 4
+T: King, The
+Z: ceolachan
+S: https://thesession.org/tunes/7514#setting18982
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+|: G3 AGA | Bcd efg | G3 AGA | BGE E2 D |G3 AGA | Bcd efg | edB AGA | BGE G3 :||: g3 efg | fed edB | gfg aga | bge e2 f |gfg aga | bge edB | edB AGA | BGE G3 :||: DEG BGG | AGG BGG | efg edB | AGA BGE |DEG BGG | AGG BGG | efg edB | AGF G3 :||: efg fBB | bag fBB | eBB fBB | gfe fBB |efg fBB | bag fBB | efg fed | egf e3 :|

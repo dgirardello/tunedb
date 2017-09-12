@@ -1,0 +1,34 @@
+X: 1
+T: Auld Lang Syne
+Z: Tøm
+S: https://thesession.org/tunes/12441#setting20766
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+D2 | G3F G2B2 | A3G A2BA |G3G B2d2 | e6 e2 |
+d3B B2G2 |A3G A2 BA | G3E E2D2 | G6 ||
+e2 | d3B B2G2 | A3G A2e2 | d3B B2d2 |e6 g2 |
+d3B B2G2 | A3G A2 BA |G3E E2D2 | G6 |]
+X: 2
+T: Auld Lang Syne
+Z: Mix O'Lydian
+S: https://thesession.org/tunes/12441#setting28012
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+"D" D2 | "G" G3 G "Em" G2 B2 | "Am" A3 G "D" A2 "B7" B>A | "Em" G3 G "G" B2 d2 | "C" e3-e3 |
+"C" e2 | "G" d3 B "Em" B2 G2 | "Am" A3 G "D" A2 "B7" B>A | "Em" G3 E "C" E2 "D" D2 | "G" G3-G3 |]
+"C" e2 | "G" d3 B "Em" B2 G2 | "Am" A3 G "D" A2 "D7" e2 | "G" d3 B "Em" B2 d2 | "C" e3-e3 |
+"C" g2 | "G" d3 B "Em" B2 G2 | "Am" A3 G "D" A2 "B7" B>A | "Em" G3 "C" E E2 "D" D2 | "G" G4-G3 |]
+X: 3
+T: Auld Lang Syne
+Z: Akira M.
+S: https://thesession.org/tunes/12441#setting30952
+R: reel
+M: 4/4
+L: 1/8
+K: Cmaj
+G2 | c3c d2e2 | G3A G2E2 |c3e d2c2 | A6 cA |
+G2E2 D2C2 |D2C2 D2E2 | G4 A3G | G6 :||

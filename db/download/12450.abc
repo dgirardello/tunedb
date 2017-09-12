@@ -1,0 +1,39 @@
+X: 1
+T: Joe Peter's
+Z: ceolachan
+S: https://thesession.org/tunes/12450#setting20793
+R: jig
+M: 6/8
+L: 1/8
+K: Fmaj
+|: c/B/ |A2 c AFA | B2 d BGB | cdc cAc | BAB GcB |
+A2 c AFA | B2 d BGB | cdc fed | cag f2 :|
+|: a |g2 e c=Bc | afc AFA | BdB Acf |
+[1 gec c2 a | g2 e c=Bc | afc AFA | Bdg Acf | gec f2 :|
+[2 gec BAG | A2 c A/B/cF | BAB dcB | cdc fed | cag f2 |]
+X: 2
+T: Joe Peter's
+Z: swisspiper
+S: https://thesession.org/tunes/12450#setting20795
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+|: A/G/ |F2 A FDF | G2 B GEG | ABA AFA | GFG EAG |
+F2 A FDF | G2 B GEG | ABA dcB | Afe d2 :|
+|: f | e2 c A ^GA | fdA FDF | GBG FAd |
+[1 ecA A2 f | e2 c A^GA | fdA FDF | GBe FAd | ecA d2 :|
+[2 ecA GFE | F2 A F/G/AD | GFG BAG | ABA dcB | Afe d2 |]
+X: 3
+T: Joe Peter's
+Z: ceolachan
+S: https://thesession.org/tunes/12450#setting20875
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+|: G |F2 A FDF | GBG GDG | ABA AFD | GFG EE/F/G |
+F2 A FD/E/F | G2 B GDG | A^GA dc/B/A | Afe d2 :|
+|: f |e2 c A^GA | fdA Fd/e/f | gb/a/g fad |
+[1 gec A2 f | e2 c A^GA | fdA FD/E/F | GBe FAd | cAe d2 :|
+[2 ecA GG/F/E | FDA FD[DA,] | GDB BA^G | A^GA d2 B | Afe d2 |]

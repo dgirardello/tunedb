@@ -1,0 +1,45 @@
+X: 1
+T: Muineira De Cabana
+Z: kmforst
+S: https://thesession.org/tunes/13912#setting25049
+R: jig
+M: 6/8
+L: 1/8
+K: Dmin
+|: d2B| ABA GEG | FED D^CD | EFG AB=c | B2A d2B |
+ABA GEG | FED D^CD | EFG GFE |1 D2A :|2 D2A ||
+|: DEF | DED D^CD | E2E EFG | AdF GdE | FED DEF |
+DED D^CD | E2E EFG | ABA GFE |1 D2A :|2 DED ||
+K: Dmaj
+|: ^FGA | AFD BGB | AFD FED | CEG BGB | AFD FGA |
+AFD BGB | AFD FED | CBA GFE |1 DED :|2 D3||
+X: 2
+T: Muineira De Cabana
+Z: JACKB
+S: https://thesession.org/tunes/13912#setting25051
+R: jig
+M: 6/8
+L: 1/8
+K: Emin
+|: e2c| BcB AFA | GFE E^DE | FGA Bc=d | c2B e2c |
+BcB AFA | GFE E^DE | FGA AGF |1 E2B :|2 E2B ||
+|: EFG | EFE E^DE | F2F FGA | BeG AeF | GFE EFG |
+EFE E^DE | F2F FGA | BcB AGF |1 E2B :|2 EFE ||
+K:Emaj
+|: ^GAB | BGE cAc | BGE GFE | DFA cAc | BGE GAB |
+BGE cAc | BGE GFE | DcB AGF |1 EFE :|2 E3||
+X: 3
+T: Muineira De Cabana
+Z: JACKB
+S: https://thesession.org/tunes/13912#setting25054
+R: jig
+M: 6/8
+L: 1/8
+K: Amin
+|: a2f| efe dBd | cBA A^GA | Bcd ef=g | f2e a2f |
+efe dBd | cBA A^GA | Bcd dcB |1 A2e :|2 A2e ||
+|: ABc | ABA A^GA | B2B Bcd | eac daB | cBA ABc |
+ABA A^GA | B2B Bcd | efe dcB |1 A2e :|2 ABA ||
+K:Amaj
+|: ^cde | ecA fdf | ecA cBA | GBd fdf | ecA cde |
+ecA fdf | ecA cBA | Gfe dcB |1 ABA :|2 A3||

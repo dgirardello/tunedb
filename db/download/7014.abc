@@ -1,0 +1,39 @@
+X: 1
+T: Log Drivers
+Z: Panhandlephillips
+S: https://thesession.org/tunes/7014#setting7014
+R: slide
+M: 12/8
+L: 1/8
+K: Gmaj
+B,C^C |: "G"D2B G2E "G"D2^C D2^D | "C"E2c A2c "C"E2E AG_G |
+"D"F2c E2c "D"D2D DEF |1 "G"GBA GFE "G"D2D B,C^C :|2 "G"G2 z D2 z "G"G2 z d^cd ||
+|: "G"e2d B2G "G"D2G F2G | "C"A2G F2G "C"E2E A2G |
+"D"F2c E2c "D"D2D DEF |1 "G"GBA GFE "G"D2 z d^cd :|2 "G"G2 z D2 z "G"G2 |]
+X: 2
+T: Log Drivers
+Z: Carabus
+S: https://thesession.org/tunes/7014#setting18594
+R: slide
+M: 12/8
+L: 1/8
+K: Gmaj
+D/2D/2D/2 | D B G | D2 D/2D/2 | E c A | E2 E |D F A | d d d | e d ^c | d z D |D B G | D ^C D | E =c A | E2 E/2E/2 |D d3/2 d/2 | d =c A | B G G | d e f |g2 d | B2 d | c2 e | e c2 |B d3/2 d/2 | d c B | A3/2 d/2 d | d e f |g2 d | B2 d | c2 e | e c3/2 c/2 |B d d | d c B | A2 d | B G2 |
+X: 3
+T: Log Drivers
+Z: Carabus
+S: https://thesession.org/tunes/7014#setting18595
+R: slide
+M: 12/8
+L: 1/8
+K: Gmaj
+B,C^C |: "G"D2B G2E "G"D2^C D2^D | "C"E2c A2c "C"E2E AG_G |"D"F2c E2c "D"D2D DEF |1 "G"GBA GFE "G"D2D B,C^C :|2 "G"G2 z D2 z "G"G2 ||d^cd |: "G"e2d B2G "G"D2G F2G | "C"A2G F2G "C"E2E A2G |"D"F2c E2c "D"D2D DEF |1 "G"GBA GFE "G"D2 z d^cd :|2 "G"G2 z D2 z "G"G2 |]
+X: 4
+T: Log Drivers
+Z: ceolachan
+S: https://thesession.org/tunes/7014#setting18596
+R: slide
+M: 12/8
+L: 1/8
+K: Gmaj
+DBGE D^CD^D | EcAc EEAG | FcEc DDDF | GAGE DD B,C |DBGE D^CD^D | EcAc EEAG | FcEc DDDF | G2 D2 G2 :|edBG DGFG | AGFG EEAG | FcEc DDDF | GAGE D2 dd |edBG DGFG | AGFG EEAG | FcEc DDDF | G2 D2 G2 :|

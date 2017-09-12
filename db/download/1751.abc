@@ -1,0 +1,32 @@
+X: 1
+T: Cork Hill
+Z: Paddy
+S: https://thesession.org/tunes/1751#setting1751
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+|:{g}A{d}A{e}A {g}e2 f|{g}ec{G}c {g}e2 f|{g}A{d}A{e}A {g}e2 f|{g}ec{G}c cc B|
+{g}A{d}A{e}A {g}e2 f|{g}ec{G}c {g}e2 f|{g}A{d}A{e}A d2 f|{g}ec{G}c cc B:|
+|:{g}Ace aec|aec aec|{g}Ace aec|aec cc B|
+{g}Ace aec|aec aec|{g}A{d}A{e}A d2 f|{g}ec{G}c cc B:|
+|:{g}A{G}{G}A2 {g}ec{G}c|{g}fd{c}d ec{G}c|{g}A{G}{G}A2 {g}ec{G}c|ec{G}c cc B|
+{g}A{G}{G}A2 {g}ec{G}c|{g}fd{c}d ec{G}c|{g}A{G}{G}A2 d2 f|ec{G}c cc B:|
+|:{g}A{d}A{e}A ac{G}c|{g}ec{G}c ac{G}c|{g}A{d}A{e}A ac{G}c|{g}ec{G}c cc B|
+{g}A{d}A{e}A ac{G}c|{g}ec{G}c ac{G}c|:{g}A{d}A{e}A d2 f|{g}ec{G}c cc B:|
+X: 2
+T: Cork Hill
+Z: piprgrl
+S: https://thesession.org/tunes/1751#setting25513
+R: jig
+M: 6/8
+L: 1/8
+K: Amaj
+|: AAA e2f | ecc e2f | AAA e2f | ecc c2B |
+AAA e2f | ecc e2f | AAA d2f | ecc c2B :|
+|: Ace aec | aec aec | Ace aec | aec c2B |
+Ace aec | aec aec | AAA d2f | ecc c2B :|
+|: AAA ecc | fdd ecc | AAA ecc | ecc c2B |
+AAA ecc | fdd ecc | AAA d2f | ecc c2B :|
+|: AAA acc | ecc acc | AAA acc | ecc c2B |
+AAA acc | ecc acc | AAA d2f | ecc c2B :|

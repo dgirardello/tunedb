@@ -1,0 +1,55 @@
+X: 1
+T: Loch Of Lumgair
+Z: ceolachan
+S: https://thesession.org/tunes/12664#setting21348
+R: jig
+M: 6/8
+L: 1/8
+K: Cdor
+F/E |D>FB d>cB | e3 G2 E | D>FB B>cd | d3 c2 F |
+D>FB d>cB | e3 G2 B | A>cf e>dc | B3 B>FE |
+D>FB d>cB | e3 G2 E | D>FB B>cd | d3 c2 F |
+D>FB d>cB | e2 G c>BG | A>cf e>dc | B3 B3/ ||
+d/e |f>dB B>FD | E>GB e2 c | d>fd B>AB | c>AF F>de |
+f>dB B>FD | E>GB e2 c | d>fd e>cA | B3 B>de |
+f>dB B>FD | E>GB e2 c | d>fd B>AB | c>AF F>EC |
+D>FB d>cB | e2 G c>BG | A>cf e>dc | B3 B3/ |]
+X: 2
+T: Loch Of Lumgair
+Z: ceolachan
+S: https://thesession.org/tunes/12664#setting21360
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+|: A/G |F>Ad f>ed | g3 B2 G | F>Ad d>ef | f3 e2 A |
+F>Ad f>ed | g2 B e>dB | c>ea g>fe | d3 d3/ :|
+|: f/g |a>fd d>AF | G>Bd g2 e | f>af d>cd |
+[1 e>cA A>fg | a>fd d>AF | G>Bd g2 e | f>af g>ec | d3 d3/ :|
+[2 e>cA A>GE | F>Ad f>ed | g2 B e>dB | c>ea g>fe | d3 d3/ |]
+X: 3
+T: Loch Of Lumgair
+Z: ceolachan
+S: https://thesession.org/tunes/12664#setting21361
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+|: A |F>Ad f>ed | g2 G B>AG | F>Ad d>ef | f3 e2 A |
+F>Ad f2 d | g2 B e>dB | c>ea g2 c | d3 d2 :|
+|: f/g/ |a>fd d>AF | G2 d g>fe | f>af d>cd |
+[1 e>cA A2 f/g/ | a>fd d>AF | G>Bd g3 | f>af gec | d3- d2 :|
+[2 e2 c AGE | F>Ad f2 d | g2 B e>dB | cea g2 c | d3 d2 |]
+X: 4
+T: Loch Of Lumgair
+Z: ceolachan
+S: https://thesession.org/tunes/12664#setting21362
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+|: A |FAd fed | g2 B d2 G | FAd dcd | f2 d ecA |
+FAd f2 d | g2 B e2 B | cea g2 c | d3 d2 :|
+|: f |afd dAF | GB/c/d g2 e | faf dcd |
+[1 e2 A efg | afd dAF | G2 d g2 e | faf g2 c | d3 d2 :|
+[2 e2 A GFE | FAd fed | g2 B e2 B | cea g2 c | d3- d2 |]

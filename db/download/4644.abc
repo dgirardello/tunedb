@@ -1,0 +1,40 @@
+X: 1
+T: Braes Of Busby, The
+Z: Kenny
+S: https://thesession.org/tunes/4644#setting4644
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+DG G2 (3 Bcd AF | DADF AGFD | G3 B dGBd | cAdc AG G2 |
+DG G2 (3 Bcd AF | DEFG AGFD | G3 B dGBd | cAdc AG G2 |
+g2 dB dgbg | f2 cB cfaf | g2 de dGBd | cAdc AGGf |
+g2 dB dgbg | f2 cB cfaf | (3 gfe fd ecdB | cAFG AG G2 |
+(3 Bcd GB GBdG | (3 ABc FA FAcA | (3 Bcd GB dGBd | cAdc AG G2 |
+(3 Bcd GB GBdG | (3 ABc FA dFAd | BGBc dGBd | cAdc AG G2 |
+X: 2
+T: Braes Of Busby, The
+Z: swisspiper
+S: https://thesession.org/tunes/4644#setting21201
+R: reel
+M: 4/4
+L: 1/8
+K: Gdor
+F/|D<GG>A ~B>AG>F|C>DF>G A<c B/A/G/F/|G>AB>c ~d>cB>d^|c/B/A/G/ F>A B<GG3/:|
+|:A/|B>cd>B f>Bd>B|A<cf>d c/B/A/G/ F>A|B>cd<B f>Bd>B|~c>AF>A B<GG3/:|
+|:B/|~g2d>g (3dga (3bag|f2c>f (3cfg (3agf|~g>fd>g ~d>cB>d|c/B/A/G/ ~F>A B<GG3/:|
+A/|B<dG>d (3GBc (3dcB|A>cF>c (3FAB c>A|B<dG>d (3GBc d>B|~c>AF>A B<GG>A|
+(3Bcd G>d (3GBc (3dcB|A>cF>A (3FAB (3cBA|B>df<b f>dB>d|c/B/A/G/ F>A B<GG3/|]
+X: 3
+T: Braes Of Busby, The
+Z: swisspiper
+S: https://thesession.org/tunes/4644#setting21237
+R: reel
+M: 4/4
+L: 1/8
+K: Edor
+D/|B<E E>F ~G>F E>D|A>G D>E F<A G/F/E/D/|E>F G>A ~B>A G>B^ |A/G/F/E/ D>F G<EE3/:|
+|:F/|G>A B>G d>GB>G|F<A d>B A/G/F/E/ D>F|G>A B<G d>G B>G|~A>F D>F G<E E3/:|
+|:G/|~e2B>e (3Bef (3gfe|d2A>d (3Ade (3fed|~e>d B>e ~B>A G>B|A/G/F/E/ ~D>F G<EE3/:|
+F/|G<B E>B (3EGA (3BAG|F>A D>A (3DFG A>F|G<B E>B (3EGA B>G|~A>F D>F G<E E>F|
+(3GAB E>B (3EGA (3BAG|F>A D>F (3DFG (3AGF|G>Bd<g d>B G>B|A/G/F/E/ D>F G<EE3/|]

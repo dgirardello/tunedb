@@ -1,0 +1,66 @@
+X: 1
+T: Water Under The Keel
+Z: celticladda
+S: https://thesession.org/tunes/5750#setting5750
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+dAG FAD|DEG FAD|dAG FAD|EFG ABc|
+dAG FAD|DEG FAD|dAF BAG|AEA D3:|
+|:ecA dcd|ecA def|ecA ~d3|ecA GAE|
+ecA dcA|ecA def|[1ecA ~d3|dcA GAE:|[2gfe fed|ecA GAE|]
+X: 2
+T: Water Under The Keel
+Z: JACKB
+S: https://thesession.org/tunes/5750#setting17702
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+|: gdc BdG | GAc BdG | gdc BdG | ABc def |
+gdc BdG | GAc BdG | gdB edc | dAd G3 :||
+|: afd g3 | afd gab | afd g3 | afd cdA |
+afd g3 | afd gab | afd g3 | afd cdA |
+afd g3 | afd gab | afd g3 | gec BcA |
+afd g3 | afd gab | c'ba bag | gec BcA ||
+|: gdc BdG | GAc BdG | gdc BdG | ABc def |
+gdc BdG | GAc BdG | gdB edc | dAd G3 :||
+|: afd g3 | afd gab | afd g3 | afd cdA |
+afd gfd | afd gab | afd g3 | afd cdA |
+afd gfd | afd gab | afd g3 | afd cdA |
+afd gfd | afd gab | c'ba bag | afd cdA ||
+|: gdc BdG | GAc BdG | gdc BdG | ABc def |
+gdc BdG | GAc BdG | gdB edc | dAd G3 :||
+|:afd cdf | gdc Bdg | afd cdf | gdc Bdg |
+afd cdf | gdc Bdg | afd cdf | gdc Bdg |
+afd cdf | gdc Bdg | afd cdf | gdc Bdg |
+afd cdf | gdc Bdg | afd cdf | gdc Bdg |
+afd cdf | gdc Bdg | afd cdf | gdc Bdg |
+afd cdf | gdc Bdg | afd gfd | a2b c'ba |
+afd cdf | gdc Bdg | afd cdf | gdc Bdg |
+afd cdf | gdc Bdg | afd gfd | afd gfd ||
+|: gdc BdG | GAc BdG | gdB edc | dAd G3 ||
+X: 3
+T: Water Under The Keel
+Z: Manu Novo
+S: https://thesession.org/tunes/5750#setting17703
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+|: gdc BdG | GAc BdG | gdc BdG | ABc def |gdc BdG | GAc BdG | gdB edc | dAd G3 :|||| afd g3 | afd gab | afd g3 | afd cdA |afd g3 | afd gab | afd g3 | gec BcA |afd g3 | afd gab | afd g3 | afd cdA |afd g3 | afd gab | c'ba bag | afd BcA |||: gdc BdG | GAc BdG | gdc BdG | ABc def |gdc BdG | GAc BdG | gdB edc | dAd G3 :|||| afd g3 | afd gab | afd g3 | afd cdA |afd gfd | afd gab | afd g3 | gec BcA |afd gfd | afd gab | afd g3 | afd cdA |afd gfd | afd gab | c'ba bag | afd BcA |||: gdc BdG | GAc BdG | gdc BdG | ABc def |gdc BdG | GAc BdG | gdB edc | dAd G3 :|||:bgd cdf | gdc Bdg | bgd cdf | gdc Bdg |afd cdf | gdc Bdg | afd cdA | ABd cdA :||:bgd cdf | gdc Bdg | bgd cdf | gdc Bdg |afd cdf | gdc Bdg | afd g3 | a2b c'ba :||:bgd cdf | gdc Bdg | bgd cdf | gdc Bdg |afd cdf | gdc Bdg | afd gfd | afd gfd :||: gdc BdG | GAc BdG | gdB edc | dAd G3 ||
+X: 4
+T: Water Under The Keel
+Z: JACKB
+S: https://thesession.org/tunes/5750#setting25994
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+|: gdc BdG | GAc BdG | gdc BdG | ABc def |
+gdc BdG | GAc BdG | gdB edc | dAd G3 :||
+|: afd g3 | afd gab | afd g3 | afd cdA |
+afd g3 | afd gab | afd g3 | afd cdA |
+afd g3 | afd gab | afd g3 | gec BcA |
+afd g3 | afd gab | c'ba bag | afd cdA ||

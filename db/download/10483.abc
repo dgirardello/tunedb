@@ -1,0 +1,37 @@
+X: 1
+T: Boston-Sligo, The
+Z: bogman
+S: https://thesession.org/tunes/10483#setting10483
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+|: fa ~a2 bafb | afef dBBB | fa ~a2 bafb | afef efde |
+fa ~a2 bafb | afef dBBA | DEFG B2 dB |1 AFEF D4 :|2 AFEF D3A ||
+|: BAFA B2 dB | AFFD ED B,2 | BAFA B2 dB | AFDF E3A |
+BAFA B2 dB | AFFD ED B,2 | DA,A,A, DEFA |1 dBAF D3A :|2 dBAF D2 de ||
+X: 2
+T: Boston-Sligo, The
+Z: Pierre LAÏLY
+S: https://thesession.org/tunes/10483#setting29127
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+A|BAFA B2dB|BAFD EDB,D|BAFA B2dB|AFDF E3A|
+BAFA B2dB|BAFD EDB,E|DB,A,B, DEFA|BFAF D3:|
+|:a|f3a bafb|afdf edBd|f3a bafb|afdf e2de|
+fefa bafb|afdf edBA|DEFA BAdB|AFEF D3:|
+X: 3
+T: Boston-Sligo, The
+Z: Thady Quill
+S: https://thesession.org/tunes/10483#setting29307
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+||: FA | "D" BAFA BABd | "D" AFF2 "G" EDB,2 | "D" BAFA "Bm" BAdB | "Em" AFDF "A7" E3A |
+| "D" BAFA B2dB | "D" AFF2 "G" EDB,E | "D" DA,A,2 "Bm" DEFA | "Em" dBAF "D" D2 :||
+||: de | "D" faa2 bafb | afdf "G" eBB2 | "D" faa2 "Bm" bafa | "Em" bfdf "A7" efde |
+|1 "D" faa2 bafb | "D" afdf "G" edBd | "D" DEFA "Bm" BAdB | "Em" BFEF "D" D2:|
+|2 "D" faa2 "G" b3b | "D" afdf "G" eBB2 | "D" DEFA "Em" BAdB | "A7" AFEF "D" D2 ||

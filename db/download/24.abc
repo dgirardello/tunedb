@@ -1,0 +1,67 @@
+X: 1
+T: Dinkey's
+Z: Jeremy
+S: https://thesession.org/tunes/24#setting24
+R: reel
+M: 4/4
+L: 1/8
+K: Amix
+|:ed|c2B2 ABcd|egfg edBd|gBBB gBaB|gBBB gfed|cdBc ABcd|egfg edBd|gfgd efed|c2B2 A2:||:eg|aAAA aAbA|aAAA agef|gBBB gBaB|gBBB gfeg|aAAA aAbA|aAAA agef|gfgd efed|cdBc A2:|
+X: 2
+T: Dinkey's
+Z: patrickmclaurin
+S: https://thesession.org/tunes/24#setting12404
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+| {g}ed |: {g}cd{g}B{d}c {g}AB{g}cd | {g}eg{a}fd {g}e2 {A}ef | {a}gB{gBdBGB}B2 {a}gBaB| {a}gB{gBdBGB}B2 gf{g}ed || {g}cd{g}B{d}c {g}AB{g}cd | {g}eg{a}fd {g}e2 {A}ef | g{a}g{f}gd {g}ef{g}ed| {g}cd{g}B{d}c [1 {g}A2 {g}ed :| [2 {g}A2 (3 {g}efg ||: aA {gAGAG}A2 aAgA |aA{gAGAG}A2 ag{a}ef | {a}gB{gBdBGB}B2 {a}gBaB| {a}gB{gBdBGB}B2 ag{a}eg || [1 aA {gAGAG}A2 aAgA |aA{gAGAG}A2 ag{a}ef | g{a}g{f}gd {g}ef{g}ed| {g}cd{g}B{d}c {g}A2 (3{g}efg :|| [2 aA{gAGAG}A2 {a}gA{gAGAG}A2 | {g}fA {gAGAG}A2 {g}e4 | g{a}g{f}gd {g}ef{g}ed| {g}cd{g}B{d}c {g}A4 |
+X: 3
+T: Dinkey's
+Z: synaesthete402
+S: https://thesession.org/tunes/24#setting12405
+R: reel
+M: 4/4
+L: 1/8
+K: Amix
+|:eg | aAAA aAbA | aAAA agef | gBBB gBaB | gBBB gfeg |aAAA gAAA | fAAA e2ef | gfgd efed | cdBc A2:|
+X: 4
+T: Dinkey's
+Z: joe fidkid
+S: https://thesession.org/tunes/24#setting22640
+R: reel
+M: 4/4
+L: 1/8
+K: Amix
+| (3cdc (3BcB ABcd | e^gfd edcd | gB (3BBB gBaB | gB (3BBB gaed |
+(3cdc (3BcB ABcd | e^gfd edcd | gfge dfed |1 (3cdc (3BcB A>fed :|2 (3cdc (3BcB A>f^gd |
+|: aA (3AAA aAbA | aA (3AAA {ab}aefg | gB (3BBB gBaB | gB (3BBB gef^g |
+|1 aA (3AAA aAbA | aA (3AAA {ab}agef | gfge dfed | (3cdc (3BcB A>ef^g :|
+|2 aA (3AAA gA (3AAA | fA (3AAA edef | gfge dfed | (3cdc (3BcB A>fed ||
+X: 5
+T: Dinkey's
+Z: Tate
+S: https://thesession.org/tunes/24#setting23694
+R: reel
+M: 4/4
+L: 1/8
+K: Amix
+|: fed | "A"{cd}c2 Bc ABcd | "Em"egfd edBd | "G"gB B/B/B gBaB | gB B/B/B gfed |
+"A"{cd}c2 Bc ABcd | "Em"egfd edBd | "G"{a}(gfg)e "D"dfed | "E7"cdBc "A"A :|
+|: ef^g | "A"aA A/A/A aAbA | aA A/A/A {b}agef | "G"gB B/B/B gBaB | gB B/B/B "Em"{a}gfeg |
+[1 "A"aA A/A/A aAbA | aA A/A/A {b}agef | "G"{a}(gfg)e "D"dfed | "E7"cdBc "A"A :|
+[2 "A"aA A/A/A "G"gA A/A/A | "D"fA A/A/A "A"eA A/A/A | "G"{a}(gfg)e "D"dfed | "E7"cdBc "A"A |]
+X: 6
+T: Dinkey's
+Z: gian marco
+S: https://thesession.org/tunes/24#setting28529
+R: reel
+M: 4/4
+L: 1/8
+K: Amix
+ed|c2 (3BcB ABcd|egfd edBa|aA~A2 aAbA|aA~A2 gfed|
+c2 (3BcB ABcd|egfd edBa|gfgd efed|1c2(3BcB A2:|2c2(3BcB Aefg||
+|aA~A2 aAbA|aA~A2 agef|gB~B2 gBaB|gB~B2 gfeg|
+aA~A2 aAbA|aA~A2 agef|gfgd efed|c2(3BcB Aefg |
+aA~A2 aAbA|aA~A2 agef|gB~B2 gBaB |gB~B2 gfeg|
+aA~A2 gA~A2 | fA~A2 edef | gfgd efed | c2(3BcB A2|

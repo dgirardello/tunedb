@@ -1,0 +1,48 @@
+X: 1
+T: Sadegurer Khosid
+Z: fiel
+S: https://thesession.org/tunes/7276#setting7276
+R: barndance
+M: 4/4
+L: 1/8
+K: Gmin
+D2 |: "Gm"B3A G2G2 | z2BA GBAG | "D"A3G ^F2F2 | "Cm"^FGFE "D"D4 |
+"D7"^FDFA "Gm"GDGB | "D7"ADAc "Gm"BGBd | "Cm"c2c2 cdec | "D7"d4 dcBA |
+"Gm"B3A G2G2 | z2BA GBAG | "D"A3G ^F2F2 | "Cm"^FGFE "D"D4 |
+"D7"d3B3 c3A3 | B3G3 A3^F3 | "Gm"G2G2 "D7"BAG^F | "Gm"G4 zDGA :|
+K:G
+|: "G"BcBc B2AG | A2B2 z4 | BcBc B2AG | ABG2 z4 |
+"G"BcBc B2AG | A2B2 z4 | "Am"A2A2 "D7"GFEF |1 "G"G4 z4 :|2 "Gm"G4 ||
+K:Gm
+|: z4 | "Gm"d8 | d8 | d4 d4 | d4 d4 |
+z2d2 d2d2 | "Cm"c2z2 c4 | "Gm"BcBA G^FGA | B2z2 d4 |
+z2d2 d2d2 | "Cm"c2z2 c4 | "Bb"BFFB "Ab"B_AAG | "Gm"G4 :|
+X: 2
+T: Sadegurer Khosid
+Z: ceolachan
+S: https://thesession.org/tunes/7276#setting18802
+R: barndance
+M: 4/4
+L: 1/8
+K: Amin
+|: z2 E2 |"Am" c3 B A2 A2 | z2 cB AcBA | "E" B3 A ^G2 G2 | "Dm" ^GAGF "E" E4 |
+"E7" ^GEGB "Am" AEAc | "E7" BEBd "Am" cAce | "Dm" d2 d2 defd | "E7" e4 edcB ||
+"Am" c3 B A2 A2 | z2 cB AcBA | "E" B3 A ^G2 G2 | "Dm" ^GAGF "E" E4 |
+"E7" e4 d4 | c4 B4 | "Am" A2 A2 "E7" cBA^G | "Am" A4 :|
+K: A Major
+|: zEAB |"A" cdcd c2 BA | B2 c2 z4 | cdcd c2BA | Bc A2 z4 |
+"A" cdcd c2 BA | B2 c2 z4 | "Bm" B2 B2 "E7" AGFG |[1 "A" A4 z4 :|\
+K: a minor
+[2 "Am" A4 ||
+|: z4 |"Am" e8 | e8 | e4 e4 | e4 e4 |
+z2 e2 e2 e2 | "Dm" d2 z2 d4 | "Am" cdcB A^GAB | c2 z2 e4 |
+z2 e2 e2 e2 | "Dm" d2 z2 d4 | "C" cGGc "Bb" c_BBA | "Am" A4 z4 :|
+X: 3
+T: Sadegurer Khosid
+Z: swisspiper
+S: https://thesession.org/tunes/7276#setting18803
+R: barndance
+M: 4/4
+L: 1/8
+K: Emin
+B2 |: "Em"G3F E2E2 | z2GF EGFE | "B"F3E ^D2D2 | "Am"^DEDA "B"B4 |"B7"^DBDF "Em"EBEG | "B7"FBFA "Em"GEGB | "A,m"A2A2 ABcA | "B7"B4 BAGF |"Em"G3F E2E2 | z2GF EGFE | "B"F3E ^D2D2 | "A,m"^DEDA "B" B4 |"B7"B4 A4 | G4 F4 | "Em"E2E2 "B7"GFE^D | "Em"E4 zBEF :||: "E"GAGA G2FE | F2G2 z4 | GAGA G2FE | FGE2 z4 |"E"GAGA G2FE | F2G2 z4 | "Fm"F2F2 "B,7"EDCD |1 "E"E4 z4 :|2 "Em"E4 |||: z4 | "Em"B8 | B8 | B4 B4 | B4 B4 |z2B2 B2B2 | "A,m"A2z2 A4 | "Em"GAGF E^DEF | G2z2 B4 |z2B2 B2B2 | "A,m"A2z2 A4 | "Gg"GDDG "Fg"G_FFE | "Em"E4 :|

@@ -1,0 +1,48 @@
+X: 1
+T: Edenderry, The
+Z: grymater
+S: https://thesession.org/tunes/12467#setting20827
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+e |: f3d e2dB | AFF/E/F EDB,D | A,3B, DEFG | ABdf edBA |
+f3d e2dB | AFF/E/F EDB,D | A,3B, DEFG |1 ABdf e2de :|2 ABdf e2d2 ||
+|: faa/^g/a bgaf | dfaf edBA | f3d e2dB | ABdf eBB/^A/B |
+faa/^g/a bgaf | dfaf edBA | f3d e2dB |1 ABdf e2d2 :|2 ABdf e2de ||
+X: 2
+T: Edenderry, The
+Z: didier
+S: https://thesession.org/tunes/12467#setting28026
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+f3e fedB | AF3 EDB,A, | A,3B, DEFG | ABdf edBd |
+f3g fedB | AF3 EDB,A, | A,3B, DEFG | ABde fdde :|
+fa3 agaf | dfaf edBd | f3f fedB | ABdf edBd |
+fa3 agaf | dfaf edBd | f3f fedB | ABdf edde :|
+X: 3
+T: Edenderry, The
+Z: swisspiper
+S: https://thesession.org/tunes/12467#setting28036
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+~f3d e2dB | AF (3FEF EDB,D | A,3B, DEFG | ABdf edBA |
+~f3d e2dB | AF (3FEF EDB,D | A,3B, DEFG | 1ABdf e2de :|2ABdf e2d2 ||
+fa (3a^ga b=gaf|dfaf edBA| ~f3d e2dB | ABdf eB (3B^AB |
+fa (3a^ga b=gaf|dfaf edBA| ~f3d e2dB |1 ABdf e2d2:|2ABdf e2de||
+X: 4
+T: Edenderry, The
+Z: swisspiper
+S: https://thesession.org/tunes/12467#setting28037
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+f3e fedB | A~F3 EDEF| A2AG DEFG | ABdf edBd |
+f3g fedB | A~F3 EDDD | A2AG DEFG | ABde fdde :|
+fa3 agfe | dfaf eB~B2 | f3d e2dB | ABdf edBd |
+fa3 agaf | dfaf edBd | f3d e2dB | ABdf e2d2 :|

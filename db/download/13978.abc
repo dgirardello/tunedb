@@ -1,0 +1,41 @@
+X: 1
+T: Port Chití Rua
+Z: iris eve
+S: https://thesession.org/tunes/13978#setting25274
+R: jig
+M: 6/8
+L: 1/8
+K: Emaj
+bfd B2c|dBc BcB|bfd Bcd|cde f/g/^af|
+bfd B2c|dBc BcB|b^ag ^agf|1g3 g2^a:||2g3 g2f||
+dbb dbb|c^a^a c^a^a|Bgg Bgg|fg^a ^agf|
+dbb dbb|c^a^a c^a^a|g^ab ^agf|g3 g2f|
+dbb dbb|c^a^a c^a^a|Bgg Bgg|fg^a ^agf|
+bfd B2c|dBc BcB|b^ag ^agf|g3 g2^a:||b3||
+X: 2
+T: Port Chití Rua
+Z: Tøm
+S: https://thesession.org/tunes/13978#setting25275
+R: jig
+M: 6/8
+L: 1/8
+K: Amaj
+|:aec A2B|cAB ABA|aec ABc|Bcd e/2f/2ge|
+aec A2B|cAB ABA|agf gfe|[1 f3 f2g:||[2 f3 f2e|]
+|:caa caa|Bgg Bgg|Aff Aff|efg gfe|
+[1 caa caa|Bgg Bgg|fga gfe|f3 f2e:|
+[2 aec A2B|cAB ABA|agf gfe|f3 f2g|]
+X: 3
+T: Port Chití Rua
+Z: iris eve
+S: https://thesession.org/tunes/13978#setting25276
+R: jig
+M: 6/8
+L: 1/8
+K: Amaj
+aec A2B|cAB ABA|aec ABc|Bcd e/f/ge|
+aec A2B|cAB ABA|agf gfe|1f3 f2g:||2f3 f2e||
+caa caa|Bgg Bgg|Aff Aff|efg gfe|
+caa caa|Bgg Bgg|fga gfe|f3 f2e|
+caa caa|Bgg Bgg|Aff Aff|efg gfe|
+aec A2B|cAB ABA|agf gfe|f3 f2g:||a3||

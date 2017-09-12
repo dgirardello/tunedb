@@ -1,0 +1,32 @@
+X: 1
+T: Hoolie In The Hub
+Z: alexboydell
+S: https://thesession.org/tunes/5475#setting5475
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Gmaj
+(3def|:g2d>g e>d B>G|(3ABA G>B A>G E>D|G,>A,B,>D E>D B,>A,|(3G,A,B,D>E G>A B>G|
+A>B d.B g.d g.a|b>g e>a g>e d>e|g>e d>g e>d B>G|1(3ABA G.f G2 e>f:|2 (3ABA G>F G2 A2||
+B2 G>B d>G B>d|g>d g>a b>g e>a|g>e d>g e>d B>d|(3ege d>B A>B G>A|
+B>A G>B d>G B>d|g>d g>a b>g e>a|g>e d>g e>d B>G|(3ABA G>F G2 A2|
+B2 G>B d4|g>d g>a b4|g>e d>g e>d B>d|(3ege d>B A>B G>A|
+B>A G>B d>G B>d|g>d g>a b>g e>a| g>e d>g e.d B>G|(3ABA G>F G2 e>f|
+g2d>g e>d B>G|(3ABA G>B A>G E>D|G,>A,B,>D E>D B,>A,|(3G,A,B,D>E G>A B>G|
+A>B d.B g.d g.a|b>g e>a g>e d>e|g>e d>g e>d B>G|1 (3ABA G.f G2 e>f:|2 (3ABA G>F G2 A2||
+B2 G>B d>G B>d|g>d g>a b>g e>a|g>e d>g e>d B>d|(3ege d>B A>B G>A|
+B>A G>B d>G B>d|g>d g>a b>g e>a|g>e d>g e>d B>G|(3ABA G>F G2 A2|
+B2 G>B d4|g>d g>a b4|g>e d>g e>d B>d|(3ege d>B A>B G>A|
+B>A G>B d>G B>d|g>d g>a b4| g>e d>g e>d B>G|(3ABA G>F G2zg|
+X: 2
+T: Hoolie In The Hub
+Z: Tøm
+S: https://thesession.org/tunes/5475#setting20694
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Gmaj
+(3def|:g2dg edBG|(3ABA GB AGED|G,A,B,D EDB,A,|(3G,A,B, DE GABG|
+ABdB gdga|bgea gede|gedg edBG|1 (3ABA GF G2 ef:|2 (3ABA GF G2 A2||
+|:B2 GB dGBd|gdga bgea|gedg edBd|(3ege dB ABGA|
+BAGB dGBd|gdga bgea|gedg edBG|1 (3ABA GF G2 A2:|2 (3ABA GF G2 |]

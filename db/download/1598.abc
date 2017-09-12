@@ -1,0 +1,60 @@
+X: 1
+T: Greensleeves
+Z: tufbo
+S: https://thesession.org/tunes/1598#setting1598
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+E|G2A B3/2-c/B|A2F D3/2-E/F|G2E E3/2-^D/E|F2^D B,2E|
+G2A B3/2-c/B|A2F D3/2-E/F|G3/2-F/E ^D3/2-^C/D|E3 E2z|
+d3 d3/2-^c/B|A2F D3/2-E/-F|G2-E E3/2-^D/E|F2^D B,3|
+d3 d3/2^c/B|A2F D3/2-E/F|G3/2F/E ^D3/2-^C/D|E3 E2z||
+X: 2
+T: Greensleeves
+Z: fidicen
+S: https://thesession.org/tunes/1598#setting15006
+R: jig
+M: 6/8
+L: 1/8
+K: Ador
+c2e c2e|d2B G2B|c2A A2A|B2G E3|c2e c2e|d2B G2B|c2A B2G|1 A3 A2B:|2 A3 A3|||:g3 gfe|d2B G3|g3 gfe|a2g e3|g3 gfe|d2B G2B|c2A B2G|A3 A3:|
+X: 3
+T: Greensleeves
+Z: Falkbeer
+S: https://thesession.org/tunes/1598#setting15007
+R: jig
+M: 6/8
+L: 1/8
+K: Ador
+A | c2d e>fe | d2B G>AB | c2A A>GA | B2GE2 |A | c2d e>fe | d2B G>AB |c>BA ^G>FG | A3-A2 :|z | g2g gfe | d2B G>AB | c2A A>GA | B6 |g2g gfe | d2B G>AB | c>BA ^G>FG | A3-A2 :|A/B/ | c2c cde | dBG GAB | cBA ABc | BGE E2 A/B/ |c2c cde | dBG GAB | cBA GE^G | A3A2:|e/f/ | gag gfe | dBG GBd | aba aba | gee e2e/f/ |gag gfe | dBG GAB | cBA GE^G | A3A2 :|
+X: 4
+T: Greensleeves
+Z: Falkbeer
+S: https://thesession.org/tunes/1598#setting15008
+R: jig
+M: 6/8
+L: 1/8
+K: Amin
+"C"c2de2e | "G"d2BG3 |"am"A>Bc dec | "E"B2^GE3 |"C"c2de>dc | "G"d2BG>AB | "am"c>BA"E"~B>A^G | "am"A3-A3 |]"var. 1"c>dee>fe | d>edB>cd | c>BcA>Bc | B>AB^G>AB |c>dee>fg | d>edB>cd | cBA~^G>^FG | A3-A3 |]"var. 2"g2ggfe | d2dBcd | c2cABc | B2B^GAB |g2ggfe | d2dBcd | edcd~B2 |A3-A3 |]"var. 3"e.c.A e.c.A | d.B.G d.B.G | e.c.A e.c.A | B.^G.E B.G.E |g.e.cg.e.c | d.B.G d.B.G | e.c.A B.^G.E | A3-A3 |]"var. 4"gca~g>fe | dBGdDF/G/ | AABcBA | ^GEB~ee>f |gca~g>fe | dBGdDe/d/ | cBAB^GE | A3-A3 |]"var. 5"A/B/cAc/d/eA| G/A/BGB/c/dG | A/B/cAc/d/eA | E/^F/^GEG/A/BE |c/d/ece/f/gc | G/A/BGB/c/dG | A/B/cA^G/A/BG | A3-A3 |]"var. 6"c.c.cc.c.c | g.g.gG>AB | a.a.aA>B c/d/ | e.e.e~^G.E.E |C.C.CC>D E/F/ | GGA~B>AG |cBA^G>^FG | A3-A3 |]"var. 7"cABcde | BGABcd | cABcde | B2^GE3 |ecdefg | BGABcd | ~cAc~B^GE | A3-A3 |]
+X: 5
+T: Greensleeves
+Z: celtic marine
+S: https://thesession.org/tunes/1598#setting15009
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+|:g3 gfe|dBG GAB|c2A dcB|cBc A2d|g3 gfe|dBG GAB|cBA def||:b3 g2b|a3 f2a|gfg efg|faf d3|b3 gab|aaf d2f|efg agf|1 g3 g2z:|
+X: 6
+T: Greensleeves
+Z: Tøm
+S: https://thesession.org/tunes/1598#setting15010
+R: jig
+M: 6/8
+L: 1/8
+K: Ador
+AB | c2c c>de | dBG G>AB | c2A A>Bc | B2^G E2B
+c2c c>de | dBG G>AB | c>BA B^G2 | A3 z :|
+|: ef | g2g g>fe | d>BG G2g | a2b c'ba | g>ee e2f
+g2g g>fe | d>BG GAB | c>BA B^G2 | A3 z :|

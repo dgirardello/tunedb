@@ -1,0 +1,39 @@
+X: 1
+T: Wayside Waggon, The
+Z: protz
+S: https://thesession.org/tunes/10344#setting10344
+R: reel
+M: 4/4
+L: 1/8
+K: Gmin
+B2 bg fdcB | AFcF dFcF | B2 bg fdcB | ABce dBBc |
+B2 bg fdcB | AFcF dFcF | B2 bg fdcB | GABc dBBc ||
+BGFE DEFD | C2 c=B cGGA | BGFE DEFD | B,BBc dBBA |
+BGFE DEFD | C2 c=B cGGA | BGFE DEFD | B,2 Bc dBBA ||
+X: 2
+T: Wayside Waggon, The
+Z: protz
+S: https://thesession.org/tunes/10344#setting20311
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+| A2 af ecBA | GEBE cEBE | A2 af ecBA | GABd cAAB |A2 af ecBA | GEBE cEBE | A2 af ecBA | FGAB cAAB || AFED CDEC | B,2 B_B =BFFG | AFED CDEC | A,AAB cAAG |AFED CDEC | B,2 B_B =BFFG | AFED CDEC | A,2 AB cAAG ||| G2 ge dBAG | FDAD BDAD | G2 ge dBAG | FGAc BGGA |G2 ge dBAG | FDAD BDAD | G2 ge dBAG | EFGA BGGA || GEDC B,CDB, | A,2 A^G AEEF | GEDC B,CDB, | G,GGA BGGF |GEDC B,CDB, | A,2 A^G AEEF | GEDC B,CDB, | G,2 GA BGGF ||
+X: 3
+T: Wayside Waggon, The
+Z: ceolachan
+S: https://thesession.org/tunes/10344#setting20312
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+d2 d'b afed | c/B/A eA fAec | d/e/d d'b afed | cdeg f2 :|dBAG FGAF | E/F/E ec eBBc | dBAG F2 AF | Ddde f2 :|
+X: 4
+T: Wayside Waggon, The
+Z: swisspiper
+S: https://thesession.org/tunes/10344#setting20313
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+|: Bc |d2 df afed | (3.c.B.A eA fAec | (3.d.e.d df afed | cdeg fd :||: ec |dBAG ~F3A | ~E3c eBBc | dBAG F2 AF | Ddde f2 :|

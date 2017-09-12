@@ -1,0 +1,53 @@
+X: 1
+T: Connemara, The
+Z: ceolachan
+S: https://thesession.org/tunes/5685#setting5685
+R: mazurka
+M: 3/4
+L: 1/8
+K: Dmaj
+|: B/ |A>F F2 d>A | B>d A>F G>B |\
+A>F (3FFF d>A | (3Bcd A>F D3/ :|
+g/ |f>d d>c d>=f | e>=c c>B c>g |\
+f>d d>c d>A | B>d A>F G>g |
+f>d d>c d2 | e>=c c>B c2 |\
+f>d e>c d>A | (3Bcd e>c d3/ |]
+X: 2
+T: Connemara, The
+Z: ceolachan
+S: https://thesession.org/tunes/5685#setting17677
+R: mazurka
+M: 3/4
+L: 1/8
+K: Dmaj
+|: B/ |A>F F2 d>A | B<d A>F G>B |\
+A>F F2 d>A | B>d A<F D3/ :|
+|: g/ |f>d d>c d>=f | e>=c c>B c>e |\
+[1 d>B B>^A B>d | c>A A>^G A3/ :|
+[2 d>B- B>^A (3Bcd | (3Bcd e<c d3/ |]
+X: 3
+T: Connemara, The
+Z: ceolachan
+S: https://thesession.org/tunes/5685#setting17678
+R: mazurka
+M: 3/4
+L: 1/8
+K: Dmaj
+M: 9/8
+|: B |A2 F FGF d2 A | B2 d A2 F G2 B |\
+A2 F FGF d2 A | B2 d A2 F D2 :|
+|: g |f2 d d2 c d2 =f | e2 =c c2 B c2 e |\
+[1 d2 B B2 ^A B2 d | c2 A A2 ^G A2 :|
+[2 f2 d e2 c d2 A | Bcd e2 c d2 |]
+X: 4
+T: Connemara, The
+Z: ceolachan
+S: https://thesession.org/tunes/5685#setting17679
+R: mazurka
+M: 3/4
+L: 1/8
+K: Dmaj
+T: Queen of Connemara
+M: 6/8
+R: song
+A,B,C | D2 C D2 F | A3- ABc | d2 c B2 A | F A2- A

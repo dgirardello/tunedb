@@ -1,0 +1,77 @@
+X: 1
+T: Gallopede, The
+Z: ceolachan
+S: https://thesession.org/tunes/7205#setting7205
+R: barndance
+M: 4/4
+L: 1/8
+K: Gmaj
+|: d>c |B2 c>B A>c (3cBA | G2 F2 G2 A>B | c2 c>d e>d (3dcB | A>G (3GFE D>dc>d |
+B>dc>B A>cB>A | G2 G2 G2 A>B | c>BA>G F>G (3AGF | G2 D2 G2 :|
+d>c |B2 g>f e2 e>d | d>c (3Bcd A2 d>c | B>Gg>f e>dc>B | A2 F2 D2 d>c |
+B>Gg>f e>d^c>d | d>cB>c A2 d>c | (3Bcd c>B A2 (3cBA | G2 G2 G2 ||
+(3ABc |.d2 (3ddd .d2 g2 | .d2 (3ddd .d2 g2 | .d2 .d2 .e2 (3dcB | .A2 .A2 A2 B>c |
+.d2 (3ddd .d2 (3ggg | .d2 (3ddd .d2 g2 | .b2 .g2 a>g (3fga | g>d (3cBA G2 |]
+X: 2
+T: Gallopede, The
+Z: ceolachan
+S: https://thesession.org/tunes/7205#setting18745
+R: barndance
+M: 4/4
+L: 1/8
+K: Gmaj
+|: d2 |B2 B2 A2 AB | G2 G2 G2 AB | cBcd edcB | A2 A2 A2 dc |
+B2 Bc A2 AB | G2 GF G2 AB | cBAG FGAF | G2 G2 G2 :|
+d2 |B2 gf e2 ed | dcBc A2 dc | B2 gf edcB | A2 A2 A2 dc |
+B2 gf e2 ed | dcBc A2 dc | B2 dB AcBA | G2 G2 G2 ||
+B2 |.d2 .d2 d2 g2 | .d2 .d2 d2 g2 | .d2 .d2 edcB | .A2 .A2 A2 Bc |
+.d2 .d2 d2 g2 | .d2 .d2 d2 g2 | e>dcB dcBA | .G2 .G2 G2 |]
+X: 3
+T: Gallopede, The
+Z: ceolachan
+S: https://thesession.org/tunes/7205#setting18746
+R: barndance
+M: 4/4
+L: 1/8
+K: Gmaj
+|: dc |B2 Bc A2 AB | G2 G2 G2 AB | cBcd edcB | A2 A2 A2 dc |
+B2 Bc A2 AB | G2 G2 G2 AB | cBAG FGAF | G2 G2 G2 :|
+|: Bc |.d2 .d2 .d2 g2 | .d2 .d2 .d2 g2 | .d2 .d2 edcB | AGAB A2 Bc |
+.d2 .d2 .d2 g2 | .d2 .d2 .d2 g2 | d2 B2 dcBA | G2 B2 G2 :|
+X: 4
+T: Gallopede, The
+Z: flipe
+S: https://thesession.org/tunes/7205#setting18747
+R: barndance
+M: 4/4
+L: 1/8
+K: Gmaj
+dc | "G"B2Bc "D"A2AB | "G"G2G2G2AB | "Am"cB cd ed cB | "D"A2A2A2dc |"G"B2Bc "D"A2AB | "Em"G2G2G2AB | "Am"cB AG "D7"FG AF | "G"G2G2G2:|dc | "G"B2gf "C"e2e2| "G"dc Bc "D7"A2BA | "G"G2gf "Am"ed cB | "D"A2A2A2BA |"G"G2gf "C"e2e2| "G"dc Bc "D"A2dc | "G"Bd cB "D7"Ac BA | "G"G2G2G2 Bc |"G"d2d2d2g2| "G"d2d2d2g2| "G"d2d2"Am"ed cB | "D7"A2A2A2Bc |"G"d2d2d2g2| "G"d2d2d2g2| "C"ed cB "D7"dc BA | "G"G2G2G2|]BA | G2G2F2D2| G2B2B2cB | AG AB cB AG | F2D2D2BA |G2G2F2D2| G2B2B2AG | FG AB cd ef | g2B2B2:|Bc | d2d2c2c2| Bc de f2f2| gf ed cB AG | F2D2D2F2|d2d2c2c2| Bc de f2f2| gf ed fe dc | B2B2B2GA | B2B2B2d2| B2B2B2d2| B2B2cB AG | F2D2D2GA |B2B2B2d2| B2B2B2d2| gf ed cd ef | g2B2B2|]
+X: 5
+T: Gallopede, The
+Z: ceolachan
+S: https://thesession.org/tunes/7205#setting22012
+R: barndance
+M: 4/4
+L: 1/8
+K: Gmaj
+|: dc |B2 Bc A2 AB | G2 G2 G2 AB | c2 cd B2 Bc | A2 A2 A2 dc |
+B2 Bc A2 AB | G2 G2 G2 AB | cBAG FGAB | G2 G2 G2 :|
+|: dc |B2 gf e2 ed | dcBd A2 dc | B2 gf edcB | A2 A2 A2 dc |
+B2 gf e2 ed | dcBd A2 dc | BdcB AcBA | G2 G2 G2 :|
+|: Bc |d2 d2 d2 g2 | d2 d2 d2 g2 | d2 d2 edcB | c2 A2 A2 Bc |
+d2 d2 d2 g2 | d2 d2 d2 g2 | d2 Bc dcBA | G2 G2 G2 :|
+X: 6
+T: Gallopede, The
+Z: Mix O'Lydian
+S: https://thesession.org/tunes/7205#setting26312
+R: barndance
+M: 4/4
+L: 1/8
+K: Gmaj
+|: dc | B2 Bc A2 AB | G2 G2 G2 AB | cBcd edcB | A2 A2 A2 dc |
+B2 Bc A2 AB | G2 G2 G2 AB | cBAG FGAF | G2 G2 G2 :|
+dc | B2 gf e2 e2 | dcBc A2 dc | B2 gfed cB | A2 A2 A2 dc |
+B2 gf e2 e2 | dcBc A2 dc | BdcB AcBA | G2 G2 G2 Bc |
+.d2 .d2 .d2 g2 | .d2 .d2 .d2 g2 | .d2 .d2 edcB | A2 A2 A2 Bc |
+.d2 .d2 .d2 g2 | .d2 .d2 .d2 g2 | edcB dcBA | G2 G2 G2 |]

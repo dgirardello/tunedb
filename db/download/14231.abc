@@ -1,0 +1,24 @@
+X: 1
+T: Unlimited
+Z: MarcusDisessa
+S: https://thesession.org/tunes/14231#setting25859
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Dmaj
+|:A>df>d g2 g>f|d>fe>d e>dB>d|A>df>d g2 g>f|d>fe>d ~e2 e>d|
+|A>df>d g2 g>f|d>fe>d e>dB>d|g2 g>f d>fe>d|e>de>f d2 d>B:|
+|:g2 g>e f2 f>d|e>dB>d e>df>d|g>ag>e f>gf>d|f>ed>f e>Ac>e|
+|g2 g>e f2 f>d|e>dB>d e>df>d|g>ab>a g>fe>d|c>AB>c d2 d>B:|
+X: 2
+T: Unlimited
+Z: MarcusDisessa
+S: https://thesession.org/tunes/14231#setting26277
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Dmaj
+|:"D"A>df>d "G"g2 g>f|"D"d>fe>d "A"e>dB>d|"D"A>df>d "G"g2 g>f|"D"d>fe>d "A"~e2 e>d|
+|"D"A>df>d "G"g2 g>f|"D"d>fe>d "A"e>dB>d|"G"g2 g>f "D"d>fe>d|"A"e>de>f "D"d2 d>B:|
+|:"G"g2 g>e "D"f2 f>d|"A"e>dB>d "A"e>d"D"f>d|"G"g>ag>e "D"f>gf>d|"D"f>ed>f "A"e>Ac>e|
+|"G"g2 g>e "D"f2 f>d|"A"e>dB>d "A"e>d"D"f>d|"G"g>ab>a g>fe>d|"A"c>AB>c "D"d2 d>B:|

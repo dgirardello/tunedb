@@ -1,0 +1,24 @@
+X: 1
+T: Whitefriars
+Z: dubblestop
+S: https://thesession.org/tunes/8218#setting8218
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Gmaj
+AB|: cB AG FG AG| F2 D2 FG AB|
+A2 AB cB AG| FG AG FG Ac| B2 G2 G2 AB:|
+|: cB cd e2 f2| g2 e2 ag fe| de fd ef ge |a2 A2 A2 AB|
+cB cd e2 f2| g2 e2 ag fe| d2 A2 AB cd|B2 G2 G2 AB:|
+X: 2
+T: Whitefriars
+Z: Tullochgorum
+S: https://thesession.org/tunes/8218#setting30709
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Gmaj
+AB|: cBAG FGAF| GABG A2 DD|F2D2 FGAB|
+A3 B cBAG FGAF| GABG ABcd| B2 GF G2 AB:|
+|: cBcd e4| g4 agfe| defd ef ge |a2 A2 A2 AB|
+cBcd e4| g4 agfe| defd AB cd|B2 G2 G2 AB:|

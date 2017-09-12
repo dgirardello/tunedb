@@ -1,0 +1,64 @@
+X: 1
+T: Pachelbel's Frolics
+Z: Will Harmon
+S: https://thesession.org/tunes/487#setting487
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+(3ABc|:d2 dc defg|a2 ab agfe|A~B3 dcdB|ABGA FDEF|
+|GFGA ~B3c|dcde f2 fa|gfed cdef|1 ~g3f gfec:|2 gece d3 e||
+|fdAd fdAd|ecAc ecAc|dBFB dBFB|AGAB =cAFA|
+|GFGA ~B3^c|dcde ~f3 a|gfed cdef|~g3f gfeg|
+|fd (3ddd fd (3ddd|ec (3ccc ec (3ccc|dB (3BBB dB (3BBB|
+|AGAB =cAFA|G2 GF GAB^c|dcde f2 fa|gfed cdef|gece d2 (3ABc|
+X: 2
+T: Pachelbel's Frolics
+Z: Bleedin' Heart
+S: https://thesession.org/tunes/487#setting13394
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+|d3 c def^g|^gaag afed|BAB (d d)cdB|A3 A2 FDF||G3 B2 ABc|dcde faba|gfed Bdc/d/e|fdd/d/c dABc||d2 dc defa|a^gab afed|B3 c dcdB|A3 A2 FDF||GB,GA BGBd|dcde faba|gfed Bdce|fddc dfag|||:f/g/ada fada|eaca eaca|dfBf dfBf|AdFd AdFd||G3 B2 ABd|dcde faba|gfed Bdce|1 fddc dfag:|2 fddc dABc||(3ABc|:d3 c defg|a3 b agfe|B3 c dcdB|A2 AB ADEF||G3 A BABc|dAB/c/d faba|gfed Bdce|1 fddc dABc:|2 fddc daag|||:fada fadf|eaca eace|dfBf dfBf|AdFd AdFA||G3 A BABc|dAB/c/d faba|gfed Bdce|1 fddc daag:|2 fddc dABc|]
+X: 3
+T: Pachelbel's Frolics
+Z: laveylad
+S: https://thesession.org/tunes/487#setting13395
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+d3 d2 efg|a3 a2 fed|B3c d3B|ABAG FGAF|GFGA BABc|dcde fgaf|gfed cdef|gece d4:||f~d3 f~d3|e~c3 e~c3|d~B3 d~B3|c~A3 c~A3|GFGA BABc|dcde fgaf|gfed cdef|gece d4:||
+X: 4
+T: Pachelbel's Frolics
+Z: fynnjamin
+S: https://thesession.org/tunes/487#setting13396
+R: reel
+M: 4/4
+L: 1/8
+K: Cmaj
+((3GAB)|(cB)cd (cd)ef|(g^f)ga (ge)dc|(AG)AB (cd)cA|(GE)cA (GE)CE|(FE)FG (AG)AB|(cB)cd (eg)ag|(fe)dc (Ac)Bd|edcB c2 :||:(gf)|egcg egcg|dgBg dgBg|ceAe ceAe|GcEc GcEc|(FE)FG (AG)AB|(cB)cd (eg)ag|(fe)dc (Ac)Bd|edcB c2 :|
+X: 5
+T: Pachelbel's Frolics
+Z: birlibirdie
+S: https://thesession.org/tunes/487#setting13397
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+|fdAd fdAd|ecAc ecAc|dBFB dBFB|AGAB they're a nice echo of the Baroque.
+X: 6
+T: Pachelbel's Frolics
+Z: JACKB
+S: https://thesession.org/tunes/487#setting22865
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+(3ABc|:d2 dc defg|a3b agfe|B3A BcdB|ABGA FDEF|
+|G3A BABc |dcde fefa|gfed cdef|gece d4:||
+|fdAd fdAd|ecAc ecAc|dBFB dBFB|AGAB =cAFA|
+G3A BABc |dcde fefa|gfed cdef|gece d4:||
+|fa a2 fa a2|ea a2 ea a2|df f2 df f2|AGAB =cAFA|
+G2 GF GAB^c|dcde fefa|gfed cdef|1 gece d4:|2 gece d2 (3ABc||

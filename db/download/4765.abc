@@ -1,0 +1,64 @@
+X: 1
+T: Winter Night Schottische, The
+Z: LongNote
+S: https://thesession.org/tunes/4765#setting4765
+R: barndance
+M: 4/4
+L: 1/8
+K: Gmaj
+B2|:E2ED EFGA|B2BA B2e2|B2e2 B2AB|GBFB E2ED|
+~E3D EFGA|B2BA B2e2|B2e2 B2AB|GBFB E2 d/e/f|:
+g2B2 dBGB|cABG EGFE|DEFG ABcd|e/f/ed ^cd2 d/e/f|
+g2B2 dBGB|cABG EGFE|DEFG AcBA|1 G2B2 G2 d/e/f :|2 G2B2 G2||
+X: 2
+T: Winter Night Schottische, The
+Z: ceolachan
+S: https://thesession.org/tunes/4765#setting21764
+R: barndance
+M: 4/4
+L: 1/8
+K: Gmaj
+K: CMaj
+c'2 e>f g2 c>d | e>Bc>A G4 | G>AB>c d>ef>g | a2 g>^f g4 |
+c'2 e>f g2 c>d | e>Bc>A G4 | G>AB>c d>ef>B | c2 c>B c2 z2 ||
+|: A2 A>^G A>Bc>d | e2 e>^d e2 a2 | e2 a2 e2 d2 | c>dc>B A2 E2 |
+A2 A>^G A>Bc>d | e2 e>^d e2 a2 | e2 d>e c>dB>c |[1 A2 z2 a2 z2 :|[2 A2 z2 [B2g2] z2 ||
+c'2 e>f g2 c>d | e>Bc>A G4 | G>AB>c d>ef>g | a2 g>^f g4 |
+c'2 e>f g2 c>d | e>Bc>A G4 | G>AB>c d>ef>B | c2 c>B c2 z2 ||
+K: FMaj
+|: "trio"f2 fa cfAc | FAcf a4 | g2 gb egce | Gceg b4 |
+f2 fa cfAc | FAcf a3 f | efga bcde | f2 f2 f2 z2 :|
+K: CMaj
+c'2 e>f g2 c>d | e>Bc>A G4 | G>AB>c d>ef>g | a2 g>^f g4 |
+c'2 e>f g2 c>d | e>Bc>A G4 | G>AB>c d>ef>B | c2 c>B c2 "fine"z2 |]
+X: 3
+T: Winter Night Schottische, The
+Z: ceolachan
+S: https://thesession.org/tunes/4765#setting21766
+R: barndance
+M: 4/4
+L: 1/8
+K: Cmaj
+g2- g3/a/4b/4 |\
+c'2 e2 g2 c>d | e>dc>A G2- G>E | G>AB>c d>ef>g | a2 g>^f g2- g3/a/4b/4 |
+c'2 e2 g2 c>d | e>dcA G2- G>E | G>AB>c d>ef>d | e2 c2 c2 a2 ||
+|: A2 A>^G A>Bc>d | e>fe>^d e2 a2 | e2 a2 e2 d>e | c>dB>c A>GE>G |
+[E2A2]- [EA]>^G A>Bc>d | e>fe>^d e2 a2 | e2 d>e c>dB>c |[1 A4 [E2A4] :|[2 A4 g2- g3/a/4b/4 ||
+c'2 e2 g2 c>d | e>dc>A G2- G>E | G>AB>c d>ef>g | a2 g>^f g2- g3/a/4b/4 |
+c'2 e2 g2 c>d | e>dc>A G2- G>E | G>AB>c d>ef>d | e2 c2 c2- c>e ||
+K: FMaj
+|: "trio"f2 f>a c>fA>c | F>Ac>f a2 a>f | g2 g>b e>gc>e | G>ce>g b2 b>e |
+f2 f>a c>fA>c | F>Ac>f a2 a>f | e>fg>a b>cd>e |[1 f2 f2 f2- f>c :|[2 f2 f2 (f>g ^g3/)a/4b/4 ||
+K: CMaj
+c'2 e2 g2 c>d | e>dc>A G2- G>E | G>AB>c d>ef>g | a2 g>^f g2- g3/a/4b/4 |
+c'2 e2 g2 c>d | e>dc>A G2- G>E | G>AB>c d>ef>d | e2 c2 c2 a2 ||
+|: [E2A2]- [EA]>^G A>Bc>d | e>fe>^d e2 a2 | e2 a2 e2 d2 | c>dB>c A>GE>G |
+[E2A2]- [EA]>^G A>Bc>d | e>fe>^d e2 a2 | e2 d>e c>dB>c |[1 A4 [E4A4] :|[2 A4 g2- g3/a/4b/4 ||
+c'2 e2 g2 c>d | e>dc>A G2- G>E | G>AB>c d>ef>g | a2 g>^f g2- g3/a/4b/4 |
+c'2 e2 g2 c>d | e>dc>A G2- G>E | G>AB>c d>ef>d | e2 c2 c2- c>e ||
+K: FMaj
+|: "trio"f2 f>a c>fA>c | F>Ac>f a2 a>f | g2 g>b e>gc<e | G>ce>g b2 b>e |
+f2 f>a c>fA>c | F>Ac>f a2 a>f | e>fg>a b>cd>e |[1 f2 f2 f2- f>c :|[2 f2 f2 (f>g ^g3/)a/4b/4 ||
+K: CMaj
+c'2 e2 g2 c>d | e>dc>A G2- G>E | G>AB>c d>ef>g | a2 g>^f g2- g3/a/4b/4 |
+c'2 e2 g2 c>d | e>dcA G2- G>E | G>AB>c d>ef>d | e2 c2 "fine"[G4c4] |]

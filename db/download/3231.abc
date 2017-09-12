@@ -1,0 +1,45 @@
+X: 1
+T: Muineira De Poio
+Z: Christian_T
+S: https://thesession.org/tunes/3231#setting3231
+R: jig
+M: 6/8
+L: 1/8
+K: Fmaj
+B|BAB G2B|AGA F2A|GEG FDF|GEC C2A|
+|:BAB G2B|AGA ~F3|~G3 FDF|GEC C3:|
+BAB DFB|AGA CFA|GEG FDF|GEC C3||
+K: C
+|:FAG EGF|DFE ~C3|GEG FEF|GEC ~C3|
+FAG EGF|DGE C3|AGE GFD|C3 C3:|
+|:FD=B, =B,D=B,|GEC C=B,C| AGE GF=B,|D2C CEC|
+FD=B, =B,D=B,|GEC C=B,C|AGE GFD|C3 CEC:|
+X: 2
+T: Muineira De Poio
+Z: Bill Reeder
+S: https://thesession.org/tunes/3231#setting16307
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+B|:"Am"cBc A2c|"G"BAB G2B|"D"AFA "G"GEG|"D"AFD D2B|![1 "Am"cBc A2c|"G"BAB G2B|"D"AFA "G"GEG|"D"AFD D2B:|![2 "Am"cBc "C"EGc|"G"BAB "G"DGB|"D"AFA "G"GEG|"D"AFD D3||!"G"GBA "D"FAG|"A"EGF "D"~D3|"D"AFA "G"GEG|"D"AFD ~D3|!"G"GBA "D"FAG|"A"EGF "D"~D3|"G"BAF "A"AGE|"D"~D3 D3:||!"A"ge^c cBc|"D"afd d^cd|"G"baf "A"ag^c|"A"e2d "D"d^cd|!"A"ge^c cBc|"D"afd d2d|"G"baf "A"ge^c|"D"d3-d3:||
+X: 3
+T: Muineira De Poio
+Z: JACKB
+S: https://thesession.org/tunes/3231#setting25870
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+B|:"Am"cBc A2c|"G"BAB G2B|"D"AFA "G"GEG|"D"AFD D3|
+[1 "Am"cBc A2c|"G"BAB G2B|"D"AFA "G"GEG|"D"AFD D2B:|
+[2 "Am"cBc "C"EGc|"G"BAB "G"DGB|"D"AFA "G"GEG|"D"AFD D3||
+"G"GBA "D"FAG|"A"EGF "D"D3|"D"AFA "G"GEG|"D"AFD D3|
+"G"GBA "D"FAG|"A"EGF "D"D3|"G"BAF "A"AGE|"D"D3 D3:||
+B|:"Am"cBc A2c|"G"BAB G2B|"D"AFA "G"GEG|"D"AFD D3|
+[1 "Am"cBc A2c|"G"BAB G2B|"D"AFA "G"GEG|"D"AFD D2B:|
+[2 "Am"cBc "C"EGc|"G"BAB "G"DGB|"D"AFA "G"GEG|"D"AFD D3||
+"G"GBA "D"FAG|"A"EGF "D"D3|"D"AFA "G"GEG|"D"AFD D3|
+"G"GBA "D"FAG|"A"EGF "D"D3|"G"BAF "A"AGE|"D"D3 D3:||
+"A"ge^c cdc|"D"afd dB/^c/d|"G"baf "A"ag^c|"A"e2d "D"dB/^c/d|
+"A"ge^c cdc|"D"afd dB/^c/d|"G"baf "A"age|"D"d3-d3:||

@@ -1,0 +1,38 @@
+X: 1
+T: Aarne Tarvaisen's
+Z: Mix O'Lydian
+S: https://thesession.org/tunes/12129#setting12129
+R: mazurka
+M: 3/4
+L: 1/8
+K: Dmin
+|: A>B AG FE | D>d d2 d2 | A>^c ^c2 ^c2 | A>d d2 d2 |
+A>B AG FE | D>d d2 d2 | A>^c ^c2 ^cA | d2 d4 :|
+|: f>e d2 d^c | e2 A4 | a2 g2 ge | a>f d3 e |
+f>e d2 dc | B>A G2 F2 | E>A A2 A^c | d2 d4 :|
+X: 2
+T: Aarne Tarvaisen's
+Z: ceolachan
+S: https://thesession.org/tunes/12129#setting21123
+R: mazurka
+M: 3/4
+L: 1/8
+K: Dmin
+|: z2 | "Dm" A>B AG FE | D2 d2 d2 | "A7" A2 ^c2 c2 | "Dm" A2 d2 d2 |
+"Dm" A>B AG FE | D2 d2 d2 | "A7" A2 ^c2 cA | "Dm" d2 d2 :|
+|: z e | "Dm" fe d2 d^c | "A7" e2 A4 | a2 g2 ge | "Dm" af d2 de |
+"Dm" fe d2 dc | "Gm" B>A G2 F2 | "A7" E2 A2 A^c | "Dm" d2 d2 :|
+X: 3
+T: Aarne Tarvaisen's
+Z: ceolachan
+S: https://thesession.org/tunes/12129#setting21124
+R: mazurka
+M: 3/4
+L: 1/8
+K: Emin
+|: E>G | B>c B>A G>F | E2 e2 e2 | B2 ^d2 d2 | B2 e2 e>G |
+B>c (3cBA G>F | E2 e2 e2 | B2 ^d2 d>B | e2- e2 :|
+e>f | g>f e2 e>^d | f2 B2- B2 | b2 a2- a>f | b>g e2- e>f |
+g>f e2 e>d | c>B A2- A>G | F2 B2- B>^d | e2- e2 (3^def |
+g>f e2- e>^d | f2 B2- B2 | b>a a2 a>f | b>g e2 e>f |
+g>f e2 e>d | c>B A2- A>_B | B>^d f>B d>B | e2 E2- |]

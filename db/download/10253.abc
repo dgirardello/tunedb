@@ -1,0 +1,35 @@
+X: 1
+T: Pi, The
+Z: DonaldK
+S: https://thesession.org/tunes/10253#setting10253
+R: waltz
+M: 3/4
+L: 1/8
+K: Gmaj
+B3B d2|A3A B2|G3F ED|D4(3DDD|D2Ez zF|G2E2F2|G2A2B2|c2e2d2|
+B3B d2|A3A B2|G3F ED|D4(3DDD|D2Ez zF|G2A2B2|c2e2d2|G6:|
+|:g4 fe|d2B2B2|e3e dc|B2G2G2|F2A2c2|e2d2c2|B2d2g2|d2g2b2|
+g3g fe|d2B2B2|e3e dc|B2G2G2|F2A2c2|e3d F2|G6|G6:|
+|:b4g2|f3f a2|e3e g2|d6|Bd Ac Bd|gz Gz zA|B3d AB|G6:|
+X: 2
+T: Pi, The
+Z: DonaldK
+S: https://thesession.org/tunes/10253#setting20266
+R: waltz
+M: 3/4
+L: 1/8
+K: Gmaj
+{A}B3(Bd2)|A3(AB2)|{F}G3F T(ED)|{C}[D4D4](3DDD|([D2D2].[D2E2]) zF|(G2.E2)F2|G2.A2B2|c2{c}(e2d2)|
+B3(Bd2)|A3(AB2)|{F}G3F T(ED)|{C}[D4D4](3DDD|([D2D2].[D2E2]) zF|G2A2B2|c2{c}(e2d2)|G6:|
+|:{f}g4 fe|{c}d2.B2B2|{Bd}e3e dc|TB2.G2G2{AG}|F2A2c2|{cd}e2.d2c2|B2.d2g2|d2.g2{ga}b2|
+{f}g3g fe|{c}d2.B2B2|{Bd}e3e dc|TB2.G2G2{AG}|F2A2c2|{cd}e3dF2|G6|G6:|
+|:(b4g2)|{e}f3(f a2)|e3(e g2)|d6|(Bd) Ac Bd|.g2.G2 zA|{A}B3(d AB)|{F}G6:|
+X: 3
+T: Pi, The
+Z: DonaldK
+S: https://thesession.org/tunes/10253#setting20267
+R: waltz
+M: 3/4
+L: 1/8
+K: Gmaj
+End of second last line should read: |{cd}e3dF2|G6|G6:|

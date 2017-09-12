@@ -1,0 +1,60 @@
+X: 1
+T: Down The Back Lane
+Z: swisspiper
+S: https://thesession.org/tunes/1496#setting1496
+R: jig
+M: 6/8
+L: 1/8
+K: Dmix
+d | cAG A2 G | FDE ~F2 d | c.A.A BAG | Ade (3.a.f.e d |
+cAG A2 G | FDE F2 G | A.d.d (3.g.f.e d | ecA GGG |
+ABG A2 G | FDE FF d | c.A.A BAG | Ade fed |
+cAG A2 G | FDE ~F2 G | A.d.d fed | ecA ~G3 |
+|: A.d.d fed | cAB cAG | A.d.d (3.g.f.e d | ecA G3 |
+A.d.d (3.g.f.e d | cAB cde | (fa) .g .e.f.d | cAF G3 :|
+%variations
+d | AAA A2 G | FDE F2 d | {d}c.A.A {c}BAG | A.d.d uf.d.d |
+cAG .A.A.G | FDE F2 G | ATd2 ufed | uecA !slide!~G3 |
+(3AcA A A2 G | FDE F2 d | c.A.A BAG | Ade fed |
+cAG (3AcA G | FDE FF G | A.d.d {g}fed | {g}ecA !slide!~G3 |
+|: Add fdd | cAA BAG | A.d.d fed | ecA !slide!~G3 |
+.A.A d fed | cAB cde | (3fag f (3.g.f.e d | {d}cAF ~G3 :|
+X: 2
+T: Down The Back Lane
+Z: gian marco
+S: https://thesession.org/tunes/1496#setting14882
+R: jig
+M: 6/8
+L: 1/8
+K: Dmix
+ABG A2G|FDE F2d|cAA BAG|Ade fed|cAG A2G|FDE F2G|Add fed|e^cA ~G3:||:Add fed|cAB cAG|Add fed|e^cA ~G3|Add fed|cAB cde|fag efd|cAF ~G3:|
+X: 3
+T: Down The Back Lane
+Z: Will Harmon
+S: https://thesession.org/tunes/1496#setting14883
+R: jig
+M: 6/8
+L: 1/8
+K: Dmix
+ABG A2 G|FDE F2 d|cAA BAG|Ade fed|cAG ABG|FDE F2 G|Add fed|e^cA ~G3:||Add fed|^cAB =cAG|Add fed|e^cA ~G3|Add fed|^cAB ^cde|fag efd|e^cA ~G3:||
+X: 4
+T: Down The Back Lane
+Z: Manu Novo
+S: https://thesession.org/tunes/1496#setting14884
+R: jig
+M: 6/8
+L: 1/8
+K: Dmix
+ABG AAG|FDE FFd|cAA BAG|Ade (3gfed|cAG AAG|FDE FFG|Add fdd|ecA ~G3:||AAd fdd|cAB cAG|AAd fdd|ecA ~G3|AAd fdd|cAB cde|faf fed|ecA ~G3:||
+X: 5
+T: Down The Back Lane
+Z: JACKB
+S: https://thesession.org/tunes/1496#setting25894
+R: jig
+M: 6/8
+L: 1/8
+K: Dmix
+|:ABG A2G|FDE F2d|cAA BAG|Ade g/f/ed|
+cAG A2G|FDE F2G|Add fed|e^cA G3:||
+|:Add fed|cAB cAG|Add g/f/ed|e^cA G3|
+Add fed|cAB cde|fag efd|cAF G3:||

@@ -1,0 +1,60 @@
+X: 1
+T: Coolin, The
+Z: daithic
+S: https://thesession.org/tunes/1815#setting1815
+R: waltz
+M: 3/4
+L: 1/8
+K: Cmaj
+G A/B/| (c2 B/c/) (d>B)| c2 E2 (3CEG|(c>B) cd/e/ d>c|
+c2B2 c>B|A2 Bc (d/c/) (B/A/)|G2 (EG) cG|B/A/G/F/ EC {D/E/} DC |
+C4 G>F| (E>D) (C>D) (E>^F)|(G>^F G>A) B>G|(c>B) (cd/e/) d>c|
+(c2 B2) c>B|(A2> Bc) (d/c/) (B/A/)|G2 (EG) cG|B/A/G/F/ EC {D/E/} DC | C4||
+X: 2
+T: Coolin, The
+Z: philmoz
+S: https://thesession.org/tunes/1815#setting15255
+R: waltz
+M: 3/4
+L: 1/8
+K: Dmaj
+|:(3ABc|d2 ~d>f (f/e/)d/c/|~d2 A2 (3DFA|d2 (de/f/) {f}e>d|(d2c)z ~d>c|~(B2 B)c/d/ (e/d/)(c/B/)|A2 (FA) (d>A)|(c/B/)A/G/ F2 E2|D4:||:A>G|~F>E (D>E) (FG)|A>^G AB cA|~d>c (de/f/) ed|(d2c2) d>c|~B2 (B/c/d/c/) (e/d/)(c/B/)|A2 (FA) d>A|(c/B/)(A/G/) F2 E2|D4:|
+X: 3
+T: Coolin, The
+Z: JACKB
+S: https://thesession.org/tunes/1815#setting23158
+R: waltz
+M: 3/4
+L: 1/8
+K: Gmaj
+|:de/f/|g2 g2 a>f|gd B2 (3GBd|g>f (3gab ag|g2 f2 gf/d/|
+e3 f/g/ a(3g/f/e/|d2 B>d g>G|GB/d/ f3{fgf}e/d/|dc/A/ B2 GA/B/|
+A2 G2 GF|G4 G2|dc B3A|GA Bc|d^c de fd|g>f (3gab a>g|
+g2 f2 g>f/d/|e3 f/g/ a(3g/f/e/|d2 B>d g>G|GB/d/ f{fgf}e/d/|
+dc/A/ B2 GA/B/|A2 G2 GF|G4 G4| G4 z2||
+X: 4
+T: Coolin, The
+Z: JACKB
+S: https://thesession.org/tunes/1815#setting25119
+R: waltz
+M: 3/4
+L: 1/8
+K: Dmaj
+|:AB/c/|(d2 d2) e>c|d>A F2 DF/A/|d>c de/f/ ed|d2 c2 dc/A/|
+B3 c/d/ e(3d/c/B/|A2 F>A d>D|DF/A/ c3{cdc}B/A/|AG/E/ F2 DE/F/|
+E2 D2 D2|D4 D2|AG F3E|D>E F>G|A^G AB cA|d>c de/f/ e>d|
+d2 c2 d>c/A/|B3 c/d/ e(3d/c/B/|A2 F>A d>D|DF/A/ c{cdc}B/A/|
+AG/E/ F2 DE/F/|E2 D2 D2|D4 D4| D4 z2||
+X: 5
+T: Coolin, The
+Z: JACKB
+S: https://thesession.org/tunes/1815#setting25125
+R: waltz
+M: 3/4
+L: 1/8
+K: Gmaj
+|:de/f/|(g2 g2) a>f|g>d B2 GB/d/|g>f ga/b/ ag|g2 f2 gf/d/|
+e3 f/g/ a(3g/f/e/|d2 B>d g>G|GB/d/ f3{fgf}e/d/|dc/A/ B2 GA/B/|
+A2 G2 G2|G4 G2|dc B3A|G>A B>c|d^c de fd|g>f ga/b/ a>g|
+g2 f2 g>f/d/|e3 f/g/ a(3g/f/e/|d2 B>d g>G|GB/d/ f{fgf}e/d/|
+dc/A/ B2 GA/B/|A2 G2 G2|G4 G4| G4 z2||

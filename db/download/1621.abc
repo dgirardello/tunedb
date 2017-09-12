@@ -1,0 +1,80 @@
+X: 1
+T: Donegal, The
+Z: Bannerman
+S: https://thesession.org/tunes/1621#setting1621
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+((3A,B,C)|D2DE FDFA|dFAF BFAF|E2EF GFGA|Bd AF EGFE|
+D2DE FDFA|dABF ABde|((3fgf) ((3efe) dBAG|1 FGEF D2:|2 FGEF D3A||
+|:defg afdf|afdf a2gf|edef gfed|cdef g2fe|
+defg afdf|afdf abag|((3fgf) ((3efe) dBAG|1 FGEF D3A:|2 FGEF D2||
+X: 2
+T: Donegal, The
+Z: Ger the Rigger
+S: https://thesession.org/tunes/1621#setting15047
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+|:defg afdg|fdfg bagf|e=cef (3gag fg|ecef (3gagfe|defg afdf|afdf abag|((3fgf) ((3efe) dBAG|1 FGEF D3A:|2 FGEF D2||
+X: 3
+T: Donegal, The
+Z: Ediot
+S: https://thesession.org/tunes/1621#setting24953
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+A,B,C||DCDE FEFA|d F3 DFAF|E3 FGFG A|BFAF EGFE|DCDE FEFA|d F3 ABde|
+fdec dBAG|FGEG D2 A,B,C||DCDE FEFA|d F3 dFcF|BFAF EFGA|BFAF EDFE|
+D A,3 DEFA|ded cdBc de|fgec dABG|FAGE FDDA||defg a f3|afdf a2 gf|ed’ef gfed|
+3Bcd ef g2 fe|defb afdf|afdf abag|fgf ecdB AG|FGF EGFD DA||defb afdf|afdf a2 gf|
+e B3 Gged|cdef gefe|defg a f3|afdf abag|fgec dBAG|FGEF D 3A,B,C||D2 DEFE FA|
+dF 3FFF DFAF|EB,EF GFGB|edc dcB cBA GFE|DCDE FEFA|dF 3FFF ABde|
+fgec dABG|FGEG FD D2||EDA,D EFEF|A dF 3FFF DFAF|E3 FGFG A|BFAF EGFE|
+3DDD DE FEFA|dF 3FFF ABde|fdec dBAG|FGEF D2 AB||defg a f3|afdf a2 gf|
+e^d’ef gfed|Bcd efge fe|defb a f3|afdf abag|fgf 3efe dBAG|FGF EGFD DA||defb afdf
+afdf a2 gf|e B3 Gged|cdef g2 fe|defg afdf|afdf abag|fdec dBAG|FGEF D2 A,B,C||
+DCDE FEFA|d F3 DFAF|E3 FGFG A|BFAF EGFE|DCDE FEFA|d F3 ABde|
+fdec dBAG|FGEF D2 A,B,C||DCDE FEFA|d F3 dFcF|BFAF EFGA|BFAF EDFE|
+D A,3 DEFA|ded cdBc de|fgec dABG|FAGE FDDA||d2 dcde fg|a2 agaf df|e^d’ef gfge|
+aaa fage ce|ddd cede fg|a f3 afde|fgec dABG|FFF EGFD DA||defg afdf|afdf a2 gf|
+e B3 Gged|cdef gefe|defb a f3|afdf abag|fgec dBAG|FGEF D4||
+X: 4
+T: Donegal, The
+Z: JACKB
+S: https://thesession.org/tunes/1621#setting24956
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+|D2 DE FDFA|dFAF BFAF|E3F GFGA|(3Bcd AF EGFE|
+D2 DE FDFA|dFAF ABde|f2 ef dBAG|1 FGEF D2:|2 FGEF D3A||
+|:defg afdf|afdf a2gf|edef gfed|(3Bcd ef g2 fe|
+defg afdf|afdf a3g|f2 ef dBAG|1 FGEF D3A:|2 FGEF D2||
+X: 5
+T: Donegal, The
+Z: Moxhe
+S: https://thesession.org/tunes/1621#setting27635
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+A,|D2 DE FEFA|dFAF BFAF|E2 EF GFGA|(3Bcd AF EGFE|
+D2 DE FEFA| dFAF ABde|(3fga ec dABG|(3FGF EF D2||
+A2|defg afdf|afdf a2 (3agf|edef gfed|edef g2 (3gfe|
+defg afdf|afdf abag|(3fgf (3efe dABG|(3FGF EF D2|]
+X: 6
+T: Donegal, The
+Z: Thady Quill
+S: https://thesession.org/tunes/1621#setting29736
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+|: AF | D2DE FDFA | dAFA BFAF | E^DEF GFGA | (3BAG AF EGFE |
+| DCDE FDFA | dAFA ABde | faef dBAG | FAEF D2 :||
+|: A | defg afdf | afdf a2gf | e^def gfed | (3Bcd ef (3gbg fe |
+| defg afdf | afdf a3g | (3fgf (3efe dBAG | (3FGF (3EFE D3:|

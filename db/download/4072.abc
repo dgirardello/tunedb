@@ -1,0 +1,54 @@
+X: 1
+T: Glen Aln, The
+Z: Dr. Dow
+S: https://thesession.org/tunes/4072#setting4072
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Gmaj
+(3DEF|GDB,D GBdB|gf (3efg dBGF|EGce DGBd|Agfe (3ded (3cBA|
+GDB,D GBdB|gf (3efg dBGF|EecA DdBG|(3FED (3cBA G2:|
+|:(3Bc^c|dBGB dBgd|(3efg dg BdGB|cAaA cAag|(3fga (3gfe (3ded (3Bc^c|
+dBGB dBgd|(3efg dg BgGF|EecA DdBG|(3FED (3cBA G2:|
+X: 2
+T: Glen Aln, The
+Z: Dr. Dow
+S: https://thesession.org/tunes/4072#setting16875
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Gmaj
+(3DEF|G*DB,D GBdB|gf (3efg dBGF|EGce DGBd|Adfe (3ded (3cBA|G*DB,D GBdB|gf (3efg dBGF|EecA DdBG|(3FED (3cBA G2:||:(3Bc^c|dBGB dBgd|(3efg dg BgGB|(3cBA aA (3cBA ag|(3fga (3gfe (3ded (3Bc^c|dBGB dBgd|(3efg dg BgGF|EecA DdBG|(3FED (3cBA G2:|
+X: 3
+T: Glen Aln, The
+Z: Dr. Dow
+S: https://thesession.org/tunes/4072#setting16876
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Cmaj
+(3GAB|cGEG cege|c'b (3abc' gecB|Acfa Gceg|dc'ba (3gag (3fed|cGEG cege|c'b (3abc' gecB|Aafd Ggec|(3BAG (3fed c2:||:ef|gece gec'g|(3abc' gc' egce|fdd'd fdd'c'|(3bc'd' (3c'ba (3gag ef|gece gec'g|(3abc' gc' ec'cB|Aafd Ggec|(3BAG (3fed c2:|
+X: 4
+T: Glen Aln, The
+Z: ceolachan
+S: https://thesession.org/tunes/4072#setting28372
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Fmaj
+|: (3CDE |F>DC>D F>Ac>A | f2 d>f c>AF>E | D>FB3/[D/F/] C>FA>c | G>fe>d (3cdc (3BAG |
+F>DC>D F>Ac>A | f>e (3def c>AF>E | D>dB>D C>cA>F |[1 (3EDC (3BAG F2 :|[2 (3EDC (3BAG F3/ ||
+|: G/ A2 |c>AF>A c>Af>c | (3def c>f A>cF>A | B>Gg>G B>Gg>f | (3efg (3fed |3cdc A>B |
+c>AF>A c>Af>c | (3def c>f A>cF>c | D>dB>D C>cA>F |[1 (3EDC (3BAG F3/ :|[2 (3EDC (3BAG F2 |]
+X: 5
+T: Glen Aln, The
+Z: ceolachan
+S: https://thesession.org/tunes/4072#setting28373
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Gmaj
+|: (3DEF |G>ED>E G>Bd>B | g2 e>g d>BG>F | E>Gc3/[E/G/] D>GB>d | A>gf>e (3ded (3cBA |
+G>ED>E G>Bd>B | g>f (3efg d>BG>F | E>ec>E D>dB>G |[1 (3FED (3cBA G2 :|[2 (3FED (3cBA G3/ ||
+|: A/ B2 |d>BG>B d>Bg>d | (3efg d>g B>dG>B | c>Aa>A c>Aa>g | (3fga (3gfe (3ded B>c |
+d>BG>B d>Bg>d | (3efg d>g B>dG>d | E>ec>E D>dB>G |[1 (3FED (3cBA G3/ :|[2 (3FED (3cBA G2 |]

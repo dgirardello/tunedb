@@ -1,0 +1,41 @@
+X: 1
+T: Grumbling Old Man And Woman, The
+Z: SPeak
+S: https://thesession.org/tunes/1006#setting1006
+R: reel
+M: 4/4
+L: 1/8
+K: Ador
+CA,EA, CA,EA,|B,G,DG, B,G,DG,|CA,EA, CA,EA,|1 B,A,G,B, A,2A,B,:|2 B,A,G,B, A,2z2||
+e2ed ^cdef|g2gf ed^cd|efed ^cded|eaa^g a2ef|
+=gfed ^cdef|g2ge dBGB|=c2Bc AGEF|GEDB, A,2A,B,||
+X: 2
+T: Grumbling Old Man And Woman, The
+Z: drone
+S: https://thesession.org/tunes/1006#setting14223
+R: reel
+M: 4/4
+L: 1/8
+K: Amix
+A,2 CA, EA,CA,|G,2, B,G, DG, B,G,|A,2 CA, EA, CA,|1 B,A,G,B, A,2A,B,:|2 B,A,G,B, A,2z2||efed cdef|gedc BG Gz |efed cdef|ea{b}a^g a2ef|=gfed cdef|gedc BGAB|(3=cBA BG AGEF|GFED B,A, A,2||
+X: 3
+T: Grumbling Old Man And Woman, The
+Z: Slippyroad
+S: https://thesession.org/tunes/1006#setting14224
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+(A,B,) |:A,2 (A,C)EA, CE|DG,B,D GDB,G, |A,2 (A,C) EA, CE |[1DG, B,D A,2 (A,B,) :|[2DG, B,D A,2 (cd) ::efed cdef |ged=c (BG) G2 |ef ed cd ec |(ea) (a^g) a2 (ef) |gfed cdef |ged=c (BG) G2 |=cABG AG ED |[1GE DB, A,2 (cd) :|[2GE DB, A,2 z2 :|
+X: 4
+T: Grumbling Old Man And Woman, The
+Z: JACKB
+S: https://thesession.org/tunes/1006#setting27988
+R: reel
+M: 4/4
+L: 1/8
+K: Edor
+|:GEBE GEBE|FDAD FDAD|GEBE GEBE| FEDF E2EF|
+GEBE GEBE|FDAD FDAD|GEBE GEBE| FEDF E2z2||
+|:B2BA ^GABc|d2dc BA^GA|BcBA ^GABA|Bee^d e2Bc|
+=dcBA ^GABc|d2dB AFDF|=G2FG EDBc|dBAF E2EF||

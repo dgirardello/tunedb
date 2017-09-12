@@ -1,0 +1,106 @@
+X: 1
+T: Humours Of Ballyloughlin, The
+Z: Will Harmon
+S: https://thesession.org/tunes/210#setting210
+R: jig
+M: 6/8
+L: 1/8
+K: Dmix
+|:ABA AGE|GED D2 B|cBc ded|cAG FED|
+ABA AGE|~G3 cGE|DED DFA|1 DED D2 A:|2 DED D2 B||
+|:~c3 cBc|cAG AB^c|~d3 ded|dAF DFA|
+cBc dcB|cAG FGE|DED DFA|1 DED D2 B:|2 DED D2 e||
+|:fdd gdd|fdd gdd|^cde ged|^cde ~g3|
+fdd gdd|fdd ged|^cde gag|1 ed^c d2 e:|2 ed^c d^cB||
+|:AFD ABG|~F3 GED|~E3 EFG|~E3 EFG|
+ABA dAG|~F3 GEA|DED DFA|1 DED D2 A:|2 DED D3||
+X: 2
+T: Humours Of Ballyloughlin, The
+Z: gian marco
+S: https://thesession.org/tunes/210#setting2415
+R: jig
+M: 6/8
+L: 1/8
+K: Dmix
+|:A3 AGE|GED ~D3|c2A ded|cAG FED|
+~A3 AGE|~G3 cGE|~D3 DFA|1~D3 D3:|2~D3 D2B||
+|:c3 cAB|cAG ABc|ded dfe|dAF DFA|
+cBc dcB|cAG FGE|~D3 DFA|1~D3 D2B:|2~D3 D2e||
+|:fdd gdd|fdd ged|cde ged|B/c/de ged|
+fdd gdd|f2a ged|B/c/de ~g3|1ed^c d2e:|2ed^c dcB||
+A2D A2G|~F3 FED|FEE EFD|FEE EFG|
+~A3 dAG|~F3 GEA|~D3 DFA|~D3 D3|
+A2D A2G|~F3 FED|~E3 EFD|~E3 EFG|
+~A3 dAG|~F3 GEA|~D3 DFA|~D3 D3|
+X: 3
+T: Humours Of Ballyloughlin, The
+Z: swisspiper
+S: https://thesession.org/tunes/210#setting21054
+R: jig
+M: 6/8
+L: 1/8
+K: Dmix
+|:A3 AGE|GED (3DDD D|c2A ded|cAG F!open!E{G}D|
+(3.A.B.A .A {d}AGE|~G3 !slide!cGE|D(3DDD DFA| D(3DDD D2 B:|
+|:!slide!Tc3 {d}cBc|{d}cAG AB^c|.d.e.d .d.f.d|dAF DFA|
+c{d}cA dcB|cAG FGE|D(3DDD DFA| D(3DDD D2 e:|
+|:uf.d.d {a}ged|uf.d.d {a}ged|(3.B.^c.d e !slide!ged|(3.B.^c.d e !slide!ged|
+uf.d.d {a}ged|uf.d.d {a}ged|^cde gag| ed^c d2 B:|
+|:A.A.D A.A.G|!slide!~F3 {A}GED|(3.EEE E .EFD|(3.EEE E .EFA|
+~A3 dAG|~F3 GEA|D(3DDD DFA| D(3DDD D2 A:|
+X: 4
+T: Humours Of Ballyloughlin, The
+Z: JACKB
+S: https://thesession.org/tunes/210#setting22800
+R: jig
+M: 6/8
+L: 1/8
+K: Dmix
+|:A/c/AA AGE|GED D3|c2A ded|cAG FED|
+A3 AGE|FGG cGE|D3 DFA|1D3 D3:|2D3 D2B||
+|:c3 c2B|cAG ABc|ded dfe|dAF DF/G/A|
+cBc dcB|cAG FGE|D3 DFA|1D3 D2B:|2D3 D2e||
+|:fdd ged|fdd ged|c2e ged|c/d/ef ged|
+fdd ged|f2a ged|c/d/ef g3|1ed^c d2e:|2ed^c dcB||
+A2D A2G|EFF GED|E3 EFD|E3 EFG|
+A3 dAG|F3 GEA|D3 DFA|D3 D3:||
+X: 5
+T: Humours Of Ballyloughlin, The
+Z: JACKB
+S: https://thesession.org/tunes/210#setting25783
+R: jig
+M: 6/8
+L: 1/8
+K: Dmix
+|:Ac/A/A AGE|GED D3|c2A dfd|cAG {FG}FED|
+Ac/A/A AGE|FGG cGE|D3 DFA|D3 D3:||
+|:B|c3 c2B|cAG ABc|df/e/d ded|dcA DF/G/A|
+cBc dcB|cAG FGE|D3 DFA|D3 D3:||
+|:fdd ged|fdd ged|c2e ged|c/d/ef ged|
+fdd ged| f2a ged|c/d/ef gag|ed^c d3:||
+|:B|A2D A2G|EFF GED|E3 EFD|E3 EFG|
+A3 dAG|F3 GEA|D3 DFA|D3 D2:||
+X: 6
+T: Humours Of Ballyloughlin, The
+Z: JACKB
+S: https://thesession.org/tunes/210#setting27024
+R: jig
+M: 6/8
+L: 1/8
+K: Dmix
+|:Ac/A/A AGE|GED D3|(c3 c)Ad|dcA {FG} GEA|
+DE/F/G AGE|Gc/A/G cGE|DAD DFA|GEA DE/F/G:||
+|:A/c/AD AGE|GED D3|cAd cAd|d^cA GEA|
+DE/F/G AGE|G2c FGE|DAD DFA|GEA DAA|
+|:c3 cAB|cAG AB^c|d_ed df/g/d|dcA AGF|
+cde dcB|cAG FGE|DAD DFA|GEA DAA||
+|:cAA cAA|cAG AB^c|ded f3|fed AGF|
+c2e dcB|cAG FGD|D3 DFA|GEA DAE||
+|:fdd GEd|f3 ged|B/c/de ged|=cde ged|
+dF/G/d ged|faf ged|B/c/de gag|ed^c d2e||
+|:f3 g3|efa ged|cde g3|cde ged|
+df/g/d ged|fc/a/f ged|B/c/de gag|ed^c dE/F/G||
+|:A3 ABG|F3 G/F/ED|^D2E EF=D|EFD EFG|
+A3 dAG|FAF GEA|D3 DFA|DFA dE/F/g||
+|:A/^c/AD ABG|F3 G/F/ED |^D2E FG2|BAG dB^G|
+A^ed cAG|FAF GEA|F3 FAE|DFA dE/F/G||

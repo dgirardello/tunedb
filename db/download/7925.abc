@@ -1,0 +1,21 @@
+X: 1
+T: C
+Z: mehitabel23
+S: https://thesession.org/tunes/7925#setting7925
+R: polka
+M: 2/4
+L: 1/8
+K: Cmaj
+|: G,C CB,/C/ | DB, CD/E/ | FF EC | B,/C/D/C/ B,/A,/G, |
+G,C CB,/C/ | DB, CD/E/ | FF EC | DB, C2 :|
+|: EF/G/ EF/G/ | ED/C/ B,>B, | C/B,/C/D/ E/D/C/B,/ | A,B, A,G, |
+EF/G/ EF/G/ | ED/C/ B,>B, | C/B,/C/D/ E/D/C/B,/ | A,B, C2 :|
+X: 2
+T: C
+Z: hetty
+S: https://thesession.org/tunes/7925#setting19194
+R: polka
+M: 2/4
+L: 1/8
+K: Cmaj
+Bars 3 & 4 (A music) should read; | FD/F/ EC | D/E/D/C/ B,/A,/G, |Bars 7 & 8 (A music) should read; | FD/F/ EC | DB, C2 :|Bars 10 & 11 (B music) should read; | ED/C/ B,>C | D/C/D/E/ F/E/D/C/ | Bars 14 & 15 (B music) should read; | ED/C/ B,>C | DD/E/ F/E/D/C/ |

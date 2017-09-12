@@ -1,0 +1,37 @@
+X: 1
+T: Coolinarne
+Z: JACKB
+S: https://thesession.org/tunes/4308#setting4308
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+G2A Bc/2d/2G | Bc/2d/2e g3 | edB dB/2c/2d | edB AGE |
+G2A Bc/2d/2G | Bc/2d/2e g3 | edB dBA | AGF G3 :|
+Bdd edB | agf g2a | bag egd | Bc/2d/2B AGA |
+Bdd edB | agf g2a | bag egd | AGF G3 :|
+X: 2
+T: Coolinarne
+Z: ceolachan
+S: https://thesession.org/tunes/4308#setting17010
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+|: DGG BAG | B/c/de ~g3 | edB AB/c/d | edB AGE |DGG BAG | B/c/de ~g3 | edB ~A3 |1 AGF GFE :|2 AGF G3 |||: Bdd eda | agf g2a | bag edB | BdB AGA |Bdd eda | agf ~g3 | bag edB | AGF G3 :|
+X: 3
+T: Coolinarne
+Z: Mikethebook
+S: https://thesession.org/tunes/4308#setting23270
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+G2A B/2c/2dG | B/2c/2de ~g3 | edB dB/2c/2d | edB {c/}AGE |
+~G2 ABdG | B/2c/2de gze | {a/}edB dB/2A/2G | {c/}AGF GBA |
+G2A B/2c/2dG |B/2c/2de !slide!g2 e| {a/}edB dB/2c/2d | edB {c/}AGE |
+~G2A B/2c/2dG | | Bc/2d/2e gze | {a/}edB dB/2A/2G | {c/}AGF ~G2 A|
+Bdz egd | {c'/}agf ~g2a- | !slide!bag egd | B/2c/2dB {c/}AGA |
+Bdd egd | {c'/}agf gza | {c'/}bag egB |{c/} AGF ~G2 A |
+Bdd egd | {c'/}agf gza | {c'/}bag egd | B/2c/2dB {c/}AGA |
+Bdd egd | {c'/}agf gza | {c'/}bag egB |{c/} AGF G3 |

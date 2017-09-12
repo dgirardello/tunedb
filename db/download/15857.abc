@@ -1,0 +1,27 @@
+X: 1
+T: Banks Of The Lossie, The
+Z: Jeff Rowan
+S: https://thesession.org/tunes/15857#setting29828
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+|: {gf}g | a2 {GdG}a {fg}f3 {ag}a2 g | {fg}f>ef {Gdc}d3 {e}A3 | {g}A>Bd {gfg}f3 {ag}a2 f | a>fd {gef}e3 {A}e2 {gf}g |
+%
+a2 {GdG}a {fg}f3 {ag}a2 g | {fg}f>ef {Gdc}d3 {e}A3 | {g}A>Bd {gfg}f3 {ag}a2 A | {g}A>ce {Gdc}d3 {gdc} d2:|
+|: f | {g}A>Bd {gdc} d3 {g}A2 d | {gBd}B>A{d}B {Gdc}d3 {e}A2 f | {gf}g>fe {gfg}f3 {ag}a2 f | a>fd {gef}e3 {A}e2 f |
+%
+{gf}g>fe {gfg}f3 {ag}a2 f | a>fd {gBd}B3 {g}G2 {d}B | {g}A>Bd {gfg}f3 {ag}a2 A | {g}A>ce {Gdc}d3 {gdc} d2:|
+X: 2
+T: Banks Of The Lossie, The
+Z: Nigel Gatherer
+S: https://thesession.org/tunes/15857#setting29850
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+M:9/8
+g | a2 a f3 a2 g | f>ef d3 A3 | A>Bd f3 a2 f | a>fd e3 e2
+g |a2 a f3 a2 g | f>ef d3 A3 | A>Bd f3 a2 A | A>ce d3 d2 :|
+f | A>Bd d3 A2 d | B>GB d3 A2 f | g>fe f3 a2 f | a>fd e3 e2
+f | g>fe f3 a2 f | a>fd B3 G2 B | A>Bd f3 a2 A | A>ce d3 d2 :|

@@ -1,0 +1,86 @@
+X: 1
+T: Drummer, The
+Z: dafydd
+S: https://thesession.org/tunes/2041#setting2041
+R: reel
+M: 4/4
+L: 1/8
+K: Cmaj
+|:ABcA E2 E^F|GABc dBGB|ABcA E2 Ec|edcB A2 A2:|
+|c2 ce d2 de|c2 ce dBGB|c2 ce d2 df|edcB A3 B|
+c2 ce d2 de|c2 ce dBGB|(3ccc ce (3ddd df|edcB A2 A2|
+X: 2
+T: Drummer, The
+Z: Tate
+S: https://thesession.org/tunes/2041#setting22751
+R: reel
+M: 4/4
+L: 1/8
+K: Ador
+|: E | "Am"ABcA "Em"E2 (3DEF | "G"GABc dBGB | "Am"cA"G"BG "Em"E2 Eg | "Am"ec"G"dB "Am"A2 A :|
+|: B | "C"c2 ce "G"d2 de | "C"c2 ce "G"dBGB | "C"c2 ce "G"d^cdg | "Am"ec"G"dB "Am"A2 A :|]
+X: 3
+T: Drummer, The
+Z: ceolachan
+S: https://thesession.org/tunes/2041#setting27001
+R: reel
+M: 4/4
+L: 1/8
+K: Gmin
+M: 2/4
+|: D |G>A BG | D2- DE | F2 FG | A>B cA |
+G>A BG | D2- De | dc BA | G2- G :|
+|: F |B>B Bd | c>c cA | B>B Bd | cA GF |
+B>B Bd | c>c ce | dc BA | G2- G :|
+X: 4
+T: Drummer, The
+Z: ceolachan
+S: https://thesession.org/tunes/2041#setting27006
+R: reel
+M: 4/4
+L: 1/8
+K: Ador
+M: 2/4
+|: E |AB cA | E2 EF | G2 AB | d/c/B/A/ GB |
+AG AB | E2 E=f | ed cB | A2 A :|
+|: B |c>B ce | d>c de | c>B ce | d/c/B/A/ GB |
+c>B ce | dc d=f | ed cB | A2 A :|
+X: 5
+T: Drummer, The
+Z: ceolachan
+S: https://thesession.org/tunes/2041#setting27007
+R: reel
+M: 4/4
+L: 1/8
+K: Ador
+M: 2/4
+|: E |AA/B/ cA | E2- EF | G2 GA | B>c d/c/B/G/ |
+A>B c/B/A | E2- E=f | ed cB | A2- A :|
+|: B |c2 ce | d>c de | c>B ce | d/c/B/A/ G2 |
+c>B ce | d>^c d=f | ed cB | A2- A :|
+X: 6
+T: Drummer, The
+Z: ceolachan
+S: https://thesession.org/tunes/2041#setting27008
+R: reel
+M: 4/4
+L: 1/8
+K: Gmin
+|: B/A/ |GABG D/D/D DE | F2 FG A>BcA |\
+GABG D/D/D De | dcBA G/G/G G :|
+|: F |B/B/B Bd c/c/c ce | B/B/B Bd cAFA |\
+B/B/B Bd c/c/c ce | dcBA G/G/G G :|
+X: 7
+T: Drummer, The
+Z: ceolachan
+S: https://thesession.org/tunes/2041#setting27009
+R: reel
+M: 4/4
+L: 1/8
+K: Amin
+|: B |(AB){A/B/}cA TE2 (E^F) | GABc dB{^F/}GB |\
+cABG TE2 (Eg) | ed{A/B/}cB {c/B/}A2 A :|
+B |{A/B/}c2 (ce) {^c/}d2 (de) | {A/B/}c2 (ce) {^c/}dB{^F/}GB |\
+{A/B/}c2 (ce) {^c/}d2 (dg) | ed{A/B/}cB {c/B/}A2 (AB} |
+{A/B/}c2 (ce) {^c/}d2 (de) | {A/B/}c2 (ce) {^c/}dB{^F/}GB |\
+ccce dddg | ed{A/B/}cB {c/B/}A2 A |]

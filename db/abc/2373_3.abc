@@ -1,0 +1,16 @@
+X: 3
+T: Beauty Of The North
+Z: javivr
+S: https://thesession.org/tunes/2373#setting27203
+R: strathspey
+M: 4/4
+L: 1/8
+K: Amaj
+A \
+| "A"(C<A) A>B c>d (e<f) | "B7"F<F B>A "E7"(G<E) E>D \
+| "A"(C<A) A>B c>d (e<c') | "D"b>g "E7"a/g/f/e/ "A"a2-a :|
+c' \
+| "A"a>c' e>c' (a<c') e'>c' | "Bm"d'>c' b>a "E7"(g<e) e>c' \
+| "A"a>c' e>c' a/b/c'/d'/ e'>c' | "E7"d'>b a/g/f/e/ "A"a2-a>b |
+| "A"c'>a (e<c) a>e (c<A) | "Bm"d>c B>A "E7"(G<E) E>D \
+| "A"(C<A) A>d (c<a) (e<c') | "E7"b>g (a/g/)(f/e/) "A"a2-a |]

@@ -1,0 +1,42 @@
+X: 1
+T: Levantine's Barrel
+Z: ceolachan
+S: https://thesession.org/tunes/3493#setting3493
+R: barndance
+M: 4/4
+L: 1/8
+K: Dmaj
+|: f>e |d>fA>d f2 f>e | d2 b>a ^g>a (3fed | c>eA>c e>Ac>e | d>ef>g a2 f>e |
+d>fA>d f2 f>e | d2 b>a ^g>af>d | c>eA>c e>Ac>e |[1 d2 f2 d2 :|[2 d2 A2 D2 ||
+|: (3FGA |B3 c d3 B | B>A^G>A F2 e>d | c>eA>c e>Ac>e | d>ef>g a3 A |
+B2 c2 d2 c>B | B>A^G>A f3 d | c>eA>c e>Ac>e |[1 d2 A2 D2 :|[2 d2 f2 d2 |]
+X: 2
+T: Levantine's Barrel
+Z: FyfferGuy
+S: https://thesession.org/tunes/3493#setting16527
+R: barndance
+M: 4/4
+L: 1/8
+K: Gmaj
+BA|GBDG B2BA|GBed ^cdAG|FADF ADFA|GBed ^cd=cA|GBDG B2BA|GBed ^cdAG|FADF ADFA|G2B2G2::d2|e2f2 g2fe|ed^cd B2AG|FADF ADFA|GBed ^cdBG|e2f2 g2fe|ed^cd B2AG|FADF ADFA|G2B2G2:|
+X: 3
+T: Levantine's Barrel
+Z: Dr. Dow
+S: https://thesession.org/tunes/3493#setting16528
+R: barndance
+M: 4/4
+L: 1/8
+K: Dmaj
+fe|dfAd ~f3e|dfba gfed|ceAc eAce|defg ~a3f|dfAd ~f3e|dfba gfed|ceAc eAce|1 def2 d2:|2 def2 d3|||:A|~B3c d2cB|ABAE F2ed|ceAc eAce|defg ~a3f|~B3c d2cB|ABAE F2ed|ceAc eAce|1 def2 d3:|2 def2 d2||
+X: 4
+T: Levantine's Barrel
+Z: ceolachan
+S: https://thesession.org/tunes/3493#setting16529
+R: barndance
+M: 4/4
+L: 1/8
+K: Dmaj
+|: fe |dfAd f2 fe | d2 ba ^gafd | ceAc eAce | defg a2 fe |
+dfAd f2 fe | d2 ba ^gafd | ceAc eAce | d2 f2 d2 :|
+|: A2 |B2 Bc d2 cB | AB^GA F2 ed | c2 Ac eAce | d2 e/f/g a2 A2 |
+B2 Bc d/e/d cB | AB^GA F4 | ceAc eAce | d2 f2 d2 :|

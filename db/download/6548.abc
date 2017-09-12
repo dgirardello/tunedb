@@ -1,0 +1,74 @@
+X: 1
+T: Donegal Castle
+Z: ceolachan
+S: https://thesession.org/tunes/6548#setting6548
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Gmaj
+|: (3DEF |G>dB>d (3gbg (3faf | e>cA>G (3FAd (3cBA | (3GG/G/G e>G (3FF/F/F d>F | G>gb>a (3gag (3fed |
+G>dB>d (3gbg f>a | e>cA>G F>dc>A | (3GFG e>G (3F^EF d>F | (3Ggd (3cBA G2 :|
+K: Dmaj
+|: (3BAG |F>Ad>A f>dA>F | G>Bd>B g>dB>G | A>ce>f (3gfe c>e | (3dcd (3fdB (3ABA (3GFE |
+F>A (3fdA (3FAd (3fdA | G>B (3gdB (3GB/c/d (3gdB | (3c^Bc c'>=b (3aba (3gfe |[1 d2 c2 d2 :|[2 d2 A2 D2 |]
+X: 2
+T: Donegal Castle
+Z: ceolachan
+S: https://thesession.org/tunes/6548#setting18234
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Gmaj
+|: DF |GdBd gbfa | ecAG FdcA | G2 eG F2 dF | Ggba g2 fd |
+GdBd g2 fa | ecAG FdcA | G2 eG F2 dF | GdcA G2 :|
+K: D Major
+|: BG |FAdA fdAF | GBdB gdBG | Acef gece | dcfB ABGE |
+FAfA FdfA | GBgB GdgB | cBc’b a2 ge |[1 d2 c2 d2 :|[2 d2 A2 D2 |]
+X: 3
+T: Donegal Castle
+Z: ceolachan
+S: https://thesession.org/tunes/6548#setting18235
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Gmaj
+|: (3def |g>d (3Bcd g>bf>a | e2 A>G F2 c>A | G2 e>G F2 d>F | G>g (3c'ba (3gag (3fed |
+G2 B>d g2 f>a | e>cA>G (3FdF (3cBA | (3GDG e>G (3F^EF D>F | G>dc>A G2 :|
+K: Dmaj
+|: (3BAG |F2 d>A F2 A>F | G2 d>B G2 B>G | A2 e>c g>ec>e | d2 f>d (3cBA (3GFE |
+F>A (3fdA (3FAd (3fdA | G>B (3gdB (3GBd (3gdB | c2 c'>b a>gf>e | (3dcd (3cAF [D2d2] :|
+X: 4
+T: Donegal Castle
+Z: ceolachan
+S: https://thesession.org/tunes/6548#setting18236
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Gmaj
+|: D2 |G>d (3Bcd g>ba>f | e>cA>G F>dc>A | (3GDG e>G (3FDF d>F | G>g (3c'ba g>e (3fed |
+G2 B>d g2 f>a | e>cA>G F>D (3cBA | (3GDG e>G (3FDF d>F | (3Ggd (3cBA G2 :|
+K: Dmaj
+|: A>G |F>Ad>A f>dc>d | B>GB>d g>d (3Bcd | c2 (3def g>ec>e | d2 (3fdB A2 (3GAG |
+[1 F>Ad>A f2 (3dcd | B>G (3Bcd g2 (3dBd | c>de>f g2 (3ece | d>Af>e d>B :|
+[2 (3FAd (3fdA (3FAd (3fdA | (3GBd (3gdB (3GBd (3gdB | (3c^Bc c'>=b a>gf>e | (3ded c>e d2 |]
+X: 5
+T: Donegal Castle
+Z: ceolachan
+S: https://thesession.org/tunes/6548#setting18237
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Dmaj
+|: (3ABc |d>AF>A (3ded (3cdc | B>GE>D [C3/c3/]F/A3/[C/c/] | (3[Dd][Cc][Dd] B3/[D/d/] (3[Cc][B,B][Cc] A>c | d2 f>e d>cB>A |
+d>AF>A (3ded (3cdc | B>GE>D [C3/c3/]F/A3/[C/c/] | (3[Dd][Cc][Dd] B3/[D/d/] (3[Cc][B,B][Cc] A>c | d2 f>e d2 :|
+|: (3BAG |F>Ad>A f>dA>F | G2 B>d g>dB>d | c>de>f g>ec>e | d2 f>e (3BcB (3GAG |
+(3FAd (3fdA (3FAd (3fdA | (3GBd (3gdB (3Bdf (3gdB | (3cec c'>b a>gf>e | d2 f2 d2 :|
+X: 6
+T: Donegal Castle
+Z: KLR
+S: https://thesession.org/tunes/6548#setting18238
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Fmaj
+|: (3cde | fcAc (3fgf (3efe | dBGF EAcE|(3FEF dF (3EDE ce| ~f2 ag fedc || fcAc (3fgf (3efe| dBGF EAcE | (3FEF dF (3EDE ce | ~f2 ag f2 :||: (3dcB |Acfc afcA | ~B2df bfdf | efga bgeg | ~f2 ag (3ded (3BcB|(3Acf (3afc (3Acf (3afc | (3Bdf (3bfd (3Bdf (3bfd| (3ege e'>d' c'bag |1 f2 a2 f2 :|

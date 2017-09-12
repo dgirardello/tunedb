@@ -1,0 +1,78 @@
+X: 1
+T: Ar Lan Y Mor
+Z: dwne
+S: https://thesession.org/tunes/10649#setting10649
+R: barndance
+M: 4/4
+L: 1/8
+K: Gmaj
+V:1
+z2d2d3 e | d8- | d2 B2 c3 d | B8- | B2 d2d3 e | d8- | d2 B2 c3 d | B8-|
+V:2
+z2B2B3c | B2 (G,B, DGD2- | D2)G2A3B | G2 (G,B, DGD2- | D2)B2B3c | B2 (G,B, DGD2- | D2)G2A3B | G2(G,B, DGD2- |
+V:1
+B2d2d3 e | d8- | d2 d2 c2 B2 | G8- | G2G2G3e | d8- | d2 BG A3F | [B8G8] |
+V:2
+D2) B2B3c | B3 GFG D2- | D2 BG A3 G | E3 DCB, C2- | C2 CB, CDEF | G3 FGA B2- | B2 G2 F2 D2 |[C8E8] |
+V:1
+z2d2d3 d | d8- | d2 B2 c2 d2 | (cB3)-B4- | B2 d2d3 d | d8- | d2 B2 c2 d2 | (cB3)-B4- |
+V:2
+z4 [c4E4] | [B3D3] AGF G2- | G2 G2 A2 B2 | (AG3)-G4 | z4 [c4E4] | [B3D3] AGF G2- | G2 G2 A2 B2 |(AG3)-G4 |
+V:1
+B2d2d2 d2 | d8- | d2 B2 A2 G2 | E2G6- | G2G2G2e2 | d8- | d2 B2A2B2 | (AG3)-G4 |G8- | G8 ||
+V:2
+z2 d2 c2 c2 | B3def g2 | z2 g2 f2 g2 | e3 dcBc2- | c2 E2 E2c2 | B3 AGF G2- | G2 G2F2D2 | C8 |-C2C2 B,2A,2 | B,4 z4 ||
+X: 2
+T: Ar Lan Y Mor
+Z: fiddlentina
+S: https://thesession.org/tunes/10649#setting20462
+R: barndance
+M: 4/4
+L: 1/8
+K: Gmaj
+z2d2d3 e | d8- | d2 B2 c3 d | B8- | B2 d2d3 e | d8- | d2 B2 c3 d | B8-|B2d2d3 e | d8- | d2 d2 c2 B2 | G8- | G2G2G3e | d8- | d2 BG A3F | [B8G8] |z2B2B3c | B2 (G,B, DGD2- | D2)G2A3B | G2 (G,B, DGD2- | D2)B2B3c | B2 (G,B, DGD2- | D2)G2A3B | G2(G,B, DGD2- |D2) B2B3c | B3 GFG D2- | D2 BG A3 G | E3 DCB, C2- | C2 CB, CDEF | G3 FGA B2- | B2 G2 F2 D2 |[C8E8] |z2d2d3 d | d8- | d2 B2 c2 d2 | (cB3)-B4- | B2 d2d3 d | d8- | d2 B2 c2 d2 | (cB3)-B4- |B2d2d2 d2 | d8- | d2 B2 A2 G2 | E2G6- | G2G2G2e2 | d8- | d2 B2A2B2 | (AG3)-G4 ||z4 [c4E4] | [B3D3] AGF G2- | G2 G2 A2 B2 | (AG3)-G4 | z4 [c4E4] | [B3D3] AGF G2- | G2 G2 A2 B2 |(AG3)-G4 |z2 d2 c2 c2 | B3def g2 | z2 g2 f2 g2 | e3 dcBc2- | c2 E2 E2c2 | B3 AGF G2- | G2 G2F2D2 | C8 ||G8- | G8 ||-C2C2 B,2A,2 | B,4 z4 ||
+X: 3
+T: Ar Lan Y Mor
+Z: ceolachan
+S: https://thesession.org/tunes/10649#setting20463
+R: barndance
+M: 4/4
+L: 1/8
+K: Gmaj
+d2 d3 e | d6 | B2 c3 d | B6 | d2 d3 e | d6 | B2 c3 d | B6 |d2 d3 e | d6 | d2 c2 B2 | G6 | G2 G3 e | d6 | BG A3 F | G6 |d2 d3 d | d6 | B2 c2 d2 | cB- B4 | d2 d3 d | d6 | B2 c2 d2 | cB- B4 |d2 d2 d2 | d6 | B2 A2 G2 | EG- G4 | G2 G2 e2 | d6 | B2 A2 B2 | AG- G4- | G6 |]
+X: 4
+T: Ar Lan Y Mor
+Z: ceolachan
+S: https://thesession.org/tunes/10649#setting20464
+R: barndance
+M: 4/4
+L: 1/8
+K: Gmaj
+z2 d2 d3 e | d8- | d2 B2 c3 d | B8- | B2 d2 d3 e | d8- | d2 B2 c3 d | B8-|B2 d2 d3 e | d8- | d2 d2 c2 B2 | G8- | G2 G2 G3 e | d8- | d2 BG A3 F | G8 |z2 d2 d3 d | d8- | d2 B2 c2 d2 | cB- B6- | B2 d2 d3 d | d8- | d2 B2 c2 d2 | cB- B6- |B2 d2 d2 d2 | d8- | d2 B2 A2 G2 | E2 G6- | G2 G2 G2 e2 | d8- | d2 B2 A2 B2 | AG- G6 |G8- | G8 |]
+X: 5
+T: Ar Lan Y Mor
+Z: ceolachan
+S: https://thesession.org/tunes/10649#setting20465
+R: barndance
+M: 4/4
+L: 1/8
+K: Gmaj
+d2 d3 e d2- | d8 | B2 c3 d c2 | B8 | d2 d3 e d2- | d8 | B2 c3 d c2 | B8 |d2 d2 e2 d2- | d8 | B2 A2 G2 E2 | G8 | G2 G2 e2 d2- | d8 | B2 A3 B AG- | G8 |d2 d3 e d2- | d8 | B2 c2 d2 cB- | B8 | d2 d2 e2 d2- | d8 | B2 c2 d2 cB- | B8 |d2 d3 e d2- | d8 | B2 A2- AG EG- | G8 | G2 G2 e2 d2- | d8 | B2 A2- AB AG- | G8 |]
+X: 6
+T: Ar Lan Y Mor
+Z: ceolachan
+S: https://thesession.org/tunes/10649#setting20466
+R: barndance
+M: 4/4
+L: 1/8
+K: Gmaj
+d2 d2- de d2- | d8 | B2 c2- cd c2 | B8 | d2 d2- de d2- | d8 | B2 c2- cd c2 | B8 |d2 d2 e2 d2- | d8 | B2 A2 G2 E2 | G8 | G2 G2 e2 d2- | d8 | B2 A2- AB AG- | G8 |d2 d2- de d2- | d8 | B2 c2 d2 cB- | B8 | d2 d2 e2 d2- | d8 | B2 c2 d2 cB- | B8 |d2 d2- de d2- | d8 | B2 A2- AG EG- | G8 | G2 G2 e2 d2- | d8 | B2 A2- AB AG- | G8 |]d2 d2- de d2- | d8 | B2 c2- cd c2 | B8 | ~ instead of ~ d2 d3 e d2- | d8 | B2 c3 d c2 | B8 | ~
+X: 7
+T: Ar Lan Y Mor
+Z: ceolachan
+S: https://thesession.org/tunes/10649#setting20467
+R: barndance
+M: 4/4
+L: 1/8
+K: Gmaj
+d2- de d4- | d6 B2 | c2- cd c2 B2- | B6 d2 | d2- de d4- | d6 B2 | c2- cd c2 B2- | B6 d2 |d2- de d4- | d6 B2 | A2 G2 E2 G2- | G6 G2 | G2 e2 d4- | d6 B2 | A2- AB AG- G2- | G6 ~

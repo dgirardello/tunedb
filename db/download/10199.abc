@@ -1,0 +1,48 @@
+X: 1
+T: Lasher, The
+Z: bogman
+S: https://thesession.org/tunes/10199#setting10199
+R: reel
+M: 4/4
+L: 1/8
+K: Bmin
+|| Bcab Bcfg | Bcde cABc | abBc fgBc | dcAc Bcef |
+abBc fgBc | deBd cABc | abBc fgBc | dcAc Bcef ||
+|: abBc fgBc | deBd cABc | abBc fgBc | dcAc Bcef :|
+|: bbab bfaa | ffef faaf | bbab bfaa | f2 a2 faaf |
+bzab bfaa | ffef fafd | eedf fdee | ed f2 efaf:|
+|: bzba bc'a{e}-f- | f2 fe fafd | feed efee | edBA BcdB |
+[1 e=fed e^fee | edBA BcdB | deed efee | edBA Bcef :|
+[2 eedf- fdee | edfd ed (3Bcd | eedf- fdee | ed f2 efaf ||
+|: abBc fgBc | deBd cABc | abBc fgBc | dcAc Bcef :|
+|: abBc efab | Bcde cABc | efab fgBc | dcAc Bcef :|
+|: bbab bfaa | ffef faaf | bbab bfaa | f2 a2 faaf |
+bzab bfaa | ffef fafd | eedf fdee | ed f2 efaf:|
+|: bzba bc'a{e}-f- | f2 fe fafd | feed efee | edBA BcdB |
+[1 feed efee | edBA BcdB | deed efee | edBA Bcef :|
+[2 eedf- fdee | edfd ed (3Bcd | eedf- fdee | ed f2 efaf ||
+"end" bz3 z4 ||
+X: 2
+T: Lasher, The
+Z: NickHudson
+S: https://thesession.org/tunes/10199#setting30884
+R: reel
+M: 4/4
+L: 1/8
+K: Amin
+ABga ABef | ABcd BGAB | gaAB efAB | cBGB ABde |
+gaAB efAB | cdAc BGAB | gaAB efAB | cBGB ABde ||
+|: gaAB efAB | cdAc BGAB | gaAB efAB | cBGB ABde :|
+|: aaga aegg | eede egge | aaga aegg | e2 g2 egge |
+azga aegg | eede egec | ddce ecdd | dc e2 dege:|
+|: azag abg{d}-e- | e2 ed egec | eddc dedd | dcAG ABcA |
+[1 d_edc d=edd | dcAG ABcA | cddc dedd | dcAG ABde :|
+[2 ddce- ecdd | dcec dc (3ABc | ddce- ecdd | dc e2 dege ||
+|: gaAB efAB | cdAc BGAB | gaAB efAB | cBGB ABde :|
+|: gaAB dega | ABcd BGAB | dega efAB | cBGB ABde :|
+|: aaga aegg | eede egge | aaga aegg | e2 g2 egge |
+azga aegg | eede egec | ddce ecdd | dc e2 dege:|
+|: azag abg{d}-e- | e2 ed egec | eddc dedd | dcAG ABcA |
+[1 eddc dedd | dcAG ABcA | cddc dedd | dcAG ABde :|
+[2 ddce- ecdd | dcec dc (3ABc | ddce- ecdd | dc e2 dege ||
+"dnd" az3 z4 ||

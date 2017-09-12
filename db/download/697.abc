@@ -1,0 +1,50 @@
+X: 1
+T: Peat-Fire Flame
+Z: cat
+S: https://thesession.org/tunes/697#setting697
+R: reel
+M: 4/4
+L: 1/8
+K: Dmin
+"Part A" || dfcd/c/ AG A2 | A8 ||
+"Part B" || D>EFE DCA2 | AGGF/G/ AGGA | D>EFE DCAA/G/ | FDEC D2 D2 ||
+"Part C" || F>GAf/e/ dc2A | AGGF/G/ AGGA | F>GAf/e/ dcA>G | FDEC D2 D2 ||
+X: 2
+T: Peat-Fire Flame
+Z: ceolachan
+S: https://thesession.org/tunes/697#setting13759
+R: reel
+M: 4/4
+L: 1/8
+K: Dmin
+D>E FE | DC A2 | AG GF/G/ | AG GA | D>E FE | DC AA/G/ | FD EC | D2 D2 :|F>G Af/e/ | dc- cA | AG GF/G/ | AG GA | F>G Af/e/ | dc A>G | FD EC | D2 D2 :|
+X: 3
+T: Peat-Fire Flame
+Z: ceolachan
+S: https://thesession.org/tunes/697#setting13760
+R: reel
+M: 4/4
+L: 1/8
+K: Emin
+E>F GF | ED BD | BA AG/A/ | BA G/A/G/F/ |EE/F/ GF | ED B>A | GE FD | E2 E :|G>A Bg/f/ | ed- dB | BA AG/A/ | B/c/B/A/ GF |EG/A/ Bg/f/ | e/f/e/d/ BA | GE FG/F/ | E2- E :|
+X: 4
+T: Peat-Fire Flame
+Z: birlibirdie
+S: https://thesession.org/tunes/697#setting13761
+R: reel
+M: 4/4
+L: 1/8
+K: Amin
+ac' ga/g/|ed e2|(e4|e4)||A>B cB|AG e2|ed dc/d/|ed de|AA/B/ cB|AG e>d|cA BG|A2A2||c>d ec'/b/|ag2e|ed dc/d/|ed de|c>d ec'/b/|ag e>d|cA BG|A2A2||
+X: 5
+T: Peat-Fire Flame
+Z: Mix O'Lydian
+S: https://thesession.org/tunes/697#setting26684
+R: reel
+M: 4/4
+L: 1/8
+K: Emin
+|: D2 | E3 F G3 F | E2 D2 B4 | B2 A2 A2 GA | B2 A2 A2 B2 |
+E3 F G3 F | E2 D2 B3 A | G2 E2 F2 D2 | E4 E2 :|
+|: F2 | G3 A B2 gf | e2 d2 B4 | B2 A2 A2 GA | B2 A2 A2 B2 |
+G3 A B2 gf | e2 d2 B3 A | G2 E2 F2 D2 | E4 E2 :|

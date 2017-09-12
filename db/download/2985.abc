@@ -1,0 +1,70 @@
+X: 1
+T: Y Derwydd
+Z: cerimatho
+S: https://thesession.org/tunes/2985#setting2985
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+A|FGA {B}AFA|BGB AFD|Bcd efg|efd cBA|
+~F3 ~A3|BGB AzA|Bcd efg|ABc d3|
+FzA AFA|BGB AFD|Bcd efg|efd cBA|
+FDF AFA|BGB A3|Bcd efg|ABc d2a|
+~f3 afa|~g3 efg|fdf fzf|EFD cBA|
+AFA AFA|~G3 EzG|FED cde|dAF D3|
+faa faa|geg {a}geg|~f3 dzf|efd cBA|
+~F3 AFA|~G3 EFG|fed cde|dAF D3|
+X: 2
+T: Y Derwydd
+Z: ceolachan
+S: https://thesession.org/tunes/2985#setting16137
+R: jig
+M: 6/8
+L: 1/8
+K: Cmaj
+|: z |EFG GEG | AFA G3 | ABc def | edc BAG |
+EFG GEG | AFA G3 | ABc def | gab c'2 :|
+|: g/ |geg geg |fdf fdf | egf edc | Bdc BAG |
+geg geg |fdf fdf | edc Bcd | cGE C2 :|
+X: 3
+T: Y Derwydd
+Z: ceolachan
+S: https://thesession.org/tunes/2985#setting16138
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+|: A |FGA A2 A | BGB A2 d | Bcd efg | fed cc/B/A |
+F2 A AF/G/A | BGB AFD | Bcd e>fg |[1 ABc d2 :|[2 A>Bc d ||
+|: e/f/g |af/g/a a2 f | ge/f/g g2 e | f/g/ag fed | c>ed cBA |
+aff afa | gee geg | fed c>de |[1 dAf d :|[2 d>A[Ff] [D2d2] |]
+X: 4
+T: Y Derwydd
+Z: Abram 
+S: https://thesession.org/tunes/2985#setting21559
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+A |: FAA AFA | BGB AFD | Bcd efg | efd cBA |
+|1 FzA AFA | BGB A2A | Bcd efg | ABc d3 :|
+|2 FDF AFA | BGB A2A | Bcd efg | ABc d2 |
+|:f/g/ | a2a agf | g2g gfe | f2f fed | ecA A2 f/g/ |
+a2a agf | g2g g2g |1 fed cde | dAF D2 :|
+|2 fed cBA | agf edc | dAF D3||
+X: 5
+T: Y Derwydd
+Z: JACKB
+S: https://thesession.org/tunes/2985#setting26862
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+A|:FGA AFA|BF/G/B AFD|Bcd efg|efd cBA|
+Fc/A/F AF/G/A|BGB A3|Bcd efg|ABc d3:||
+|:F2A AFA|BF/G/B AFD|Bcd efg|efd cBA|
+F3 AFA|BGB AF/G/A|Bcd efg|ABc d2A:||
+|:f3 afa|g3 efg|fdf f3|efd cBA|
+AF/G/A D3|G3 EFG|FED cde|dAF D3:||
+|:faa faa|geg gag|f3 d2f|efd cBA|
+F3 AF/G/A|G3 EFG|fed cde|dAF D3:||

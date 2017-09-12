@@ -1,0 +1,90 @@
+X: 1
+T: An Phis Fhliuch
+Z: Mark Cordova
+S: https://thesession.org/tunes/879#setting879
+R: slip jig
+M: 9/8
+L: 1/8
+K: Gmaj
+|:FGA AFA c2A|BAG F/2G/2AF GED|FGA AFA d2A|d/2e/2fe dcA GED:|
+|:d^cd ege d2A|d^cd fdf ~g3|{b}a2a ged c2A|BAG F/2G/2AF GED:|
+|:FGA AFd AFd|AFd AFD GED|FGA AFA c2A|BAG F/2G/2AF GED:|
+|:~D3 ~D3 c3|c2B c2A GED|~D3 ~D3 d2^c|d/2g/2fe dcA GED:|
+|:d^cd ege c2A|d^cd fdf ~g3|~a3 ged c2A|BAG F/2G/2AF GED:||
+X: 2
+T: An Phis Fhliuch
+Z: fynnjamin
+S: https://thesession.org/tunes/879#setting14060
+R: slip jig
+M: 9/8
+L: 1/8
+K: Gmaj
+|:d^cd ege =c2A|d^cd fdf ~g3|~a2 f ged c2A|BAG F/G/AF GED:||
+X: 3
+T: An Phis Fhliuch
+Z: JACKB
+S: https://thesession.org/tunes/879#setting14061
+R: slip jig
+M: 9/8
+L: 1/8
+K: Gmaj
+|:A|(3DE/F/G/A AFA c2A|BAG F3 GED|(3DE/F/G/A AFA d2A|dg/f/e dcA GED:|
+|:dB/c/d ege d2A|dB/c/d fef g3|a3 ged c2A|BAG F3 GED:|
+|:(3DE/F/G/A AFd AFd|AFd AFd GED|(3DE/F/G/A AFA c2A|BAG F3 GED:|
+|:D3 D3 c3|c2B c2A GED|D3 D3 d2A|dg/f/e dcA GED:|
+|:dB/c/d ege c2A|dB/c/d fef g3|a3 ged c2A|BAG FG/A/F GED:||
+X: 4
+T: An Phis Fhliuch
+Z: swisspiper
+S: https://thesession.org/tunes/879#setting21053
+R: slip jig
+M: 9/8
+L: 1/8
+K: Gmaj
+FGA {B}AFA c2A|BAG FAF GED|FGA {B}AFA d2A|dfe dcA GED:|
+|:d^cd ege =c2A|d^cd faf ~g3|afa ged c2A|BAG FAF GED:|
+|:FGA AFd AFd|AFd AFd GED|FGA AFA c2A|BAG FAF GED:|
+|:~D3 ~D3 c3|c2B c2A GEA|~D3 ~D3 d2A|dfe dcA GED:|
+|:d^cd ege =c2A|d^cd fdf ~g3|~a ged c2A|BAG FAF GED:|
+X: 5
+T: An Phis Fhliuch
+Z: Cú Chulainn1
+S: https://thesession.org/tunes/879#setting23295
+R: slip jig
+M: 9/8
+L: 1/8
+K: Gmaj
+|:~D3 ~D3 c3|c2B c2A GED|~D3 DFA d2A|dfe dcA GED:|
+X: 6
+T: An Phis Fhliuch
+Z: Vulpyne
+S: https://thesession.org/tunes/879#setting26544
+R: slip jig
+M: 9/8
+L: 1/8
+K: Gmaj
+FGA {B}AFA c2A | {^c}BAG FAF {B}GED | FGA {B}AFA d2z | d/2e/2fe dcA GED |
+FGA {B}AFA czA | {^c}BAG FAF {B}GED | FGA {B}AFA d2z | d/2e/2fe dcA GED |
+d^cd ege d2z | d^cd ~f3 ~g3 | aza ged c2A | {^c}BAG FAF {B}GED |
+dzd ege d2z | d^cd ~f3 gzg | ~a3 ged czA | {^c}BAG FAF {B}GED |
+FGA {B}AFD {B}AFD | {B}AFD {B}AFA GED | FzA {B}AFA c2A | BAG FAF {B}GED |
+FzA {B}AFD {B}AFD | {B}AFD {B}AFA GED | FGA {B}AFA czA | {^c}BAG FAF {B}GED |
+~D3 ~D3 c2z | c2B c2A GED | ~D3 ~D3 d2z | d g/2f/2e dcA GED |
+~d3 ~d3 c2z | c2B c2A GED | ~D3 DFA d2A | dfe dcA GED |
+dzd ege c2A | d^cd ~f3 ~g3 | aza ged c2A | {^c}BAG FAF {B}GED |
+dzd ege c2z | d^cd ~f3 ~g3 | aza ged czA | BAG F/G/AF GEA | D6 z3 ||
+X: 7
+T: An Phis Fhliuch
+Z: myles
+S: https://thesession.org/tunes/879#setting30065
+R: slip jig
+M: 9/8
+L: 1/8
+K: Dmix
+A|FGA {B}AFA c2{d}A|BAG EFG {A}GED|FGA {^c}AFA d2A|dg/f/e dcA GED|
+|FGA {B}AFd c2 d|BAG EFG {A}GED|FGA AFA d2A|dg/f/e dcA GED|
+|:d^cd e/f/ge =c{d}cA|dA/^c/d fdf gfe|ABA fed c{d}cA|BAG EFG {A}GED:|
+|:FGA {^c}AFd AFd|AFd AFd GED|FGA {B}AFA c2{d}A|BAG EFG {A}GED:|
+|~D3 ~D3 c3|c2B c2A GED|~D3 ~D3 d2^c|dg/f/e dcA GED|
+|~D3 ~D3 c2 z|c2B c z A GED|DAD {A}DAD d2^c|dg/f/e dcA GED|
+|:d^cd e/f/ge =c{d}cA|dA/^c/d fdf gfe|ABA fed c{d}cA|BAG EFG {A}GED:|

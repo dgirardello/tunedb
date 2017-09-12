@@ -1,0 +1,60 @@
+X: 1
+T: Doctor MacLeod Of Alnwick
+Z: ceolachan
+S: https://thesession.org/tunes/6515#setting6515
+R: barndance
+M: 4/4
+L: 1/8
+K: Amix
+|: a<f |e2 cB AEAB | cBA<c e2 ge | d2 BA GDGA | B<AG<B d2 af |
+e2 cB AEAB | cBA<c e2 af | gedc BG (3Bcd | e2 A2 A2 :|
+|: (3Bcd |e2 a2 a2 g<f | e2 d<B e2 d<c | B2 g2 g2 g<a | gfe<c d2 cd |
+e2 a2 a2 g<f | e2 d<B e2 af | gedc BG (3Bcd | e2 A2 A2 :|
+|: a<f |eAcA eAc>A | ceA<c e2 ge | dGBG dGBG | B<dG<B d2 af |
+e2 cA eAcA | ceA<c e2 a<f | gedc BG (3Bcd | e2 A2 A2 :|
+|: cd |ea^ga e<AcA | ceAc e2 dc | Bgfg dGBG | B<dG<B d2 cd |
+ea^ga eAcA | ceA<c e2 a<f | gedc BG (3Bcd | e2 A2 A2 :|
+X: 2
+T: Doctor MacLeod Of Alnwick
+Z: ceolachan
+S: https://thesession.org/tunes/6515#setting18203
+R: barndance
+M: 4/4
+L: 1/8
+K: Amix
+P: C
+|: (3agf |ecAc ecAe | ceAc e2 (3gfe | d2 GB dBGd | Bd (3GAB d2 af | ~
+P: D
+|: (3Bcd |ea^ga eAc<f | ea^g<a (3efe (3edc | Bgfg d<GB<e | d<gfg (3ded cd | ~
+X: 3
+T: Doctor MacLeod Of Alnwick
+Z: G.Ryckeboer
+S: https://thesession.org/tunes/6515#setting24105
+R: barndance
+M: 4/4
+L: 1/8
+K: Gmix
+g>e |:d2 B<d .G2G2 | B>AG>B d2 G>B | c2 A<c .F2F2 | A>GF>A c2 g>e |
+d2 B<d .G2G2 | B>AG>B d2 G>e | f2d>g d>c B>A |1 G4 .G2 g>e :|2 G4 .G2 d/e/f ||
+|: g2 -g>e d2.g2 | B<G dB g2 d>e| f2-f>d c2f2 | A<F c<A .f2 d/e/f |
+g2 -g>e d2.g2 | B<G dB g2 d>e| f2d>g d>c B>A |1 G4 .G2 d/e/f :|2 G4 .G2 d2||
+|:G>d B<d d>G B<G|G>d B<G d2 c>A|Fc A<c cF A<F |Fc AF c2 d2|
+G>d B<d d>G B<G|G>d B<d d2-d>e| f2d>g d>c B>A |1 G4 .G2 d2 :|2 G4 .G2 d/e/f ||
+g2 d.g B.G d.B |g2 d.B g2 d.e |f2 c.f A.F c.A|f2 c.A f2 d/e/f |
+g2 d.g B.G d.B |g2 d.B g2 d.e | f2d>g d>c B>A |1 G4 .G2 d/e/f :|2 G4 .G4||
+X: 4
+T: Doctor MacLeod Of Alnwick
+Z: ceolachan
+S: https://thesession.org/tunes/6515#setting24116
+R: barndance
+M: 4/4
+L: 1/8
+K: Amix
+|: a>f |e2 c<e .A2 A2 | c>BA>c e2 A>c | d2 B<d .G2 G2 | B>AG>B d2 a>f |
+e2 c<e .A2 A2 | c>BA>c e2 A>f | g2 e>a e>dc>B | A4 .A2 :|
+|: e/f/g |a2- a>f e2 .a2 | c<Aec a2 e>f | g2- g>e d2 g2 | B<Gd<B .g2 e/f/g |
+a2- a>f e2 .a2 | c<Aec a2 e>f | g2 e>a e>dc>B | A4 .A2 :|
+|: e2 |A>ec<e e>Ac<A | A>ec<A e2 d>B | GdB<d dGB<G | GdBG d2 e2 |
+A>ec<e e>Ac<A | A>ec<e e2- e>f | g2 e>a e>dc>B | A4 .A2 :|
+|: e/f/g |a2 e.a c.Ae.c | a2 e.c a2 e.f | g2 d.g B.Gd.B | g2 d.B g2 e/f/g |
+a2 e.a c.Ae.c | a2 e.c a2 e.f | g2 e>a e>dc>B | A4 .A2 :|

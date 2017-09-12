@@ -1,0 +1,57 @@
+X: 1
+T: Purfy
+Z: Kenny
+S: https://thesession.org/tunes/6670#setting6670
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+B3 BAB | dBB BAF | G2 d2 E2 | F2 c2 A2 |
+B3 BAB | dBB BAF | edB AFA | ^A2 B2 c2 |
+B3 BAB | dBB BAF | G2 d2 ef | e2 c2 A2 |
+B3 BAB | dBB eBf | B3 dBB | ABc B3 :|
+fdd dcB | Fdd dcB | Ace ecA | GBd F2 E |
+F2 d dcB | Fdd d2 e | fed efd | B3 B3 |
+fdB Bfd | z ec a2 b | fdB Bcd | c2 B cAA |
+FBd fBd | eAc ecA | dcB ^ABc | B3 B3 :|
+X: 2
+T: Purfy
+Z: Mario
+S: https://thesession.org/tunes/6670#setting18329
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+"Bm"~B3 BAB | dBB BAF |"Em" GB d3E |"F#m" FA c3A |"G"~B3 BAB | dBB BAF | "F#m"edB AFA | "F#/A"^A2 B2 c2 |"Bm"~B3 BAB | dBB BAF | "Em"GB d2 ef | "F#m"e2 c3 A |"G"~B3 BAB | dBB eBf | "Em"~B3 dBB | "A"ABc "Bm"B3 :||:"Bm"fdd dcB | Fdd dcB | "A"~Ace ecA | "G"GBd ~F2 E |"Em"~F2 d dcB | Fdd ~d2 e | "G"fed "A"efd | "Bm"B3 B3 |fdB Bfd |z "A"ec a2 b | "G"fdB Bcd | "A"~c2 B cAA |"Em"FBd fBd | "Fm"eAc ecA | "G"dcB "F#/A"^ABc | "Bm"B3 B3 :|
+X: 3
+T: Purfy
+Z: Feadan
+S: https://thesession.org/tunes/6670#setting21046
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+^A|B3 BAB|dBB BAF|G2d3E|F2c3^A|
+B3 BAB|dBB BAF|edc AEA|^A2B3c|
+B3 BAB|dBB BAF|G2d2ef|e2c3^A|
+B3 BAB|dBB eBf|BgB edB|^ABc B2:|
+z|:FBd dcB|FBd dcB|Ace ecA|GBd F2E|
+FBd dcB|FBd dcB|fed efd|B3-B2 =f|
+fdB B2 d-|d e/2d/2c ^a2b|edB Bcd|c2B c2B|
+FBd fBd|EAc ec/2d/2e|dcB ^ABc|B3 B2z :|
+X: 4
+T: Purfy
+Z: Yooval
+S: https://thesession.org/tunes/6670#setting28362
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+Bc/<B/A/<B/ BAB | dBB BAF | G2 d3 E | F2 c3 ^A |
+Bc/<B/A/<B/ BAB | dBB BAF | edc AEA | ^A2 B2 c2 |
+Bc/<B/A/<B/ BAB | dBB BAF | G2 d- def | e2 c3 ^A |
+Bc/<B/A/<B/ BAB | dBB eBf | BgB edB | ABc B3 :|
+| Fdd dcB | Fdd dcB | Aee ecA | GBd F2 E | FBd dcB |
+FBd dc=f | fed efd | BBB B3 | fdB Bfd | z ec a2 b | edB Bcd | c2 B c2 B | FBd fBd | EAc ecA |
+dcB ^ABc | B3 B3 | Fdd dcB | Fdd dcB | Aee ecA | GBd F2 E | FBd dcB | FBd dc=f | fed efd |
+BBB B3 | fdB Bfd | z ec a2 b | edB Bcd | c2 B c2 B | FBd fBd | EAc ecA | dcB ^ABc | B3 B3 |

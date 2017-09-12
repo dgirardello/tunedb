@@ -1,0 +1,52 @@
+X: 1
+T: La Partida
+Z: Jack Sparow
+S: https://thesession.org/tunes/3575#setting3575
+R: waltz
+M: 3/4
+L: 1/8
+K: Bmin
+FGF^EF|:"Bm"d3FdF|d3FdF|"F#"de/d/c^Bc2|zEFE^DE|
+"F#"c3EcE|c3EcE|"Bm"cd/c/B^AB2|zFGF^EF|
+"B7"B2^A(BB)=c|B2A(GG)F|"Em"FG/F/E^DE2|zGFEDC|
+"Bm"B,^A,B,CDE|"F#"FGFEDC|"Bm"B,C/B,/^A,B,DF|1BFGF^EF:|2BzF2F2||
+|:"F#"feFfeF|feFfeF|"Bm"edFedF|edFedF|
+"F#"dcFdcF|dcFdcF|"Bm"cBFcBF|cBFcBF|
+"B7"BAFBAF|BAFBAF|"Em"FG/F/E^DE2|zGFEDC|
+"Bm"B,^A,B,CDE|"F#"FGFEDC|"Bm"B,C/B,/^A,B,DF|1BzF2F2:|2B|]
+X: 2
+T: La Partida
+Z: ErikT
+S: https://thesession.org/tunes/3575#setting16600
+R: waltz
+M: 3/4
+L: 1/8
+K: Bmin
+FGF^EF|:"Bm"d3FdF|d3FdF|"F#"de/d/c^Bc2|zEFE^DE|"F#"c3EcE|c3EcE|"Bm"cd/c/B^AB2|zFGF^EF|"B7"B2^A(BB)=c|B2A(GG)F|"Em"FG/F/E^DE2|zgfedc|"Bm"b,^a,b,cde|"F#"fgfedc|"Bm"b,c/b,/^a,b,df|1BFGF^EF:|2BzF2F2|||:"F#"feFfeF|feFfeF|"Bm"edFedF|edFedF|"F#"dcFdcF|dcFdcF|"Bm"cBFcBF|cBFcBF|"B7"BAFBAF|BAFBAF|"Em"FG/F/E^DE2|zgfedc|"Bm"b,^a,b,cde|"F#"fgfedc|"Bm"b,c/b,/^a,b,df|1BzF2F2:|2B|]
+X: 3
+T: La Partida
+Z: ceolachan
+S: https://thesession.org/tunes/3575#setting16601
+R: waltz
+M: 3/4
+L: 1/8
+K: Bmin
+d3 F dF | d3 F dF | de/d/ c^B c2 | zE FE ^DE |c3 E cE | c3 E cE | cd/c/ B^A B2 | zF GF ^EF |B2 ^AB- B=c | B2 AG- GF | FG/F/ E^D E2 | zg fe dc |b^a bc de | fg fe dc | bc/b/ ^ab df |[1 BF GF ^EF :|[2 Bz F2 F2 |||: fe Ff eF | fe Ff eF | ed Fe dF | ed Fe dF |dc Fd cF | dc Fd cF | cB Fc BF | cB Fc BF |BA FB AF | BA FB AF | FG/F/ E^D E2 | zg fe dc |b^a bc de | fg fe dc | bc/b/ ^ab df |[1 Bz F2 F2 :|[2 B |]
+X: 4
+T: La Partida
+Z: ceolachan
+S: https://thesession.org/tunes/3575#setting16602
+R: waltz
+M: 3/4
+L: 1/8
+K: Bmin
+d3 F dF | d3 F dF | de/d/ c^B c2 | zE FE ^DE |c3 E cE | c3 E cE | cd/c/ B^A B2 | zF GF ^EF |B2 ^AB- B=c | B2 AG- GF | FG/F/ E^D E2 | zg fe dc |B^A Bc de | fg fe dc | Bc/B/ ^AB df |[1 BF GF ^EF :|[2 Bz F2 F2 |||: fe Ff eF | fe Ff eF | ed Fe dF | ed Fe dF |dc Fd cF | dc Fd cF | cB Fc BF | cB Fc BF |BA FB AF | BA FB AF | FG/F/ E^D E2 | zg fe dc |B^A Bc de | fg fe dc | Bc/B/ ^AB df |[1 Bz F2 F2 :|[2 B |]
+X: 5
+T: La Partida
+Z: ceolachan
+S: https://thesession.org/tunes/3575#setting16603
+R: waltz
+M: 3/4
+L: 1/8
+K: Bmin
+~ | B2 ^AB- B=c | B2 AG- GF | FG/F/ E^D E2 | zG FE DC |B,^A, B,C DE | FG FE DC | B,C/B,/ ^AB DF |[1 BF GF ^EF :|[2 B2 F2 F2 ||B,^A, B,C DE | FG FE DC | B,C/B,/ ^AB DF |[1 B2 F2 F2 :|[2 B |]~ | B2 ^AB- B=c | B2 AG- GF | FG/F/ E^D E2 | zG FE Dc |B^A Bc de | fg fe dc | Bc/B/ F2 ^A2 |[1 BF GF ^EF :|[2 B2 F2 F2 ||B^A Bc de | fg fe dc | Bc/B/ ^AB DF |[1 B2 F2 F2 :|[2 B |]~ | B2 ^AB- B=c | B2 AG- GF | FG/F/ E^D E2 | zG FE DF |DE DE FG | FG FE DF | DE/D/ ^AB DF |[1 BF GF ^EF :|[2 B2 F2 F2 ||DE DE FG | FG FE DF | DE/D/ ^AB DF |[1 B2 F2 F2 :|[2 B |]

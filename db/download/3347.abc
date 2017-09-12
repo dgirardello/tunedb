@@ -1,0 +1,48 @@
+X: 1
+T: Duck, The
+Z: Conán McDonnell
+S: https://thesession.org/tunes/3347#setting3347
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+"G"D2G "G"GAB|"C"A2G "G"GAB|"C"A2G "G"GAB|"C"A2G "C"ABB|
+"G"D2G "G"GAB|"C"A2G "G"GAB|"C"A2G "G"BAG|"Em"E2D "Em"EGG:|
+"G"D2d "G"B2A|"C"BGG "G"G2A|"C"BGG "G"G2A|"G"B2A "C"Bcd|
+"G"D2d "C"B2A|"G"BGG "G"G2A|"D"B2A "D"BAG|"C"E2D "C"EGG:|
+"D"D2F "D"FAB|"Em"A2F "Em"FAB|"Bm"A2F "Bm"FAB|"C"A2F "C"ABB|
+"D"D2F "D"FAB|"Em"A2F "Em"FAB|"D"A2F "Bm"BAF|"C"E2D "C"EFF:|
+"G"D2d "G"B2A|"C"Bcd "G"B2A|"G"BAd "G"B2A|"C"BAd "C"BAd|
+"G"D2d "G"B2A|"C"Bcd "G"B2A|"G"BAd "Bm"BAF|"C"E2D "C"EFF:|
+X: 2
+T: Duck, The
+Z: DonaldK
+S: https://thesession.org/tunes/3347#setting23949
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+Add def|edd def|edd def|edd eff|
+Add def|edd def|e2d fed|B2A Bdd:|
+A2a f2e|fdd d2e|fdd d2e|f2e fga|
+A2a f2e|fdd d2e|f2d fed|B2A Bdd:|
+Acc cef|ecc cef|ecc cef|ecc eff|
+Acc cef|ecc cef|e2c fec|B2A Bcc:|
+A2a f2e|faa f2e|faa f2e|faa fec|
+A2a f2e|faa f2e|eff fec|B2A Bcc:|
+X: 3
+T: Duck, The
+Z: Matt Seattle
+S: https://thesession.org/tunes/3347#setting23955
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+A2d def|e2d def|e2d def|e2d eff|
+A2d def|e2d def|e2d fed|B2A Bcd::
+A2a f2e|fdd d2e|fdd d2e|fdd faa|
+A2a f2e|fdd d2e|1f2e fed|B2A Bcd:|2faf fed|B2A Bcd|]
+|:A2c cef|e2c cef|e2c cef|e2c eff|
+A2c cef|e2c cef|e2c fec|B2A Bcc::
+A2a f2e|faa f2e|faa f2e|fea fec|
+A2a f2e|faa f2e|fAf fec|B2A Bcc:|

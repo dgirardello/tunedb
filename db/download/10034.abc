@@ -1,0 +1,37 @@
+X: 1
+T: Highlander's Return
+Z: The Merry Highlander
+S: https://thesession.org/tunes/10034#setting10034
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Amaj
+(3efg |: "A" a>ga>b a>gf>e | "D" d>cd>c "E" B2 e>f | "E" g>fg>a g>fe>d | "A" c>Bc>d e2 (3efg |
+"A" a>ga>b a>gf>e | "D" d>cd>c "E" B2 e>f |"E" g>fg>a g>fe>d | "A" c2 c>B A4 :|
+|: "A" E>AA>A E>AA>A | c>BA>B c4 | "D" d>ef>d "A" c>de>c | "E"B>AG>F E4 |
+"A" E>AA>A E>AA>A | c>BA>B c4 | "D" d>ef>d "A" c>de>c | "E" B>AG>B "A" A4 :|
+X: 2
+T: Highlander's Return
+Z: ceolachan
+S: https://thesession.org/tunes/10034#setting20163
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Amaj
+|: (3efg |a>ga>b a>g (3gfe | d>cd<f B2 (3def | g>fg>a g>fe>d | c>^Bc>d e>A (3efg |
+a2 (3gab a>gf>e | d>cd<f B2 e>f | g2 (3fga g2 (3fed | c>a (3dcB A2 :|
+|: c>d |e>A (3AGA E>A (3AGA | c>BA<B c2 (3ABc | d>ef>d c>de>c | B>A (3GAF E2 C>D |
+E>A (3AAA E>A (3AAA | c>BA<B c2 a>g | f>e (3def e>dc>e | B>A (3GAB A2 :|
+X: 3
+T: Highlander's Return
+Z: ceolachan
+S: https://thesession.org/tunes/10034#setting20164
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Dmaj
+|: (3efg |a>^ga>b a>=g (3gfe | d>cd<f B2 (3def | g>fg>a g>fe>d | c>^Bc>d e>A (3efg |
+a2 (3^gab a>=gf>e | d>cd<f B2 e>f | g2 (3fga g2 (3fed | c>a (3ABc d2 :|
+K: AMaj
+|: c>d |e>A (3AGA E>A (3AGA | c>BA<B c2 (3ABc | d>ef>d c>de>c | B>A (3GAF E2 C>D |
+E>A (3AAA E>A (3AAA | c>BA<B c2 a>g | f>e (3def e>dc>e | B>A (3GAB A2 :|

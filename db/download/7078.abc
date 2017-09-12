@@ -1,0 +1,34 @@
+X: 1
+T: 10th Bat Crossing Rhine
+Z: gaitazampogna_32
+S: https://thesession.org/tunes/7078#setting7078
+R: jig
+M: 6/8
+L: 1/8
+K: Amix
+|: {g}A|{Gdc}d3/2f/2{g}A{Gdc}d2f|{g}f3/2g/2a{fg}f3/2e/2d| {g}c2{GdG}e{g}A3/2{d}c/2e|{g}e3/2f/2g{afg}f3/2e/2d|
+{gdc}d3/2f/2{g}A{Gdc}d2f|{g}f3/2g/2a{fg}f3/2e/2d|{g}c2{GdG}e{g}A3/2{d}c/2e|{Gdc}d3{gdc}d2:|
+|: {gf}g|{ag}a2f{Gdc}d2f|{g}f/2a3/2f{gfg}f3/2e/2d|{g}c2{GdG}e{g}A3/2{d}c/2e|{g}e3/2f/2g{afg}f3/2e/2d|
+{ag}a2f{Gdc}d2f|{g}f/2a3/2f{gfg}f3/2e/2d|{g}c2{GdG}e{g}A3/2{d}c/2e|{Gdc}d3{gdc}d2:|
+|: {g}A|{Gdc}d3{g}A3/2d/2f|{g}f/2a3/2f{gfg}f3/2e/2d|{gcd}c3{g}A3/2{d}c/2e|{g}e3/2f/2g{afg}f3/2e/2d|
+{gdc}d3{g}A3/2d/2f|{g}f/2a3/2f{gfg}f3/2e/2d|{g}c2{GdG}e{g}A3/2{d}c/2e|{Gdc}d3{gdc}d2:|
+|:{gf}g|a2{GdG}aA3/2d/2f|{g}f/2a3/2f{gfg}f3/2e/2d|{g}c2{GdG}e{g}A3/2{d}c/2e|{g}e3/2f/2g{afg}f3/2e/2d|
+a2{GdG}aA3/2d/2f|{g}f/2a3/2f{gfg}f3/2e/2d|{g}c2{GdG}e{g}A3/2{d}c/2e|{Gdc}d3{gdc}d2:|
+X: 2
+T: 10th Bat Crossing Rhine
+Z: ceolachan
+S: https://thesession.org/tunes/7078#setting18649
+R: jig
+M: 6/8
+L: 1/8
+K: Amix
+d>fA d2 f | f>ga f>ed | c2 e A>ce | e>fg f>ed |d>fA d2 f | f>ga f>ed | c2 e A>ce | d3 d2 :|a2 f d2 f | f<af f>ed | c2 e A>ce | e>fg f>ed |a2 f d2 f | f<af f>ed | c2 e A>ce | d3 d2 :|d3 A>df | f<af f>ed | c3 A>ce | e>fg f>ed |d3 A>df | f<af f>ed | c2 e A>ce | d3 d2 :|a2 a A>df | f<a3f f>ed | c2 e A>ce | e>fg f>ed |a2 a A>df | f<a3f f>ed | c2 e A>ce | d3 d2 :|
+X: 3
+T: 10th Bat Crossing Rhine
+Z: ceolachan
+S: https://thesession.org/tunes/7078#setting18650
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+d<fA d2 A | f>ga fed | c<eA c2 e | e>fg fed |d<fA d2 A | f>ga fed | c>ea g>ec | d3- d2 :|a<Af d2 A | f<af fed | c<eA c2 e | e>fg fed |a<Af d2 A | f<af fed | c>ea g>ec | d3- d2 :|d3 A>df | f<af fed | c<eA c2 e | e>fg fed |d3 A>df | f<af fed | c>ea g>ec | d3- d2 :|a<Aa A>df | f<af fed | c<eA c2 e | e>fg fed |a<Aa A>df | f<af fed | c>ea g>ec | d3- d2 :|

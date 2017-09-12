@@ -1,0 +1,948 @@
+4f44
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="theme-color" content="#660000">
+<title>404 &mdash; Page Not Found on The Session</title>
+<script>if(document.documentElement){document.documentElement.className='hasJS';}</script>
+<link rel="preload" href="/js/global-min.20170709.js" as="script">
+<style>
+html,
+body {
+  margin: 0px;
+  background-color: rgb(255, 255, 233);
+  position: relative;
+  height: 100%;
+  margin: 0;
+  background-color: #ffffe9;
+}
+
+@media print {
+  html,
+  body {
+    background-color: transparent;
+  }
+}
+
+body {
+  color: rgba(44, 0, 0, 0.960784);
+  font-family: Georgia, serif;
+  line-height: 1.5;
+  margin: 0px;
+  color: #270000;
+  color: rgba(44,0,0,0.96);
+  margin: 0;
+  -webkit-text-size-adjust: 100%;
+}
+
+
+
+h1,
+h2 {
+  color: rgba(102, 51, 0, 0.901961);
+  font-weight: normal;
+  line-height: 1.25;
+  border-bottom-style: solid;
+  border-bottom-color: rgba(102, 51, 0, 0.0980392);
+  word-wrap: break-word;
+}
+
+h1 {
+  font-size: 2em;
+  border-bottom-width: 0.09375em;
+  margin-top: 0px;
+  font-size: 32px;
+  margin-top: 0;
+}
+
+h2 {
+  font-size: 1.5em;
+  border-bottom-width: 0.0833em;
+  font-size: 24px;
+}
+
+article h2 {
+  padding-top: 1em;
+}
+
+a {
+  text-decoration: none;
+  word-wrap: break-word;
+  transition: background-color 0.25s linear;
+  -webkit-transition: background-color 0.25s linear;
+}
+
+a:link {
+  color: rgb(187, 51, 0);
+}
+
+h2 a:link {
+  color: rgb(153, 0, 0);
+}
+
+@media print {
+  a:link,
+  h2 a:link {
+    color: inherit;
+  }
+}
+
+ul {
+  margin-left: 0px;
+  padding-left: 0px;
+  margin-left: 0;
+  padding-left: 0;
+}
+
+input,
+select,
+button {
+  padding: 0.1875em 0px;
+  background-color: rgba(255, 255, 255, 0.498039);
+  color: rgb(39, 0, 0);
+  font-family: inherit;
+  font-size: 1em;
+  border: 0.0625em solid rgba(0, 0, 0, 0.247059);
+  border-top-left-radius: 0.25em;
+  border-top-right-radius: 0.25em;
+  border-bottom-right-radius: 0.25em;
+  border-bottom-left-radius: 0.25em;
+  transition: border-color 0.1s, box-shadow 0.1s;
+  -webkit-transition: border-color 0.1s, box-shadow 0.1s;
+}
+
+input:required {
+  border-color: rgba(0, 0, 0, 0.498039);
+}
+
+form[method="post"] input {
+  width: 100%;
+  max-width: 50em;
+  box-sizing: border-box;
+}
+
+button,
+.button {
+  box-sizing: border-box;
+  white-space: nowrap;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 1em;
+  font-variant: small-caps;
+  text-align: center;
+  text-transform: lowercase;
+  text-indent: 0.125em;
+  text-shadow: rgba(0, 0, 0, 0.247059) 0px -0.0625em 0px;
+  letter-spacing: 0.125em;
+  line-height: 1;
+  border-width: 0.0625em;
+  border-style: solid;
+  border-top-left-radius: 0.25em;
+  border-top-right-radius: 0.25em;
+  border-bottom-right-radius: 0.25em;
+  border-bottom-left-radius: 0.25em;
+  background-image: linear-gradient(transparent, rgba(0, 0, 0, 0.2));
+  -webkit-font-smoothing: subpixel-antialiased;
+  padding: 0.375em 1em 0.5em;
+  margin: 0px;
+  box-shadow: rgba(255, 255, 255, 0.247059) 0px 0.0625em 0.0625em inset;
+  color: rgba(255, 255, 204, 0.901961);
+  transition: border-color 0.1s, background-color 0.1s;
+  -webkit-transition: border-color 0.1s, background-color 0.1s;
+  background-color: rgb(204, 102, 51);
+  border-color: rgb(204, 102, 51) rgb(143, 71, 36) rgb(122, 61, 31);
+}
+
+.button:link {
+  background-color: rgb(204, 102, 51);
+}
+
+a.button:link {
+  color: rgba(255, 255, 204, 0.901961);
+}
+
+.icon {
+  padding: 0.5em 0.4375em 0.375em;
+  font-weight: bold;
+  border-top-left-radius: 0.25em;
+  border-top-right-radius: 0.25em;
+  border-bottom-right-radius: 0.25em;
+  border-bottom-left-radius: 0.25em;
+  border-radius: 0.25em;
+}
+
+[rel="next"]::before {
+  content: '» ';
+  margin-left: -0.75em;
+}
+
+.discrete {
+  font-size: 0.8125em;
+  font-size: 13px;
+}
+
+small.discrete {
+  font-style: italic;
+}
+
+.aside {
+  float: right;
+}
+
+@media print {
+  * {
+    box-shadow: none !important;
+  }
+
+  body {
+    color: black;
+    orphans: 2;
+    widows: 2;
+  }
+
+  form,
+  .button,
+  .top.strip {
+    display: none;
+  }
+}
+
+.feed-entry {
+  max-width: 50em;
+  list-style: none;
+  padding-bottom: 1.5em;
+  margin-bottom: 1.4375em;
+  border-bottom-width: 0.0625em;
+  border-bottom-style: solid;
+  border-bottom-color: rgba(0, 0, 0, 0.0235294);
+  max-width: 800px;
+  border-bottom: 0.0625em solid rgba(0,0,0,0.025);
+}
+
+.inverted {
+  background-color: rgb(102, 0, 0);
+  color: rgba(255, 255, 204, 0.498039);
+  background-color: #600;
+  color: #c96;
+  color: rgba(255,255,204,0.5);
+}
+
+.inverted a:link {
+  color: rgba(255, 255, 204, 0.901961);
+}
+
+.inverted .button {
+  box-shadow: rgba(0, 0, 0, 0.247059) 0px -0.0625em 0px inset;
+  border: none;
+}
+
+@media (max-width: 20em) {
+  .inverted.strip {
+    background-image: linear-gradient(rgb(119, 0, 0), rgb(85, 0, 0));
+  }
+}
+
+.manifest {
+  max-width: 50em;
+  max-width: 800px;
+}
+
+.manifest-title {
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+.manifest-inventory {
+  border-top-width: 0.0625em;
+  border-top-style: solid;
+  border-top-color: rgba(0, 0, 0, 0.0235294);
+  margin-top: 0px;
+  padding-top: 0px;
+  border-top: 0.0625em solid rgba(0,0,0,0.025);
+  margin-top: 0;
+  padding-top: 0;
+}
+
+ul.manifest-inventory > li {
+  list-style: none;
+}
+
+.manifest-item {
+  vertical-align: text-top;
+  margin: 0px;
+  padding-top: 1.0625em;
+  padding-bottom: 1em;
+  border-bottom-width: 0.0625em;
+  border-bottom-style: solid;
+  border-bottom-color: rgba(0, 0, 0, 0.0235294);
+  margin: 0;
+  border-bottom: 0.0625em solid rgba(0,0,0,0.025);
+}
+
+.manifest-meta {
+  display: block;
+  margin-top: 0.5em;
+  color: rgb(102, 51, 0);
+  color: #630;
+}
+
+.menu {
+  border-top-width: 1px;
+  border-top-style: solid;
+  border-top: 1px solid;
+}
+
+.menu li {
+  list-style: none;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  text-transform: uppercase;
+  letter-spacing: 0.1875em;
+  line-height: 1;
+  border-bottom: 1px solid;
+}
+
+.menu a {
+  text-decoration: none;
+  display: block;
+  padding: 0.75em 5%;
+}
+
+.menu a:link {
+  color: rgba(102, 51, 0, 0.74902);
+}
+
+.ribbon {
+  font-size: 1em;
+  display: block;
+  margin: 0px;
+  padding: 0.5em;
+  color: rgba(51, 0, 0, 0.901961);
+  background-color: rgb(229, 178, 25);
+  background-image: linear-gradient(rgb(238, 187, 34), rgb(221, 170, 17));
+  border: 0.0625em dashed rgb(204, 153, 51);
+  box-shadow: rgb(229, 178, 25) 0.25em 0.25em 0px, rgb(229, 178, 25) -0.25em 0.25em 0px, rgb(229, 178, 25) -0.25em -0.25em 0px, rgb(229, 178, 25) 0.25em -0.25em 0px;
+  font-size: 16px;
+  margin: 0;
+  color: #300;
+  color: rgba(51,0,0,0.9);
+  background-color: #e5b219;
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #eb2), color-stop(1, #da1));
+  background-image: -webkit-linear-gradient(#eb2, #da1);
+  background-image: linear-gradient(#eb2, #da1);
+  border: 0.0625em dashed #c93;
+  box-shadow: 0.25em 0.25em 0 #e5b219, -0.25em 0.25em 0 #e5b219, -0.25em -0.25em 0 #e5b219, 0.25em -0.25em 0 #e5b219;
+}
+
+@media print {
+  .ribbon {
+    border: none;
+  }
+}
+
+[role="search"] {
+  margin-bottom: 2em;
+}
+
+[role="search"] label {
+  display: block;
+  font-size: 1.25em;
+  vertical-align: middle;
+  font-size: 20px;
+}
+
+[role="search"] select {
+  padding: 0.4em 0.2em;
+}
+
+[role="search"] input[type="search"] {
+  display: inline-block;
+  padding: 0.4em 0.2em;
+  width: 65%;
+  max-width: 50em;
+  -webkit-appearance: none;
+  border-top-right-radius: 0px;
+  border-bottom-right-radius: 0px;
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+[role="search"] button {
+  display: inline-block;
+  width: 30%;
+  border-top-left-radius: 0px;
+  border-bottom-left-radius: 0px;
+  margin-left: -0.3125em;
+  border-color: rgb(230, 172, 0) rgb(153, 115, 0) rgb(153, 115, 0);
+  background-color: rgb(255, 204, 51);
+  color: rgb(102, 51, 0);
+  text-shadow: rgba(255, 255, 255, 0.247059) 0px 1px 0px;
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+  border-color: #997300;
+  border-top-color: #e6ac00;
+  background-color: #fc3;
+  color: #630;
+  text-shadow: 0 1px 0 rgba(255,255,255,0.25);
+}
+
+[role="search"] select,
+[role="search"] input,
+[role="search"] button {
+  vertical-align: top;
+  height: 2.1875em;
+  box-sizing: border-box;
+  height: 35px;
+}
+
+@media (max-width: 20em) {
+  [role="search"] select {
+    width: 95%;
+  }
+}
+
+@media (min-width: 46em) {
+  [role="search"] {
+    display: -webkit-flex;
+    -webkit-flex-direction: row;
+  }
+
+  [role="search"] label {
+    margin-right: 0.25em;
+  }
+
+  [role="search"] select + label {
+    margin-left: 0.25em;
+  }
+
+  [role="search"] input[type="search"] {
+    width: auto;
+    -webkit-flex-grow: 1;
+  }
+
+  [role="search"] button {
+    width: auto;
+  }
+}
+
+@media (min-width: 72em) {
+  [role="search"] button {
+    min-width: 13.25em;
+  }
+}
+
+@media (min-height: 44em) and (min-width: 56em) {
+  [role="search"] select,
+  [role="search"] input,
+  [role="search"] button {
+    height: 2.8125em;
+  }
+}
+
+.actions {
+  text-align: right;
+}
+
+@media (max-width: 20em) {
+  .actions {
+    width: 100%;
+  }
+}
+
+@media (min-width: 56em) {
+  .actions {
+    position: absolute;
+    top: -2em;
+    right: 5%;
+  }
+}
+
+.logo {
+  z-index: 2;
+  position: relative;
+  margin: -1em auto 1em;
+  width: 90%;
+  max-width: 15em;
+  top: 0px;
+  box-shadow: rgba(0, 0, 0, 0.372549) 0px 0.25em 0.5em;
+  text-align: center;
+  text-transform: uppercase;
+  -webkit-transition: -webkit-transform 0.1s linear;
+  transition: -webkit-transform 0.1s linear;
+  margin: -1em auto 1em auto;
+  max-width: 240px;
+  top: 0;
+  box-shadow: 0 0.25em 0.5em rgba(0,0,0,0.375);
+  transition: transform 0.1s linear;
+}
+
+.logo .the {
+  vertical-align: text-bottom;
+  display: inline-block;
+  font-size: 0.75em;
+  letter-spacing: 0.75em;
+  line-height: 1.5;
+  font-size: 12px;
+}
+
+.logo .session {
+  vertical-align: text-top;
+  display: inline-block;
+  letter-spacing: 0.25em;
+  line-height: 1.5;
+  text-indent: 0.225em;
+  text-shadow: rgba(255, 255, 255, 0.247059) 0px 1px 0px;
+  white-space: nowrap;
+  text-shadow: 0 1px 0 rgba(255,255,255,0.25);
+}
+
+.logo .ribbon {
+  padding: 1.5em 0px 0px;
+  line-height: 1.5;
+  padding: 1.5em 0 0;
+}
+
+@media (min-width: 56em) {
+  .logo {
+    position: relative;
+    width: 15%;
+    float: left;
+    left: 5%;
+    top: 0px;
+    margin-left: -0.1875em;
+    margin-right: 1em;
+  }
+
+  .logo .ribbon {
+    padding-top: 20%;
+    padding-bottom: 10%;
+  }
+
+  .logo .the {
+    display: block;
+    text-indent: 1.5em;
+  }
+}
+
+@media (min-height: 40em) and (min-width: 56em) {
+  .logo {
+    position: fixed;
+    top: 3em;
+  }
+}
+
+.membership {
+  padding-top: 0.35em;
+}
+
+@media (min-width: 44em) {
+  .membership {
+    position: absolute;
+    top: 3.6875em;
+    color: rgba(51, 0, 0, 0.901961);
+  }
+
+  .membership .profile {
+    padding: 0.25em 0.75em 0.1875em;
+    border-top-left-radius: 0.25em;
+    border-top-right-radius: 0.25em;
+    border-bottom-right-radius: 0.25em;
+    border-bottom-left-radius: 0.25em;
+    background-image: linear-gradient(transparent, rgba(0, 0, 0, 0.2));
+    transition: border-color 0.1s, background-color 0.1s;
+    -webkit-transition: border-color 0.1s, background-color 0.1s;
+    background-color: rgb(204, 102, 51);
+    border-color: rgb(204, 102, 51) rgb(143, 71, 36) rgb(122, 61, 31);
+  }
+
+  .membership .profile:link {
+    background-color: rgb(204, 102, 51);
+  }
+}
+
+@media (min-width: 56em) {
+  .membership {
+    position: static;
+    top: auto;
+    width: 16.5%;
+    text-align: center;
+    -webkit-font-smoothing: subpixel-antialiased;
+    background-color: rgb(102, 0, 0);
+    color: rgba(255, 255, 204, 0.498039);
+  }
+
+  .membership .profile {
+    padding: 0px;
+    border: none;
+    background-image: none;
+    background-color: transparent;
+    color: rgba(255, 255, 204, 0.901961);
+  }
+
+  .membership .profile:link {
+    background-color: transparent;
+  }
+}
+
+.top {
+  position: relative;
+  z-index: 3;
+  box-shadow: rgba(0, 0, 0, 0.247059) 0px 0.125em 0.25em;
+  box-shadow: 0 0.125em 0.25em rgba(0,0,0,0.25);
+}
+
+.navigation .menu {
+  background-color: rgb(204, 153, 51);
+  margin: 0px;
+  background-color: #c93;
+  margin: 0;
+}
+
+@media (min-width: 44em) {
+  .top [rel="contents"] {
+    display: none;
+  }
+
+  .navigation .menu {
+    border: none;
+    background-color: rgb(102, 0, 0);
+    -webkit-font-smoothing: subpixel-antialiased;
+  }
+
+  .navigation .menu li a:link {
+    color: rgba(255, 255, 204, 0.901961);
+  }
+
+  .navigation .site {
+    margin: 0px;
+    padding: 0px;
+    position: absolute;
+    z-index: 3;
+    top: 0px;
+    left: 5%;
+    width: 90%;
+    display: table;
+    background-image: linear-gradient(rgb(119, 0, 0), rgb(85, 0, 0));
+  }
+
+  .navigation .site li {
+    display: table-cell;
+    text-align: center;
+    border: none;
+  }
+
+  .navigation .site li a {
+    display: inline-block;
+    width: 100%;
+    padding: 1em 0px;
+    border-right-width: 0.0625em;
+    border-right-style: dotted;
+    border-right-color: rgba(255, 255, 255, 0.247059);
+  }
+
+  .navigation .site li:first-child a {
+    border-left-width: 0.0625em;
+    border-left-style: dotted;
+    border-left-color: rgba(255, 255, 255, 0.247059);
+  }
+}
+
+@media (min-width: 56em) {
+  .navigation .site {
+    left: 20%;
+    width: 76%;
+  }
+
+  .main {
+    margin-left: 20%;
+  }
+
+  .header + .main {
+    margin-top: 5%;
+  }
+}
+
+@media (min-height: 40em) and (min-width: 56em) {
+  body {
+    padding-top: 3em;
+  }
+
+  .top,
+  .navigation .site {
+    position: fixed;
+    top: 0px;
+  }
+}
+
+@media (min-width: 72em) {
+  .navigation .site li {
+    width: 20%;
+  }
+}
+
+@media (max-height: 40em) and (max-width: 40em) {
+  .parallel {
+    display: block;
+    width: 100%;
+    overflow-y: auto;
+    overflow-x: scroll;
+    border-right-width: 0.0625em;
+    border-right-style: solid;
+    border-right-color: rgba(0, 0, 0, 0.0235294);
+    background-image: radial-gradient(at 0% 100%, transparent 95%, rgba(0, 0, 0, 0.0745098)), linear-gradient(225deg, rgba(0, 0, 0, 0.0235294), transparent 5%), linear-gradient(250deg, rgba(0, 0, 0, 0.0235294), transparent 10%), linear-gradient(200deg, rgba(0, 0, 0, 0.0235294), transparent 30%);
+  }
+
+  .parallel .parallel-container {
+    display: block;
+    float: left;
+    width: 500%;
+    max-width: 500%;
+  }
+
+  .parallel .parallel-item {
+    box-sizing: border-box;
+    display: block;
+    width: 20%;
+    float: left;
+    padding-right: 1em;
+  }
+}
+
+.contents {
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+.strip {
+  width: 100%;
+  padding: 0.5em 0px;
+  min-height: 2em;
+  padding: 0.5em 0;
+}
+
+.strip::before,
+.strip::after {
+  content: '';
+  display: table;
+}
+
+.strip::after {
+  clear: both;
+}
+
+.main {
+  position: relative;
+  min-height: 100%;
+  margin-top: 1em;
+  margin-bottom: 4em;
+}
+
+@media (min-width: 90rem) {
+  body {
+    font-size: 106.25%;
+  }
+}
+
+@media (min-width: 100rem) {
+  body {
+    font-size: 112.5%;
+  }
+}
+
+@media (min-width: 112.5rem) {
+  body {
+    font-size: 118.75%;
+  }
+}
+
+@media (min-width: 125rem) {
+  body {
+    font-size: 125%;
+  }
+}
+
+@media (min-width: 150rem) {
+  body {
+    font-size: 137.5%;
+  }
+}
+
+@media (min-width: 180rem) {
+  body {
+    font-size: 150%;
+  }
+}</style>
+<script>
+<!--
+(function (win, doc) {
+    'use strict';
+    function loadCSS(href) {
+        var ss = doc.createElement('link');
+        var ref = doc.getElementsByTagName('script')[0];
+        var sheets = doc.styleSheets;
+        ss.rel = 'stylesheet';
+        ss.href = href;
+        ss.media = 'only x';
+        ref.parentNode.insertBefore(ss, ref);
+        function toggleMedia() {
+            var defined;
+            var i;
+            for (i = 0; i < sheets.length; i = i + 1) {
+                if (sheets[i].href && sheets[i].href.indexOf(ss.href) > -1) {
+                    defined = true;
+                }
+            }
+            if (defined) {
+                ss.media = 'all';
+            } else {
+                win.setTimeout(toggleMedia);
+            }
+        }
+        toggleMedia();
+        return ss;
+    }
+    loadCSS('/css/global-min.20170709.css');
+    doc.cookie = 'csscached=20170709;expires="Tue, 19 Jan 2038 03:14:07 GMT";path=/';
+}(this, this.document));
+//-->
+</script>
+<noscript>
+<link rel="stylesheet" href="/css/global-min.20170709.css">
+</noscript>
+<link rel="manifest" href="/manifest.json">
+<link rel="shortcut icon" href="/icon.png" sizes="192x192" type="image/png">
+<link rel="icon" href="/favicon.ico" sizes="16x16 32x32 48x48" type="image/vnd.microsoft.icon">
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="The Session">
+</head>
+<body id="top">
+
+<div class="header">
+<header>
+
+<div class="inverted strip top">
+<div class="contents">
+<a href="#nav" rel="contents" class="icon button aside" aria-label="navigation">menu</a>
+<div class="membership">
+<a href="/login?redirect=%2Ftunes%2F15814%2Fabc" class="profile" rel="nofollow">Log in</a>
+or
+<a href="/signup" class="profile">Sign up</a>
+</div><!-- /.membership -->
+</div><!-- /.contents -->
+</div><!-- /.inverted.strip.top#top-->
+
+<div class="logo">
+<a href="/" rel="start" class="ribbon"><span class="the">The</span> <span class="session">Session</span></a>
+</div><!-- /.logo -->
+
+</header>
+</div><!-- /.header -->
+<div class="main">
+<main>
+<div class="contents">
+
+<div class="actions">
+</div><!-- /.actions -->
+
+
+<h1>404</h1>
+<h2>Page Not Found</h2>
+
+<p>The page you requested doesn’t exist. If you think there’s been some kind of mistake, please <a href="/contact">let me know</a>.</p>
+
+<aside>
+<h3>Donate</h3>
+<p>If you’d like to help improve The Session, please consider donating towards the ongoing maintainance costs.</p>
+
+<ol>
+
+<li>
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<p>
+<label for="subscription">Set up a recurring donation of</label>
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="VNUBLLHAC52DN">
+<input type="hidden" name="on0" value="">
+<select name="os0" id="subscription">
+<option value="Hundred">$100</option>
+<option value="Fifty">$ 50</option>
+<option value="Twenty" selected>$ 20</option>
+<option value="Tenner">$ 10</option>
+<option value="Fiver">$ 5</option>
+</select>
+each month
+<input type="hidden" name="return" value="https://thesession.org//thanks">
+<input type="hidden" name="cancel_return" value="https://thesession.org/">
+<input type="hidden" name="no_note" value="1">
+<input type="hidden" name="currency_code" value="USD">
+<button type="submit">Donate</button>
+</p>
+</form>
+
+<p>Or…</p>
+
+</li>
+<li>
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<p>Make one-time donation
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="6SVZ9JCTKJ8UA">
+<input type="hidden" name="business" value="jeremy@thesession.org">
+<input type="hidden" name="item_name" value="The Session">
+<input type="hidden" name="no_shipping" value="1">
+<input type="hidden" name="return" value="https://thesession.org//thanks">
+<input type="hidden" name="cancel_return" value="https://thesession.org/">
+<input type="hidden" name="no_note" value="1">
+<input type="hidden" name="currency_code" value="USD">
+<input type="hidden" name="tax" value="0">
+<input type="hidden" name="lc" value="US">
+<button type="submit">Donate</button>
+</p>
+</form>
+</li>
+</ol>
+</aside>
+
+
+</div><!-- /.contents -->
+</main>
+</div><!-- /.main -->
+<div class="navigation" id="nav">
+<nav>
+<ul class="site menu">
+<li class="here" aria-current="page"><a href="/tunes">Tunes</a></li>
+<li><a href="/recordings">Recordings</a></li>
+<li><a href="/sessions">Sessions</a></li>
+<li><a href="/events">Events</a></li>
+<li><a href="/discussions">Discussions</a></li>
+</ul><!-- /.site.menu -->
+
+<div class="siteinfo">
+<ul class="menu discrete">
+<li><a href="/help" rel="help">help</a></li>
+<li><a href="/contact">contact</a></li>
+<li><a href="/links">links</a></li>
+<li><a href="/donate">donate</a></li>
+</ul><!-- /.menu.discrete -->
+</div><!-- /.siteinfo -->
+</nav>
+</div><!-- /.navigation#nav -->
+
+
+<div class="inverted strip bottom">
+<div class="contents">
+<a href="#top" class="icon button aside" title="top" aria-label="back to top">&#9650;</a>
+
+</div><!-- /.contents -->
+</div><!-- /.inverted.strip.bottom -->
+<script src="/js/global-min.20170709.js"></script>
+</body>
+</html>
+
+0
+

@@ -1,0 +1,60 @@
+X: 1
+T: Oblique
+Z: BrownAleMugger
+S: https://thesession.org/tunes/11331#setting11331
+R: jig
+M: 6/8
+L: 1/8
+K: Emin
+EGA B2A | AGB AGE | B2G AGE | GAA AGE |
+EGA B2A | AGB AGE | B2G AGE | DEE E3 :|
+DEE GEE | AAB AGE | DEE GEE | B2G AGE |
+DEE GEE | AAB AGE | B2G AGE | DEE EEE :|
+X: 2
+T: Oblique
+Z: Tøm
+S: https://thesession.org/tunes/11331#setting21291
+R: jig
+M: 6/8
+L: 1/8
+K: Amin
+|: Acd e2d | dce dcA | e2c dcA | cdd dcA |
+Acd e2d | dce dcA | e2c dcA | GAA A3 :|
+|: GAA cAA | dde dcA | GAA cAA | e2c dcA |
+GAA cAA | dde dcA | e2c dcA | GAA AAA :|
+X: 3
+T: Oblique
+Z: Tøm
+S: https://thesession.org/tunes/11331#setting23252
+R: jig
+M: 6/8
+L: 1/8
+K: Amaj
+FAB c2B | BAc BAF | c2A BAF | ABB BAF |
+FAB c2B | BAc BAF | c2A BAF | EFF F3 :|
+EFF AFF | BBc BAF | EFF AFF | c2A BAF |
+EFF AFF | BBc BAF | c2A BAF | EFF FFF :|
+X: 4
+T: Oblique
+Z: giamp
+S: https://thesession.org/tunes/11331#setting23978
+R: jig
+M: 6/8
+L: 1/8
+K: Emin
+EGA ABG | AGA AGE | B2G AGE | GAA A3 |
+EGA ABG | AGB AGE | B2G AGE | DEE E3 :|
+DEE GEE | A2A- AGE | DEE GEE | B2G AGE |
+DEE GEE | A2A- AGE | B2G AGE | DEE EEE :|
+X: 5
+T: Oblique
+Z: Alex Navar
+S: https://thesession.org/tunes/11331#setting24004
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+Bde f2d | edf edB | f2d edB | dee e2z|
+Bde f2d | edf edB | f2d edB | ABB B2z:|
+ABB dBB | e2f edB | ABB dBB | f2d edB|
+ABB dBB | e2f edB | f2d edB | ABB B2z:|

@@ -1,0 +1,34 @@
+X: 1
+T: Down And Out In Santiago De Compestella
+Z: Alistair
+S: https://thesession.org/tunes/7362#setting7362
+R: mazurka
+M: 3/4
+L: 1/8
+K: Dmaj
+|: fg | af f/f/f df | df fd ef | ge e/e/e ce | ce eA AF |
+GA BG GB | AB cA AA |[1 cd eA fa | e4 :|[2 ca ge cd | ed dd ||
+|: ag | fd d/d/d df | df f/f/f gf | ec c/c/c ce | ce e/f/e AB |
+[1 dB B/B/B Bd | Bd d/d/d dB | AB cd ef | g4 :|
+[2 GA BG GB | AB cA A/A/A | cage cd ed | d4 ||
+|: A2 | d2 fd ec | d4 A2 | d2 ed cB | A4 AB |
+GA BG GB | AB cA A/A/A |1 cd eA fa | e4 :|2 ca ge ed | d4 ||
+X: 2
+T: Down And Out In Santiago De Compestella
+Z: ceolachan
+S: https://thesession.org/tunes/7362#setting18884
+R: mazurka
+M: 3/4
+L: 1/8
+K: Dmaj
+M: 12/8
+fga fff df deff | efg eee ce cdee | AF GABB GB ABcc Ac | [M: 10/8] cdec ea e4 |
+M: 12/8
+fga fff df deff | efg eee ce cdee | AF GABB GB ABcc Ac | [M: 10/8] cage cd ed d2 ||
+M: 12/8
+agf ddd df deff | gfe ccc ce cdee | Bcd BBB Bd Bcdd | dBAB cdef g4 |
+agf ddd df deff | gfe ccc ce cdee | AF GABB GB ABcc Ac | [M: 10/8] cage cd ed d2 ||
+M: 12/8
+|: A2 d3 fec d3 z | A2 d2 edcB A3 z | AF GABB GB ABcc Ac | [M: 10/8] cdec ea e4 |
+M: 12/8
+A2 d3 fec d3 z | A2 d3 dcB A3 z | AF GABB GB ABcc Ac | [M: 10/8] cage cd ed d2 :|

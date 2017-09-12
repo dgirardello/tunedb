@@ -1,0 +1,48 @@
+X: 1
+T: Mickey Mor Doherty's March
+Z: ceolachan
+S: https://thesession.org/tunes/11982#setting11982
+R: polka
+M: 2/4
+L: 1/8
+K: Dmix
+d>c [|A/B/A/G/ FG | A/B/c/A/ BG | A/B/A/G/ FG | Ad d>c |
+A/B/A/G/ FG | A/B/c/A/ BG | A/B/A/G/ FG | Ad ||
+d>e |fd gf | dc Ad/e/ | fa gf | d2 dA/d/ |
+fa gf | dc A>B | cB cA | G2 c>B |]
+X: 2
+T: Mickey Mor Doherty's March
+Z: ceolachan
+S: https://thesession.org/tunes/11982#setting26413
+R: polka
+M: 2/4
+L: 1/8
+K: Dmix
+|: "D" A>G FG | "F" A/B/c/A/ "G" BG | "D" A>G FG | "A" A/d/"D"d/^c/ d2 |
+"D" A>G FG | "Am" A/B/c/A/ "G" BG | "D" Ad "A" ^c/d/e |[1 "D" d2 d2 :|[2 "D" d2- d>e ||
+|: "D" fa "C" g/f/e | "D" d>B Ae | "D" fa "C" g/f/e | "D" d2- d>e |
+"D" fa "C" g/f/e | "D" d>B AB | "Am" cB AF | "G" GA/B/ "C" c"G"B :|
+X: 3
+T: Mickey Mor Doherty's March
+Z: ceolachan
+S: https://thesession.org/tunes/11982#setting26414
+R: polka
+M: 2/4
+L: 1/8
+K: Bmix
+(A/B/) |cc d>B | c>A F>e | ff ge | f3 (A/B/) |
+cc d>B | cA G(A/B/) | cc BG | HF3 ||
+g |aa bg | fe c>g |aa bg | (f2 e)g |
+aa b(a/g/) | fe c (c/d/) | _ee d>A | B3 |]
+X: 4
+T: Mickey Mor Doherty's March
+Z: ceolachan
+S: https://thesession.org/tunes/11982#setting26415
+R: polka
+M: 2/4
+L: 1/8
+K: Dmix
+(F/G/) |AA B>G | A>F D>c | dd ec | d3 (F/G/) |
+AA B>G | AF E(F/G/) | AA GE | HD3 ||
+e |ff ge | dc A>e | ff ge | (d2 c)e |
+ff g(f/e/) | dc A(A/B/) | =cc B>F | G3 |]

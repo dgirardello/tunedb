@@ -1,0 +1,50 @@
+X: 1
+T: Mouth Of The Tobique, The
+Z: Redbird
+S: https://thesession.org/tunes/423#setting423
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+(3DEF|GF GA (3Bcd ed|Bd BA GB AG|
+AB AF DF AF|1 GA Bc d2 (3DEF:|2 GB AF G2 ef||
+gf ga gd Bg|fd Ad f2 gf|ed cB AG FD|1 GA Bc d2 ef:|2 GB AF G2 z (3D/E/F/||
+G [BG] z [c2G2] z [B2G2]| z2 [c2G2] z [B2G2] z| FG AB cA FD|GA Bc d2 (3DEF|
+G [BG] z [c2G2] z [B2G2]| z2 [c2G2] z [B2G2] z| FG AB cA FD|GB AF G2 (3DEF :|
+X: 2
+T: Mouth Of The Tobique, The
+Z: JACKB
+S: https://thesession.org/tunes/423#setting13277
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+|: (3DEF|G2 BGcG BG |G2 BGcG BG |FGAB cAFA |GABc d2 (3DEF | G2 BGcG BG |G2 BGcG BG |FGAB cAFA |1 GBAF G2 (3DEF :|2 GBAF G2 (3def |||: g2 gf g2 ag |fdAd f2 gf |ecAG FGAF |GABc d2 ef |g2 gf g2 ag |fdAd f2 gf |ecAG FGAF |1 GBAF G2 (3def :|2 GBAF G2 (3DEF |||:G2 B2 c2 z2 |B2 c2 z2 B2 |FGAB cAFA |GABc d2 (3DEF | G2 B2 c2 z2 |B2 c2 z2 B2|FGAB cAFA |1 GBAF G2 (3DEF :|2 GBAF G2 (3def |||:G2 Bc-cB- B |z2 Bc-cB-B |FGAB cAFA |GABc d2 (3DEF | G2 Bc-cB- B |z2 Bc-cB-B |FGAB cAFA |1 GBAF G2 (3DEF :|2 GBAF G2 (3def |||:G2 B _B - _B=B z2|z2 B _B - _B=B z2|FGAB cAFA |GABc d2 (3DEF | G2 B _B - _B=B z2|z2 B _B - _B=B z2|FGAB cAFA |1 GBAF G2 (3DEF :|2 GBAF G2 (3def |||:G2 B _B - _B2 =B _B -| _B2 =B _B - _B2 =B2 |FGAB cAFA |GABc d2 (3DEF | G2 B _B - _B2 =B _B -| _B2 =B _B - _B2 =B2|FGAB cAFA |1 GBAF G2 (3DEF :|2 GBAF G2 (3def |||:G2 g f - fg z2|z2 g f - fg z2|FGAB cAFA |GABc d2 (3DEF | G2 g f - fg z2|z2 g f - fg z2|FGAB cAFA |1 GBAF G2 (3DEF :|2 GBAF G2 (3def |||:G2 g f - f2 g f -| f2 g f - f2 g2 |FGAB cAFA |GABc d2 (3DEF | G2 g f - f2 g f -| f2 g f - f2 g2 |FGAB cAFA |1 GBAF G2 (3DEF :|2 GBAF G2 (3def || |:G2 B2 zc- c2 |B2 zc- c2 B2 |FGAB cAFA |GABc d2 (3DEF | G2 B2 zc- c2 |B2 zc- c2 B2 |FGAB cAFA |1 GBAF G2 (3DEF :|2 GBAF G2 (3def ||
+X: 3
+T: Mouth Of The Tobique, The
+Z: ChristianS
+S: https://thesession.org/tunes/423#setting28775
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+(3DEF|GFGA (3Bcd ed|^cdBG DGBG|ABAG FDEF GABc d2 (3DEF|
+GFGA (3Bcd ed|^cdBG DGBG|ABAG FDEF|1 GBAF G2 (3DEF:|2 GBAF G2 (3def||
+~g3f gbag|fdAd fagf|ecAG FDEF| GABc d2 ef |
+~g3f gbag|fdAd fagf|ecAG FDEF|1 GBAF G2 (3def :|2 GBAF G2 (3DEF||
+.G2 .[B2G2] z .[c2G2]z | .[B2G2]z .[c2G2]z .[B2G2] | ABAG FDEF|GABc d2 (3DEF|
+.G2 .[B2G2] z .[c2G2]z | .[B2G2]z .[c2G2]z .[B2G2] | ABAG FDEF|GBAF G2 (3DEF :|
+X: 4
+T: Mouth Of The Tobique, The
+Z: Rowan Folk
+S: https://thesession.org/tunes/423#setting28854
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+|:(3DEF|G2GG Bded|BdBG DGBG|ABAG FDEF|GABc d2(3DEF|
+G2GG Bded|BdBG DGBG|ABAG FDEF|GBAFG2:|
+|:ef|g2g2<g2ag|fdAdf2gf|ecAG FDEF|GABc d2ef|
+g2g2<g2ag|fdAdf2gf|ecAG FDEF|GBAFG2:|
+|:(3DEF|GGBG GcGG|BGGc GGBG|FGAB cDEF|GABc d2(3DEF|
+GGBG GcGG|BGGc GGBG|FGAB cDEF|GBAFG2:|

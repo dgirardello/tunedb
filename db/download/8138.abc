@@ -1,0 +1,85 @@
+X: 1
+T: Old Lancashire Hornpipe, The
+Z: mehitabel23
+S: https://thesession.org/tunes/8138#setting8138
+R: three-two
+M: 3/2
+L: 1/8
+K: Dmaj
+B2A2G2|:F3 ED2 f2e2d2|e2E4 B2A2G2|F3 ED2 f2e2dc|
+d6 B2A2G2 :| F2A2G2 B2A2B2|=c2E4 B2A2G2|F2A2G2 B2A2B^c|
+d6 B2A2G2|F2A2G2 B2A2d2|e2E4 B2A2G2|F2A2G2 B2A2Bc|
+d6 f2g2a2|:f3 ed2 f2e2d2|c2e4 f2g2a2|f3 ed2 f2e2dc|1 d6 f2g2a2:|2d6 B2A2G2|
+X: 2
+T: Old Lancashire Hornpipe, The
+Z: CreadurMawnOrganig
+S: https://thesession.org/tunes/8138#setting19334
+R: three-two
+M: 3/2
+L: 1/8
+K: Dmaj
+B2A2G2 | F3E D2f2 e2d2 | e2E4 B2 A2G2 | F3E D2f2 e2dc ||: B2A2G2 | F2A2 G2B2 A2d2 | e2E4 B2 A2G2 | F2A2 G2B2 A2c2 ||: f2g2a2 | f3e d2f2 e2d2 | c2e4 f2 g2a2 | f3e d2f2 e2dc | d2D4 :|
+X: 3
+T: Old Lancashire Hornpipe, The
+Z: Mix O'Lydian
+S: https://thesession.org/tunes/8138#setting26622
+R: three-two
+M: 3/2
+L: 1/8
+K: Dmaj
+|: B2 A2 G2 | F3 E D2 |f2 e2 d2 | e2 E4 |
+B2 A2 G2 | F3 E D2 |f2 e2 dc | d2 D4 :|
+|: B2 A2 G2 | F2 A2 G2 |B2 A2 cd | e2 E4 |
+B2 A2 G2 | F2 A2 G2 |B2 A2 Bc | d2 D4 :|
+|: f2 g2 a2 | f3 e d2 |f2 e2 d2 | c2 e4 |
+f2 g2 a2 | f3 e d2 |f2 e2 dc | d2 D4 :|
+X: 4
+T: Old Lancashire Hornpipe, The
+Z: ceolachan
+S: https://thesession.org/tunes/8138#setting27655
+R: three-two
+M: 3/2
+L: 1/8
+K: Dmaj
+M: 6/4
+|: B2 A2 G2 F2- FE D2 | f2 e2 d2 e2 E4 |\
+B2 A2 G2 F2- FE D2 | f2 e2 dc d6 :|
+[M: 3/4] B2 A2 G2 | [M: 3/2] F2A2 G2B2 A2B2 | [M: 3/4] =c2 E4 |\
+[M: 3/4] B2 A2 G2 | [M: 3/2] F2A2 G2B2 A2Bc | [M: 3/4] d6 :|
+[M: 3/4] B2 A2 G2 | [M: 3/2] F2A2 G2B2 A2d2 | [M: 3/4] e2 E4 |\
+[M: 3/4] B2 A2 G2 | [M: 3/2] F2A2 G2B2 A2Bc | [M: 3/4] d6 ||
+M: 6/4
+|: f2 g2 a2 f2- fe d2 | f2 e2 d2 c2 e4 |\
+f2 g2 a2 f2- fe d2 |[1 f2 e2 dc d6 :|[2 f2 g2 a2 d6 |]
+X: 5
+T: Old Lancashire Hornpipe, The
+Z: ceolachan
+S: https://thesession.org/tunes/8138#setting27656
+R: three-two
+M: 3/2
+L: 1/8
+K: Dmaj
+M: 6/4
+|: B2 A2 G2 F2- FE D2 | f2 e2 d2 e2 E4 |\
+B2 A2 G2 F2- FE D2 | f2 e2 dc d2 D4 :|
+|: [M: 3/4] B2 A2 G2 | [M: 3/2] F2A2 G2B2 A2cd | [M: 3/4] e2 E4 |\
+[M: 3/4] B2 A2 G2 | [M: 3/2] F2A2 G2B2 A2Bc | [M: 3/4] d2 D4 :|
+M: 6/4
+|: f2 g2 a2 f2- fe d2 | f2 e2 d2 c2 e4 |\
+f2 g2 a2 f2- fe d2 | f2 e2 dc d2 D4 :|
+X: 6
+T: Old Lancashire Hornpipe, The
+Z: ceolachan
+S: https://thesession.org/tunes/8138#setting27657
+R: three-two
+M: 3/2
+L: 1/8
+K: Dmaj
+M: 6/4
+|: B2 A2 G2 F2- FE D2 | f2 e2 d2 e2 E4 |\
+B2 A2 G2 F2- FE D2 | f2 e2 dc d2 D4 :|
+|: [M: 3/4] | B2 A2 G2 | [M: 3/2] | FGA2 GAB2 A2d2 | [M: 3/4] e2 E4 |\
+[M: 3/4] B2 A2 G2 | [M: 3/2] FGAF GABG ABc2 | [M: 3/4] d2 D4 :|
+M: 6/4
+|: f2 g2 a2 f2- fe d2 | f2 e2 d2 c2 e4 |\
+f2 g2 a2 f2- fe d2 | f2 e2 dc d2 D4 :|

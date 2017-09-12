@@ -1,0 +1,48 @@
+X: 1
+T: Roseland, The
+Z: ceolachan
+S: https://thesession.org/tunes/7022#setting7022
+R: barndance
+M: 4/4
+L: 1/8
+K: Bmin
+|: (3Bcd |f>Bd>f e>Ac>e | d>GB>d c>F^A>c | (3BcB (3dcd (3f^ef (3b^ab | a>fd>f a2 (3Bcd |
+f>Bd>f e>Ac>e | d>GB>d c>F^A>c | B>fd>B A>ec>A | F>Ad>c B2 :|
+K: Dmaj
+|: (3Adf |a>f (3dcB B>dg>a | b2 a2 a2 (3Adf | a2 g2 g2 (3Ace | g2 f2 f2 (3Adf |
+a>f (3dcB B>d (3gab | b2 a2 a2 (3Adf | a>ge>c A>Bc>d | e>dc>e d2 :|
+K: Gmaj
+|: (3Bc^c |d>GB>d e>GB>d | e>Ac>e f>Ac>e | f>Bd>f g>Bd>f | a>ge>c A>DD>c |
+(3BcB G>B d2 c>B | (3ABc A>B (3cBA d>c | (3BcB G>F E>cE>F | A>GF>A G2 :|
+X: 2
+T: Roseland, The
+Z: ceolachan
+S: https://thesession.org/tunes/7022#setting18608
+R: barndance
+M: 4/4
+L: 1/8
+K: Bmin
+|: Bd |fBdf eAce | dGBd cF^Ac | B2 d2 f2 b2 | afdf a2 Bd |
+fBdf eAce | dGBd cF^Ac | BfdB AecA | FAdc B2 :|
+K: D Major
+|: Af |afdB Bdga | b2 a2 a2 Af | a2 g2 g2 Ae | g2 f2 f2 Af |
+afdB Bdga | b2 a2 a2 Af | agec ABcd | edce d2 :|
+K: G Major
+|: Bc |dGBd eGBd | eAce fAce | fBdf gBdf | agec ADdc |
+B2 GB d2 cB | A2 AB cAdc | B2 GF EcEF | AGFA G2 :|
+X: 3
+T: Roseland, The
+Z: schriltz
+S: https://thesession.org/tunes/7022#setting26836
+R: barndance
+M: 4/4
+L: 1/8
+K: Bmin
+|: Bd |fBdf eAce | dG (3Bcd cF^Ac | (3B^AB (3dcd (3f^ef (3b^ab | (3afd (3Adf aA (3Bcd |
+fBdf eAce | dG (3Bcd cF^Ac | Bf (3dcB Ae (3cBA | (3FBc dc B2 :|
+K: D Major
+|: (3Adf |afdc Bdga | b2 a2 a2 (3Adf | a2 g2 g2 (3Ace | g2 f2 f2 (3Adf |
+afdc Bdga | ba (3^gab a2 (3Adf | (3a^ga (3=gfe (3cBA (3B=c^c | (3dcd (3cde d2 :|
+K: G Major
+|: Bc |dGBd e^GBe | eAce f^A^cf | fBdf (3gfg (3efg | agec A2 dc |
+BDGB d2 cB | (3ABc (3ABc (3cBA dc | BAGF EcEF | Dz Fz G2 :|

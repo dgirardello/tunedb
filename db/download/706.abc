@@ -1,0 +1,64 @@
+X: 1
+T: Mairi's Wedding
+Z: maclowlife
+S: https://thesession.org/tunes/706#setting706
+R: polka
+M: 2/4
+L: 1/8
+K: Dmaj
+f "A"|: "D"A>A AB | de f2 | "G"ed Bd | "A7"fe fa |
+"D"A>A AB | de f2 | "G"ed BG | "A7"A2 A2 |
+"D"a>a ab | ag f2 | "G"ed Bd | "A7"fe f<a |
+"D"a>a ab | ag f2 | "G"ed BG |1 "A7"A2 A2 :|2 "A"AB/c/ d/e/f/g/ |]
+"D"a>a ab | ag f2 | "G"ed Bd | "A7"fe f<a \
+"D"A>A AB | de fg | "G"a>f "A7"fe | "D"d2 z2 |]
+X: 2
+T: Mairi's Wedding
+Z: ceolachan
+S: https://thesession.org/tunes/706#setting23560
+R: polka
+M: 2/4
+L: 1/8
+K: Ador
+|: A>^G AB | de f2 | ed Bd | fe f<a |
+A>A AB | de fg/f/ | ed BG | A2 A2 |
+a>^g ab | ag f2 | ed Bd | fe f<a |
+a>a ab | ag f2 | ed BG | A2 A2 :|
+a>^g ab | ag f2 | ed Bd | fe f<a |
+A>F AB | de fg/f/ | e>d B/A/G | A2- A2 |]
+X: 3
+T: Mairi's Wedding
+Z: ceolachan
+S: https://thesession.org/tunes/706#setting23561
+R: polka
+M: 2/4
+L: 1/8
+K: Ador
+A>A AB | de f2 | ed Bd | fe f2 |
+A>A AB | de f2 | ed BG | A2 A2 ||
+a>a ab | ag f2 | ed Bd | fe f<a |
+a>a ab | ag f2 | ed BG | A2 A2 |]
+X: 4
+T: Mairi's Wedding
+Z: ceolachan
+S: https://thesession.org/tunes/706#setting23562
+R: polka
+M: 2/4
+L: 1/8
+K: Ddor
+G/E/ |D>D DE | GA B2 | AG EG | BA B2 |
+D>D DE | GA B2 | AG E[CG] | D2 D ||
+B/c/ |d>d de | dc B2 | AG EG | BA B<d |
+d>d de | dc B2 | AG E[CG] | D2- D |]
+X: 5
+T: Mairi's Wedding
+Z: Mix O'Lydian
+S: https://thesession.org/tunes/706#setting26510
+R: polka
+M: 2/4
+L: 1/8
+K: Gmaj
+|: D>D DE | GA B2 | AG EG | BA B<d |
+D>D DE | GA B2 | AG EC | D2 D2 :|
+|: d>d de | dc B2 | AG EG | BA B<d |
+d>d de | dc B2 | AG EC | D2 D2 :|

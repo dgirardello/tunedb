@@ -1,0 +1,48 @@
+X: 1
+T: Molly MacAlpin
+Z: heike
+S: https://thesession.org/tunes/2228#setting2228
+R: barndance
+M: 4/4
+L: 1/8
+K: Amin
+|: AB |"Am" c2 B>A A2 GA | c2 B>A "G"G2 cd | "C"e2 de dcBA | "F"A4 A2 de|
+"Dm" f2 fg "C"e2 ef | "G"d^cde "F"a3 g | "Am"aged "G"dcAG | "Am"A6 :|
+|: ef | "C"gede g3 a | "Em"gede g3 e | "Am"agab "G"ageg | "F"a6 ag |
+"Dm"f2 fg "C"e2 ef | "G"d^cde "F"a3 g | "Am"aged "G"dcAG | "Am"A6 :|
+X: 2
+T: Molly MacAlpin
+Z: JACKB
+S: https://thesession.org/tunes/2228#setting23931
+R: barndance
+M: 4/4
+L: 1/8
+K: Emin
+|: EF |"Em" G2 F>E E2 DE | G2 F>E "D"D2 GA | "G,"B2 AB AGFE | "C"E4 E2 AB|
+"A,m" c2 cd "G,"B2 Bc | "D"A^GAB "C"e3 d | "Em"edBA "D"AGED | "Em"E6 :|
+|: Bc | "G,"dBAB d3 e | "B,m"dBAB d3 B | "Em"edef "D"edBd | "C"e6 ed |
+"A,m"c2 cd "G,"B2 Bc | "D"A^GAB "C"e3 d | "Em"edBA "D"AGED | "Em"E6 :|
+X: 3
+T: Molly MacAlpin
+Z: JACKB
+S: https://thesession.org/tunes/2228#setting29883
+R: barndance
+M: 4/4
+L: 1/8
+K: Emin
+V:1
+|:EF |"Em" G2 F>E E2 DE|G2 F>E "D"D2 GA|"G,"B2 AB AGFE|"C"E4 E2 AB|
+V:2
+|:ef|e4 d4|e2 dc B4|e4 d4|e2 dc B4|
+V:1
+"A,m" c2 cd "G,"B2 Bc|"D"A^GAB "C"e3d|"Em"edBA "D"AGED|"Em"E6:||
+V:2
+A2 AB G4|A2 c2 c4|B2 G2 F4|G6:||
+V:1
+|:Bc |"G,"dBAB d3 e|"B,m"dBAB d3 B|"Em"edef "D"edBd|"C"e6 ed|
+V:2
+|:Bc|G4 B4|e4 fdBd|e4 d4|edBd e4|
+V:1
+"A,m"c2 cd "G,"B2 Bc|"D"A^GAB "C"e3d|"Em"edBA "D"AGED|"Em"E6:||
+V:2
+A2 AB G4|A2 c2 c4|B2 G2 F4|G6:||

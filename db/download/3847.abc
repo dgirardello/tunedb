@@ -1,0 +1,51 @@
+X: 1
+T: Reel Saint-Antoine
+Z: mallsup
+S: https://thesession.org/tunes/3847#setting3847
+R: reel
+M: 4/4
+L: 1/8
+K: Amaj
+a2aa aece | a2aa aece | agfe dcBA | GABc defg |
+a2aa aece | a2aa aece | agfe dcBA | GABG A2z2 :|
+ABc2 cccA | cedc BAGA | Bcd2 dddB | dfed cBAE |
+ABc2 cccA | cedc BAGA | Bcde fgaf | edcA BGA2 :|
+X: 2
+T: Reel Saint-Antoine
+Z: DonaldK
+S: https://thesession.org/tunes/3847#setting22400
+R: reel
+M: 4/4
+L: 1/8
+K: Amaj
+g|:a3 (a {b}ae)ce| a3 (a {b}ae)ce|agfe dcBA|GABG Eefg|
+a3 (a {b}ae)ce| a3 (a {b}ae)ce|agfe dcBA|1GABG Aefg:|2GABG A3B|
+|:c3(c {d}cB)ce|dcBA GABc|d3(d {e}dc)df|edcB AGAB|
+c3(c {d}cB)ce|dcBA GABc|defg agfe|[M:3/2]dcBA GABG A3B:|
+|:[M:C|]cAA(A cA)AA|dcBA GABc|dBB(B dB)BB|edcB AGAB|
+cAA(A cA)AA|dcBA GABc| defg agfe|
+1[M:3/2]dcBA GABG A3B:|2dcBA GABG A3|]
+X: 3
+T: Reel Saint-Antoine
+Z: toppish
+S: https://thesession.org/tunes/3847#setting25153
+R: reel
+M: 4/4
+L: 1/8
+K: Amaj
+a3a2e ce | a2aa2 e ce | agfe dcBA | GABc defg |
+a3a2e ce | agab aece | agfe dcBA |1 GABG ABce :|2 GABG A2B2 |]
+c3c cAce | dcBA GABc | d3d dcdf | edcB ABAB |
+c3c cAce | dcBA GABc | defg afed |1 cABc ABAB :|2cABc defg|]
+X: 4
+T: Reel Saint-Antoine
+Z: JACKB
+S: https://thesession.org/tunes/3847#setting25154
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+|:g3f gdBd | g3f gdBd | gfed cBAG | FGAB cdef |
+g3f gdBd | gfga gdBd | gfed cBAG |1 FGAF GABd :|2 FGAF G2A2 |
+|:B3B BGBd | cBAG FGAB | c3c cBce | dcBA GFGA |
+B3B BGBd | cBAG FGAB | cdef gedc |1 BGAB G2 GA :|2BGAB cdef|

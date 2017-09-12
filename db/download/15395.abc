@@ -1,0 +1,24 @@
+X: 1
+T: Jackie Daly's
+Z: Mars
+S: https://thesession.org/tunes/15395#setting28787
+R: slide
+M: 12/8
+L: 1/8
+K: Gmaj
+A | B z d !roll!B2 G D3 !roll!G2 A | B z d {/c}BAB !slide!c3 c2 d |
+e z g gfe deG !roll!B2d | c z A F2A {/F}G2d !roll!e2d |
+{/A}B3 {/c}BAG D2E !roll!G2A | B z d {/c}BAB c3 c2 d |
+e z {/f}g {/a}gfe deG !roll!B2d | c z A F2A {/F}G3 {/A}GBd |
+e z g {/a}gfe !roll!d2g !roll!b2g | e z c (3gage d2{/a}g {/e}f2{/a}g |
+e2{/f}g {/a}gfe dcB !roll!G2B | c z A F2A {/F}G3 GBd |
+e z g {/a}gfe d2g !roll!b2g | e2c (3gage d2{/a}g {/e}f2{/a}g |
+e z g {/a}gfe dcB {/F}G2B | c z A F2A {/F}G2d !roll!e2d |
+{/A}B3 {/c}BAG D2E !roll!G2A | B z d {/c}BAB !slide!c3 c2 d |
+e z g gfe d2G {/A}B2d | c z A F2A {/F}G2d !roll!e2d |
+B z B {/c}BAG D2E !roll!G2A | B z d {/c}BAB c3 c2 d |
+e z {/f}g {/a}gfe !roll!d2g {/A}B2d | c z A F2A {/F}G3 {/A}GBd |
+e z g {/a}gfe !roll!d2g !roll!b2g | e z c (3gage d2{/a}g {/e}f2{/a}g |
+e z g {/a}gfe dcB {/F}G2B | c z A F2A {/F}G3 {/A}GBd |
+e z g {/a}gfe d2g !roll!b2g | e z c (3gage d2{/a}g {/e}f2{/a}g |
+e z {/f}g {/a}gfe d2B GAB | c z A FGA {/F}G3 G2 |]

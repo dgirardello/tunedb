@@ -1,0 +1,24 @@
+X: 1
+T: Heartlight View
+Z: MarcusDisessa
+S: https://thesession.org/tunes/14227#setting25853
+R: reel
+M: 4/4
+L: 1/8
+K: Amaj
+|:a=gec Aeee|d=gdB BAA=G|EAAB cedB|=GABG BAAG|
+|a=gec Aeee|d=gdB BAA=G|EAAB =cedB|=GABG BA A2:|
+|:cAeA cAAA|B=GdG BGGG|cAeA cAAA|=GABG BAAG|
+|cAeA cAAA|B=GdG BGGG|EAAB =cedB|=GABG BA A2:|
+X: 2
+T: Heartlight View
+Z: MarcusDisessa
+S: https://thesession.org/tunes/14227#setting26161
+R: reel
+M: 4/4
+L: 1/8
+K: Amaj
+|:"A"a=gec Aeee|"G"d=gdB BAA=G|"A"EAAB cedB|"G"=GABG "A"BAAG|
+|"A"a=gec Aeee|"G"d=gdB BAA=G|"Am"EAAB =cedB|"G"=GABG "Am"BA A2:|
+|:"A"cAeA cAAA|"G"B=GdG BGGG|"A"cAeA cAAA|"G"=GABG "A"BAAG|
+|"A"cAeA cAAA|"G"B=GdG BGGG|"Am"EAAB =cedB|"G"=GABG "Am"BA A2:|

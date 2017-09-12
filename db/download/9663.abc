@@ -1,0 +1,31 @@
+X: 1
+T: Simon's Wart
+Z: lottiemaus
+S: https://thesession.org/tunes/9663#setting9663
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+D2|:"G"DEDB, DEGA|"G"BABG Bdge|"G"dBAG "C"EFGA|"Am"BABG "C"AGEG|
+"G"DEDB, DEGA|"G"BABG Bdge|"G"dBAG "C"EFGA|[1"D"BdAB "G"G2 GE:|[2"D"BdAB "G"G2 Bd||
+|:"G"g2 gd "Am"egae|"C"gage "G"dBAG|"C"EFGA "G"BABG|
+[1"G"BdgB "D"A2 Bd|"Em"edef "C"gage|"G"dBAG "C"EFGE|"G"DEGA Bdeg|"D"dB (3ABA "G"G2 Bd:|
+[2"G"BdgB "D"A2 GE|"G"DEDB, DEGA|"G"BABG Bdge|"G"dBAG "C"EFGA|"D"BdAB "G"G2||
+X: 2
+T: Simon's Wart
+Z: Jürgen
+S: https://thesession.org/tunes/9663#setting20084
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+E|DEDB, G,DGA|BABG Bdge|dBAG EFGA|BABG AGEG|\DEDB, G,DGA|BABG Bdge|dBAG EFGA|1BcAB G3:|2BcAB G3|:e|\gagd egae|gage dBAG|EFGA Bded|BdgB A2B^d|\e^def gage|dBAG EFGE|DEDB, DEGB|1AGAB G3:|2AGAB GAG|]
+X: 3
+T: Simon's Wart
+Z: lottiemaus
+S: https://thesession.org/tunes/9663#setting20085
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+I've edited the ABC slightly as I think the Curlew version is different at second half, third bar. So I've changed |"C"EFGE "G"DEGA| to |"C"EFGA "G"BABG|

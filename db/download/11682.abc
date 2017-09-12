@@ -1,0 +1,38 @@
+X: 1
+T: Coolderry Bridge
+Z: Tøm
+S: https://thesession.org/tunes/11682#setting11682
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+FE|:DA,A,2 DEFB|BAFA dcdf|feef eBBA|G2FG EGFE|
+DA,A,2 DEFB|BAFA dcdB|AFdF AFBF|1AFEG FDDE:|2AFEG FDDg||
+|:fdd2 BdAd|Bdef afgf|feef eBBA|G2FG Eage|
+fdd2 Add2|gfed BdAB|AFdF AFBF|1AFEG FDDg:|2AFEG FDD2|]
+X: 2
+T: Coolderry Bridge
+Z: Tøm
+S: https://thesession.org/tunes/11682#setting22433
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+DA, ~A,2 DEFA | ({/A}B)AFA ({/c}d)cdf | fedf eBBA | G<GFG EGFE |
+DA, ~A,2 DEFA | ({/A}B)AFA ({/c}d)cdB | A ~F3 AFAd |1 dBAF DEFE :|2 dBAF D3 |]
+|: g |fd ~d2 AdFB | eAdf afdf | fedf eBBA | G<GFG Ea^ga |
+fd ~d2 Addf | ({/f}g)fed dBdB | A ~F3 AeAF |1 EDCE D3 :|2 EDCE DGFE |]
+X: 3
+T: Coolderry Bridge
+Z: Tøm
+S: https://thesession.org/tunes/11682#setting22434
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+FE|:DA,A,2 DEFB|BAFA dcdf|feef eBBA|G2FG EGFE|
+DA,A,2 DEFB|BAFA dcdB|AFdF AFBF|1AFEG FDDE:|2AFEG FDDg||
+fddA (3Bcd Ad|(3Bcd ef afgf|feef eBBA|G2FG Eage|
+fdd2 Add2|gfed BdAB|AFdF AFBF|AFEG FDDg |
+fddA (3Bcd Ad|(3Bcd ef afgf|feef eBBA|G2FG E2 FE|
+DA,A,2 DEFA|BAFA dcdB|AFdF AFBF|AFEG FDD2|]

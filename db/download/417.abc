@@ -1,0 +1,94 @@
+X: 1
+T: Arthur Darley's
+Z: Josh Kane
+S: https://thesession.org/tunes/417#setting417
+R: jig
+M: 6/8
+L: 1/8
+K: Amix
+|: A3 AGF | EDC D3 d2e | fgf edc | d3 d2e |
+fgf edc | dAA BAG | FED EDC | DFE CDE |
+Ddd Aee | Aff Agg | fed edc | d2d dcB :|
+|: A=ff fef | A=ff fef | A=ff Agg | Aaa A_bb |
+A=ff fef | A=ff f2g | =fed ed^c | d2d d2e :|
+|: fgf edc | dAA BAD | FED EDC | DEF CDE |
+Ddd Aee | Aff Agg | fed edc | d2d d3 :|
+X: 2
+T: Arthur Darley's
+Z: JosephC
+S: https://thesession.org/tunes/417#setting13270
+R: jig
+M: 6/8
+L: 1/8
+K: Amix
+|:A3 AGF|EFE D3|d2e fgf|edc d3||fgf edc|dAA BAG|AGF GFE|FED DEF||Ddd Aee|Aff Agg|fed edc|d3 dcB:||:A2=f fef|A2=f fef|A=ff Agg|Aaa A_bb||A2=f fef|A2=f f2g|=fed ed^c|1d2d d2e:|2d2A a3|||:f3 edc|dAA BAG|AGF GFE|FED DEF||Ddd Aee|Aff Agg|fed edc|1d2A a3:|2d2d dcB||
+X: 3
+T: Arthur Darley's
+Z: Cap'n H
+S: https://thesession.org/tunes/417#setting13271
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+|: A2A AGF | EDC D2A | d2e f2f |edc d2 A | d2e fed | edc d2A | BAG FED |EDC DA,B, CDE| Ddd Aee | Aff Agg | fed edc |[1 d2d dcB :| [2 d2d d=c_B || |: Aff fef | Aff fef | Aff Agg | Aaa Abb | Aff fef | Aff feg | fed ed^c |[1 d2d dcB :|[2 d2A a3 |||: f3 edc | d2A BAG | FED EDC | DA,B, CDE | Ddd Aee | Aff Agg | fed edc | [1 d2A a3 :| [2 ddd dcB||
+X: 4
+T: Arthur Darley's
+Z: *Davy Rogers
+S: https://thesession.org/tunes/417#setting13272
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+A3 |: AGF EDC | D3 d2e | fgf edc | d3 d2e |
+fgf edc | dAA BAG |FED EDC | DA,B, CDE |
+Ddd Aee | Aff Agg | fed edc |1 d3 A3 :|2 d2d d=c^A ||
+|: A=ff fef | A=ff fef | A=ff Agg | Aaa A_bb |
+A=ff fef | A=ff f2g |=fed ed^c |1 d2d d=c^A :|2 d3 z2e ||
+|: fgf edc | dAA BAG | FED EDC | DA,B, CDE |
+Ddd Aee | Aff Agg | fed edc |1 d3 z2e :|2 d6 ||
+X: 5
+T: Arthur Darley's
+Z: ceolachan
+S: https://thesession.org/tunes/417#setting13273
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+|: dcB |[M: 9/8] A^GA AGF EG/F/E | [M:6/8] D2 A d2 e | faf edc | d2 A d2 e |
+f2 f edc | dAA BAG | FED EDc | dAB cde |
+Ddd [DE]ee | [DF]ff [DG]gg | fed edc | d2 d :|
+K: Dmin
+|: dcB |Aff fef | A2 f fef | Aff Agg | Aaa Abb |
+A2 f fef | Aff f2 g | fed ed^c | d3 :|
+K: DMaj
+|: d2 e |fa/g/f edc | dA/A/A BAG | F2 D EDc | dAB cde |
+Ddd [DE]ee | [DF]ff [DG]gg | fed edc | d2 d :|
+X: 6
+T: Arthur Darley's
+Z: pbsinclair42
+S: https://thesession.org/tunes/417#setting27678
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+e |:fgf edc|dAA BAG|FED EDC | DA,B, CDE|
+|D2 d E2e|F2f G2g|fed edc|1d3 d2e:|2d2d d=c_B||
+|:A2=f fef|A2=f fef|A=ff Agg|Aaa A_bb|
+|A2=f fef|A2=f f2g|=fed ed^c|1d3 d=c_B:|2d3 d2||
+X: 7
+T: Arthur Darley's
+Z: Ian Varley
+S: https://thesession.org/tunes/417#setting28832
+R: jig
+M: 6/8
+L: 1/8
+K: Amix
+|: A3 AGF | EDC D2A | d2e fgf |edc d2 A |
+d2e fgf | edc d2A | BAG FED |EDC DA,B, CDE|
+Ddd Dee | Dff Dgg | fed edc |[1 d2d dcB :| [2 d2d d=c_B ||
+K:Dm
+|: A2f fef | A2f fef | Aff Agg | Aaa Abb |
+A2f fef | A2f feg | fed ed^c |[1 d2d dcB :|[2 d3 d2e ||
+K:D
+|: fgf edc | d2A BAG | FED EDC | DA,B, CDE |
+Ddd Dee | Dff Dgg | fed edc | [1 d3 d2e :| [2 d3 dcB||

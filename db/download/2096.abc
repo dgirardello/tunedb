@@ -1,0 +1,75 @@
+X: 1
+T: Chicago, The
+Z: Conway
+S: https://thesession.org/tunes/2096#setting2096
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+F2 D D^CD |F2 D D^CD |F2 D D^CD |C2 C E3 |
+F2 D D^CD |F2 D D^CD |B3 cAF |AGF G2 A :|
+|: B3 cde |dcB ABc |B2 G GAB |ABA A3 |
+B3 cde |dcB ABc |f2 f fed |cAF G3 :|
+X: 2
+T: Chicago, The
+Z: Dr. Dow
+S: https://thesession.org/tunes/2096#setting15489
+R: jig
+M: 6/8
+L: 1/8
+K: Dmix
+F2D DAG|F2D DAG|F2D DED|C2A, A,AG|F2D DAG|F2D DAD|BDB cAF|1 AGF GAG:|2 AGF G2A|||:~B3 cBc|~d3 ABc|B2G GAG|F2D DAD|BDB cDc|~d3 ABc|~B3 cAF|1 AGF G2A:|2 AGF GAG||
+X: 3
+T: Chicago, The
+Z: Kenny
+S: https://thesession.org/tunes/2096#setting15490
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+dgg gag | fdc ABc | B2 G GAG | F2 D D3 |dgg gag | fdc ABc | BdB cAF |1GAG GAB |2 GAG GAG |
+X: 4
+T: Chicago, The
+Z: Dr. Dow
+S: https://thesession.org/tunes/2096#setting15491
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+F2D DED|F2D DED|F2D DED|C2 ,G2 C2|F2D DED|F2D DED|BBB cAG|AGF A3:||:B2B cde|dcB ABc|B2G GAB|AFD FED|B2B cde|dcB ABc|B2B cAG|AGF G3:|
+X: 5
+T: Chicago, The
+Z: Michał Zajączkowski
+S: https://thesession.org/tunes/2096#setting24790
+R: jig
+M: 6/8
+L: 1/8
+K: Dmix
+|: {E} F2D DED | {E} F2{E}D DED | {E} F2D DED | ~C3 GGG |
+{E} F2D DED | {E} F2D DED | ~B3 cAF | AGF G3 :|
+|: ~B3 cde | dcB ABc | B2D ~G3 | ADF AGF |
+~B3 cde | dcB ABc | ~B3 cAF | AGF G3 :|
+X: 6
+T: Chicago, The
+Z: Christian_T
+S: https://thesession.org/tunes/2096#setting26975
+R: jig
+M: 6/8
+L: 1/8
+K: Dmix
+"D"F2D DED|F2D DED|F2D DED|"C"C2G, ~G,3|
+"G/B"F2D DED|F2D DED|"Am"~B3 cA"C""(D)"F|1 AGF GA"D"G:|2 AGF "C"G2A||
+|:"G"~B2G B/2c/2d"Bm"e|dcB ABc|"Am"B2G GAG|"D"AFD AGF |
+"G"~B2G B/2c/2d"Bm"e|dcB ABc|"Am"~B3 "D"cAF|1 "Am"AG"C"F G2A:|2 "(D)"AG"Am"F GAG||
+X: 7
+T: Chicago, The
+Z: bdh
+S: https://thesession.org/tunes/2096#setting30498
+R: jig
+M: 6/8
+L: 1/8
+K: Dmix
+|: DFA GFD | DED CDE | =FEF G^FG | A/B/cA dcA |
+DFA GFD | DED CDE | =FAc GEC | EDC D3 :|
+|: DFA ~d3 | ~B3 AFE | DFA dBA | B/^c/dB ABc |
+dBd =cAc | ~B3 AFE | DFA GEC | EDC D3 :|

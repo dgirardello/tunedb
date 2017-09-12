@@ -1,0 +1,62 @@
+X: 1
+T: Bantry Bay
+Z: fidicen
+S: https://thesession.org/tunes/1061#setting1061
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Gmaj
+GA|BG AG EG (3DEF|G2 (3AGF GB AG|EG AB cB AG|(3ABA GB A2 AB|
+~c3A ~B3G|AB AG EG DG|~B3G AG EG|(3FED B,D G2 GA|
+BG AG EG (3DEF|G2 (3AGF GB AG|EG AB cB AG|(3ABA GB A2 AB|
+ce cA Bd BG| AB AG EG DG|~B3G AG EG|(3FED B,D G2 AB||
+|:d2 dB dB GB|(3efe ^df e2 ef|{a}gf ed BA Bd|(3gag fa g2 ef|
+ga (3bag ef ed|{Bc}BA GB AG EG|~B3G AG EG|(3FED B,D G4:||
+X: 2
+T: Bantry Bay
+Z: cferrie
+S: https://thesession.org/tunes/1061#setting6145
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Gmaj
+GA|:BGAG EGDE|G2GF GBAG|EAAB cBAG| EGA2 A2AB|
+ceec BddB|ABAG EGDG| BGAG EGDE|1 G2GF G2GA:|2 G2GF GABc||
+|:d2ec dBGA|B2e2 e2ef|gfed BGBd|g2(3fga g2ef|
+g2gf efed|BGAG EGDG|BGAG EGDE|1 G2GF GABc:|2 G2GF G4||
+X: 3
+T: Bantry Bay
+Z: ceolachan
+S: https://thesession.org/tunes/1061#setting14285
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Gmaj
+|: d>c |B>GA>G E>GD>E | G2 G>G G3 B | A>GA>B c>BA>G | B>dd>e d3 d |
+e>de>f g>ag>e | d>ed>B A2 G>A | B>GA>G E>GD>E | G2 G>G G2 :|
+|: B>c |d>BG>B d>BG>B | e2 e>d e2 d>e | f2 f>e d>ef>d | g2 g>f g2 z2 |
+d2 e>f g>ag>e | d>ed>B A2 G>A | B>GA>G E>GD>E | G2 G>G G2 :|
+X: 4
+T: Bantry Bay
+Z: ceolachan
+S: https://thesession.org/tunes/1061#setting14286
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Gmaj
+|: G>A |B>GA>G A>F (3DEF | G2 G>F G2 A>G | E>AA>B c>BA>G | (3ABA G>B A2 A>B |
+c>ec>A B>dB>G | A>BA>G E2 D2 | B>AB>G A>F (3DEF | G2 G>F G2 :|
+|: B>c |d>BG>B d>BG>B | e2 e2 d2- e2 d>f | g2 e>d B>GB>d | (3gag f>a g2 e>f |
+g>ag>f e>fe>d | B>AG>B A>F D2 | B>AB>G A>F (3DEF | G2 G>F G2 :|
+X: 5
+T: Bantry Bay
+Z: JACKB
+S: https://thesession.org/tunes/1061#setting29980
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Gmaj
+GA|:BGAG EGDE|G3F GBAG|EAAB cBAG| EAAG A2AB|
+ceec BddB|ABAG EGDG| BGAG EGDE|1 G3F G2GA:|2 G3F GABc||
+|:dBGB dBGB|e3d e2 de|gfed BGBd|g2(3fga g2ef|
+g3f efed|BGAG EGDG|BGAG EGDE|1 G3F GABc:|2 G3F G4||

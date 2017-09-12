@@ -1,0 +1,26 @@
+X: 1
+T: Sleigh Ride
+Z: mdpiper
+S: https://thesession.org/tunes/15080#setting27959
+R: polka
+M: 2/4
+L: 1/8
+K: Cmaj
+"^<CHORUS:>"
+[|.g .g.g |"C" ga "Am" g/2e/2c |"Dm" de "G" d/2c/2A |"C" G2- "Am" G2- |"Dm" GA "G" Bd |
+"C" g>a "Am" g/2e/2d/2c/2 |"Dm" d>e "G" d/2c/2A |"C" c2- c2- |"C#dim" c.g "G7".g.g |
+"C" ga "Am" g/2e/2c |"Dm" dd/2e/2 "G" d/2c/2A | "C" G2- "Am" G2- |"Dm" GG/2A/2 "G" B/2c/2d/2e/2 |
+"C" g>a "Am" g/2e/2d/2c/2 |"Dm" d>e "G" d/2c/2A |"F" c- "C" c2- "F" c-|"C" c2 z |]
+%%sep 12 12 300
+"^<VERSE:>"
+[|^C |"F#m" A^C/2D/2 AC/2D/2 |"B7" AB ^G2- |"E" ^GA G/2E/2^C |"C#7" ^F4 |
+"F#m" ^F^G F/2D/2B,/2D/2 |"B7" ^FA ^GB |"E" E4- | E3 B,/2C/2|
+"Am7" GB,/2C/2 GB,/2C/2 |"D7" GA ^F2- |"G" ^FG F/2D/2B, |"Em" E4 |
+"Dm" DG D/2C/2G, | CD/2G/2 D/2C/2G, |"G7" CE/2G/2 cG | C3 z|]
+%%sep 12 12 300
+"^<BRIDGE:>"
+|:"Cmaj7".d.d .d.d | .d.d .d.d |"C6" dg zc |B3 G/2A/2 |
+"Em7" .B.B .B.B | .B.B .B.B |"Am7" Be zB | A3 E/2F/2 |
+"C" G/2F/2E "C7" EG |"F" Fc "Dm" BA | "G" Gf "G7" ed |
+[1 "Am" c3 B/2A/2 | "E" B/2A/2^G GA |"F#m" Ba "B7" ^g^f |"E" e2 B2 |"Dm" gd "G" G2 :|
+[2 "Am" c4 |"Dm" cg d/2c/2G | cd/2g/2 d/2c/2G |"G" GA/2d/2 gd | G |]

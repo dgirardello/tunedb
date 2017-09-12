@@ -1,0 +1,57 @@
+X: 1
+T: Carolan's Concerto
+Z: The Whistler
+S: https://thesession.org/tunes/788#setting788
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+(3ABc|:"D"d2 dd d2 cB|"A"ABGA F2A2|"A"E2A2"D"D2A2|"Bm"Bc"D"de dcBA|
+d2a2 fgaf|"A7"efge fgaf|ga"Bm"bg fdfa|"A7"gfed dcBA|
+"Bm"BdBd "G"gdgd|"D"Ad Ad fAfA|"G"GB"Em"GB efed|"A7"c2 Bc A3G|
+"F#m"FG"A7"AF EFGE|"F#m"FG"A7"AF GABG|"A"A2 "D"d2 fedc|d6 :|
+(3ABc|:"D"d2"Em"b2 agfe|"D"d2"A"a2c2a2|"G"B2 gB ABcd|"A7"ecBA"D"d2 df|
+"A"edcB caaa|"G"Bggg "D"Afff|"A"edcB caaa|"G"Bggg bgbg|
+"D"afaf "A"edcB|cA"Em"BG AFGE|"D"DAFA DAFA|"Em"GEBE GEBE|
+"D"FAdc BAGF|"A7"EFGA Bcde|A2"D"d2 fedc|d6:|
+X: 2
+T: Carolan's Concerto
+Z: Kevo32A
+S: https://thesession.org/tunes/788#setting13923
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+(3ABc|:d2 dd d2 cB|ABGA F2A2|E2A2 D2A2|Bcde dcBA|d2a2 fgaf|efge fgaf|gabg fdfa|gfed dcBA|BdBd gdgd|AdAd fAfA|GBGB efed|c2Bc A3G|FGAF EFGE|FGAF GABG|A2d2 fedc|d6:|(3ABc|:d2b2 agfe|d2a2 c2a2|B2gB ABcd|ecBA d2df|edcB caaa|Bggg Afff|edcB caaa|Bggg bgbg|afaf edcB|cABG AFGE|DAFA DAFA|GEBE GEBE|FAdc BAGF|EFGA Bcde|A2d2 fedc|d6:|
+X: 3
+T: Carolan's Concerto
+Z: Emmanuel Delahaye
+S: https://thesession.org/tunes/788#setting13924
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+(3ABc|"D"d2 dd d2 cB|"A"ABGA "D"F2A2|"A"E2A2"D"D2A2|"G"Bcde "A"dcBA|
+"D"d2a2 fgaf|"A7"efge "D"fgaf|"G"gabg "D"fdfa|"Em"gfed "A"dcBA|
+"G"BdBd gdgd|"D"Ad Ad fAfA|"Em"GBGB efed|"A7"c2 Bc A3G|
+"D"FGAF "A/E"EFGE|"D/F#"FGAF "G"GABG|"D/A"A2d2 "A7"fedc|"D"d6 :||
+(3ABc|"G"d2b2 agfe|"D"d2a2 "A"c2a2|"G"B2 gB "A"ABcd|"A7"ecBA"D"d2 df|
+"D"edcB "A"caaa|"G"Bggg "D"Afff|edcB "A"caaa|"G"Bggg bgbg|
+"D"afaf "A"edcB|cABG AFGE|"D"DAFA DAFA|"Em"GEBE GEBE|
+"D/F#"FAdc BAGF|"G"EFGA Bcde|"D/A"A2d2 "A7"fedc|"D"d6:||
+X: 4
+T: Carolan's Concerto
+Z: paulj504
+S: https://thesession.org/tunes/788#setting23721
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+|:"D" d2dd "G" d2cB |"A" ABGA "D" F2AA |"A" E2AA "D" D2A2 |"Em" Bcde "A"dcBA |
+"D" d2a2 "D/C#" fgaf |"D/B" efge "A" fgaf |"G" gabg "D/F#" fdfa |"Em" gfed "A" dcBA |
+"G" BdBd gdgd |"D/F#" AdAd fA [f2A] |"Em "GBGB efed |"A" cd Bc AAA G |
+"D" FGAF "Em" EFGE| "D/F#" FGAF "G" GABG| "D" AFAd "A" fedc| "D" d2 "G" dd "D" d2 z:|
+[Ad| "G" d2b2 "A" agfe| "D" d2a2 "A" c2a2| "G" B2 gg "A" ABcd| ecBA "D" d2 df|
+"D" edcB "A" caaa| "G" Bggg "D/F#" Afff| "Em" edcB "A"caaa| "G"Bggg bgbg |
+"D/F#" afaf "Em" edcB| "A" cABG AFGE| "D" DAFA DAFA| "Em" GEBE GEBE |
+"D/F#" FAdc BAGF| "G" EFGA Bcde| "D" AFAd "A" fedc| "D" d2 "G" dd "D" d2 z:|

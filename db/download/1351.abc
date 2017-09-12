@@ -1,0 +1,57 @@
+X: 1
+T: Gold Ring, The
+Z: Dr. Dow
+S: https://thesession.org/tunes/1351#setting1351
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+FE|:DB,A, DFA|~d3 ecA|~B3 AFD|{F}EDE FDB,|
+~A,3 DFA|dfd ecA|B/c/dB AFE|1 FDC DFE:|2 FDC DdB||
+|:AFA dfa|bgb afd|gbg faf|ede fdB|
+~A3 dfa|bgb afd|B/c/dB AFA|1 Bdc dcB:|2 Bdc dfe||
+|:dFF AFE|DFE DFA|~d3 {f}ede|fdB B2c|
+{e}dFF AFE|DFE DFA|dfd ~e3|1 fdc dfe:|2 fdc dcB||
+|:AFA ~d3|BAB dAF|DEF ~E3|FDB, B,dB|
+AFA cd{e}d|~B3 dAF|DEF EDE|1 FDC DdB:|2 FDC D||
+X: 2
+T: Gold Ring, The
+Z: airport
+S: https://thesession.org/tunes/1351#setting14699
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+DB,|: ~A,3 DFA|dfd ecA|~B3 AFD|EGF EDB,|~A,3 DFA|dfd ecA|B/2c/2dB AFA||1 Bdc d2B, :|2 Bdc d2B|: AFA dfa|bgb afd|~g3 ~f3|ede fdB|AFA dfa|bgb afd|BGB AFA|1 Bdc d2B :|2 Bdc dfe|: dAF AFE|DB,A, DFA|~d3 ede|fdB B2c|dAF AFE|EDC DFA|dcd e/2f/2gf|1edc dfe:|2edc d2B|: AFA dfd|~B3 dAF|DEF EDE|FDB, B,2B|AFA dcd|~B3 dAF|DEF EDE|1FDC D2B:|2FDD D2B,|
+X: 3
+T: Gold Ring, The
+Z: JACKB
+S: https://thesession.org/tunes/1351#setting23368
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+FE|:DBA DFA|d3 ecA|B3 AFD|E3 FDB|
+A3 DFA|d(3fed ecA|B/c/dB AFE|1 FDD DFE:|2 FDD DdB||
+|:AFA dfa|bgb afd|gbg faf|ede fdB|
+A3 d(3fga|bgb afd|B/c/dB AFA|1 Bdc dcB:|2 Bdc dfe||
+|:dFF AFE|DFE DFA|d3 ede|fdB B2c|
+dFF AFE|DFE DFA|dfd e3|1 fdc dfe:|2 fdc dcB||
+|:AFA d3|BAB dAF|DEF E3|FAB BdB|
+AFA d2c|B3 dAF|DEF EDE|1 FDD DdB:|2 FDD D3||
+X: 4
+T: Gold Ring, The
+Z: GaryAMartin
+S: https://thesession.org/tunes/1351#setting28264
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+A,~A,2 DFA |d~d2 ecA|B~B2 AFD|EDE FDB,|
+A,~A,2 DFA|dfd ecA|(3Bcd B AFA|1 Bdc dA,B,:|2 Bdc d2 B||
+AFA dfa|bgb afd|g~g2 f~f2|ede fdB|
+A~A2 dfa|bgb afd|(3Bcd B AFA|1 Bdc d2 B:|2 Bdc dfe||
+dAF AFE|DB,A, DFA|d~d2 ede|fdB BAF|
+dAF AFE|DB,A, DFA|dcd ede|1 fdc dfe:|2 fdc d2 B||
+A~A2 d~d2|BAB dAF|DEF EDE|FDB, B, dB|
+A~A2 d~d2|BAB dAF|DEF EDE|1 FDC D2 B:|2 FDC D2B,|]

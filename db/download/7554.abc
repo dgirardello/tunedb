@@ -1,0 +1,24 @@
+X: 1
+T: West End, The
+Z: geoffwright
+S: https://thesession.org/tunes/7554#setting7554
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Dmaj
+|:A>G|F>D F>A d2d2|c>d e>f g2g2|f>a f>d B>f e>d|c2 A2A2 A>G|
+F>D F>A d2d2|c>d e>f g2g2|f>a f>d B>g e>c|d2d2d2:|
+|:f>g|a>fd>f a>f d>f|g>e c>e g>e c>e|a>f d>f a>f d>f|c2 A2A2 A>G|
+F>D F>A d2d2|c>d e>f g2g2|f>a f>d B>g e>c|d2d2d2:|
+X: 2
+T: West End, The
+Z: UncleJack
+S: https://thesession.org/tunes/7554#setting25377
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Dmaj
+A>G | F>DF>A d2 d2 | c>de>f g2 g2 | f>af>d e>ge>d | c2 A2 A2 A>G |
+F>DF>A d2 d2 | c>de>f g2 g2 | f>af>d e>ge>c | d2 d2 d2 :|
+f>g | a>fd>f a>fd>f | g>ec>e g>ec>e | a>fd>f a>fd>f | e2 A2 A2 A>G |
+F>DF>A d2 d2 | c>de>f g2 g2 | f>af>d e>ge>c | d2 d2 d2 :|

@@ -1,0 +1,36 @@
+X: 1
+T: Doug MacPhee's Clog
+Z: ceolachan
+S: https://thesession.org/tunes/12149#setting12149
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Gmaj
+|: d>c |B2 G>D [B,B]>DG<B | d>G (3Bcd g>dB<d | c2 A>F D2 F/G/A/B/ | c>Bc<d e>d^c<d |
+(3BcB G>D [B,2B2] G<B | (3ded B>d g>dB<d | c2 A>F D>FA<c | B>GA<F G2 :|
+|: (3ABc |d2 (3Bcd g>dB<d | (3efe c>e a>fd<e | (3ded B>d (3gag B<d | c>B (3BAG A2 (3ABc |
+d2 B>d g2 B<d | e2 c>e a>fd<e | (3fed B<d c>AF<D | G2 G<F G2 :|
+X: 2
+T: Doug MacPhee's Clog
+Z: ceolachan
+S: https://thesession.org/tunes/12149#setting23781
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Fmaj
+|: c/B/ |A2 F>C A,>CF>A | c2 (3ABc f>cA<c | B2 G>E C>EG>A | B>AB<c d>cB<c |
+A2 F>C A,>CF>A | c2 (3ABc f>cA<c | B2 G>E C>EG>B | A>FG>E F2 F :|
+|: A/B/ |c2 A>c f>cA<c | d2 B>d g>ec<d | c2 A>c f>cA<c | B>AG<F G2 A>B |
+c2 A>c f>cA<c | d2 B>d g>ec<d | e>dc<A B>GE>C | F2 F<E F3 :|
+X: 3
+T: Doug MacPhee's Clog
+Z: ceolachan
+S: https://thesession.org/tunes/12149#setting23782
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Fmaj
+|: c>B |A2 F>C A,>CF>A | c2 (3ABc f>c A2 | B2 G>E C>EG>A | B>AB>c d>cB<c |
+A2 F>C A,>CF>A | c2 (3ABc f>cA>c | B2 G>E C>EG>B |[1 A<FG>E F>d :|[2 A<FG<E F2 ||
+|: A>B |c2 A>c f>cA>c | d2 B>d g>ec>d | c2 A>c f>cA>c | B>AG<F G2 A>B |
+c2 A>c f>cA>c | d2 B>d g>ec>f | e>dc<A B>GE<C | F2 F>E F2 :|

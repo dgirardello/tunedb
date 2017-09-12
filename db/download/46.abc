@@ -1,0 +1,51 @@
+X: 1
+T: Humours Of Whiskey, The
+Z: Jeremy
+S: https://thesession.org/tunes/46#setting46
+R: slip jig
+M: 9/8
+L: 1/8
+K: Bmin
+|:"G"gfe "Bm"fBB fBB|"G"gfe "Bm"fBB "A"fga|"G"gfe "Bm"fBB "G"efg| "A"agf efd cBA:|K:Dmaj|:"D"d2e fdf "A"ecA|"D"d2e fed "G"gfe|"D"d2e fdf "G"efg| "A"agf efd cBA:|
+X: 2
+T: Humours Of Whiskey, The
+Z: dogbox
+S: https://thesession.org/tunes/46#setting12474
+R: slip jig
+M: 9/8
+L: 1/8
+K: Dmaj
+|:gfe fBB fBB|gfe fBB fga|gfe fBB fga|agf efd cde:||:d2e faf ecA|d2e faf gec|d2e faf efg|1 agf efd cde:|2 agf efd cBA|
+X: 3
+T: Humours Of Whiskey, The
+Z: ceolachan
+S: https://thesession.org/tunes/46#setting12475
+R: slip jig
+M: 9/8
+L: 1/8
+K: Bmin
+|: gfe fBB fBB | gfe fBB fga |\
+gbe fBB fBB | agf efd cBA :|
+|: [D2d2] e fdf ecA | [D2d2] e fdf gfe |\
+[D2d2] e fdf efg | agf efd cBA :|
+X: 4
+T: Humours Of Whiskey, The
+Z: marcpipes
+S: https://thesession.org/tunes/46#setting23298
+R: slip jig
+M: 9/8
+L: 1/8
+K: Bmin
+|:"Em"gfe "Bm"fBB fBB|"Em"gfe "Bm"fBB "F#m"fga|"Em"gfe "Bm"fBB "G"efg| "A"agf efd cBA:|
+K:Dmaj
+|:"D"d2e fdf "A"ecA|"D"d2e fdd "G"gfe|"D"d2e fdf "G"efg| "A"agf efd cBA:|
+X: 5
+T: Humours Of Whiskey, The
+Z: Christian_T
+S: https://thesession.org/tunes/46#setting26976
+R: slip jig
+M: 9/8
+L: 1/8
+K: Bmin
+|:"Bm"{e}f{g}fe fBB fBB|{e}f{g}fe fB"F#m"B fga|"G"{e}f{g}fe fBB fBB|"A"agf efd cBA:|
+|:"D"d2e fed ecA|"Em"d2e fed fga|"D/F#"d2e ~f3 ecA|"G"agf "A"ef"A/C#"d cBA:|

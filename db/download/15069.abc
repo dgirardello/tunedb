@@ -1,0 +1,21 @@
+X: 1
+T: A Glória Da Tua Presença
+Z: Marcus Vinicius
+S: https://thesession.org/tunes/15069#setting27900
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Gmaj
+%%score (S C) (T)
+V:S clef=treble
+V:C clef=treble
+V:T clef=bass
+%
+[V:S] | z2 D3/2 C/2 | C2 B,2 | z/2 G G/2 G/2 F F E | E D D D C | A A G G F |
+[V:C] | z2 B,3/2 G,/2 | G,2 G,2 | z/2 D D/2 D/2 D D C | C B, A, A, A, | E E E D D |
+[V:T] | z2 G,3/2 E,/2 | E,2 D,2 | z/2 B, B,/2 B,/2 B, A, G, | G, G, F, F, E, | C C C B, A, |
+%
+[V:S] E F G G ||
+[V:C] C D D E ||
+[V:T] G, A, B, B, ||
+%

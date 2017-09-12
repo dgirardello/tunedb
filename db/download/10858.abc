@@ -1,0 +1,24 @@
+X: 1
+T: Sally Ann's
+Z: bogman
+S: https://thesession.org/tunes/10858#setting10858
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+(3DEF |: GBAG E2 ed | BGAG EGDE | GBAG E2 ed | BGAF G2 DE |
+GBAG E2 ed | BGAG EGDE | GBAG E2 ed | [1 BGAF G3D :| [2 BGAF Ggef ||
+|: g2 ef gfeg | fdad bdad | gfef gfed | BGAG EG ~G2 |
+g2 ef gfeg | fdad bdad | b2 ab gded | [1 BGAG EGGf :| [2 BGAG EGGD ||
+X: 2
+T: Sally Ann's
+Z: BillScates
+S: https://thesession.org/tunes/10858#setting28354
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+ef |:"G"g2 ga g2 d2|"C"e2 ed e2ef|"D"e2 d2 BAB2|"G"d3 dd2 fg|
+"C"e2 d2 "G"B2 G2|"D"A3 AA2 AB|BGAG E2 D2 |1"G" G3 GG2 ef:|2"G"G3 GG2 D2|
+|:"G"DABd B2 G2|"D"A3 AA2 A2|ABAG E2 D2|"G"G3 GG2 D2|
+DABd B2 G2|"D"A3 AA2 A2|ABAG E2 D2|"G"G3 GG4:|

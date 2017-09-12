@@ -1,0 +1,87 @@
+X: 1
+T: Strayaway Child, The
+Z: Will Harmon
+S: https://thesession.org/tunes/134#setting134
+R: jig
+M: 6/8
+L: 1/8
+K: Emin
+A|:BEE GEE|B,EE G2 A|BEE A2 G|FDF Adc|
+|BEE GEE B,EE G2 A|BcB B2 A|GEE E2 A:|
+|:Bee BdB|dBG AGA|Bee BdB|
+[1 dBG A2 A|Bee BdB|dBG AGA|BcB B2 A|GEE E2 A:|
+[2 dBG A2 f|gfe dcB|AGA BGE|AGE DB,D|~E3 E2 D||
+|:EAG EDE|~G3 BAG|AGE DB,D|EFE E2 D|EAG EDE|
+~G3 BAG|AGE DB,D|1 ~E3 E2 D:|2 EFE E2 B||
+|:efe ded|cBA BGE|GAB dBB|AGE D2 c|BAG EDE|
+|GAB cBA|BAG EAG|1 ~E3 E2 B:|2 ~E3 E2 A||
+|:Bee efg|fdf edA|Bee efg|fdf e2 f|gfe dcB|
+|AGA BGE|AGE DB,D|1 ~E3 E2 A:|2 ~E3 E2 B||
+|:edB edB|AGA BGE|edB edB|AGA ~B3|edB gfe|
+|dcB AGA|BAG EAG|1 ~E3 E2 B:|2 ~E3 E3||
+X: 2
+T: Strayaway Child, The
+Z: JACKB
+S: https://thesession.org/tunes/134#setting12749
+R: jig
+M: 6/8
+L: 1/8
+K: Emin
+A|:BEE GEE|BEE G2 A|BEE BAG|FDF Adc|
+|BEE GEE | BEE G2 A|BcB B2 A|GEE E2 A:|
+|:Bee BdB|dBG AGA|Bee BdB|dBG A2 A|
+Bee BdB|dBG AGA|BcB B2 A|GEE E2 A|
+Bee BdB|dBG AGA|Bee BdB|dBG A2 f|
+gfe dcB|AGA BGE|AGE DBD|E3 E2 D||
+|:EAG EDE|G3 BAG|AGE DBD|E3 E2 D|
+EAG EDE|G3 BAG|AGE DBD|1 E3 E2 D:|2 E3 E2 B ||
+|:efe ded|BcA BGE|GAB cBA|BGE D2 c|
+BAG EDE|GAB cBA|BAG EAG|1 E3 E2 B:|2 E3 E3 :|
+|:Bee efg|fdf edA|Bee efg|fdf e2 f|
+gfe dcB|AGA BGE|AGE DBD|1 E3 E2 A:|2E3 E2 B||
+|:edB edB|AGA BGE|edB edB|AGA B3|
+edB gfe|dcB AGA|BAG EAG|1 E3 E2 B:|2 E3 E3|
+X: 3
+T: Strayaway Child, The
+Z: srt19170
+S: https://thesession.org/tunes/134#setting12750
+R: jig
+M: 6/8
+L: 1/8
+K: Emin
+A|:BEE GEE|BEE G2 A|BEE DAG|FDF A3|
+BEE GEE | BEE G2 A|BcB B2 A|GED E3:|
+|:Bee BdB|dBG AGA|Bee BdB|dBG A3|
+Bee BdB|dBG AGA|B2B B2 A|GED E3|
+Bee BdB|dBG AGA|Bee B[d]B|dBG A2 f|
+gfe dcB|AGA BGE|AGE DBD|E2E E3||
+|:EAG EDE|~G3 BAG|AGE DBD|E3 E2 D|
+EAG EDE|GzG BAG|AGE DBD| E2E E3:|
+|:efe ded|cBA BGE|GAB dBA|AGE D2 z|
+BAG EDE|GAB cBA|BAG EAG|E2E EDE:|
+|:Bed efg|fdf edA|Bed efg|fdf e2 f|
+gfe dcB|AGA BGE|AGE DBD| E2E E3 :|
+|:edB edB|AGA BGE|edB edB|AGA ~B3|
+edB gfe| |dcB AGA|BAG EAG| E2E E3 :|
+X: 4
+T: Strayaway Child, The
+Z: BenH
+S: https://thesession.org/tunes/134#setting25594
+R: jig
+M: 6/8
+L: 1/8
+K: Emin
+A|"Em"BEE GEE|B,EE G2A|BEE A2G|"D"FDF Adc|
+"Em"BEE GEE|B,EE G2A|"Bm"BdB B2A|"Em"GEE E2:|
+A|"Em"Bee BdB|dBG AGA|Bee BdB|"D"dBG A2A|
+"Em"Bee BdB|dBG AGA|"Bm"BdB B2A|"Em"GEE E2A|
+"Em"Bee BdB|dBG AGA|Bee BdB|"D"dBG A2f|
+"CMaj7"gfe dcB| AGA BGE|"Bm"AGE DB,D|"Em"~E3 E2||
+|:D|"Am"EAG EDE|"Em"~G3 BAG|"Bm"AGE DB,D|"Em"EFE E2D|
+"Am"EAG EDE|"Em"~G3 BAG|"Bm"AGE DB,D|"Em"~E3 E2:|
+|:B|"Em"efe ded|cBA BGE|GAB dBB|"D"AGE D2c|
+"CMaj7"BAG EDE|GAB cBA|"Bm"BAG EAG|"Em"~E3 E2:|
+|:A|"Em"Bee efg|"D"fdf edA|"Em"Bee efg|"D"fdf e2f|
+"CMaj7"gfe dcB| AGA BGE|"Bm"AGE DB,D|"Em"~E3 E2:|
+|:B|"Em"edB edB|"D"AGA BGE|"Em"edB edB|"D"AGA B3|
+"Em"edB gfe|"D"dcB AGA|"Bm"BAG EAG|"Em"~E3E2:|

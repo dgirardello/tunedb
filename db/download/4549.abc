@@ -1,0 +1,52 @@
+X: 1
+T: Thames, The
+Z: *Davy Rogers
+S: https://thesession.org/tunes/4549#setting4549
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Gmaj
+dc |: BgdB AecA | GdBG FcAF | GDEF GABc | ^cded fed=c |
+BgdB AecA | GdBG FcAF | GDEF GABc |1^cdef g2d=c :|2^cdef g3A ||
+|: Ad^cd edcd | Be^de fede | gfed ^cBAG | FA^GB A3A |
+Ad^cd edcd | Be^de fede | gfed ^cABc |1d2f2 d3A :|2d2 f2d2 ||
+X: 2
+T: Thames, The
+Z: ceolachan
+S: https://thesession.org/tunes/4549#setting17131
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Dmaj
+B>gd>B A>ec>A | G>dB>G F>cA>F | G>DE>F G>AB>c | ^c>d^d>e f>e=d>=c |B>gd>B A>ec>A | G>d (3BAG F>cA>F | G>gd>B A>e (3cBA | G2 F2 G2 :|A>dc>d e>dc>d | B>e^d>e f>ed>e | g>fe>d c>BA>^G | A>^GA>^A (3BcB A>=G |F>dc>d e2 (3dcd | B>e^d>e f2 (3ede | g>ec>A ^G>AB>c | d>A (3FGA d2 :|
+X: 3
+T: Thames, The
+Z: ceolachan
+S: https://thesession.org/tunes/4549#setting17132
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Dmaj
+BgdB AecA | GdBG FcAF | GDEF GABc | ^cd^de fe=d=c |BgdB AecA | GdBG FcAF | GgdB AGFA | G2 B2 G2 :|Adcd edcd | Be^de fede | gfed cBA^G | A^GA^A cBA=G |Fdcd edcd | Be^de fede | gecA ^GABc | d2 f2 d2 :|
+X: 4
+T: Thames, The
+Z: ceolachan
+S: https://thesession.org/tunes/4549#setting17133
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Gmaj
+~ | G2 d>B A>ec>A | G>DB>A G2 :|~ | G2 dB AecA | GDBA G2 :|~ | g2 e>c ^G>AG>E | D>AF>A d2 :|~ | g2 ec ^GAGE | DAFA d2 :|
+X: 5
+T: Thames, The
+Z: Kevin Rietmann
+S: https://thesession.org/tunes/4549#setting23072
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Gmin
+|:fe|dbfd cgec | BfdB AecA | BFGA Bcde | =efgf agf_e |
+dbfd cgec | BfdB AecA | BFGA Bcde | =efga b2 :|
+K:Fmaj
+|:b2| afcA BecB | AFAc fagf | =eceg bgeg | f=efg a2 b2 |
+afcA BdcB | AFAc fagf | =eceg bgeg | f2 a2 f2 :|

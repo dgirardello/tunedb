@@ -1,0 +1,46 @@
+X: 1
+T: Diplodocus, The
+Z: crannog
+S: https://thesession.org/tunes/620#setting620
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+|: B | cAA edb | cAA ABc | dff gfg | aee fed |
+cAA BAG | Eaa AGE | DFF GFG | BAA A2 :|
+e | efe eed | cAB AGE | GGG EFG | GAG FDD |
+efe eed | cAB AGE | DFF GFG | BAA A2 e |
+efe eed | cAB AGE | fgg gef | gag fdd |
+efe eed | cAB AGE | DFF GFG | BAA efg |
+aAA Aaf | gfg efg | fdd def | gfg efd |
+aAA Aaf | gfg efg | fdd fed | cAA Afg |
+aAA Aaf | gfg efg | GGG GBd | gfg efd |
+aAA Aaf | gfg efg | fdd fed | cAA A2 |
+X: 2
+T: Diplodocus, The
+Z: didier
+S: https://thesession.org/tunes/620#setting22648
+R: jig
+M: 6/8
+L: 1/8
+K: Amix
+cAA edB |cAA ABc |def g3 |a2e fed |
+c2A BAG| EAA AGE| DEF G2A | BAA A3 :|
+efe e2d | cAB AGE | g3 gef | g2g fed |
+efe e2d | cAB AGE | DEF G2A | BAA A3 :|
+aAA Aaf |g3 efg |fdd def | g2g efg |
+aAA Aaf |g3 efg |fed e2d | cAA A3 :|
+X: 3
+T: Diplodocus, The
+Z: zoronic
+S: https://thesession.org/tunes/620#setting27507
+R: jig
+M: 6/8
+L: 1/8
+K: Amix
+|:B|cAA edB|cAA ABc|def gfg|aee fed |
+ceA BAG|EAA AGE|DEF FGA|BAA A2 :|
+|:z|efe e2d|cAB AGE|gag gef|gag fed |
+efd eBd|cAB AGE|DEF FGA|BAA A2 :|
+|:z|aAA Aaf|~g3 efg|fdd def|~g3 efg |
+aAA Aaf|~g3 efg|fed efd|cAA A2 :|

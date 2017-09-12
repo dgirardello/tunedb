@@ -1,0 +1,36 @@
+X: 1
+T: Bonanza
+Z: ceolachan
+S: https://thesession.org/tunes/12093#setting12093
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Dmaj
+|: ABc |d2 df e/f/g fa | g2 ga gbeg | fafd Bgec | dcdb aABc |
+dcdf edeg | fefa gfgb | afdf egce |[1 d2 f2 d :|[2 d2 f2 d2 ||
+|: f2 |gece Aceg | fdAd FAdf | edge ceAc |dcdf a2 gf |
+gbeg Aceg | fafd FAdf | egce EAce |[1 d2 f2 f2 :|[2 d2 f2 d |]
+X: 2
+T: Bonanza
+Z: ceolachan
+S: https://thesession.org/tunes/12093#setting23650
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Dmaj
+|: A2 |d2 df egfa | g2 g2 gfeg | fadf Bgec | dcdf aABc |
+dcdf edeg | fefa gfgb | afdf eace | d2 d2 d2 :|
+|: ef |gece AAde | fdAd FAdf | edge ceAc | dcdf a2 ef |
+gbec Aceg | fafd FAdf | egBG EAce | d2 d2 d2 :|
+X: 3
+T: Bonanza
+Z: ceolachan
+S: https://thesession.org/tunes/12093#setting23651
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Dmaj
+|: (3ABc |d>A (3def e>gf>a | g>B (3fga g>be>g | f>af>d B>ge>c | d>cd>b a>A (3ABc |
+d>cd>f e>^de>g | f>^ef>a g>fg>b | a>f (3def e>gc>e | d2 f2 d2 :|
+|: c>f |g>ec>e A>ce>g | f>dA>d F>Ad>f | e>^dg>e c>eA>c |d>A (3def [a2A2] (3agf |
+g>be>g A>c e2 | f>af>d F>A d2 | e>gc>e E>A (3c[Bd][Ae] | d2 [A2f2] [D2d2] :|

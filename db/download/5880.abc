@@ -1,0 +1,86 @@
+X: 1
+T: Moran's Return
+Z: MBAC
+S: https://thesession.org/tunes/5880#setting5880
+R: barndance
+M: 4/4
+L: 1/8
+K: Fmaj
+Ac|:d2G2 G2cB|A2F2 F2fg|a>gfe fdcA|G2GA B2Bc|
+d2G2 G2cB|A2F2 F2fg|a>gfe fdcA|1G2F2 F2Ac:|2 G2F2 F2AG||
+F2fe f3g|agfe d2cA|d2g2 g3a|bagf g2fg|
+a2ba g2ag|f>gfd c2fg|a>gfe fdcA|1G2F2 F2AG:|2 G2F2 HF2||
+X: 2
+T: Moran's Return
+Z: ceolachan
+S: https://thesession.org/tunes/5880#setting17788
+R: barndance
+M: 4/4
+L: 1/8
+K: Fmaj
+d2 G2 G2 c>B | A2 F2 F2 f>g | agfe fdcA | G2 G>A B2 B>c |d2 G2 G2 c>B | A2 F2 F2 f>g | agfe fdcA | G2 F2 F2 ||F2 f>e f3 g | agfe d2 c>A | d2 g2 g3 a | bagf g2 f>g |a2 ba g2 ag | fgfd c2 f>g | agfe fdcA | G2 F2 F2 ||e2 A2 A2 d>c | B2 G2 G2 g>a | bagf gedB | A2 A>B c2 c>d |e2 A2 A2 d>c | B2 G2 G2 g>a | bagf gedB | A2 G2 G2 ||G2 g>f g3 a | bagf e2 d>B | e2 a2 a3 b | c'bag a2 g>a | b2 c'b a2 ba | gage d2 g>a | bagf gedB | A2 G2 G2 ||B2 E2 E2 A>G | F2 D2 D2 d>e | fedc dBAF | E2 E>F G2 G>A |B2 E2 E2 A>G | F2 D2 D2 d>e | fedc dBAF | E2 D2 D2 ||D2 d>c d3 e | fedc B2 A>F | B2 e2 e3 f | gfed e2 d>e |f2 gf e2 fe | dedB A2 d>e | fedc dBAF | E2 D2 D2 ||
+X: 3
+T: Moran's Return
+Z: ceolachan
+S: https://thesession.org/tunes/5880#setting17789
+R: barndance
+M: 4/4
+L: 1/8
+K: Fmaj
+F = G Dorian ~ ending ~ | agfe fdcA | G6 ||G = A Dorian ~ ending ~ | bagf gedB | A6 ||D = E Dorian ~ ending ~ | fedc dBAF | E6 ||
+X: 4
+T: Moran's Return
+Z: ceolachan
+S: https://thesession.org/tunes/5880#setting17790
+R: barndance
+M: 4/4
+L: 1/8
+K: Edor
+B>E (3EEE E2 A>G | F>D (3DDD D2 d>e | f>ed>c d>BA<F | E2 3DEF G2 (3FGA |B2 e2 E2 d>B | A2 d2 D2 d>e | f>ed>c d>BA<F | E2 (3EEE E2 :|D2 d>c d3 e | f>e (3dcB A2 (3AGF | E2 e>^d e3 f | g>fe<d B2 d>e |f2 g>f (3eee f>e | d>c (3dcB (3AAA d>e | f>ed>c d>BA<F | E2 E2 E2 :|
+X: 5
+T: Moran's Return
+Z: ceolachan
+S: https://thesession.org/tunes/5880#setting17791
+R: barndance
+M: 4/4
+L: 1/8
+K: Edor
+B>E (3EEE E2 A>G | F>D (3DDD D2 d>e | f>ed>c d>BA<F | E2 3DEF G2 (3FGA |B2 e2 E2 d>B | A2 d2 D2 d>e | f>ed>c d>BA<F | E2 (3EEE E2 :|D2 d>c d3 e | f>e (3dcB A2 (3AGF | E2 e>^d e3 f | g>fe<d B2 d>e |f2 g>f (3eee f>e | d>c (3dcB (3AAA d>e | f>ed>c d>BA<F | E2 E2 E2 :|
+X: 6
+T: Moran's Return
+Z: Nigel Gatherer
+S: https://thesession.org/tunes/5880#setting17792
+R: barndance
+M: 4/4
+L: 1/8
+K: Emin
+G>A | B2 E2 E2 A>G | F>GE>F D2 d>e | f>ed>B d<BA>F | B2 E2 E2 :|F>E | D2 d2 d2 B>^c | d>ed>B A2 d>^c | B2 e2 e2 e>f | g>fe>d B2e>f | f2 (3agf e2 (3gfe | d>ed>B A2 f>ed>B d<BA>F | B2 E2 E2 |]
+X: 7
+T: Moran's Return
+Z: bobkeenan
+S: https://thesession.org/tunes/5880#setting26251
+R: barndance
+M: 4/4
+L: 1/8
+K: Emin
+F3 |A B4 | E2>F2 E4 | A2>G2 | F2>G2 E3 |F D4 |
+d2>e2 f3 |e d2 B2 | d2<B2 A2 | F2 B4 |
+E2>F2 E4 | F2 A2 | B4 E3 |F E4 |
+A2>G2 F3 |G2< E2F | D4 d3 |e2< f2e |
+d2 B2 d2<B2 | A2 F2 | B4 E3 |F E4 |
+F2>E2 D4 | d2>e2 | d6 | e2 d2>e2 |
+dA B4< A4 | dA | B4 e4 | e6 |
+f2 g3 |f e2 dA | B4 d2 | e2 f4 |
+g2 f2 e4 | f2 e2 | d2>e2 dA | B2 A4 |
+d2 e2 f3 |e d2 B2 | d2<B2 A2 | F2 B4 |
+E2>F2 E12 | F2 | A2 B4 | E2>F2 E4 |
+A2>G2 | F2>G2 E3 |F D4 | d2 e2 f3 |
+e d2 B2 | d2<B2 A2 | F2 B4 | E2>F2 E4 |
+F2 A2 | B4 E3 |F E4 | A2>G2 F3 |
+G2< E2F | D4 d2 | e2 f2>e2 | d2 B2 d2<B2 |
+A2 F2 | B4 E3 |F E4 | F2>E2 D4 |
+d2>e2 | d6 | e2 d2>e2 | dA B4< A4 |
+dA | B4 e4 | e6 | f2 g3 |
+f e2 dA | B4 d2 | e2 f4 | g2 f2 e4 |
+f2 e2 | d2>e2 dA | B2 A4 | d2 e2 f3 |
+e d2 B2 | d2<B2 A2 | F2 B4 | E2>F2 E8 |

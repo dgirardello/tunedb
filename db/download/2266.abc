@@ -1,0 +1,40 @@
+X: 1
+T: Aaron's Key
+Z: Mandolman
+S: https://thesession.org/tunes/2266#setting2266
+R: jig
+M: 6/8
+L: 1/8
+K: Bmin
+E|F2B Bcd|cAA ABc|dBB Bcd|edc BAG|
+FBB Bcd|cAA ABc|dcd ede|fdB B2A|
+F2B Bcd|cAA ABc|dBB Bcd|efd efg|
+~f3 fed|cAA ABc|dcd ede|fdB B2c||
+|:d2A def|ecA a2g|~f3 fed|cde ABc|
+BFB cBc|d2d ede|fed cBA|1 B2B B2c:|2 B2B B2A|
+X: 2
+T: Aaron's Key
+Z: Juno-60
+S: https://thesession.org/tunes/2266#setting21495
+R: jig
+M: 6/8
+L: 1/8
+K: Bmin
+|:F ~B3 cd|c ~A3 Bc|d ~B3 cd|edc BAG|
+F ~B3 cd|c ~A3 Bc|dcd efg[1 fdB {c}B2 A:|2 fdB {c}B2 c|
+|:dcd def|ec A a2 g|~f3 {g}fed|cde ABc|
+BFB cBc|dcd efg|fed cBA[1 ~B3 {c}B2 c:|2 ~B3 {c}B3|
+X: 3
+T: Aaron's Key
+Z: TBanjo
+S: https://thesession.org/tunes/2266#setting22985
+R: jig
+M: 6/8
+L: 1/8
+K: Bmin
+E|FBB BB/c/d|cAA ABc|dBB Bcd|edc B/B/AG|
+FBB BB/c/d|cAA ABc|dcd e/e/ee|fdB B2A|
+F2B Bcd|cAE cAc|dBB BB/c/d|efd efg|
+~f3 ~d3|cAA AA/B/c|dcd ede|fdB B2c||
+|:d2A def|ecA a2g|~f3 fed|cde ABc|
+BFB cBc|d2d ede|fed cBA|1 B/B/cA Bce:|2 B2B B2A|

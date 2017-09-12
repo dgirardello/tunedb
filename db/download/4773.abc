@@ -1,0 +1,38 @@
+X: 1
+T: Wishbone, The
+Z: Kenny
+S: https://thesession.org/tunes/4773#setting4773
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+B2 AG EDB,E | D2 GD EFGA | BGAG EDB,D | EAAG ABcd |
+B2 AG EDB,E | D2 GD EFGA | BGAG EDB,D |1 EAAG ABcd :|2 EAAG ABce ||
+dB B2 GB B2 | dB B2 cBce | dB B2 GBgB | c2 Bc ABce |
+dB B2 gB B2 | dBdB cBce | d2 eg fgag | fefd cBce |
+dB B2 GB B2 | dB B2 cBce | dB B2 gBdB | c2 Bc ABce |
+dBdg eceg | fgaf gfga | bgag edBd | eaaf gedc |
+X: 2
+T: Wishbone, The
+Z: Will Harmon
+S: https://thesession.org/tunes/4773#setting17248
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+B2 AG EDB,E|D2 GD E/F/G Ac|BGAG EDB,D|EAAG ABcd|B2 AG EDB,E|D2 GD E/F/G Ac|BGAG EDB,D|1 EAAG ABdc:|2 EAAG ABce||d~B3 G~B3|d~B3 ~c3e|d~B3 G~B3|c2 Bc ABce| d~B3 G~B3|dBGB cBce|d2 e/f/g fgag|fdeg fdce|d~B3 G~B3|d~B3 cBce|d~B3 gBdB|c2 Bc ABce| dBdg eceg|fgaf ~g3a|bgag ed B/c/d|eaag fdcA||
+X: 3
+T: Wishbone, The
+Z: Matt Leavey
+S: https://thesession.org/tunes/4773#setting28842
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+GA | B2 AG EDB,D | E2BE DEGA | B/d/B AG EDB,D | ED E/F/G ABcd |
+B/d/B AG EDB,D | [D2B,2]GD EFGA | B/d/B AG EDB,D |1 ED E/F/G A(d{e}d)c :||2 ED E/F/G ABcd |]
+d~B3 GBgB | d~B3 ABcA | d~B3 GBgB | c/d/c Bc ABce |
+d~B3 GBgB | d~B3 ABce | d2 e/f/g fgag | ~f3d cBce |
+d~B3 g~B3 | dBGB cBce | d~B3 gBgB | c/B/A BG ABce |
+d~B3 e~B3 | fafa gfga | b/a/g ag fd^cd| egag fd=cA |]
+"End" B2 AG EDB,D | G4|]

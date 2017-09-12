@@ -1,0 +1,30 @@
+X: 1
+T: Anderson's
+Z: Mix O'Lydian
+S: https://thesession.org/tunes/9140#setting9140
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+|:A|d2f edc|dAF DFA|BAG AGF|EFG ABc|
+def edc|dAF DFA|Bgf eac|d3-d2:|
+|:f/g/|afd bgd|afd def|gfe fed|ecA ABc|
+def edc|dAF DFA|Bgf eac|d3-d2:|
+X: 2
+T: Anderson's
+Z: ceolachan
+S: https://thesession.org/tunes/9140#setting19920
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+"D" d2 f "A7" edc | "D" dAF "D7" DFA | "G" BAG "D" AGF | "Em" EFG "A7" ABc | "D" def "A7" edc | "D" dAF DFA | "G" B<gf "A7" e<ac | "D" d3- d :|"D" afd "G" bgd | "D" afd def | "Em" gfe "E7" fed | "A" ecA "A7" ABc | "D" def "A7" edc | "D" dAF DFA | "G" B<gf "A7" e<ac | "D" d3- d :|
+X: 3
+T: Anderson's
+Z: ceolachan
+S: https://thesession.org/tunes/9140#setting19921
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+d2 f edc | dAF D2 A | B2 G AGF | EE/F/G ABc | d2 f edc | dAF D2 A | B>gf e<dc | d3- d2 :|afd bg/a/b | afd d2 f | ge/f/g fed | ecA A2 =c | BGD dce | dAF d2 a | b>gf e<ac | d3- d2 :|

@@ -1,0 +1,188 @@
+X: 1
+T: Tarantella
+Z: dafydd
+S: https://thesession.org/tunes/2721#setting2721
+R: jig
+M: 6/8
+L: 1/8
+K: Amin
+|a2a e2e|a2a e2e|ede f2f|fgf e3|
+efe d2d|ded c2c|cdc B2d| c2B A3|
+a2a e2e| a2ae2e| edef2f| fgfe3 |
+efe d3| ded c3 |cdcB2d |c2B A2B|
+cBc dcB|c2A ABc|B2B dcB|c2A A2B|
+cBc dcB|c2A A2c| B2dc2B|A3 A2B|
+cBc dcB|c2A ABc|B2B dcB|c2A A2B|
+cBc dcB|c2A A2c|B2d c2B|A3 A3|
+|:cGc ece|g2g gag|f2f fgf|
+e3e3|cGc ece|g2g g2a|bag fed|c3c3:|
+X: 2
+T: Tarantella
+Z: ceolachan
+S: https://thesession.org/tunes/2721#setting15957
+R: jig
+M: 6/8
+L: 1/8
+K: Amin
+|: a2 a |e2 e a2 a | e2 e ede | f2 f fgf | e3 efe |
+[1 d2 d ded | c2 c cdc | B2 d c2 B | A3 :|
+[2 d3 ded | c3 cdc | B2 d c2 B | A2 B ||
+|: cBc |dcB c2 A | ABc B2 B | dcB c2 A | A2 B cBc |
+dcB c2 A | A2 c B2 d | c2 B A3 |[1 A2 B :|[2 A3 ||
+|: a2 a |e2 e a2 a | e2 e ede | f2 f fgf | e3 efe |
+[1 d2 d ded | c2 c cdc | B2 d c2 B | A3 :|
+[2 d3 ded | c3 cdc | B2 d c2 B | A2 B ||
+K: CMaj
+|: c3 |cGc ece | g2 g gag | f2 f fgf | e3 e3 |
+cGc ece | g2 g g2 a | bag fed | c3 :|
+X: 3
+T: Tarantella
+Z: ceolachan
+S: https://thesession.org/tunes/2721#setting15958
+R: jig
+M: 6/8
+L: 1/8
+K: Amin
+|: "Am" a2 a e2 e | a2 a e2 e | ede "F" f2 f | fgf "C" e2 e |
+efe "G" d2 d | ded "Am" c2 c | cdc "Em" B2 B | BcB "Am" A3 :|
+|: A2 B cBc | "F" dcB "Am" c2 c | ABc "G" B2 B | "Em" dcB "Am" A2 A |
+A2 B cBc | "F" dcB "Am" c2 c | ABc "G" B2 B | "Em" dcB "Am" A3 :|
+X: 4
+T: Tarantella
+Z: ceolachan
+S: https://thesession.org/tunes/2721#setting15959
+R: jig
+M: 6/8
+L: 1/8
+K: Amin
+|: a2 a |e2 e a2 a | e2 e ede | f2 f fgf | e2 e efe |
+d2 d ded | c2 c cdc | B2 B BcB | A3 :|
+|: A2 B |cBc dcB | c2 c ABc | B2 B dcB | A2 A A2 B |
+cBc dcB | c2 c ABc | B2 B dcB | A3 :|
+|: a2 a |e2 e a2 a | e2 e ede | f2 f fgf | e2 e efe |
+d2 d ded | c2 c cdc | B2 B BcB | A3 :|
+K: CMaj
+|: cGc |ece g2 g | gag f2 f | fgf e3 | e2 d cGc |
+ece g3 | g2 a bag | fed c3- | c3 :|
+X: 5
+T: Tarantella
+Z: ceolachan
+S: https://thesession.org/tunes/2721#setting15960
+R: jig
+M: 6/8
+L: 1/8
+K: Amin
+|: a2 a |e2 e a2 a | e2 e ede | f2 f faf | e3 efe |
+d2 d ded | c2 c cdc | B2 B dcB | A3 :|
+|: EAB |cBc dcB | c2 c ABc | B2 B dcB | c2 A EAB |
+cBc dcB | c2 c ABc | B2 B dcB | A3 :|
+|: a2 a |e2 e a2 a | e2 e ede | f2 f faf | e3 efe |
+d2 d ded | c2 c cdc | B2 B dcB | A3 :|
+K: CMaj
+|: GAB |cGc ece | g2 g gag | f2 f fgf | e2 c GAB |
+cGc ece | g2 g gag | bag fed | c3 :|
+X: 6
+T: Tarantella
+Z: ceolachan
+S: https://thesession.org/tunes/2721#setting15961
+R: jig
+M: 6/8
+L: 1/8
+K: Amin
+|: a2 a e2 e | a2 a e2 e | e^de f2 f | fgf e3 |
+[1 efe d2 d | ded c2 c | cdc B2 d | c2 B A3 :|
+[2 efe d3 | ded c3 |cdc B2 d |c2 B A3 ||
+|: A2 B |cBc dcB | c2 A ABc | B2 B dcB | c2 A A2 B |
+cBc dcB | c2 A A2 c | B2 d c2 B |[1 A3 A2 B :|[2 A3 A3 ||
+K: CMaj
+|: cGc ece | g2 g gag | f2 f fgf | e3 e2 d |
+cGc ece | g3 g2 a | bag fed |[1 c3- c3 :|[2 c3 ||
+K: Amin
+e2 f |g^fg a2 g | f3 d2 e | fef g2 f | e3 e2 e |
+fed d2 d | edc c2 d | e2 d c2 B | A3 e2 f |
+g2 g a2 g | f3 d2 e | f2 f g2 f | e3 e^de |
+fed d^cd | edc cdc | e2 d c2 B | A3 |]
+X: 7
+T: Tarantella
+Z: ceolachan
+S: https://thesession.org/tunes/2721#setting15962
+R: jig
+M: 6/8
+L: 1/8
+K: Amin
+|: a2 a |e3 a2 a | e3 ede | f2 f fgf | e3 efe |
+d2 d ded | c2 c c2 d | efe dcB | A3 :|
+|: zcB |A2 A c2 c | e2 e efe | d2 d ded | c3 zcB |
+A2 A c2 c | e2 e efe | gfe dcB | A3 :|
+K: CMaj
+|: e2 f |gec gec | g3 gag | f2 f fgf | e3 e2 f |
+gec gec | g3 gag | bag fed | c3 :|
+X: 8
+T: Tarantella
+Z: ceolachan
+S: https://thesession.org/tunes/2721#setting15963
+R: jig
+M: 6/8
+L: 1/8
+K: Amin
+|: a2 a |e2 e a2 a | e2 e ede | f2 f faf | e3 efe |
+d2 d ded | c2 c cdc | B2 B dcB | A3 :|
+|: EAB |cBc dcB | c2 c ABc | B2 B dcB | c2 A EAB |
+cBc dcB | c2 c ABc | B2 B dcB | A3 :|
+K: CMaj
+|: GAB |cGc ece | g2 g gag | f2 f fgf | e2 c GAB |
+cGc ece | g2 g gag | bag fed | c3 :|
+K: Amin
+|: e2 f |g^fg a2 g | f3 d2 e | fef g2 f | e3 e2 e |
+fed d2 d | edc c2 d | e2 d c2 B | A3 :|
+X: 9
+T: Tarantella
+Z: JACKB
+S: https://thesession.org/tunes/2721#setting24362
+R: jig
+M: 6/8
+L: 1/8
+K: Emin
+|e2e B2B|e2e B2B|BAB c2c|cdc B3|
+BcB A2A|ABA G2G|GAG F2A| G2F E3|
+e2e B2B| e2eB2B| BABc2c| cdcB3 |
+BcB A3| ABA G3 |GAGF2A |G2F E2F|
+GFG AGF|G2E EFG|F2F AGF|G2E E2F|
+GFG AGF|G2E E2G| F2AG2F|E3 E2F|
+GFG AGF|G2E EFG|F2F AGF|G2E E2F|
+GFG AGF|G2E E2G|F2A G2F|E3 E3|
+|:GDG BGB|d2d ded|c2c cdc|
+B3B3|GDG BGB|d2d d2e|fed cBA|G3G3:|
+X: 10
+T: Tarantella
+Z: ceolachan
+S: https://thesession.org/tunes/2721#setting28598
+R: jig
+M: 6/8
+L: 1/8
+K: Amin
+a2 a |e2 e a2 a | e2 e e^de | f2 f fgf | e3- e2 e |
+e2 d d^cd | d2 c cdc | B^AB dcB | A3 :|
+|: EAB |cBc dcB | c2 A A2 c | B2 B dcB | c2 A EAB |
+cBc dcB | c2 A ABc | B2 B dcB | A3 :|
+|: a2 a |e2 e a2 a | e3 e^de | f2 f fgf | e3- e2 e |
+e2 d ded | d2 c c3 | B^AB dcB | A3 :|
+K: CMaj
+|: GAB |cBc ece | g2 g gag | f2 f fgf | e3 GG/A/B |
+c2 c e2 e | g2 g g^fg | bag fed | c3 :|
+X: 11
+T: Tarantella
+Z: ceolachan
+S: https://thesession.org/tunes/2721#setting28599
+R: jig
+M: 6/8
+L: 1/8
+K: Emin
+|: e2 e |B2 B e2 e | B3 B^AB | c2 c cdc | B3 BcB |
+[1 A2 A A^GA | G2 G GAG | F2 A G2 F | E3 :|
+[2 A3 ABA | G2 D G2 A | F2 A G2 F | E3 ||
+|: E2 F |GFG AGF | G2 E EFG | F2 F AGF | G2 E E2 F |
+G2 G A2 F | G2 E E2 G | F2 A G2 F | E3 :|
+K: GMaj
+|: DD/E/F |GDG BGB | d2 d ded | c2 c cdc | B3 DEF |
+GDG BG/A/B | d2 d d^cd | fed cBA | G3 :|

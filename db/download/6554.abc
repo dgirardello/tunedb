@@ -1,0 +1,80 @@
+X: 1
+T: John O'Dwyer Of The Glen
+Z: ceolachan
+S: https://thesession.org/tunes/6554#setting6554
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Ador
+|: d>e |f3 g a2 (3ge^c | f>de>^c d>cd>e | (3fed (3cAG A2 A>B |
+c3 d e>d (3cAG | A>d (3cAF G2 (3GFG | A3 A A2 :|
+|: A>B |c2 A>B c2 (3def | g2 (3efg a3 b | a>b (3agf g3 a |
+f2 f>g a>f (3gfe | f>de>^c d>ed>=c | (3ABA G>c A2 d>e |
+f2 g>e a2 g>e | f>de>^c d3 e | (3fed (3cAG A2 A>B |
+c2 c>d e2 (3cAG | (3AdB (3cAF G2 F>G | A2 A2 d2 :|
+X: 2
+T: John O'Dwyer Of The Glen
+Z: ceolachan
+S: https://thesession.org/tunes/6554#setting18242
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Ador
+|: de |f2 ge a2 ge | fde^c dcde | (3fed (3cAG A2 AB |
+c2 cd ed (3cAG | (3AdB (3cAF G2 (3GFG | A2 (3AAA A2 :|
+|: AB |c2 AB cdef | g2 ge a2 ag | ab (3agf g2 ag |
+f2 fg afge | fde^c dedc | (3ABA Gc A2 de |
+f2 ge a2 ge | fde^c dcde | (3fed (3cAG A2 AB |
+c2 cd ed (3cAG | (3AdB (3cAF G2 (3GFG | A2 (3AAA A2 :|
+X: 3
+T: John O'Dwyer Of The Glen
+Z: ceolachan
+S: https://thesession.org/tunes/6554#setting18243
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Ador
+"variations"
+|: de |f2 ~g2 abag | fd (3ed^c dcde | fd (3cAG A2 AB |
+cBcd ed (3cAG | Ad (3cAF G2 (3GFG | A2 AG A2 :|
+|: AB |cBAB cdef | g2 (3gfg a2 ag | ab (3agf g2 ag |
+fefg abag | (3fed e^c dcde | fd (3cAG A2 de |
+f2 ~g2 abag | fd (3ed^c dcde | fd (3cAG A2 AB |
+cBcd ed (3cAG | Ad (3cAF G2 (3GFG | A2 (3AGA A2 :|
+X: 4
+T: John O'Dwyer Of The Glen
+Z: ceolachan
+S: https://thesession.org/tunes/6554#setting18244
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Amix
+|: (de) |f(efg) aba(g | f)gec d(cde) | fde(d cB)AB |
+c(Bcd) edc(e | dc)A(F G2) GB | A2 A2 A2 :|
+|: (AB) |cBA(B cd)e(f | g2) fg a2 (ag) | aba(g f2) ed |
+f(efg) aba(g | fg)ec d(edc) | A2 A2 A2 (de) |
+f(efg) aba(g | fg)ec d(edc) | ABA(G A2) AB |
+c(Bcd) edc(e | dc)A(F G2) GB | A2 A2 A2 :|
+X: 5
+T: John O'Dwyer Of The Glen
+Z: AngusF
+S: https://thesession.org/tunes/6554#setting18245
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Dmaj
+|:ed |cAAG ~A2 (3ABc |dcAF ~G2 (3Bcd| edce dcAG| ~A2 AG ~A2 de|fdfg ~e2 fe|~d2 cdef ge|agec dedc |~A2 AG ~A2:|:ef|~g2 gagf ed|eg ~g2 gfed|eaag ~a2 ag|eaag ~a2 ag|~f2 fd ~e2 ec|~d2 dc defg|aged cAGE|1~A2 AG ~A2:|2~A2 AG ~A3||
+X: 6
+T: John O'Dwyer Of The Glen
+Z: ceolachan
+S: https://thesession.org/tunes/6554#setting18246
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Ador
+|: d>e |f>ef>g a>ba>g | f>ge>^c d>cd>e | f>de>d c>BA>B |
+c>Bc>d e>dc>e | d>cA>F G2 G>B | A2 A2 A2 :|
+|: A>B |c>BA>B c>de>f | g2 f>g a2 a>g | a>ba>g f2 e>d |
+f>ef>g a>ba>g | f>ge>^c d>ed>=c | A2 A2 A2 d>e |
+f2 f>g a2 a>g | f>ge>^c d2 d>=c | A>BA>G A2 A>B |
+c2 c>d e2 ^c>e | d2 (3cAF G2 G>B | A2 (3AAA A2 :|

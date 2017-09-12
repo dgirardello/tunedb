@@ -1,0 +1,92 @@
+X: 1
+T: Willafjord
+Z: Redbird
+S: https://thesession.org/tunes/292#setting292
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+B2| A2F A2D FA | B2G B2D GB | A2F A2D FA |EFGA GFED |
+A2F A2D FA | B2G B2D GB |ABcd efge | f2d2 d2 :|
+de | f2d f2f df | geaf gfed |f2d f2A df | e2ce Aece|
+f2d f2f df | gdaf gfed | ABcd efge | f2d2 d2 :|
+X: 2
+T: Willafjord
+Z: Dr. Dow
+S: https://thesession.org/tunes/292#setting13044
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+B2|A2FA- ADFA|B2GB- BDGB|A2FA- ADFA|EFGA GFED|A2FA- ADFA|B2GB- BDGB|ABcd efge|f2d2 d2:||:e2|f2df- ffdf|geaf gfeg|f2df- fAdf|e2ce- eAce|f2df- ffdf|geaf gfed|ABcd efge|f2d2 d2:|
+X: 3
+T: Willafjord
+Z: ceolachan
+S: https://thesession.org/tunes/292#setting13045
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+| e2 ce Aece | & | e2 ce- eAce || gdaf gfed | & | geaf gfed |
+X: 4
+T: Willafjord
+Z: ceolachan
+S: https://thesession.org/tunes/292#setting13046
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+A2 FA DAFA | B2 GB DBGB | A2 FA D2 FA | EFGA G2 (3FED |ADFA DAFA | BDGB D2 BG | A2 (3Bcd ef (3gfe | fd (3edc d2 :|f2 df Afdf | geaf gfeg | fAdf Afdf | (3eee ce Aece |(3fff df Af (3fff | geaf gfec | ABcd e2 (3gfe | f2 e2 d2- :|
+X: 5
+T: Willafjord
+Z: DonaldK
+S: https://thesession.org/tunes/292#setting13047
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+(dB)|vA2u(FA) vDuAvFuA|B2(GB) DBGB|A2(FA) DAFA|EFGA GFED|A2(FA) DAFA|B2(GB) DBGB|ABcd efge|f2d2 d2:|(de)|f2(df) Afdf|geaf gfeg|f2(df) Afdf|e2(ce) Aece|f2(df) Afdf|geaf gfec|ABcd efge|f2d2 d2:|
+X: 6
+T: Willafjord
+Z: JACKB
+S: https://thesession.org/tunes/292#setting23016
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+V:1
+|"D"A2FA- ADFA|"G"B2GB- BDGB|"D"A2FA- ADFA|"Em"EFGA "A7"GFED|
+V:2
+|f2 df fAdf|g2 dg gBdg|f2 df fAdf|gfef edcA|
+V:3
+|d2 Ad dFAd|d2 Bd dGBd|d2 Ad dFAd|edcd cB A2|
+V:1
+"D"A2 FA ADFA|"G"B2 GB- BDGB|"D/A"ABcd "A7"efge|"D"f2 "G"d2 "D"d2:||
+V:2
+f2 df- fAdf|g2 dg gBde|fgaf gABc|d2 G2 F2:||
+V:3
+d2 Ad dFAd|d2 Bd dGBd|A4 Bcde|d2 B2 A2:||
+V:1
+"D"f2 df- fAdf|"G"ge"D"af "Em"gf"A7"ed|"D"f2 df fAdf|"Em"edcB "A7"ABce|
+V:2
+A2 FA ADFA|BGFA BAGF|A2 FA ADFA|GFEG AGEG|
+V:3
+d2 Ad dFAd|d2 d2 d2 A2|d2 Ad dFAd|BAGB cdeA|
+V:1
+"D"f2 df fAdf|"G"ge"D"af "Em"gfed|"A7"ABcd efge|"D"f2 "G"d2 "D"d2:||
+V:2
+A2 FA ADFA|BGFA BAGF|A2 GF GABc|d2 G2 F2:||
+V:3
+d2 Ad dFAd|d2 d2 d2 B2|cdeA Bcde|d2 B2 A2:||
+X: 7
+T: Willafjord
+Z: AlbertR
+S: https://thesession.org/tunes/292#setting30814
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+FG|:"D"A2FA- AFA^A|"G"B2GB- BGB^A|"D"A2FA- AFAF|"A"EFGA "A7"GFED |
+"D"A2FA- AFA^A | "G"B2GB- BGB^A | "D"AD'C'B "A7"AGFE | "D"DD"A"C"D"D- D2zA :|
+|:"D"f2df- fdd2 | -"G"dggf gfed | "D"f2df- fdfe | "A"ce-ec eAce |
+"D"f2df- fdd2 | "G"-dggf gfed | "D"ABcd "A7"egfe | "D"f2dc-dc BA :| |

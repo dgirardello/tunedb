@@ -1,0 +1,46 @@
+X: 1
+T: Nightingale, The
+Z: nobu
+S: https://thesession.org/tunes/1868#setting1868
+R: jig
+M: 6/8
+L: 1/8
+K: Ador
+|:EAA A2B|cAd cAG|EDE G3|DEF GFG|
+EAG A2B|cAB cde|~g3 ege|1 dBG A2G:|2 dBG A3||
+|:aea aef|gdg gdg|aea aef|gfe def|
+g2e fed|edB GBd|~g3 ege|1 dBG A2G:|2 dBG A3||
+X: 2
+T: Nightingale, The
+Z: Will Harmon
+S: https://thesession.org/tunes/1868#setting15298
+R: jig
+M: 6/8
+L: 1/8
+K: Ador
+G | EAA A2 B| cAd cAG | ~E3 ~G3 | ~E3 GED || EAA A2 B | cAB cde | gfg e/f/ge | dBG A2 G || EAA A2 B | cAB cAG | EDE ~G3 | G,B,D GFG || EAA A2 B | cAB cde | gfg e/f/ge | dBG A2 a ||| aea aef | gdg gda | aea aef | gfe deg || aea aef | gdg gdg | {a}gfg e/f/ge | dBG A2 ^g || aea aef |gdg gda | aea aef | gfe def || g2 e fed | edB GBd | {a}gfg e/f/ge | dBG A2 G ||
+X: 3
+T: Nightingale, The
+Z: sebastian the m3g4p0p
+S: https://thesession.org/tunes/1868#setting24973
+R: jig
+M: 6/8
+L: 1/8
+K: Ador
+G|EAA A2B|cAB cAG|~E3 ~G3|DB,D GFG|
+EAA A2B|cAB cde|~g3 e/f/ge|dBG A2:|
+a|aea aef|gdg gdg|~a3 aef|gfe def|
+~g2e fed|edB GBd|~g3 e/f/ge|dBG A2:|
+X: 4
+T: Nightingale, The
+Z: zoronic
+S: https://thesession.org/tunes/1868#setting30400
+R: jig
+M: 6/8
+L: 1/8
+K: Ador
+|: G|EAA A2B|cAd cAG|EDE GFG   |G,B,D GFG|
+EAA A2B|cAB cde|~g3 e/f/ge|dBG   A2:|
+|: a|aea aef|gdg gdg|aea aef   |gfe   de |
+[1 g|aea aef|gdg gdg|~g3 e/f/ge|dBG   A2:|
+[2 f|g2e fed|edB GBd|~g3 e/f/ge|dBG   A2|]

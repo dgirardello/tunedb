@@ -1,0 +1,31 @@
+X: 1
+T: Braes Of Tulliemet, The
+Z: slainte
+S: https://thesession.org/tunes/3084#setting3084
+R: strathspey
+M: 4/4
+L: 1/8
+K: Edor
+E<BB>A B>AB<d|F<DA>D B>DA>F|E<BB>A B>AB<e|1 d>BA<F E2E>D:|2 d>BA<F E2E>g||
+e>Be<g e>Be<g|d>Ad<f d>Ad<f|e>Be<g e>Be<g|d>BA<F E2E>g|
+e>Be<g B>eg>e|d>Ad<f A>df>d|e<BB>c d>ef>e|d>BA<F E2E>D||
+X: 2
+T: Braes Of Tulliemet, The
+Z: ceolachan
+S: https://thesession.org/tunes/3084#setting16208
+R: strathspey
+M: 4/4
+L: 1/8
+K: Edor
+g2 (3fed e2 (3edc | d<BA<F E ||c2 (3BAG A2 (3AGF | G<ED<B, A, ||
+X: 3
+T: Braes Of Tulliemet, The
+Z: Tate
+S: https://thesession.org/tunes/3084#setting23904
+R: strathspey
+M: 4/4
+L: 1/8
+K: Gdor
+c | "Dm"A<d{e}d>c d>cd<f | "F"A<Fc>F d>Fc>F | "Dm"A<d{e}d>c d>cd<g | "F"{fg}f>c d/c/B/A/ "Gm"B<GG :|
+^f | "Gm"{g^f}g>dg<b {ga}g>dg<b | "F"{fg}f>cf<a {fa}f>cf<a | "Gm"{ga}g>dg<b {gb}g>dg<b | "F"{fg}f>c d/c/B/A/ "Gm"B<GG>^f |
+"Gm"{g^f}g>dg<b (3dga (3bag | "F"{fg}f>cf<a (3cfg (3agf | "G"g<dd>e "F"{fe}f>ga>g | "Dm"(3fed (3cBA "Gm"B<GG |]

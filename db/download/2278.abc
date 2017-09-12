@@ -1,0 +1,90 @@
+X: 1
+T: Four Courts, The
+Z: Kenny
+S: https://thesession.org/tunes/2278#setting2278
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+AD D2 ADBD | AD D2 G2 FG | AD D2 BG G2 | Bd=cA G2 FG :|
+E2 =cE dE=cE | E2 =cA G2 FG | E2 =cE dE=cE | Bd=cA G2 FG |
+E2 =cE dE=cE | E2 =cA G2 FG | Ad d2 dcAc | dcAF G2 FG |
+A3 d B3 d | ABAF G2 FG | A3 d B3 A | GBdB GBdB |
+A3 d B3 d | ABAF G2 FG | Ad d2 dcAc | dcAF G2 FG |
+X: 2
+T: Four Courts, The
+Z: Boris Rorsvort
+S: https://thesession.org/tunes/2278#setting15644
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+eA ~A2 eAfA | eA ~A2 d2 cd | eA ~A2 ~f2 fe |1 ~df ~f2 df af :|2 df ~f2 d2 cA|B2 gB aB gB | ~B2 ge d2 cA | ~B2 Bg aBgB | fa ge d2 cA |~B2 Bg aBgB | B2 ge d2 cd | ea ~a2 ag ea | ag ec d2 cd |~e3 A ~f3 d | ~e3 c d2 cd | ~e3 A f3 e | d ~f3 dfaf |~e3 A ~f3 d | ~e3 c d2 cd | ea ~a2 ag ea | ag ec d2 cd |
+X: 3
+T: Four Courts, The
+Z: Dalta na bPíob
+S: https://thesession.org/tunes/2278#setting25015
+R: reel
+M: 4/4
+L: 1/8
+K: Dmix
+AD (3DDD ADBD | AD (3DDD ~G2 FG | AD (3DDD BG ~G2 | BdcA ~G2 FG :|
+(3EEE cE dEcE | (3DDD AD BDAD |(3EEE cE dEcE | (3Bcd cA ~G2 FG |
+(3EEE cE dEcE | (3DDD AD BDAD|(3EEE cE dEcE| dcAF ~0G2 FG |
+~A3 d ~B3 d | ~A3F ~G2 FG | ~A3 d ~B3 A | GBdB GBdB |
+~A3 d ~B3 d | ~A3F ~G2 FG | Ad fe dcAc | dcAF ~G2 FG |
+X: 4
+T: Four Courts, The
+Z: JACKB
+S: https://thesession.org/tunes/2278#setting25016
+R: reel
+M: 4/4
+L: 1/8
+K: Amix
+|:eA A2 eAfA | eA A2 d2 (3Bcd | eA A2 fd d2 | fage d2 (3Bcd |
+eA A2 eAfA | eA A2 d2 (3Bcd | eA A2 fage | fage d2 (3Bcd ||
+|:B2 gB aBgB | B2 ge d2 (3Bcd | B2 gB aBgB | fage d2 (3Bcd |
+B2 gB aBgB | B2 ge d2 cd | ea a2 ageg | agec d2 (3Bcd ||
+|:e3 a f3 a | efec d2 cd | e3 a f3 e | dfaf dfaf |
+e3 a f3 a | efec d2 (3Bcd | ea a2 ageg | agec d2 cd ||
+X: 5
+T: Four Courts, The
+Z: JACKB
+S: https://thesession.org/tunes/2278#setting25017
+R: reel
+M: 4/4
+L: 1/8
+K: Gmix
+dG G2 dGeG | dG G2 c2 Bc | dG G2 ec c2 | eg=fd c2 Bc :|
+A2 =fA gA=fA | A2 =fd c2 Bc | A2 =fA gA=fA | eg=fd c2 Bc |
+A2 =fA gA=fA | A2 =fd c2 Bc | dg g2 gfdf | gfdB c2 Bc |
+d3 g e3 g | dedB c2 Bc | d3 g e3 d | cege cege |
+d3 g e3 g | dedB c2 Bc | dg g2 gfdf | gfdB c2 Bc |
+X: 6
+T: Four Courts, The
+Z: JACKB
+S: https://thesession.org/tunes/2278#setting25018
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+|:AD D2 ADBD | AD D2 G2 (3EFG | AD D2 BG G2 | BdcA G2 (3EFG |
+AD D2 ADBD | AD D2 G2 (3EFG | AD D2 BdcA | BdcA G2 (3EFG ||
+|:E2 =cE dE=cE | E2 =cA G2 (3EFG | E2 =cE dE=cE | BdcA G2 (3EFG |
+E2 =cE dE=cE | E2 =cA G2 FG | Ad d2 dcAc | dcAF G2 (3EFG ||
+|:A3 d B3 d | ABAF G2 FG | A3 d B3 A | GBdB GBdB |
+A3 d B3 d | ABAF G2 (3EFG | Ad d2 dcAc | dcAF G2 FG ||
+X: 7
+T: Four Courts, The
+Z: dogbox
+S: https://thesession.org/tunes/2278#setting26104
+R: reel
+M: 4/4
+L: 1/8
+K: Amix
+||eA ~A2 eAfA | eA A2 d2 cd | eA ~A2 fd ~d2 | fage d2 af |
+eA A2 eAfA | eA A2 d2 cd | eA A2 fd d2 | fage d2 dc ||
+||B2 gB aBgB | B2 ge d2 cd | B2 gB aBgB | fage d2-d2 |
+B2 gB aBgB | B2 ge d2 fg | a2-af ge ~e2 | fage d2 cd ||
+||e3 e f3 f | efec d2 cd | e3 e fd ~d2 | fage d2 af |
+e3 e f3 f | efec d2 fg | a2 af ge ~e2 | fage d2 cd ||

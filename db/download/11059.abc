@@ -1,0 +1,21 @@
+X: 1
+T: Gan Ainm
+Z: ceolachan
+S: https://thesession.org/tunes/11059#setting11059
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Gmaj
+|: (3DEF | G>FG>A B>GA>G | F>^EF>G A>B (3cBA | d>fe>^c d>=cA>F | G>BA>G F>GE>F |
+G2 G>A B>GA>G | F2 F>G A>Bc>A | d>fe>^c d2 (3=cAF | G>BA>F G2 :|
+|: (3ABc | d2 e2 =f>ed>B | G>cc>B c>ed>c | B2 (3Bcd c>BA>G | F>AE>A D>c (3cBA |
+D2 (3FGA B>GA>G | F>^EF>G A2 (3cBA | d>fe>^c d>=cA>F |[1 G>BA>F G>D :|[2 G2 (3AGF G2 |]
+X: 2
+T: Gan Ainm
+Z: ceolachan
+S: https://thesession.org/tunes/11059#setting20565
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Gmaj
+G>FG>A B>GA>G | F>EF>G A>Bc>A | d>fe>^c d>=cA>F | G>BA>G F>GE>D |G>FG>A B>GA>G | F>EF>G A>Bc>A | d>fe>^c d>=cA>F | G>BA>F G2 :|d2 e2 =f>ed>B | G>cc>B c>ed>c | B2 B>d c>BA>G | F>AE>A D2 B>A |D>FG>A B>GA>G | F>EF>G A>Bc>A | d>fe>^c d>=cA>F |[1 G>BA>F GA :|[2 G>BA>F G2 |]GFGA BGAG | FEFG ABcA | dfe^c d=cAF | GBAG FGED |GFGA BGAG | FEFG ABcA | dfe^c d=cAF | GBAF G2 :|d2 e2 =fedB | GccB cedc | B2 Bd cBAG | FAEA D2 BA |DFGA BGAG | FEFG ABcA | dfe^c d=cAF |[1 GBAF GA :|[2 GBAF G2 |]

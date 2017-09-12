@@ -1,0 +1,55 @@
+X: 1
+T: Ballad Of Ballynure, The
+Z: fiona ford
+S: https://thesession.org/tunes/15622#setting29313
+R: reel
+M: 4/4
+L: 1/8
+K: Cmaj
+G2| G3/c1/2 ccc c3/_B1/2 G3/=A1/2  _B3/c1/2| d2 d3/c1/2 _B/G G_Bc|
+d3/c1/2 c3/_B1/2 G3/F1/2 FG=A | B,3/G1/2 G3/F1/2 D3/C1/2 CDB,|
+D2 D3/B,1/2 C2 DEF| G3/=A1/2 _B3/D1/2 D3/C1/2 C2| C2 |
+X: 2
+T: Ballad Of Ballynure, The
+Z: fiona ford
+S: https://thesession.org/tunes/15622#setting29321
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+F2| F3/B1/2  BBB B£/A1/2 F3/^G A3/B1/2 | c2 c3/B1/2 AF FAB|
+c3/B1/2 B3/A1/2 F3/E1/2 EFG| A3/F1/2 F3/E1/2 C3/B,1/2 CB,A,|
+C2 C3/A, B,2 CDE| F3/^G1/2 A3/C1/2 C3/B,1/2 B,2| B,2 1
+X: 3
+T: Ballad Of Ballynure, The
+Z: fiona ford
+S: https://thesession.org/tunes/15622#setting29322
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+B2| B3/e1/2 efe e3/d1/2  B3/^c1/2 d3/e1/2| f2 f3/e1/2 dB Bde|
+f3/e1/2 e3/d1/2 B3/A1/2  ABc | d3/B1/2 B3/A1/2 F3/E1/2 EFD|
+F2 F3/D1/2 E2 FGA | B3/^c1/2 d3/F1/2 F3/E1/2 E2 | E2
+X: 4
+T: Ballad Of Ballynure, The
+Z: CreadurMawnOrganig
+S: https://thesession.org/tunes/15622#setting29324
+R: reel
+M: 4/4
+L: 1/8
+K: Cdor
+G2 | [M: 5/4] G>c (3ccc c>B G>A B>c | [M:4/4] d2-d>c  BG- (3GBc|
+d>c c>B G>F (3(FG)A | B,>G G>F D>C (3CDB,|
+D2 D>B, C2 (3DEF| G>A B>D D>C C2-|C2 z6 ||
+X: 5
+T: Ballad Of Ballynure, The
+Z: CreadurMawnOrganig
+S: https://thesession.org/tunes/15622#setting29325
+R: reel
+M: 4/4
+L: 1/8
+K: Edor
+B2 | [M:5/4] B>e (3eee e>d B>c d>e | [M:4/4] f2-f>e dB- (3Bde|
+f>e e>d B>A (3(AB)c | D>B B>A F>E (3EFD|
+F2 F>D E2 (3FGA| B>c d>F F>E E-|E2 z6 ||

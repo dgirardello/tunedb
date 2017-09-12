@@ -1,0 +1,80 @@
+X: 1
+T: Thomond Bridge
+Z: cos
+S: https://thesession.org/tunes/3291#setting3291
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Fmaj
+|:ag|fdcA BGcB|A2F2F2 fg|agfe fagf|e2c2c2 cA|
+Bdfb Acfa|GBdg FAcf|efga bgec|f2f2f2:|
+|:cB|Afcf Afcf|agfe dcBA|Bgdg Bgdg|bagf (3efe(3dcB|
+Afcf Afcf|agfe dcBA|BdcB AGFE|G2 F2F2:|
+X: 2
+T: Thomond Bridge
+Z: ceolachan
+S: https://thesession.org/tunes/3291#setting16350
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Gmaj
+|: (3def |g>ed>B c>ed>c | (3BcB G2 G2 g>a | b>ag>e f>ga>g | (3fgf d2 d3 B |
+c>eg>c’ B>dg>b | A>^ce>a G>Bd>g | (3efg a>b (3c’ba f>a | (3gag f>a g2 :|
+|: (3edc |B>g (3ggg G>g (3ggg | b>ag>f e>dc>B | A>a (3aaa ^c>a (3aaa | c’>ba>g f>ed<c |
+B>g ~g2 G>g ~g | b>ag>f e>dc>B | c>ea>e (3Bcd g>d | (3cBA F>A G2 :|
+X: 3
+T: Thomond Bridge
+Z: ceolachan
+S: https://thesession.org/tunes/3291#setting16351
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Dmaj
+|: B>c |d>BA>F (3GAB A>G | F2 D2 D2 (3cde | f<ed>B c<de>d | c2 A2 A2 B>A |
+G>B (3efg F>A (3def | E>G (3cde D>F (3Bcd | c<de>f (3gfe c>e | d2 A2 D2 :|
+|: (3GFE |D>dc>d F>dc>d | (3fed c>B (3AGF E>D | E>e^d>e B>ed>e | (3gg/f/e (3dcB (3AGF (3EDC |
+D>dc>d F>dc>d | f>dc<d A<d (3FED | G>AB>c d>AB>G | F<dE>d D2 :|
+X: 4
+T: Thomond Bridge
+Z: LongNote
+S: https://thesession.org/tunes/3291#setting16352
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Gmaj
+|: ba|gedB cedc|B2G2 G2ga|bagf ge^ce|f2d2 d2dB||cegc' B/^c/d gb|Adfa GBdg|e/f/g ab c'/b/a fg|aggf g2 :||:dc|Bg~g2 dg~g2|bagf edcB|a/b/a ^gb ~a3b| c'bag fedc||Bg~g2 dg~g2|bagf edcB|cedc BAGF|A2G2 G2:|
+X: 5
+T: Thomond Bridge
+Z: ceolachan
+S: https://thesession.org/tunes/3291#setting16353
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Fmaj
+: a>g |f>dc>A B>Gc>B | A2 F2 F2 f>g | a>gf>e f>ag>f | e2 c2 c2 c>A |
+B>df>b A>cf>a | G>Bd>g F>Ac>f | e>fg>a b3/[g/c'/] [e3/d'3/][c/e'/] | [f2f'2] [f2f'2] [f2f'2] :|
+|: c>B |A>fc>f A>fc>f | a>gf>e d>cB>A | B>gd>g B>gd>g | b>ag>f (3efe (3dcB |
+A>fc>f A>fc>f | a>gf>e d>cB>A | B>dc>B A>GF>E | G2 F2 F2 :|
+X: 6
+T: Thomond Bridge
+Z: Kevin Rietmann
+S: https://thesession.org/tunes/3291#setting25246
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Gmaj
+|: (3def|gedB cedc | B2G2G2 ga | bagf gbag | (3faf d2d3c | (3Bdf b2 (3Ace a2 | (3GBd g2 (3FAc f2 | fgab c'def | g2b2g2:|
+dc |:Bg (3ggg dg (3ggg | bagf edcB | ca (3aaa ca (3aaa | c'bag fedc |
+Bg (3ggg dg (3ggg | bagf edcB | (3cde dc BAGF | A2G2G2 :|
+X: 7
+T: Thomond Bridge
+Z: ceolachan
+S: https://thesession.org/tunes/3291#setting29773
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Gmaj
+|: b>a |g>ed>B c>Ad>c | B2 G2 G2 g>a | b>ag>f g>ba>g | f2 d2 d2 d>B |
+c>eg>c' B>dg>b | A>ce>a G>Bd>g | f>ga>b c'>af>d | g2 g2 g2 :|
+|: d>c |B>gd>g B>gd>g | b>ag>f e>dc>B | c>ae>a c>ae>a | c'>ba>g (3fgf (3edc |
+B>gd>g B>gd>g | b>ag>f e>dc>B | c>ed>c B>AG>F | A2 G2 G2 :|

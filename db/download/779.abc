@@ -1,0 +1,48 @@
+X: 1
+T: Chorus, The
+Z: Josh Kane
+S: https://thesession.org/tunes/779#setting779
+R: reel
+M: 4/4
+L: 1/8
+K: Dmix
+AD~D2 AGFG | AD~D2 A2dB | AD~D2 AGFG | ~E2cA G2FG |
+AD~D2 AGFG | AD~D2 D2dB | AD~D2 AGFG | ~E2cA G2FG ||
+Addc AGFG | Addc ~A2AG | Fddc AGFG | ~E2cA G2FG |
+Addc AGFG | Addc A2Bc | dBcA BGAG | ~E2cA G2eg ||
+|:~f2dg f2dg | ~f2df ~a2ag | f2dg ~f2df | ~e2ef g2ag :|
+|: fde^c d2dB | AD~D2 A2Bc | dBcA BGAG |1 E2cA G2ag :|2 E2cA G2FG||
+X: 2
+T: Chorus, The
+Z: fidicen
+S: https://thesession.org/tunes/779#setting13906
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+AG|F2DF ABAG|FADF A2d2|D3F ABAF|GFEF G2:||Bc|dBcA BGFG|Ad^cd A2B=c|dBcA BGFG|AcBA G2Bc|dBcA BGFG|ABcd efge|dBcA BGFG|AcBA G2|||:ag|fddd fddd|fdfg abag|fddd fddd|cdef g2:|Bc|dBcA BGFG|Ad^cd A2B=c|dBcA BGFG|AcBA G2Bc|d2 (3cdc BGFG|ABcd efge|dBcA BGFG|AcBA G2||
+X: 3
+T: Chorus, The
+Z: macpanda
+S: https://thesession.org/tunes/779#setting13907
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+fage d2 d2|ABAF D2 D2|g(fed) =c2 c2|EDEF G2 G2:|EDEF G2 G2|(FG)Ac [G2B2] [G2B2]|AFAB d2 d2| FGAB GGG<G|AFAF (G2 G2)|Gefg (af)de|(fd)fg a2 a2|defg afdf|(e=c)ef g2 g2|defg afde|(fd)fg a2 ag|fage d2 d2|ABAF D2 D2|g(fed) =c2 c2|EDEF G2 G2|fage d2 d2|ABAF D2 D2|g(fed) =c2 c2|EDEF G2 G2:|
+X: 4
+T: Chorus, The
+Z: JACKB
+S: https://thesession.org/tunes/779#setting25439
+R: reel
+M: 4/4
+L: 1/8
+K: Dmix
+|:AD D2 AGFG | AD D2 A2dB | AD D2 AGFG | E2cA G2FG |
+AD D2 AGFG | AD D2 AD D2| AD D2 AGFG | E2cA G2FG ||
+Addc AGFG | Addc A3G | Fddc AGFG | E2cA G2FG |
+Addc AGFG | Addc A2Bc | dBcA BGAG | E2cA G2eg ||
+|:f2dg f2dg | f2df a3g | f2dg f2df | e3f g2ag |
+f2dg f2dg | f2df a3g | f2dg f2df | e3f g2ag ||
+|: fde^c d2dB | AD D2 A2Bc | dBcA BGAG | E2cA G2ag |
+fde^c d2dB | AD D2 AD D2 | dBcA BGAG |E2cA G2FG||

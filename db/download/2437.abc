@@ -1,0 +1,51 @@
+X: 1
+T: Grainne's
+Z: dafydd
+S: https://thesession.org/tunes/2437#setting2437
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+|:B | "G"dGF GDB, | G,2G, DB,D | "Am"EcB ABG | "D7"FED cBA |
+"G"BdB ~G3 | "C"EGE CEG | "G"DGc "D7"BEF | AGF "G"G2 :|
+|: A | "G"~B3 Ggf | "Am"ecA E2E | "D7"DFA ~f3 | "A7"ed^c "D7"d2=c|
+"G"BdB Ggf | "Am"ecA ~E3 | "G"DGc "D7"BEF | AGF "G"G2 :|
+|: D | "G"GBd ~g3 | "C"ecB c2B | "A7"A^ce a2g | "D"fd^c def |
+"G"gdB Ggf | "Am"ecA ~E3 | "G"DGc "D7"BEF | AGF "G"G2 :|
+X: 2
+T: Grainne's
+Z: jaychoons
+S: https://thesession.org/tunes/2437#setting15771
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+Bc|:dBF GDB,|G,3 DB,D|EcB (A{B}A)G|FED cBA|(B/c/dB) ~G3|(E/F/GE) CEG|DGc BDF|1 AGF GBc:|2AGF G2 A||:(B/d/BA) Ggf|eBc ADE|~F3 ~f3|ed^c ({e}d/c/d) =c|(B/c/d)B Ggf|ecA ~E3|DGc BDF|1AGF G2 A:|2 AGF G2 D||:GBd ~g3|edB cBA|(B/c/d)B a2 g|fd^c def|gdB Ggf|ecA ~E3|DGc BDF|1 AGF G2 D:|2 AGF GBc ||
+X: 3
+T: Grainne's
+Z: Darren Culliney
+S: https://thesession.org/tunes/2437#setting21963
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+B | dGF GDB, | G,2G, DB,D | EcB A2G | FED cBA |
+BdB GFG | EGE CEG | DFc ADF | AGF G3 :|
+A | B2A GBd | gfe B3 |FAF faf | ed^c d^cc |
+BdB Ggf | ecA E2E | DFc ADF | AGF G3 :|
+GBd gfg | ecA cBA | GBd a2g | fef def |
+gdB Ggf | ecA E2E | DFc ADF | AGF G3 :|
+X: 4
+T: Grainne's
+Z: JACKB
+S: https://thesession.org/tunes/2437#setting26034
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+|:B | "G"dGF GDB | G3 DBD | "Am"EcB ABG | "D7"FED cBA |
+"G"BdB G3 | "C"EGE cEG | "G"DGc "D7"BEF | AGF "G"G2 :|
+|: A | "G"B3 Ggf | "Am"ecA E3 | "D7"DFA f3 | "A7"ed^c "D7"d2=c|
+"G"BdB Ggf | "Am"ecA E3 | "G"DGc "D7"BEF | AGF "G"G2 :|
+|: D | "G"GBd g3 | "C"ecB c2B | "A7"A^ce a2g | "D"fd^c def |
+"G"gdB Ggf | "Am"ecA E3 | "G"DGc "D7"BEF | AGF "G"G2 :|

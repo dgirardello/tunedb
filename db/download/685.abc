@@ -1,0 +1,124 @@
+X: 1
+T: King's Fancy, The
+Z: donnchad
+S: https://thesession.org/tunes/685#setting685
+R: jig
+M: 6/8
+L: 1/8
+K: Gmin
+|:B/2c/2 | dcB BAB | GBe FBd | EGc DFB | cAF gfe |
+dcB BAB | GBe FBd | EGc DFB | cAF B2 :|
+|: B/2c/2 | dBG G^FG | DGB dBG |A^FD cAF | ded cBA |
+dBG G^FG | DGB dBG | A^FD ded | cBA G2 :|
+X: 2
+T: King's Fancy, The
+Z: b.maloney
+S: https://thesession.org/tunes/685#setting13732
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+|:d/2e/2|fed dcd|Bdg Adf|GBe FAd|ecA bag|fed dcd|Bdg Adf|GBe FAd|ecA d2:||:d/2e/2|fdB B^AB|FBd fdB|c^AF ecA|fgf edc|fdB B^AB|FBd fdB|c^AF fgf|edc B2:|
+X: 3
+T: King's Fancy, The
+Z: donnchad
+S: https://thesession.org/tunes/685#setting13733
+R: jig
+M: 6/8
+L: 1/8
+K: Cmaj
+|:c/2d/2|edc cBc|Acf Gce|FAd EGc|dBG agf|edc cBc|Acf Gce|FAd EGc|dBG c2:||:c/2d/2|ecA A^GA|EAc ecA|B^GE dBG|efe dcB|ecA A^GA|EAc ecA|B^GE efe|dcB A2:|
+X: 4
+T: King's Fancy, The
+Z: gian marco
+S: https://thesession.org/tunes/685#setting13734
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+e|f2d dcd|Bgg Aff|Gee Fdd|eca bag|fed dB=c|BgB AfA|GeG FAd|cBc d2:||fdB B^AB|dcB fdB|cAF edc|fgf edc|fdB B^AB|dcB fdB|cAF fag|fed ecA||f2d dcd|Bgg Aff|Gee Fdd|eca bag|fed dB=c|BgB AfA|GeG FAd|cBc d2:|
+X: 5
+T: King's Fancy, The
+Z: Peter Laban
+S: https://thesession.org/tunes/685#setting13735
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+d2e |:fdd dcd | Bdd Add | Gdd Fdd | cBA bag |! fdd dcd | Bdg Adf |GBe FAd | eBc d2e :!: fdB BAB | fdB Bcd | cAF FEF |fgf edc |! fdB BAB | fdB Bcd | cAF fge | dBB B3 :|
+X: 6
+T: King's Fancy, The
+Z: ceolachan
+S: https://thesession.org/tunes/685#setting13736
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+|: e | fdd dcd | Bgg Aff | gfe fed | cBA a2 g |
+fdd dcd | Bgg Aff | gfe fed | cBc d2 :|
+K: Bmin
+|: e | fdB BAB | fdB Bcd | cAF FEF | f2 f edc |
+fdB BAB | fdB Bcd | cBA f2 f | edc B2 :|
+X: 7
+T: King's Fancy, The
+Z: ceolachan
+S: https://thesession.org/tunes/685#setting13737
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+|: A | f2 d dcd | Bgg Aff | Gee Fdd | cBA bag |
+f2 d dcd | Bgg A2 f | Gee F2 d | cBc d2 :|
+K: Bmin
+|: c | fdB B^AB | fdB Bcd | c^AF F^EF | fgf edc |
+fdB B^AB | fdB BB/c/d | c^AF gfe | dB^A B2 :|
+X: 8
+T: King's Fancy, The
+Z: ceolachan
+S: https://thesession.org/tunes/685#setting13738
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+|: A | f2 d dcd | Bdg Adf | GBe FAd | c^Bc =bag |
+f2 d dcd | Bdg A2 f | GBe F2 d | c^Bc d2 :|
+K: Bmin
+|: c | fdB B^AB | fdB B2 d | c^AF FGF | fgf edc |
+fdB B^AB | fdB BB/c/d | c2 F gfe | dB^A B2 :|
+X: 9
+T: King's Fancy, The
+Z: ceolachan
+S: https://thesession.org/tunes/685#setting13739
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+|: A | f2 d dcd | Bdg A2 f | GBe F2 d | c^Bc =bb/a/g |
+f2 d dcd | B/c/dg A2 f | G/A/Be F2 d | c^Bc d2 :|
+K: Bmin
+|: c | f2 B B^AB | fdB B^AB | c2 F F^EF | f/g/af edc |f2 B B2 B |
+fdB BB/c/d |1 c2 F gfe | dB^A B2 :|2 c2 g fec | dB^A B2 ||
+X: 10
+T: King's Fancy, The
+Z: hetty
+S: https://thesession.org/tunes/685#setting21109
+R: jig
+M: 6/8
+L: 1/8
+K: Cmaj
+cd |: edc cBc | Acf Gce | FAd EGc | dBG g^f=f |
+edc cBc | Acf Gce | FAd EGc | dBG c2d :|
+edc cBc | ecA cBA | B^GE dB^G | efe dcB |
+edc cBc | ecA cBA | B^GE edB | cAA A2 :|
+X: 11
+T: King's Fancy, The
+Z: zoronic
+S: https://thesession.org/tunes/685#setting29172
+R: jig
+M: 6/8
+L: 1/8
+K: Cmaj
+|:d|e2c cBc |Acf Gce|FAd EGc|BAG agf|
+e2c cBc |Acf Gce|FAd EGc|BAB c2:|
+|:f|ecA A^GA|ecA ABc|B^GE EGB|efe dcd|
+ecA A^GA|ecA ABc|B^GE edB|cAA A2:|

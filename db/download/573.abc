@@ -1,0 +1,70 @@
+X: 1
+T: Cuckoo, The
+Z: b.maloney
+S: https://thesession.org/tunes/573#setting573
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Gmaj
+D2 || BGDG cAFA | d^cde dBGF | Ec{d}cB AGFG |
+|1 (3.A.B.A (3.G.F.E (3.D.E.D B,2 :|2 (3.A.B.A GF G2 |ga ||
+bg ~g2 dgBg |bg ~g2 dgBg |
+|1 c'a~a2 eaca |c'a~a2 eaca :|
+|2 ((3aba) ((3gag) ((3fgf) ((3efe) | ((3ded) ((3cdc) B2 |]
+X: 2
+T: Cuckoo, The
+Z: ceolachan
+S: https://thesession.org/tunes/573#setting13552
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Gmaj
+B>GD>G c>AF>A | d>^cd>e d>BG>F | E>c (3cBc A>GF>G | (3ABA (3GFE D2 (3dcd |B>GD>G c>A (3FGA | (3d^cd d>e d>BG>F | E>c (3ccc A>GF>G | (3ABA G>F G2 :|b>g (3gfg d>gB>g | b>g (3ggg d>gB>g | c'>a (3aba e>ac>a | c'>a (3aaa e>ac>a |b>g (3gfg d>g (3Bcd | bg (3ggg d>gB>g | (3aba (3gag (3fgf (3efe | (3ded (3cdc (3BcB :|
+X: 3
+T: Cuckoo, The
+Z: ceolachan
+S: https://thesession.org/tunes/573#setting13553
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Gmaj
+b>g (3gfg d>gB>g | b>g (3ggg d>gB>g | c'>a (3aba e>ac>a | c'>a (3aaa e>ac>a |b>g (3gfg d>g (3Bcd | bg (3ggg d>gB>g | (3aba (3gag (3fgf (3efe | (3ded ^c>dB>d :|
+X: 4
+T: Cuckoo, The
+Z: ceolachan
+S: https://thesession.org/tunes/573#setting13554
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Gmaj
+BABd cBcA | (3dcd (3gfe dBGF | EcBc AGFG | (3ABA (3GFE DCB,D |BABd cBcA | (3dcd (3gfe dBGF | EcBc AGFG |[1 ADFA G3 A :|[2 ADFD G2 ga |||: bg (3gfg dgBd | bg (3gfg dgBg | c'a (3aga eaca | c'a (3aga eaca |bg (3gfg dgBd | bg (3gfg dgBg | (3aba (3gag (3fgf (3efe |[1 decd Bdga :|[2 decd Bdgd |]
+X: 5
+T: Cuckoo, The
+Z: ceolachan
+S: https://thesession.org/tunes/573#setting13555
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Gmaj
+B2 (3Bcd c2 c>e | (3ded g>e d>BG>F | E2 cB AGFG | (3ABA (3GFE D>d^c>d |B>^AB>G c>Bc>A | d2 (3gfe d2 (3BAG | E>c (3cBc A2 (3GFG | (3ABA (3AGF G2 :||: b>g (3gfg d>gB>g | bg (3gfg d2 a>b | c'a (3a^ga eaca | c'a (3a^ga e2 ga |b2 (3gfg d2 (3Bcd | bgfg dgBg | a2 (3gag f2 (3efe | d2 (3cdc (3Bcd :|B2 Bd c2 ce | d2 ge dBGF | E2 cB AGFG | A2 GE Dd^cd |B^ABG cBcA | d2 ge d2 BG | EcBc A2 FG | A2 G2 G2 :||: bgfg dgBg | bgfg d2 ab | c'a^ga eaca | c'a^ga e2 ga |b2 ge d2 Bd | bgfg dgBg | a2 g2 f2 e2 | d2 c2 B2 :|
+X: 6
+T: Cuckoo, The
+Z: ceolachan
+S: https://thesession.org/tunes/573#setting13556
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Gmaj
+B2 (3Bcd c2 c>e | (3ded g>e d>BG>F | E2 c>B A>GF>G | (3ABA (3GFE D>d^c>d |B>^AB>G c>B (3cB=A | d2 (3gfe d2 (3BAG | E>c (3cBc A2 (3GFG | (3ABA (3AGF G2 :|b>g (3gfg d>gB>g | b>g (3gfg d2 a>b | c'a (3a^ga e>ac>a | c'>a (3a^ga e2 g>a |b2 (3gfg d2 (3Bcd | b>gf>g d>gB>g | a2 (3gag f2 (3efe | d2 (3cdc (3Bcd :|
+X: 7
+T: Cuckoo, The
+Z: Thady Quill
+S: https://thesession.org/tunes/573#setting30427
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Gmaj
+|: B^ABd cBce | (3dcd (3gfe dBGF | EccB AGFG | (3ABA (3GFE DG,B,D |
+| BABd cBce | (3dcd ge dBAG | EccB AGFG |1 (3ABA GF G3 A :|2 AGFA G2 ga ||
+|: bg (3gfg dgBg | bg (3gfg dgBg | c'a (3a^ga fada | c'a (3a#ga fada |
+| bg (3gfg dgBg | bg (3gfg dgBg | (3aba (3gag (3fgf (3efe |1 (3ded ce dega :|2 (3ded ef g4 ||

@@ -1,0 +1,31 @@
+X: 1
+T: Green Garters
+Z: Kenny
+S: https://thesession.org/tunes/3458#setting3458
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+a2 ab afdf | a2 fd efge | agab afdf | eAcd efge |
+a2 ab afdf | a2 fd g2 fg | afge fdec | ABcd efge |
+d2 fd Adfd | d2 fa gece | d2 fd Adfd | eAcd efge |
+d2 fd Adfd | d2 fa g2 fg | afge fdec | ABcd efge |
+X: 2
+T: Green Garters
+Z: ceolachan
+S: https://thesession.org/tunes/3458#setting16498
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+|: d2 fd Adfd | d2 fa gece |\ d2 fd Adfd |[1 eA (3Bcd egfe :|[2 eA (3Bcd ef (3gfe |||: a3 b afdf | a2 fd ef (3gfe |\
+X: 3
+T: Green Garters
+Z: dogbox
+S: https://thesession.org/tunes/3458#setting26121
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+|: d2 fd Adfd | d2 fa gece |d2 fd Adfd |1 eA (3Bcd egfe :|2 eA (3Bcd efge ||
+|: a3 b afdf | a2 fd ef (3gfe |1 a3 b afdf | eA (3Bcd efge :|2 afge fdec | A2 (3Bcd efge |

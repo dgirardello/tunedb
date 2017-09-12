@@ -1,0 +1,49 @@
+X: 1
+T: Paardeburg
+Z: Mix O'Lydian
+S: https://thesession.org/tunes/13455#setting23755
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+|: ag | f4 gfef | A2 d2 d2 ef | g3 e c2 ec | A2 a2 agfa |
+f4 gfef | A2 d2 d2 ef | g3 A cAce | d4 d2 :|
+|: cd | e3 f gece | A2 d2 d2 ef | g2 A2 c2 e2 | dcdf A2 cd |
+e3 f gece | A2 d2 d2 ef | g3 A cAce | d4 d2 :|
+|: ag | f2 A2 d2 A2 | dcde f4 | g2 A2 c2 e2 | dcdf A2 ag |
+f2 A2 d2 A2 | dcde f4 | g3 A cAce | d4 d2 :|
+|: ag | fadf A2 d2 | fdfg a2 gf | gece A2 e2 | dcdf A2 ag |
+fadf A2 d2 | fdfg a2 gf | g3 A cAce | d4 d2 :|
+X: 2
+T: Paardeburg
+Z: ceolachan
+S: https://thesession.org/tunes/13455#setting23788
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+M: 2/4
+|: a/g/ |f2 g/>f/e/>f/ | Ad de/f/ | g>e ce/c/ | Aa a/>g/f/<a/ |
+f2 g/>f/e/>f/ | Ad de/f/ | g>A c/<A/c/<e/ | d2 d :|
+|: c/d/ |e>f g/>e/c/<e/ | Ad de/f/ | gA ce | d/>c/d/<f/ Ac/d/ |
+e>f g/>e/c/<e/ | Ad de/f/ | g>A c/<A/c/<e/ | d2 d :|
+|: a/g/ |fA dA | d/>c/d/>e/ f2 | gA ce | d/>c/d/<f/ Aa/g/ |
+fA dA | d/>c/d/>e/ f2 | g>A c/<A/c/<e/ |d2 d :|
+|: a/g/ |f/<a/d/<f/ Ad | f/>d/f/>g/ ag/e/ | g/>e/c/<e/ Ae | d/>c/d/>f/ Aa/g/ |
+f/<a/d/<f/ Ad | f/>d/f/>g/ ag/e/ | g>A c/<A/c/<e/ | d2 d :|
+X: 3
+T: Paardeburg
+Z: ceolachan
+S: https://thesession.org/tunes/13455#setting23789
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+|: ag |f4 g>fe>f | A2 d2 d2 ef | g3 e c2 ec | A2 a2 a>gf<a |
+f4 g>fe>f | A2 d2 d2 ef | g3 A c<Ac<e | d4 d2 :|
+|: cd |e3 f g>ec<e | A2 d2 d2 ef | g2 A2 c2 e2 | d>cd<f A2 cd |
+e3 f g>ec<e | A2 d2 d2 ef | g3 A c<Ac<e | d4 d2 :|
+|: ag |f2 A2 d2 A2 | d>cd>e f4 | g2 A2 c2 e2 | d>cd<f A2 ag |
+f2 A2 d2 A2 | d>cd>e f4 | g3 A c<Ac<e | d4 d2 :|
+|: ag |f<ad<f A2 d2 | f>df>g a2 ge | g>ec<e A2 e2 | d>cd>f A2 ag |
+f<ad<f A2 d2 | f>df>g a2 ge | g3 A c<Ac<e | d4 d2 :|

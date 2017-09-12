@@ -1,0 +1,73 @@
+X: 1
+T: Orange Rogue, The
+Z: KDJ
+S: https://thesession.org/tunes/899#setting899
+R: jig
+M: 6/8
+L: 1/8
+K: Emin
+|:B|ege dBA|GEF G2 A|BGB def|g2 b agf|
+ege dBA|GEF G2 A|BGB def|e3 e3 :|
+|gfe agf|g2 B B2 f |gfe agf| g2 B B2 f |
+g2 b agf|gfe fed|B2 B def|g2 b agf |
+X: 2
+T: Orange Rogue, The
+Z: birlibirdie
+S: https://thesession.org/tunes/899#setting14083
+R: jig
+M: 6/8
+L: 1/8
+K: Emin
+B|ege dBA|GBd e2 g|BGB def|gab agf|ege dBA|GAB d2e|BGB def|e3 e3 :|
+X: 3
+T: Orange Rogue, The
+Z: ceolachan
+S: https://thesession.org/tunes/899#setting22261
+R: jig
+M: 6/8
+L: 1/8
+K: Emin
+|: d |(e/f/g)(e d)B(A | G)EF G2 A | BAB def | (g2 b) agf |
+(e/f/g)(e d)B(A | G)EF G2 (A | B)AB dcd | e3 e2 :|
+|: f |(g2 e) (a2 f) | g2 B (Bc)d | g2 (e a)gf | Tg3 (B2 d) |
+(g2 e) (a2 f) | g2 (e f)ed | (BA)(B d)ef | g2 (b a)gf |
+(e/f/g)(e d)B(A | G)EF G2 A | (BA)(B d)ef | g2 (b a)gf |
+(e/f/g)(e d)BA | GEF G2 A | (BA)(B d)c(d | e3) e2 :|
+X: 4
+T: Orange Rogue, The
+Z: ceolachan
+S: https://thesession.org/tunes/899#setting22262
+R: jig
+M: 6/8
+L: 1/8
+K: Emin
+|: d |ege dBA | GEF G2 A | B2 B dd/e/f | g2 b agf |
+e/f/ge dBA | GEF G2 A | B^AB dB/c/d | e3 e2 :|
+|: f |g2 e a2 f | g2 B B2 d | gfe agf | g3 B2 d |
+gfe a2 f | gg/f/e f2 d | B^AB d>ef | g2 b agf |
+e/f/ge d2 B | GEF G2 A | B^AB d2 f | gdb aa/g/f |
+ege dc/B/A | GEF G3 | BG/A/B d^cd | e3 e2 :|
+X: 5
+T: Orange Rogue, The
+Z: sebastian the m3g4p0p
+S: https://thesession.org/tunes/899#setting22263
+R: jig
+M: 6/8
+L: 1/8
+K: Emin
+d|(e/f/g)e dBA|GEF G2A|BAB ^def|g2b agf|
+(e/f/g)e dBA|GEF G2A|BAB d^c^d|e3 e2:|
+f|~g2e a2f|~g2B BAB|~g2e a2f|{a}g3 B2d|
+~g2e a2f|~g2e fed|BAB ^def|g2b agf:|
+X: 6
+T: Orange Rogue, The
+Z: ceolachan
+S: https://thesession.org/tunes/899#setting22265
+R: jig
+M: 6/8
+L: 1/8
+K: Emin
+|: d |(e/f/g)e dBA | GEF G2 A | BAB ^def | g2 b agf |
+(e/f/g)e dBA | GEF G2 A | BAB d^c^d | e3 e2 :|
+|: f |!uppermordent!g2 e a2 f | !uppermordent!g2 B BAB | !uppermordent!g2 e a2 f | {a}g3 B2 d |
+!uppermordent!g2 e a2 f | !uppermordent!g2 e fed | BAB ^def | g2 b agf :|

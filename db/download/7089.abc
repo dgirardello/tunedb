@@ -1,0 +1,24 @@
+X: 1
+T: Sligo, The
+Z: sgp
+S: https://thesession.org/tunes/7089#setting7089
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+BAGB dBGA|BAGB A~E3|BAGB dBGE|DEGA B~G3|
+BAGB dBGA|BAGB AEGE|DEGA ~G3e|dega b~g3||
+b~g3 abge|dBGA Bdeg|b~g3 abge|dega b~g3|
+gabg abge|dBGA Bcde|dBAc BAGE|DEGA B~G3||
+X: 2
+T: Sligo, The
+Z: Frulator
+S: https://thesession.org/tunes/7089#setting7827
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+BAGB dBGA|BAGB AEE2|BAGB dBGE|DEGA BGG2|
+BAGB dBGA|BAGB ABGE|DBGF GBd^c|dega bgg2|
+b2gb abge|dBGA Bcda|bgg2 a2ge|dega bgg2|
+b2gb abge|dBGA Bcde|dBAc BAGE|DEGA BGG2|

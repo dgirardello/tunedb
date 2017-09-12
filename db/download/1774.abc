@@ -1,0 +1,77 @@
+X: 1
+T: Lord Gordon's
+Z: dirk van damme
+S: https://thesession.org/tunes/1774#setting1774
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+ADFD A,DFB|ADFD FAdc|BE~E2 cE~E2|BE~E2 BAFA|
+dcdf ecdB|AFdF A2Bc|cBBA BFAF|1 EFGA BcdB:|2 EFGA Bcde||
+|:f2df afdf|afdf a2gf|efga bgec|dcBA ^GABc|
+df~f2 ecdB|AFdF A2Bc|cBBA BFAF|EFGA Bcde:|
+|:fa~a2 fdad|fa~a2 fdad|gb~b2 gebe|gb~b2 gebe|
+fgfe dcdA|BAGB ABdf|afec dBAF|1 EFGA Bcde:|2 EFGA BcdB||
+|:Addc defd|Addc defd|eggf ~g3f|eggf gage|
+fgfe dcdB|BAGB ABdf|afec dBAF|1 EFGA BcdB:|2 EFGA Bcde||
+|:faa^g afde|faa^g a2=gf|gbef gbef|gbeg bgef|
+g2bg fgaf|fedB ABdf|afec dBAF|1 EFGA Bcde:|2 EFGA BcdB||
+"Variations:"
+|:ADFD A,DFB|ADFD FAdc|BE~E2 cE~E2|BE~E2 BAFA|
+~d3f ecdB|AFDF A2Bc|dBcA BGAF|1 EFGA BcdB:|2 EFGA Bcde||
+|:f2df afdf|f2df afdf|efga bgec|dcBA FABc|
+d2fd ecdB|AFDF A2Bc|dBcA BGAF|EFGA Bcde:|
+|:fa~a2 fdad|fa~a2 fdad|gb~b2 gebe|gb~b2 gebe|
+~f3e dedB|BA^GB ABdf|afec dBAF|1 EFGA Bcde:|2 EFGA BcdB||
+Ad~d2 defd|Ad~d2 defd|eggf ~g3f|eggf gage|
+fgfe dcdB|BA^GB ABdf|afec dBAF|EFGA BcdB|
+Adcd fdcd|Adcd fdcd|egfg bg~g2|egfg bgeg|
+fgfe dcdB|BA^GB ABdf|afec dBAF|EFGA Bcde||
+|:fa~a2 afde|faa^g a2=gf|gbef gbef|gbeg bgef|
+g2bg fgaf|gedB ABdf|afec dBAF|1 EFGA Bcde:|2 EFGA BcdB||
+X: 2
+T: Lord Gordon's
+Z: b.maloney
+S: https://thesession.org/tunes/1774#setting15222
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+dB |: AD (3FED A,DFB | AD (3FED FAdc | BE~E2 dE~E2 | BE~E2 BAFA |
+dcdf edef | (3ABA ^GB A2Bc | (3dcB (3cBA BFAF |1 EFGA BcdB :|2 EFGA Bcde ||
+|: f2 df afde | (3faf df a2 gf | efga bgec | dcBA GABc |
+d~f3 e~B3 | AFdF A2 Bc | dB (3cBA BFAF | EFGA Bcde :|
+|: fa (3aaa fdad | fa (3aaa fdad | fb(3bbb febe | fb(3bbb febe |
+~f3e ~d3B | (3ABA ^GB A2e(f | a)fec dBAF | EFGA Bcde :|
+Adcd fdcd |Adcd fdcd | egfg bgfg |egfg bgeg |
+fgfe dedB | (3ABA ^GB A2e(f | a)fec dBAF | EFGA BcdB |
+Ad{e}dc defd | Ad{e}dc defd | eg{a}gf ~g3f | (3efg {a}gf ~g3f |
+fgfe dedB | (3ABA ^GB A2e(f | a)fec dBAF | EFGA Bcde |
+|: fa{b}a^g afde | fa{b}a^g afdf | gbef gbef | gbef gfef |
+gb(3bbb fa (3aaa |fedB ABdf | afec dBAF |1 EFGA BcdB :|2 EFGA B2 |
+"Final Ending"[G2B2] [F2A2] ||
+X: 3
+T: Lord Gordon's
+Z: Matt Leavey
+S: https://thesession.org/tunes/1774#setting25854
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+dB | vA(uD F/E/D) A(D F/E/D) | A(D F/E/D) FAdc | vB(uE ~E2) (B,E~E2) | (BE~E2 BA)FA |
+v(dcd)f e(cdB) | A/B/A ^GB uA2 v(Bc) | (ud/c/B c/B/A B)(FA)(F | EF)vGuA v(Bc d/c/B |
+vA)(uD F/E/D) A,DFA | vA(uD F/E/D) FA(dc) | (uBE) vE/E/E (dE) E/E/E | (BE) E/E/E (uBA)FA|
+v(dcd)f eu(cd)B | (uA/B/A) ^GB A2 u(Bc | d/c/B c/B/A B)(FA)(F | EF)vGuA (vBc)de |]
+uf2df afdg | vf(cd)vf (uaf)(vgf | e)(fg)(a b)(ge)(vc | d)(cBA) v^GA(Bc |
+vd)(cd)f (uec)dB | vA(uFdF) (A2Bc) | (ud/e/d c/d/c) (B/c/BA)(F | EF)vGuA (vBc)de |
+uf2df afdg | vf(cd)vf (uaf)(vgf | e)(fg)(a b)(ge)(vc | d/c/B) (c/B/A) ^GABc |
+vd(uf~f2) e(B~B2) | A(FdF) (A2Bc) | (ud/c/B c/B/A B)(FA)(F | EF)GA (vBc)de |]
+[|: (ufa) a/a/a uf(vda)(ud | fa) a/a/a uf(vda)(ud | fb) b/b/b ufveubve | (fb) b/b/b febe |
+(ufg)fe (dcd)(uB | uA/B/A) ^GB (vABd)(uf | a)fe(vc dBA)(uF |1 EF)GA (vBc)de :||2 (EF)GA (Bcd)uB |]
+vA(udcd fdcd) | (vAdcd f)(udcd) | (egfg b)(gfg) | (egfg b)(geg) |
+v~f3e d(ucd)B | (uA/B/A) ^GB (ABd)(f | a)fe(vc dBA)(uF | EF)GA (Bcd)B
+vA(ud{e}dc) defd | vA(ud{e}dc) defd | ve(uf~gf) (v~gfgf) | (uef{a}gf) (~gfga) |
+(u~f3e) (dcd)(B | A/B/A) ^GB (ABd)(f | a)fe(vc dBA)(uF | EF)GA (Bcd)g |]
+[|: vf(a~a2 {b}af)de | vf(ua{b}af) (a/b/a gf) | (ugbef) (vgbef) | (ugbeg) (bge)(uf |
+ug2(vbg f)(ua{b}ag | fe)dB (vABd)(f | a)fe(vc dBA) (uF |1 EF)GA (Bcd)g :|]2 EF)GA (Bc) (ud/c/B) |]
+"Final Ending" (EF)GA [G2B2] z2 | [F4A4] |]

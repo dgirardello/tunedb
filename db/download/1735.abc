@@ -1,0 +1,61 @@
+X: 1
+T: Popcorn Behaviour
+Z: Jamie
+S: https://thesession.org/tunes/1735#setting1735
+R: reel
+M: 4/4
+L: 1/8
+K: Amin
+e/2e/2g|:a2 e=f ecAc|BABc BGEG|AEAc AE (3ABc|B/2B/2A Bc B2 e/2e/2g|
+a2 ef ecAc|BABc BGEG|DFAc dcAF|1ECDB, A,2 e/2e/2g:|2ECDB, A,B,CD||
+|:EA,A,E FA,A,F|EA,A,E DA,A,D|A,B,CD EDEA|GECD EFED|
+EA,A,E FA,A,F |^FA,A,^F =FA,A,F|DFAc dcAF|1ECDB, A,B,CD:|2ECDB, A,2 e/2e/2g||
+X: 2
+T: Popcorn Behaviour
+Z: olirish
+S: https://thesession.org/tunes/1735#setting15163
+R: reel
+M: 4/4
+L: 1/8
+K: Amin
+|:a2 e=f ecAc|BABc BGAz|EAcA EAcA|BABc ABce|
+a2 e=f ecAc|BABc BGEz|EFAc dcAF|1EcdB A2 zg:|2 EcdB A2 zd||
+eAAe fzzf|eAAe dAAd|ABcd edea|gecd efed|
+eAAe fzzf|^fAAf =fAAf|EFAc dcAF|1 EcdB A2 zd:|2 EcdB A2 zg||
+X: 3
+T: Popcorn Behaviour
+Z: protz
+S: https://thesession.org/tunes/1735#setting15164
+R: reel
+M: 4/4
+L: 1/8
+K: Amin
+|:aeef ecAc|ABBc BAGE|~E2AE cEAE|ABBc B^G E2|aeef ecAc|ABBc BAGE|DFAc dBAF|[1 E^GBc ABce:|[2 ECDB, A,B,CD|||:EA,A,E FA,A,F|EA,A,E DA,A,G,|A,B,CD EDCD|~E2 AE DEFD|EA,A,E FA,A,F|^FA,A,F =FA, ~A,2|DFAc dBAF|[1 ECDB, A,B,CD:|[2 E^GBc ABce||
+X: 4
+T: Popcorn Behaviour
+Z: giamp
+S: https://thesession.org/tunes/1735#setting26114
+R: reel
+M: 4/4
+L: 1/8
+K: Bmin
+ga|:b2 fg fdBd|cBcd cAFA|BFBd BF (3Bcd|cB cd c2 ga|
+b2 fg fdBd|cBcd cAFA|EGBd edBG|1FDEC B,2 ga:|2FDEC B,CDE||
+|:FB,B,F GB,B,G|FB,B,F EB,B,E|B,CDE FEFB|AFDE FGFE|
+FB,B,F GB,B,G |^GB,B,^G =GB,B,G|EGBd edBG|1FDEC B,CDE:|2FDEC B,2 ga||
+X: 5
+T: Popcorn Behaviour
+Z: Yooval
+S: https://thesession.org/tunes/1735#setting27972
+R: reel
+M: 4/4
+L: 1/8
+K: Amin
+|a2 ef ecAc | ABBc BGAG | FdAF cAGB | ABc/c/d egdg |
+^gaef ecAc | ABBc BGAG | DFAc dcAG | EDCB, A,Ceg |
+aaef ecAc | ABBc BGAG | FdAF cAGB | ABc/c/d egdg |
+^gaef ecAc | ABBc BGAG | DFAc dcAG | EDCB, A,FF/F/F |
+EA,A,E FA,A,F | EA,CE DCB,C | A,B,CD EDCD | F/^F/GAB cBAG |
+EA,A,/A,/A, FA,FA, | ^FA,A,F =FA,FE | DFAc dcAG | EDCB, A,FF/F/F |
+EA,A,E FA,A,F | EA,CE DCB,C | A,B,CD EDCD | F/^F/GAB cBAG |
+EA,A,E FA,A,F | ^FA,A,F =FA,FE | DFAc dcAG | EDCB, A,2e^g|

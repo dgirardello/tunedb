@@ -1,0 +1,34 @@
+X: 1
+T: Seasick Dee
+Z: bdh
+S: https://thesession.org/tunes/11228#setting11228
+R: slip jig
+M: 9/8
+L: 1/8
+K: Dmaj
+M: 7/8
+A,2 DG FGA | ~G2 GA GFG | GA dA cde | dc AG FGE |
+D2 ~D2 FGA | ~G2 GA GFG | GA dA cde | dc AG FGE |
+D2 AD FGA | ~G2 GA GFG | GA dA cde | dc AG FGE |
+D2 ~D2 FGA | ~G2 GA GFG | GA dA cde | dc AG FGE ||
+D2 ~d2 def | ~e2 ef edB | A2 dA cde | dc AG FGE |
+D2 ~d2 def | ~e2 ef edB | da af fge | ef df edB |
+A2 dA def | ~e2 ef edB | A2 dA cde | dc AG FGE |
+D2 ~d2 def | ~e2 ef edB | da a/a/a agg | gf f/f/f edd ||
+X: 2
+T: Seasick Dee
+Z: Donough
+S: https://thesession.org/tunes/11228#setting22515
+R: slip jig
+M: 9/8
+L: 1/8
+K: Dmaj
+M: 7/8
+|: D2 AD FGA | G2 GA GFG | GA dA cde | {e}dc AG FGE |
+D2 AA FGA | G2 GA GFG | GA dA cde | {e}dc AG FGE |
+D2 DD FGA | G2 GA GFG | GA dA cde | {e}dc AG FGE |
+D2 DD FGA | G2 GA GFG | GA dA cde | {e}dc AG FGE ||
+|: D2 d2 def | e2 ef {f}edc | A2 dA cde | {e}dc AG FGE |
+D2 d2 def | e2 ef {f}edc | da af fge | ef fd edc |
+A2 d2 def | e2 ef {f}edc | A2 dA cde | {e}dc AG FGE |
+D2 d2 def | e2 ef {f}edc | da a/a/a agg | gf f/f/f edd ||

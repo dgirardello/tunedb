@@ -1,0 +1,108 @@
+X: 1
+T: Toormore, The
+Z: Jeremy
+S: https://thesession.org/tunes/110#setting110
+R: slide
+M: 12/8
+L: 1/8
+K: Bmin
+|:F2B BAB d2e faf|e2e efe c2e a3|F2B BAB d2e faf|e2d B2A B3 B3:||:f3 e3 d3 c3|BAB edB A2F EDE|F2B BAB d2e faf|e2d B2A B3 B3:|
+X: 2
+T: Toormore, The
+Z: slainte
+S: https://thesession.org/tunes/110#setting12691
+R: slide
+M: 12/8
+L: 1/8
+K: Bmin
+F2B BAB|d2e f2d|e2e efe|c2e a3|F2B BAB|d2e f2d|e2d B2A|1 B3 BAG:|2 B3 d2e||fgf efe|ded cdc|BAB edB|AFE F2E|F2B BAB|d2e f2d|e2d B2A|1 B3 d2e:|2 B3 BAG||
+X: 3
+T: Toormore, The
+Z: ceolachan
+S: https://thesession.org/tunes/110#setting12692
+R: slide
+M: 12/8
+L: 1/8
+K: Ador
+|: A2 G |E2 A AAA c2 d e2 c | d3- d2 [Ad] B2 d g2 [Ad] |
+E2 A AAA c2 d e2 c |[1 d2 c A2 G A3- :|[2 d2 c A2 G A2 B c2 d :|
+|: ege d2 [Be] c2 [Ae] B2 c | AAA [G2d2] [Ac] A2 G E2 [Ac] |
+E2 A AAA c2 d e2 c |[1 d2 c A2 G A2 B c2 d :|[2 d2 c A2 G A3- |]
+X: 4
+T: Toormore, The
+Z: ceolachan
+S: https://thesession.org/tunes/110#setting12693
+R: slide
+M: 12/8
+L: 1/8
+K: Ador
+|: G |E2 A AAA c2 d e2 c | d3- d2 A B2 d g2 A |
+E2 A AAA c2 d e2 c | d2 c A2 G A3- A2 :|
+|: d |ege d2 B c2 A B2 c | AAA G2 A A2 G E2 A |
+E2 A AAA c2 d e2 c | d2 c A2 G A3- A2 :|
+X: 5
+T: Toormore, The
+Z: JACKB
+S: https://thesession.org/tunes/110#setting26399
+R: slide
+M: 12/8
+L: 1/8
+K: Bmin
+F2B BAB|d2e f2d|e3 efe|c2e A3|
+F2B BAB|d2e f2d|e2d B2A|1 B3 BAG:|2 B3 d2e||
+fc/A/f ec/A/e|dF/G/d cF/G/c|Bc/A/B edB|AFE F2E|
+F2B BAB|d2e f2d|e2d B2A|1 B3 d2e:|2 B3 BAG||
+X: 6
+T: Toormore, The
+Z: brotherstorm
+S: https://thesession.org/tunes/110#setting28621
+R: slide
+M: 12/8
+L: 1/8
+K: Bmin
+K: Am
+|: E2 A AGA c2 d e3 | d3 d^cd B2 d g3 |
+E2 A AGA c2 d e2 e |1 d2 c A2 G A3 A3:|2 d2 c A2 G A3 c2 d |
+|: efe ded cdc BcB | ABA cBA G2 E E2 D |
+E2 A AGA c2 d e2 e |1 d2 c A2 G A3 c2 d:|2 d2 c A2 G A3 A3|
+"variation of 2nd part"
+|: e2e ded c2c BcB | ABA cBA G2 E E2 D |
+E2 A AGA c2 d e2 e |1 d2 c A2 G A3 c2 d:|2 d2 c A2 G A3 A3|
+X: 7
+T: Toormore, The
+Z: ceolachan
+S: https://thesession.org/tunes/110#setting30645
+R: slide
+M: 12/8
+L: 1/8
+K: Bmin
+|: B2 A |F2 B BAB d2 e f3 | efe efe c2 e a3 |
+F2 B BAB d2 e f3 | e2 d B2 A B3 :|
+|: d2 e |fgf efe ded cdc | B3 dcB A2 F F2 E |
+F2 B BAB d2 e f3 | e2 d B2 A B3 :|
+X: 8
+T: Toormore, The
+Z: ceolachan
+S: https://thesession.org/tunes/110#setting30646
+R: slide
+M: 12/8
+L: 1/8
+K: Ador
+|: E2 A ABA c2 d e3 | d3 d^cd B2 d g3 |
+E2 A ABA c2 d e2 e | d2 B A2 G A3- A3 :|
+|: e3 ded c3 BcB | A3 ecA G2 E E2 D |
+E2 A ABA c2 d e2 e | d2 B A2 G A3- A3 :|
+X: 9
+T: Toormore, The
+Z: ceolachan
+S: https://thesession.org/tunes/110#setting30647
+R: slide
+M: 12/8
+L: 1/8
+K: Ador
+|: G |E2 A ABA c2 d e3 | ded d^cd B2 d g2 G |
+E2 A A2 B c2 d e2 ^c | d2 c A2 ^G A3 A2 :|
+d |efe ded cdc B3 | ABA cBA G2 E E2 D |
+E2 A- A2 B c2 d e3 | cBA B2 G A2 B c2 d |
+e2 e ded c2 c BcB | A2 A cBA G2 E E2 ^D |
+E2 A A^GA c2 d e2 ^c | d2 c A2 ^G A3 A2 |]

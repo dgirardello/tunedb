@@ -1,0 +1,75 @@
+X: 1
+T: Colonel Fraser's
+Z: b.maloney
+S: https://thesession.org/tunes/1209#setting1209
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+|: dc | BGAF DG~G2 | AF~F2 d2cA | B2AF GBeg | fdcA (3dcB (3cBA |
+BGAF DG~G2 | Af~f2 d2cA | B2AF GBeg | fdcA ~G2 :|
+|: Bc | dggf ~g2ag | fdde fdcA | dgga bgag | fdcA BG (3Bcd |
+~g3f ~d2dc | BG~G2 AF~F2 | G2 (3ABc (3Bcd ge | fdcA ~G2 :|
+|: BA | Bd~d2 BAGB | AGFG AB (3cBA | Bd~d2 edBd | cAdc BG~G2 |
+Bd~d2 BAGB | AGFG AB (3cBA | G2 (3ABc (3Bcd ge | fdcA ~G2 :|
+|: GA | ~B2GB ~B2GB | ~A2FA ~A2FA | ~B2GB ~B2GB | cAdc BGG2 |
+~B2GB ~B2GB | ~A2FA ~A2FA | G2 (3ABc (3Bcd ge | fdcA ~G2 :|
+|: GA | (3Bcd gd (3Bcd gd | (3Bcd fd (3Bcd fd | (3Bcd gd (3Bcd gd | cAdc BGG2 |
+(3Bcd gd (3Bcd gd | (3Bcd fd (3Bcd fd | G2 (3ABc (3Bcd ge | fdcA ~G2 :||
+X: 2
+T: Colonel Fraser's
+Z: Dr. Dow
+S: https://thesession.org/tunes/1209#setting14501
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+A|BGAF DG~G2|ADFA d2cA|BGAF GBdg|fdcA dBcA|BGAF DG~G2|ADFA d2cA|BGAF GBdg|fdcA G3:||:B|dggf g2ag|fdde fdcA|dgga bgag|fdcA G2 (3Bcd|~g3e d2dc|BG~G2 ADFA|GBAc (3Bcd ge|fdcA G3:||:A|Bd~d2 BGdB|AGFG ABcA|Bd~d2 BGdB|cAFG AGGA|Bd~d2 BGdB|AGFG ABcA|GBAc (3Bcd ge|fdcA G3:||:A|~B2GB ~B2GB|~A2FA DAFA|~B2GB ~B2GB|cAFG AGGA|~B2GB dBGB|~A2FA DAFA|GBAc (3Bcd ge|fdcA G3:||:A|(3Bcd gd (3Bcd gd|Adfd Adfd|(3Bcd gd (3Bcd gd|cAFG AGGA|(3Bcd gd (3Bcd gd|Adfd AdFA|GBAc (3Bcd ge|fdcA G3:|
+X: 3
+T: Colonel Fraser's
+Z: JACKB
+S: https://thesession.org/tunes/1209#setting22358
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+|: dc | BGAF DG G2 | ABcA dBcA | BGAF GBeg | fdcA dBcA |
+BG G2 DG G2 | AF F2 dBcA | G3A (3Bcd eg | fdcA AG G2 :||
+| dggf gaag | fdcA ABcA | dggf gaag | fdcA G2 (3Bcd |
+g3f dedc |B2 GB AD D2| G3A (3Bcd (3efg | fdcA AG G2 ||
+dbba g2 ag | fdcA ABcA | dbba g2 ag| fdcA AG (3Bcd|
+g3f dedc |B2 GB AD D2| G3A (3Bcd (3efg | fdcA AG G2 ||
+|: Bd d2 BGdB | AF F2 ABcA | Bd d2 BcdB |cAFG AG G2 |
+(3Bcd cd BGdB| ADFA DFAD | G3A (3Bcd (3efg | fdcA AG G2 ||
+|(3Bcd ^cd BGdB |AF F2 ABcA | (3Bcd ^cd BGdB | cAFG AG G2 |
+(3Bcd gd BG G2 |AD (3FGA DFAD |G3A (3Bcd (3efg |fdcA AG G2 ||
+|B2 DB B2 DB |A2 DA A2 DA |B2 DB B2 DB| cAFG AG G2 |
+B2 GABG dB | AF F2 ABcA | G3A (3Bcd eg | fdcA AG G2 :|
+|:DBBD BBDB|DAAD AADA|DBBD BBDB|cAFD AG G2|
+DBBD BBDB|DAAD AADA| G3A (3Bcd (3efg |fdcA AG G2 ||
+|:BDGB DGBD|ADFA DFAD|BDGB DGBD|cADF ADBD|
+BDGB DGBD|ADFA DFAD| G3A (3Bcd (3efg |fdcA AG G2 ||
+|:BDDB DDBD|ADDA DDAD|BDDB DDBD|cDBD AG G2|
+BDDB DDBD|ADDA DDAD| G3A (3Bcd (3efg |fdcA AG G2 ||
+|: (3Bcd gd (3Bcd gd | Adfd Adfd | (3Bcd gd (3Bcd gd | cAFG AG G2 |
+(3Bcd gd g3d | Adfd f3d | G3A (3Bcd eg | fdcA G2 ||
+(3Bcd gd (3Bcd gd | Adfd Adfd | (3Bcd gd (3Bcd gd | cAFG AG G2 |
+(3Bcd ga bgdB | (3ABd fg afdA |G3A (3Bcd eg | fdcA G2 ||
+X: 4
+T: Colonel Fraser's
+Z: swisspiper
+S: https://thesession.org/tunes/1209#setting23403
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+d2 cA|:{d}BG~G2 {A}DG~G2|AB{d}cA .d.BcA|{d}BG~G2 DG{c}Bd|.c.A.d.c {B}AG~G2|
+{d}BG~G2 {A}DG~G2|{B}AF~F2 cF~F2|{d}BG{A}GF GBdg|f.d.cA {B}AG~G2:|
+|:dg{a}gf {a}g2~g2|fdc.A .AB{d}cA|dg~g2 ~a3g|f.d.cA {B}A2 (3.B.c.d|
+.g2~g2 dedc|(3.B.c.B G.c (3.A.c.A FA|GBAc (3Bcd eg|{g}f.d.cA AG~G2:|
+|:Bd (3.d.c.d BGdB|{d}AFcF (3.A.B.c AF|B.d.d.d (3.B.c.d (3.B.c.d|.c.A.d.c {B}AG~G2|
+Bd (3.d.c.d BGdB|{d}AFcF (3.A.B.c AF|(3.G.A.B Ac (3.B.c.d eg|{g}f.d.cA {B}AG{A}Gc:|
+|:(3.B.c.B Gc (3.B.c.B Gc|(3.A.c.A F.c (3.A.c.A F.c|(3.B.c.B Gc (3.B.c.B G.d|{d}cADF {B}AG{A}Gc|
+(3.B.c.B gB gBg.c|(3.A.c.A fA fAfA|(3GAB Ac (3Bcd eg|{g}f.d.cA {B}AG~G2:|
+|:(3Bcd gd (3.B.c.d gd|(3.A.c.A f.c (3.A.c.A fd|(3Bcd gd (3Bcd g.d|{d}cAFG {B}AG.G.c|
+(3.B.c.B gB gBgB|(3.A.c.A fA fAfA|(3.G.A.B Ac (3Bcd (3efg|(3fed (3cBA (3BAG {B}AG:|

@@ -1,0 +1,34 @@
+X: 1
+T: Emyvale, The
+Z: The Merry Highlander
+S: https://thesession.org/tunes/5902#setting5902
+R: reel
+M: 4/4
+L: 1/8
+K: Ador
+eA A/2A/2A edBc|dBgB aBgB|eA A/2A/2A edBc|dBgB BAAf|
+eA A/2A/2A edBc|dBgB aBgB|e/2f/2e df edBc|dBgB BAAf|
+edef ~g2fg|edef gdBd|edef ~g2fg|edgd BAAf|
+edef ~g2 e/2f/2g|ageg a2ga|bgaf gfed|B/2c/2d gd BAAf||
+X: 2
+T: Emyvale, The
+Z: ceolachan
+S: https://thesession.org/tunes/5902#setting17803
+R: reel
+M: 4/4
+L: 1/8
+K: Dmix
+|: c |AD D/D/D AGEF | GEcE dEcE | AD F/E/D AGEF | GEcE EDD :|
+B |AGAB c2 Bc | AGAB cGEG | AGAB c2 Bc | AGcG EDDB |
+AGAB c2 A/B/c | dcAc d2 cd | ecdB cBAG | E/F/G cG EDD |]
+X: 3
+T: Emyvale, The
+Z: ceolachan
+S: https://thesession.org/tunes/5902#setting17804
+R: reel
+M: 4/4
+L: 1/8
+K: Ador
+|: g |eA A/A/A edBc | dBgB aBgB | eA c/B/A e2 Bc | dBgB A3 :|
+f |edef g2 fg | ed d/e/f gdBd | e2 ef  g2 e/f/g | edgd BA A2 |
+edef g2 e/f/g | ageg a2 ga | b2 af gfed | B/c/d gd BAA |]

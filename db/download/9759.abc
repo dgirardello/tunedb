@@ -1,0 +1,37 @@
+X: 1
+T: Dunford's Fancy
+Z: rumpole
+S: https://thesession.org/tunes/9759#setting9759
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+F3 FED | FAA AFA | B3 BAF | AFE EDE |
+F3 FED | FAA AFA | BAB dcd | fec d2A :|
+f3 fed | faf fed | a3 fed | e2e ede |f3 fbf |
+ede fed |1 gfe dag | fec d2e :|2 gfe dcB | Adc dcB ||
+X: 2
+T: Dunford's Fancy
+Z: rumpole
+S: https://thesession.org/tunes/9759#setting20110
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+^F3 FED | ^FAA AFA | B3 BA^F | A^FE EDE |
+^F3 FED | ^FAA AFA | BAB d^cd | ^fe^c d2A |
+^F3 FED | ^FAA AFA | B3 BA^F | A^FE EDE |
+^F3 FED | ^FAA AFA | BAB d^cd | ^fe^c d2e |
+^f3 fed | ^faf fed | a3 ^fed | e2e ede |
+^f3 fbf | ede ^fed | g^fe dag | ^fe^c d2e |
+^f3 fed | ^faf fed | a3 ^fed | e2e ede |
+g3 ^f3 | ede ^fed | g^fe d^cB | Ad^c dcB |
+X: 3
+T: Dunford's Fancy
+Z: Wilf
+S: https://thesession.org/tunes/9759#setting20111
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+F2F FED | FAA AFA | B2B BAF | AFE EDE |F2F FED | FAA AFA | BAB dBd |1 fec d2A :|2 fec d2e ||f2f fed | faf fed | a3 fed | eee ede ||1 faf fbf | ede fed | gfe dag | fec d2e :||2 g3 f3 | ede fed | gfe dcB | Adc d3 ||

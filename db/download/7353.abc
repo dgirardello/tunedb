@@ -1,0 +1,54 @@
+X: 1
+T: Donald McLean Of Lewis
+Z: Alistair
+S: https://thesession.org/tunes/7353#setting7353
+R: jig
+M: 6/8
+L: 1/8
+K: Ador
+A>BG A3 | e>dg e>dB | A>BA G2 B | (d2e) e>d B |
+A>BG A3 | e>dg e>dB | G>Bg e>dB |[1 ({B}A3) A3 :|2 ({B}A3) A2 ||
+|: g | a>ee (e2g) | a>ee e>dB | A>BA G2 B | (d2e) e>dB |
+[1 a>ee (e2g) | a>ee e>dB | G>Bg e>dB | ({B}A3) A2 :|
+[2 A>BG A3 | e>dg e>dB | G>Bg e>dB | ({B}A3) A2 e ||
+|: A>ee d>ee | A>ee e>dB | A>BA G2 B | (d2e) e>dB |
+A>ee d>ee | A>ee e>dB | G>Bg e>dB |[1 ({B}A3) A2 e :|[2 ({B}A3) A2 G ||
+|: A>aa a>ga | g>ee e>dB | A>BA G2 B | (d2e) e>dB |
+[1 A>aa a>ga | g>ee e>dB | G>Bg e>dB | ({B}A3) A2 G :|
+[2 A>BG A3 | e>dg e>dB | G>Bg e>dB | ({B}A3) A3 ||
+X: 2
+T: Donald McLean Of Lewis
+Z: JACKB
+S: https://thesession.org/tunes/7353#setting30410
+R: jig
+M: 6/8
+L: 1/8
+K: Ador
+|:e|A>BG A3 | e>dg e>dB | A>BA G3 | B<de e>dB |
+A>BG A3 | e>dg e>dB | G>Bg e>dB |A3 A2 :||
+|:fg |a>ee e>fg | a>ee e>dB | A>BA G3  | B<de e>dB |
+|1 a>ee e>fg | a>ee e>dB | G>Bg e>dB | A3 A>fg :|
+|2 A>BG A3 | e>dg e>dB | G>Bg e>dB | A3 A2 e ||
+|: A>ee d>ee | A>ee e>dB | A>BA G3 | B<de e>dB |
+A>ee d>ee | A>ee e>dB | G>Bg e>dB |1 A3 A2 e :|2 A3 A2B ||
+|:A>aa a>ga | g>ee e>dB | A>BA G3 | B<de e>dB |
+|1 A>aa a>ga | g>ee e>dB | G>Bg e>dB | A3 A2 G :|
+|2 A>BG A3 | e>dg e>dB | G>Bg e>dB | A3 A3 ||
+X: 3
+T: Donald McLean Of Lewis
+Z: JACKB
+S: https://thesession.org/tunes/7353#setting30411
+R: jig
+M: 6/8
+L: 1/8
+K: Edor
+|:B|E>FD E3 | B>Ad B>AF | E>FE D3 | F<AB B>AF |
+E>FD E3 | B>Ad B>AF | E>Be B>AF |E3 E2 :||
+|:cd |e>BB B>cd | e>BB B>AF | E>FE D3 | F<AB B>AF |
+|1 e>BB B>cd | e>BB B>AF | E>Be B>AF | E3 E>cd :|
+|2 E>FD E3 | B>Ad B>AF | E>Be B>AF | E3 E2 B ||
+|: E>BB A>BB | E>BB B>AF | E>FE D3 | F<AB B>AF |
+E>BB A>BB | E>BB B>AF | E>Be B>AF |1 E3 E2 B :|2 E3 E2F ||
+|:E>ee e>de | d>BB B>AF | E>FE D3 | F<AB B>AF |
+|1 E>ee e>de | d>BB B>AF | E>Be B>AF | E3 E2 D :|
+|2 E>FD E3 | B>Ad B>AF | E>Be B>AF | E3 E3 ||

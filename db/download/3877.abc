@@ -1,0 +1,51 @@
+X: 1
+T: Rosbif
+Z: Stewart
+S: https://thesession.org/tunes/3877#setting3877
+R: waltz
+M: 3/4
+L: 1/8
+K: Gmin
+GA|:B2GA BG|B2GA BG|A2FG AF|G2G4|B2GA BG|
+B2GA BG|AG FG AF|d2d4|d2Bc dB|c2c4|B2GA BG|
+A2A4|B2GA BG|BA GA BG|AG FG AF|[1G2G2GA:|[2G2G4||
+|:d2e2d2|B4B2|d2e2d2|c4c2|c2cA FA|c2cA FA|c4B2|G6:|
+|:B3A B2|c4c2|d2f2e2|d3c B2|g3f e2|d3c B2|[1c4c2|d6:|[2c4B2|G6|]
+X: 2
+T: Rosbif
+Z: gian marco
+S: https://thesession.org/tunes/3877#setting16789
+R: waltz
+M: 3/4
+L: 1/8
+K: Amin
+AB|:c2AB cA|c2AB cA|B2GA BG|A2A4|c2AB cA|c2AB cA|BA GA BG|c2c4|c2cdec|d2B4|c2AB cA|BAG4|c2AB cA|c2 AB cA|BA GA BG|1A2A2AB:|2A2A4|||:e2f2e2|c2c2c2|e2f2e2|d2d2d2|d2dB GB|d2dB GB|d4c2|A6:||:c3B c2|d4d2|e2g2f2|e4 e2|a3g f2|e3d c2|1d4d2|e6:|2d4c2|A3|
+X: 3
+T: Rosbif
+Z: ijerry
+S: https://thesession.org/tunes/3877#setting16790
+R: waltz
+M: 3/4
+L: 1/8
+K: Amin
+AB|:c2AB cA|c2AB cA|B2GA BG|A2A4|c2AB cA|c2AB cA|BA GA BG|e2e4|e2cd ec|d2d4|c2AB cA|B2B4|c2AB cA|cB AB cA|BA GA BG|[1A2A2AB:|[2A2A4|||:eAfAeA|cAcAcA|eAfAeA|dEdEdE|d2dB GB|d2dB GB|d4c2|A6:||:c2 B2 c2|d4d2|e2g2f2|e3d c2|a3g f2|e3d c2|[1d4d2|e6:|[2d4c2|A6|]
+X: 4
+T: Rosbif
+Z: JACKB
+S: https://thesession.org/tunes/3877#setting23140
+R: waltz
+M: 3/4
+L: 1/8
+K: Amin
+|:c2 AB cA|c3 A/B/ cA|B2 GA BG|A2 A2 A2|
+c2 AB cA|c3 A/B/ cA|B2 GA BG|e2 e2 e2|
+e2 cd ec|d2 d2 d2|c2 AB cA|B2 B2 B2|
+c2 AB cA|c3 A/B/ cA|B2 GA BG|1 A2 A2 A2:|2 A2 AB cd||
+e2 f2 e2|c2 c3d|e2 f2 e2|d2 d2 dd/c/|
+B2 B3B|B2 B2 BA/B/|B2 d2 dc| A2 AB cd|
+e2 f2 e2|c2 c3d|e2 f2 e2|d2 d2 dd/c/|
+B2 B3B|B2 B2 z2|B2 d2 dc|A2 A2 B2|
+c2 B2 c2|d2 c2 d2|e2 g2 f2|e3d c2|
+a2 ag f2|g2 gf e2|d2 c2 d2|e2 e2 c2|
+c2 B2 c2|d2 c2 d2|e2 g2 gf|e2 ed c2
+a2 ag f2|g2 gf e2|d2 d2 c2|A2 A2 A2||

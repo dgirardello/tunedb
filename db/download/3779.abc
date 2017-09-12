@@ -1,0 +1,42 @@
+X: 1
+T: Miss McDonald
+Z: Kenny
+S: https://thesession.org/tunes/3779#setting3779
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+BG G2 BdcA | BGBd g2 fg | aAAG ABcA |1 Bdef gedc :|2 Bdef gedB ||
+G3 D EDB,D | G3 D B,G,B,D | G3 D EDB,D |1egdB BAAB :|2 egdB cdef ||
+gd d2 gagf | edef gdBd | gd d2 gagf | edef g3 f |
+gd d2 gagf | edef gdBd | g3 a gfed | egfa g3 d |
+egdB cBAB | GB B2 GB B2 | egdB cBAB | GEDE G4 |
+egdB cBAB | GB B2 GBdB | e3 g f3 e | dfaf gedc |
+X: 2
+T: Miss McDonald
+Z: slainte
+S: https://thesession.org/tunes/3779#setting21813
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+|:BG~G2 BdcA|BGBd g2fg|aA~A2 ABcA|1 Bdef gedc:|2 Bdef gedB||
+|:~G3D EDB,D|~G3D B,G,B,D|~G3D EDB,D|1 egdB BAAB:|2 egdB BA~A2||
+|gdBd ~g3f|edef gdBd|gdBd ~g3f|edef g2gf|
+gdBd gdBd|~g3f gdBd|~g3a gfed|egfa g3d||
+|egdB cBAB|GB~B2 GABd|egdB cBAB|GEDE G2Bd|
+egdB cBAB|GB~B2 GABd|~e3g ~f3e|dfaf gedc||
+X: 3
+T: Miss McDonald
+Z: Moxhe
+S: https://thesession.org/tunes/3779#setting27417
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+dc|:B>G (3GGG BGdG|B>G (3GGG g2 fg|aA (3AAA AcBA|[1(3Bcd ef gedc:|[2(3Bcd ef gedB||
+|:TGFGD EDEF|GFGD B,G,B,D|TGFGD EDEG|[1(3efg dB BAAB:|[2(3efg dB BAAf||
+g>d (3ddd gagf|edef gdBd| g>d (3ddd gagf|edef (3ggg ga|
+gdBd gdBd|edef gdBd|g2 ({a}g)f gbag|edef gbaf||
+e2 dB BAAB|GBdB GBdg|e2 dB cABA|GEDE G2 ~g2|
+(3efg dB cABA|GBdB GBdg|(3efg dB cABA|GEDE G2|]

@@ -1,0 +1,37 @@
+X: 1
+T: Beauty Of The North
+Z: 2situla
+S: https://thesession.org/tunes/2373#setting2373
+R: strathspey
+M: 4/4
+L: 1/8
+K: Cdor
+E |: G,/E3/2 E3/2F/ G3/2A/ B/c3/2 | C/C3/2 F3/2E/ DB, B,2 | G,/E3/2 E3/2F/ G3/2A/ B/g3/2 |
+[1 fd e/d/c/B/ e2 zE :|2 fd e/d/c/B/ e2 zg ||
+e3/2g/ B/g3/2 e/g3/2 b3/2g/ | a3/2g/ f3/2e/ d/B3/2 B/g3/2 | \ e/g3/2 B3/2g/ e/f/g/a/ bg | af e/d/c/B/ e2 eg |
+g/e3/2 B/G3/2 e/B3/2 G/E3/2 | A/G3/2 F3/2E/ D/B,3/2 B,2 | G,/E3/2 E3/2A/ G/e3/2 B/g3/2 | fd e/d/c/B/ e2 e2 |
+X: 2
+T: Beauty Of The North
+Z: javivr
+S: https://thesession.org/tunes/2373#setting15720
+R: strathspey
+M: 4/4
+L: 1/8
+K: Cdor
+A |: C/A3/2 A3/2B/ c3/2d/ e/f3/2 | F/F3/2 B3/2A/ GE E2 | C/A3/2 A3/2B/ c[1 bg a/g/f/e/ a2 zA :|2 bg a/g/f/e/ a2 zc' ||
+X: 3
+T: Beauty Of The North
+Z: javivr
+S: https://thesession.org/tunes/2373#setting27203
+R: strathspey
+M: 4/4
+L: 1/8
+K: Amaj
+A \
+| "A"(C<A) A>B c>d (e<f) | "B7"F<F B>A "E7"(G<E) E>D \
+| "A"(C<A) A>B c>d (e<c') | "D"b>g "E7"a/g/f/e/ "A"a2-a :|
+c' \
+| "A"a>c' e>c' (a<c') e'>c' | "Bm"d'>c' b>a "E7"(g<e) e>c' \
+| "A"a>c' e>c' a/b/c'/d'/ e'>c' | "E7"d'>b a/g/f/e/ "A"a2-a>b |
+| "A"c'>a (e<c) a>e (c<A) | "Bm"d>c B>A "E7"(G<E) E>D \
+| "A"(C<A) A>d (c<a) (e<c') | "E7"b>g (a/g/)(f/e/) "A"a2-a |]

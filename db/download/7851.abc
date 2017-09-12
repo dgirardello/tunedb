@@ -1,0 +1,38 @@
+X: 1
+T: Man In A Brown Hat
+Z: Mario
+S: https://thesession.org/tunes/7851#setting7851
+R: barndance
+M: 4/4
+L: 1/8
+K: Dmin
+"Dm"F2FG E2D2|"Bb"F2"C"G2 "Dm"A4|"F"A2AB "Gm"G2d2|"Am"cdcd AcFc|
+"Dm"D2FG E2D2|"Bb"F2"C"G2 "Dm"A4|"Bb"A2AB AGFG|"Am"E4 "Dm"D4:|
+|:"Dm"defe d2A2|"C"c2"G/B"=B2 "Am"A4|"Bb"DEFG A2d2|"C"cdcd "Am"A=BcA|
+"Dm"defe d2A2|"C"c2"G/B"=B2 "Am"A4|"Bb"DEFG AGFG|"Am"E4 "Dm"D4:|
+X: 2
+T: Man In A Brown Hat
+Z: ceolachan
+S: https://thesession.org/tunes/7851#setting19164
+R: barndance
+M: 4/4
+L: 1/8
+K: Emin
+|: D |E2 GA F2 E2 | G2 A2 B4 | B2 Bc A2 e2 | dedc B/c/d GF |
+E2 GA B2 E2 | GFGA B3 d | B2 Bc BAGA | F2 GF E3 :|
+K: Edor
+|: B |e>fgf e2 B2 | d2 c2 B4 | EFGA B2 e2 | dedc B/c/d Gd |
+e2 gf e2 B2 | dedc B3 d | EFGA BcdF | G2 F/G/F E3 :|
+X: 3
+T: Man In A Brown Hat
+Z: ceolachan
+S: https://thesession.org/tunes/7851#setting19165
+R: barndance
+M: 4/4
+L: 1/8
+K: Dmin
+|: F2 FG E2 D2 | F2 G2 A4 | A2 AB G2 d2 | cdcd AcFc |
+F2 FG E2 D2 | F2 G2 A4 | A2 AB AGFG | E4 D4 :|
+K: Ddor
+|: defe d2 A2 | c2 B2 A4 | DEFG A2 d2 | cdcd ABcA |
+defe d2 A2 | c2 B2 A4 | DEFG AGFG | E4 D4 :|

@@ -1,0 +1,42 @@
+X: 1
+T: Shamrock, The
+Z: ceolachan
+S: https://thesession.org/tunes/6532#setting6532
+R: strathspey
+M: 4/4
+L: 1/8
+K: Ddor
+|: (3FGA |d>cA>B c>B (3cBA | G>E (3EEE c>EG>c |\
+(3ddc A>B c2- c>A | G>Ec<E D2 :|
+F>G |A>d (3ddd A>d (3fed | c>de>f g2 (3fed |\
+A>d (3dd^c d>fe>d | e>dc>B c>A (3EFG |
+A>dF>d A>d (3fed | c2 (3def g2 (3fed |\
+a>fg>e (3fed e>c | A<dd>^c d2 |]
+X: 2
+T: Shamrock, The
+Z: ceolachan
+S: https://thesession.org/tunes/6532#setting18220
+R: strathspey
+M: 4/4
+L: 1/8
+K: Ddor
+|: dcAB cBcA | GEGA c4 |\
+dcAB cBcA | GEcE D2 D2 :|
+Dddd dfed | cde^f gefd |\
+Addd defd | edcB A2 A2 |
+Ad ~d2 Ad ~d2 | cde^f g2 fg |\
+A^fge =fdec | Addc d4 |]
+X: 3
+T: Shamrock, The
+Z: ceolachan
+S: https://thesession.org/tunes/6532#setting18221
+R: strathspey
+M: 4/4
+L: 1/8
+K: Ddor
+|: FA |dcAB cBcA | GEGA c2 Ac |\
+dcAB c2 cA | GEcE D2 :|
+FG |Addc dfed | cde^f ge=fd |\
+Addc d2 fd | edcB A2 GE |
+Dd d/d/d Ad d/d/d | cde^f g2 =fg |\
+a2 ge f2 ec | Addc d2 |]

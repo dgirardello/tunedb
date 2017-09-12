@@ -1,0 +1,36 @@
+X: 1
+T: Far From Home
+Z: fidicen
+S: https://thesession.org/tunes/1164#setting1164
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+|:GEDE G3A|B2BA Bcd2|GEDE G3B|AGAB AGE2|
+GEDE G2GA|B2BA Bcd2|edef gedc|BGAF G4:|
+|:g3e f3d|edef edB2|gedB G2GB|AGAB AGE2|
+GEDE G2GA|B3A Bcd2|edef gedc|BGAF G4:||
+X: 2
+T: Far From Home
+Z: Tøm
+S: https://thesession.org/tunes/1164#setting14432
+R: reel
+M: 4/4
+L: 1/8
+K: Amaj
+|:AFEF A3B|c2cB cde2|AFEF A3c|B3c BAFB|
+AFEF A3B|c2cB cde2|fefg afed|1cABG A4:|2cABG A2fg|
+|:a3f g3e|f3g fece|afec A3c|B3c BAFB|
+AFEF A3B|c2cB cde2|fefg afed|cABG A4:|
+X: 3
+T: Far From Home
+Z: Moxhe
+S: https://thesession.org/tunes/1164#setting27424
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+(BA)|GEDE G2 (GA)|B2 ~(BA) (Bc) d2|GEDE G2 (GB)|AGAB AGEF|
+~(GE)(DE) G2 GA|B2 ~(BA) (Bc) d2|edef gedc|BGAF G2||
+(3def|g2 ~(ge) f2 (fd)|edef edBd|~(ge)dB G2 B2|~(AG)AB AG E2|
+~(GE)DE G2 GA|B2 ~(BA) (Bc) d2|edef gedc|BGAF G2||

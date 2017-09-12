@@ -1,0 +1,72 @@
+X: 1
+T: Andy Renwick's Ferret
+Z: Will Harmon
+S: https://thesession.org/tunes/439#setting439
+R: reel
+M: 4/4
+L: 1/8
+K: Ador
+|:cA (3AAA ABcd|eaag agef|gd (3ddd egde|degd egdB|
+cA (3AAA ABcd|eaag agef|gd (3ddd efgd|1 edgB A2 AB:|2 edgB A2 Bd||
+eaag ageg|a2 ag agef|gd (3ddd egde|degd egdg|
+eaag ageg|a2 ag agef|gd (3ddd efgd|edgB A2 Bd|
+eaag ageg|a2 ag agef|gd (3ddd egde|degd egdB|
+cA (3AAA ABcd|eaag agef|gd (3ddd efgd|edgB A2 AB||
+|:cA (3AAA A2 cA|(3AAA cA agef|gd (3ddd ^cdcd|(3ddd ^cd cddB|
+cA (3AAA A2 cA|(3AAA cA agef|gd (3ddd efgd|1 edgB A2 AB:|2 edgB A2 Bd||
+eaag ageg|ageg ~a3 f|gd (3ddd eggd|^cdgd eggd|
+eaag ageg|ageg ~a3 f|gd (3ddd efgd|edgB A2 Bd|
+eaag ageg|ageg ~a3 f|gd (3ddd eggd|^cdgd eggd|
+cA (3AAA A2 cA|(3AAA cA agef|gd (3ddd efgd|edgB A2 AB|
+X: 2
+T: Andy Renwick's Ferret
+Z: JACKB
+S: https://thesession.org/tunes/439#setting22885
+R: reel
+M: 4/4
+L: 1/8
+K: Ador
+|:cA A2 ABcd|eaag agef|gd d2 egdg|(Bcd) gd egdB|
+|cA A2 ABcd|eaag agef|gd d2 efge|1 dBGB A2 AB:|2 dBGB A2 Bd||
+|eaag ageg|a2 ag agef|gd d2 egdg|(Bcd) gd egdg|
+|eaag ageg|a2 ag agef|gd d2 efge|dBGB A2 Bd|
+|eaag ageg|a2 ag agef|gd d2 egdg|(Bcd) gd egdB|
+|cA A2 ABcd|eaag agef|gd d2 efge|dBGB A2 AB||
+|:cA A2 A2 cA|cA A2 agef|gd d2 ^cd^cd|d2 ^cd^cd dB||
+|cA A2 ABcd|eaag agef|gd d2 efge|dBGB A3||
+X: 3
+T: Andy Renwick's Ferret
+Z: Naomi
+S: https://thesession.org/tunes/439#setting24545
+R: reel
+M: 4/4
+L: 1/8
+K: Ador
+|:cA A2 ABcd|eaag agef|gd d2 egdg|^cd gd egdB|
+|cA A2 ABcd|eaag agef|gd d2 efge|1 dBgB A2 AB:|2 dBgB A2 Bd||
+|eaag ageg|a2 ag agef|gd d2 egdg|^cd gd egdg|
+|eaag ageg|a2 ag agef|gd d2 efge|dBgB A2 Bd|
+|eaag ageg|a2 ag agef|gd d2 egdg|^cd gd egdB|
+|cA A2 ABcd|eaag agef|gd d2 efge|dBgB A2 AB||
+|:cA A2 A2 cA|A2 cA agef|gd d2 ^cd^cd|d2 ^cd^cd dB||
+|cA A2 A2 cA|A2 cA agef|gd d2 efge|dBgB A4:|
+|eaag ageg|ageg a3 f|gd d2 eggd|^cdgd eggd|
+|eaag ageg|ageg a3 f|gd d2 efge|dBgB A4|
+|eaag ageg|ageg a3 f|gd d2 eggd|^cdgd eggd|
+|cA A2 A2 cA|A2 cA agef|gd d2 efge|dBgB A4||
+X: 4
+T: Andy Renwick's Ferret
+Z: JACKB
+S: https://thesession.org/tunes/439#setting27978
+R: reel
+M: 4/4
+L: 1/8
+K: Edor
+|:GE E2 EFGA|Beed edBc|dA A2 BdAd|(FGA) dA BdAF|
+|GE E2 EFGA|Beed edBc|dA A2 BcdB|1 AFDF E2 EF:|2 AFDF E2 FA||
+|Beed edBd|e2 ed edBc|dA A2 BdAd|(FGA) dA BdAd|
+|Beed edBd|e2 ed edBc|dA A2 BcdB|AFDF E2 FA|
+|Beed edBd|e2 ed edBc|dA A2 BdAd|(FGA) dA BdAF|
+|GE E2 EFGA|Beed edBc|dA A2 BcdB|AFDF E2 EF||
+|:GE E2 E2 GE|GE E2 edBc|dA A2 ^GA^GA|A2 ^GA^GA AF||
+|GE E2 EFGA|Beed edBc|dA A2 BcdB|AFDF E3||

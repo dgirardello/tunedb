@@ -1,0 +1,56 @@
+X: 1
+T: Tobin's Favourite
+Z: Jdharv
+S: https://thesession.org/tunes/308#setting308
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+AF|DFA dcd|ecA cde|fdf gfg|ecA GFE|
+DFA dcd|ecA cde|(4fgaf gec|edc d:||
+d2|dfa agf|(4efge efg|fdf gfg|ecA GFE|
+DFA dcd|ecA cde|(4fgaf gec|edc d:||
+X: 2
+T: Tobin's Favourite
+Z: daiv
+S: https://thesession.org/tunes/308#setting13072
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+F|DFA dcd|ecA cde|fdf gfg|ecA GFE|
+X: 3
+T: Tobin's Favourite
+Z: Will Harmon
+S: https://thesession.org/tunes/308#setting13073
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+|:DFA dcd|ecA efg|~f3 gfg|ecA GFE||DFA dB/c/d|ecA efg|faf gec|1 edc d2 A:|2 edc d2 e|||:~f3 fga|efg efg|~f3 ~g3|ecA GFE||DFA dcd|ecA efg|f/g/af gec|1 edc d2 e:|2 edc d2 A||
+X: 4
+T: Tobin's Favourite
+Z: ACW
+S: https://thesession.org/tunes/308#setting13074
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+| DFA dcd | ecA cde | [fd]3 [gB]3 | ecA GFE |
+X: 5
+T: Tobin's Favourite
+Z: slainte
+S: https://thesession.org/tunes/308#setting24194
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+|:E|D2G GFG|A2G FGA|BAB cBc|A2G FGE|
+D2G GFG|A2G FGA|BAB cAF|AGF G2:|
+|:c|B2d dcB|ABc ABc|BAB cBc|A2G FGE|
+D2G GFG|A2G FGA|BAB cAF|AGF G2:|
+K: Dmaj
+|:B|A2d dcd|e2d cde|fef gfg|e2d cdB|
+A2d dcd|e2d cde|fef gec|edc d2:|
+|:g|f2a agf|efg efg|fef gfg|e2d cdB|
+A2d dcd|e2d cde|fef gec|edc d2:|

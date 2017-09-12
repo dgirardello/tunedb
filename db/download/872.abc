@@ -1,0 +1,171 @@
+X: 1
+T: Fisher's
+Z: Doc Lawlor
+S: https://thesession.org/tunes/872#setting872
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Gmaj
+(3def|:gdBd cedc|BGBd cedc|BGBd Bedc|
+BdcB AB (3def|gdBd cedc|BGBd cedc|
+defg agfa|1 g2 b2 g2 (3def:|2 g2 b2 g2 fg||
+|:afdg afdg |bgdg bgdg|afdf ad'_d'b|
+agfe dg=fg|ecGc egfe |dBGB dgfe|
+defg fgaf|1 g2 b2 g2 fg:|2 g2 b2 g2||
+X: 2
+T: Fisher's
+Z: fidicen
+S: https://thesession.org/tunes/872#setting14043
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Fmaj
+c2|fcAc BdcB|AcAc BdcB|AcFc BdGd|AcFA G2 (3cde|fcAc BdcB|AcFc BdcB|ABcd efge|f2a2 f2:||:ef|gece gebg|afcf afba|gece gaba|gfed c2Bc|dBFB dBfd|cAFA cAfc|dfed cBAG|F2A2 F2:||
+X: 3
+T: Fisher's
+Z: fidicen
+S: https://thesession.org/tunes/872#setting1322
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Gmaj
+|:d2|gdBG cedc|BGBd cedc|Bbgb Acac|Bbgb Aafa|
+gdBG cedc|BGBd cedc|Bdce dfac'|bagf g2:|
+|:d2|afdf afc'a|bgdg bgd'b|afdf afc'b|agfe e2d2|
+ecGc ecge|dBGB dBge|dafd dcBA|G2B2 G2:||
+X: 4
+T: Fisher's
+Z: fidicen
+S: https://thesession.org/tunes/872#setting14044
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Fmaj
+c2|fcAd BdcB|AFAc BdcB|AFAF BGBG|AFAF G3d|fcAd BdcB|AFAF BdcB|Acfa bgeg|f2f2 f2:||:ef|gece gebe|gece g2ga|gfed c2 ^c2|dBFB dBfd|cAFA cAfc|dfed cBAG|F2f2 f2:||
+X: 5
+T: Fisher's
+Z: DonaldK
+S: https://thesession.org/tunes/872#setting14045
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Fmaj
+fe|:fcAc BdcB|AFcF BdcB|AFcF BABG|AGAF G2fe|fcAc BdcB|AFcF BdcB|ABcd ebge|[1 f2fe fgfe:|[2 f2fe f2ef|gece gebg|afcf afef|gece geba|gfed c2(3ABc|dBFB defd|cAFA cAec|dfed cBAG|F2f2 (3fgf ef|gece gebg|afcf afef|gece g^fga|gfed c2fe|dBFB defd|cAFA cAec|dfed cBAG| F2fe fgfe||
+X: 6
+T: Fisher's
+Z: dfay
+S: https://thesession.org/tunes/872#setting6861
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Dmaj
+(3ABc |dAFD GBAG |FGEF GBAG |AFDA BGEB |AFDA BABc|
+dA (3FED GBAG |(3FGF EF GBAG|FA (3cBA dBcd|ed{e}dc d2 (3ABc|
+dAFD GBAG |FAFD GBAG|FDDF GEEG|FDDF EDB,c|
+dAFD GBAG |(3FED {G}FD GBBG| ABcA ecAc |ed{e}dc d2 cd|
+ecAc efge|f ~d3 fagf|ecAc efge|(3efe (3dcB A2Ac|
+BGDG BcdB|AFDF ABcA|(3Bcd ef gecd|edce d2 cd|
+ecAc efge|f ~d3 adfd|ecAc efge|(3efe (3dcB A~c3|
+B ~G3 dGBG|AFDF ABcA|(3Bcd cB AGFE|(3DED CE D2 (3ABc|
+dAFD GBAG|FGEF GBAG |AFDF BGEG |AFDF GECE|
+dAFD GBAG|(3FED (3FED GBAG|ABcA {a}gecd|ed{e}dc d2 (3ABc|
+dAFD GBAG |FAFD GBAG|FDDF GEEG|FDDF EDB,c|
+dAFD GBAG|FAFD GBAG|FA (3cBA dBcd|ed{e}dc d2
+X: 7
+T: Fisher's
+Z: MrSporre
+S: https://thesession.org/tunes/872#setting14046
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Gmaj
+(3ABc|:"D"dAFD "G"GBAG|"D"FEDF "G"GBAG|"D"FDFD "A7"GBAG|"D"FGAF "A7"E2(3ABc|"D"dAFD "G"GBAG|"D"FEDF "G"GBAG|"D"FGAd "A7"cdec|1"D"(3dcB AF D2 (3ABc:|2"D"(3dcB AF D2 cd|"A7"ecAc egfe|"D"fdAd fagf|"A"ecAc egfe|"E7"d2 B2 A2 A_B|"G"BGDG BdcB|"D"AFDF A2 _B2|"G"BGBd "A7"cdec||1"D"(3dcB AF D2 cd:|2"D"(3dcB AF D2 ||
+X: 8
+T: Fisher's
+Z: LongNote
+S: https://thesession.org/tunes/872#setting14047
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Dmaj
+|:(3ABc|dAFD GBAG|FEFA dFGE|FAdc dcBA|BGEF GABc||dAFD GBAG|FEFA dFGE|FA (3def gecd|eddc d2:||:dg|fAdc dfaf|ed (3Bcd efge|fAdc dfaf|(3gfe (3dcB ADFA||BG~G2 BG (3Bcd|AF (3ABc defd|(3ABA fd Bgec|eddc d2:|
+X: 9
+T: Fisher's
+Z: ceolachan
+S: https://thesession.org/tunes/872#setting14048
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Dmaj
+|: (3ABc |"D" dAFD "G" GBAG | "D" FDFD "G" GBAG | "D" FDFD "G" GBAG | "D" FDFD "A" E2 (3ABc |
+"D" dAFD "G" GBAG | "D" FDFD "G" GBAG | "D" FGAB cdec | d2 d/e/d/c/ d2 :|
+|: cd |"A" ecAc efge | "D" fdAd fgaf | "A" ecAc efgf | edcB A2 A2 | "D" BGDG BdcB |
+"G" AFDF A2 GA | "D" BdcB "A" AGFE | "D"D2 d2 D2 :|
+X: 10
+T: Fisher's
+Z: kinga
+S: https://thesession.org/tunes/872#setting20909
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Dmaj
+(3ABc|dAFD GBAG|FDFA GBAG|FDFA GEGB|AFDF E2 (3ABc|
+dAFD GBAG|FDFA GBAG|FA (3def gece|d2dc d2:||
+cd|ecAc egfe|fdAd fagf|ecAc efgf|(3efe (3dcB A2 dc|
+BGDG BdcB|AFDF A2d2|cdef gece|d2dc d2:||
+X: 11
+T: Fisher's
+Z: Dalta na bPíob
+S: https://thesession.org/tunes/872#setting23435
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Dmaj
+(3gfe|dA FA GBAG|FEFD GBAG|FEFD GFGE|FEFD E2 (3ABc|
+dAFA GBAG|FEFD GBAG|FA df gecA|d2 dc d2 (3gfe|
+dA (3FGA GBAG|(3FFF (3AGF GBAG|FFFD GGGE|FFFA E2 (3ABc|
+dcdA GBAG|FDDA GBAG|(3FGA df (3gfe dc|(3dAF (3DFA d2||
+(3Bcd|ecAc egfe|fdAd fagf|ecAc ecgf|(3efe (3dcB A2 (3FGA|
+BGDG BdcB|AFDF AD (3FGA|(3Bcd cB (3ABA (3GFE|(3DDD (3DDD D2 (3Bcd|
+ecAc eege|fdAd ffaf|eeef gefd|(3efe (3dcB (3ABA (3GFE|
+BGDG BB (3dcB|AFDF AD (3FGA|(3Bcd cB (3ABA (3GFE|(3DDD (3DDD D4||
+X: 12
+T: Fisher's
+Z: hetty
+S: https://thesession.org/tunes/872#setting24434
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Dmaj
+A2 |: dAFA GBAG | FAFA GBAG | FDFD GEGE | FDFD A,3A |
+dAFA GBAG | FAFA GBAG | FAdf fedc|1 d2d2 d3A :|2 d2d2 d3d ||
+|: ecAc ecge| fdAd fdaf | ecAc ecge | fdcB Adcd |
+BGEG BdcB | AFDF AFdc | BdcB AGFE |1 D2D2 D3d :|2 D2D D4 ||
+X: 13
+T: Fisher's
+Z: Mix O'Lydian
+S: https://thesession.org/tunes/872#setting26307
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Dmaj
+|: dAFD GBAG | FEDF GBAG | FDFD GEGE | FDFD EABc |
+dAFD GBAG | FAFA GBAG | FdBg fdec | d2 d2 d4 :|
+|: ecAc ecge | fdAd fdaf | ecAc ecge | edcB A4 |
+BGDG BGdB | AFDF AFdA | BGdB AFGE | D2 D2 D4 :|
+X: 14
+T: Fisher's
+Z: JACKB
+S: https://thesession.org/tunes/872#setting27362
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Dmaj
+|:(3ABc|dAFA GBAG|FEFD GBAG|FEFD GFGE|FEFD E2 (3ABc|
+dAFA GBAG|FEFD GBAG|FAdf gecd|eddc d2 (3gfe|
+dAFA GBAG|(3FED (3FED GBAG|fAfA eAeA|fAfA e2 (3ABc|
+dAFA GBAG|FD D2 GBAG|(3FGA df gecd|eddc d3f||
+|:eA A2 efge|fdde fdgf|eA A2 efgf|(3efe (3dcB Addc |
+BG G2 BcdB|AD D2 ABcB|Acef (3gfe cd|eddc d3f |
+eA A2 eAfA|fd d2 fdgf|eA A2 efgf|(3efe (3dcB Addc|
+BG G2 BDGB|AD D2 ADFA|Acef (3gfe cd|eddc d4||

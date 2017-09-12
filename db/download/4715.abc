@@ -1,0 +1,45 @@
+X: 1
+T: A Highland Quickstep
+Z: ceolachan
+S: https://thesession.org/tunes/4715#setting4715
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+BA |GDG BGB | dBd g3 | f3 e2 c | A3 A2 G |
+FDF AFA | cAc f3 | e3 edB | G3 GBA |
+GDG BGB | dBd gag | f3 e2 c | e3 e2 f |
+gag fed | edB GBd | ede f2 d | g3 ||
+Bc^c |d^cd edB | d^cd edB | GBd f2 e | c3 c2 d |
+e^de fec | e^de fec | FAc e2 d | B2 ^A Bc^c |
+d^cd edB | d^cd edB | GBd gf=f | e3 e2 f |
+gag fed | edB GBd | e^de f2 =d | g3 ||
+g2 a |bfa g2 f | gfg d2 B | gfg bgd | c3 cBA |
+DFA DFA | DFA f3 | e3 edB | G3 GBd |
+bfa g3 | gfg d3 | gfg bgd | c3- c3 |
+DFA D2 A | DFA f2 e | e^de e=dB | G3- G |]
+X: 2
+T: A Highland Quickstep
+Z: Donough
+S: https://thesession.org/tunes/4715#setting17225
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+((3D/E/F/) | GDG BGB | dBd g2g | f2e efe | A3 A((3EFG) |AFA cAc | ece f2f | f2e efe | B3- B((3DEF) |GDG BGB | dBd g2g | f2e efe | a3 a2f/g/ |a>ba agf | gag gfe | fed c2e | d3 d2 :||: d/e/ | fgf a2e | f2a d2c/d/ | efe edc | d3- d2c/d/ |efe ede | fgf fef | gag- gfg | a3- a2d/e/ |fgf g2e | f2a d2c/d/ | e2e ede | a3- a2f/g/ |a>ba agf | g>ag gfe | ged c2e | d3 d2 :|
+X: 3
+T: A Highland Quickstep
+Z: ceolachan
+S: https://thesession.org/tunes/4715#setting17226
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+B>A |GDG BGB | dBd gag | f3 e2 c | A3- A2 G |
+FDF AFA | cAc fgf | e3 edB | G3- GBA |
+GDG BGB | dB/c/d gag | f3 e2 c | e3- e2 f |
+gag fed | edB GB/c/d | e^de f2 =d | g3- ||
+g2 a |bfa g2 f | gfg d2 B | gfg bgd | c3- cBA |
+DFA DFA | DFA f3 | e3 edB | G3- GB/c/d |
+bfa g3 | gfg d3 | gfg bgd | c3- c3 |
+DFA D2 A | DFA fgf | e3 edB | G3- G |]

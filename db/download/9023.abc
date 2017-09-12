@@ -1,0 +1,41 @@
+X: 1
+T: Humours Of Glynn, The
+Z: Kilcash
+S: https://thesession.org/tunes/9023#setting9023
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+|: A | def A2A | DFA AFA | def A2A | DFA B2A |
+def A2A | DFA AFA | GBG FAF | EFA B2 :|
+|: A | dfd fdB | cec ecA | dfd fdB | AFA B2A |
+[1 dfd fdB | cec ecA | dcB cAF | EFA B2 :|
+[2 dfd cec | BdB AGF | GBG FAF | EFA B2 ||
+X: 2
+T: Humours Of Glynn, The
+Z: JACKB
+S: https://thesession.org/tunes/9023#setting25159
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+|: A | def A3 | D3 AFA | def A3| DFA B2A |
+df/g/d A3 | D3 AFF | Gc/A/G Fc/A/F | EFA B2A :|
+|: df/g/d fdB | cf/g/c ecA | df/g/d fdB | AFA B2A |
+dg/f/d fdB | cf/g/c ecA | dcB AGF | EFA B2A |
+df/g/d fdB | cf/g/c ecA | df/g/d fdB | AFA B2A
+df/g/d cf/g/c | Bf/g/B Af/g/A | Gc/A/G Fc/A/F | EFA B2A ||
+X: 3
+T: Humours Of Glynn, The
+Z: billwolfe
+S: https://thesession.org/tunes/9023#setting29158
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+|: def A2A | DFA AFA | def A2A | DFA B2A |
+def A2A | DFA AFD | GBG FAF | EFA B2 A:|
+|: d2 e fdB | c2 d ecA | d2 e fdB | AFA B2A |
+d2 e fdB | c2 d ecA | dcB cAF | EFA B2A|
+d2 e fdB | c2 d ecA | d2 e fdB | AFA ABc
+dfd cec | BdB AFD | GBG FAF | EFA B2 A|]

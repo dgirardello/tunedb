@@ -1,0 +1,23 @@
+X: 1
+T: Elmer Briand's
+Z: Edgar Bolton
+S: https://thesession.org/tunes/2023#setting2023
+R: reel
+M: 4/4
+L: 1/8
+K: Bmin
+fB (3BBB BAFB | AFEF ABce | fB (3BBB BAFB | Afec fBBe |
+fB (3BBB BAFB | AFEF ABce | fB (3BBB BAFB | Afec fBBe |
+(3fff fg fedf | ec (3ccc ac (3ccc | (3fff fg fedf | edce fBBe |
+(3fff fg fedf | ec (3ccc ac (3ccc | fd (3ddd ge (3eee | afec fB (3BBB |
+X: 2
+T: Elmer Briand's
+Z: Tate
+S: https://thesession.org/tunes/2023#setting23742
+R: reel
+M: 4/4
+L: 1/8
+K: Bmin
+b | "Bm"fB B/B/B {c}BAFB | "A"AFEF ABcb | "Bm"fB B/B/B {c}BAFB | "F#m"Af"A"ec "Bm"fBB :|
+e | "Bm"f2 fg "D"fedf | "A"ec c/c/c edce | "Bm"f2 fg "D"fedf | "A"edce "Bm"fBBe |
+"Bm"f2 fg "D"fedf | "A"ec c/c/c edce | "Bm"fd d/d/d "Em"ge e/e/e | "A"{b}afec "Bm"fBB |]

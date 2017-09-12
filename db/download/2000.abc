@@ -1,0 +1,72 @@
+X: 1
+T: Concert, The
+Z: dafydd
+S: https://thesession.org/tunes/2000#setting2000
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Fmaj
+F>_E|:D>Fd>F D>Fd>F|_E>Fc>F D>F d2|_e2 d>e c>d B>c|A>B G>A F2 F>_E|
+D>Fd>F D>Fd>F|_E>Fc>F D>F d2|_e2 d>e c>d B>c|1A>G (3FGA B2F>_E:|2A>G (3FGA B2B>c||
+|:d>Dc>D B>DA>D|G>DG>B d>B G2|^F>DF>A d>A F2|GDGB d>B G2|
+d>Dc>D B>DA>D|G>DG>B d>B G2|^F>DF>A d>AF>D|1G2 B2 G2 B>c:|2G2 B2 G2 F>_E||
+X: 2
+T: Concert, The
+Z: ceolachan
+S: https://thesession.org/tunes/2000#setting21401
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Cdor
+|: F>E |D>Fd>F D>Fd>F | E>Fc>F D>F d2 | e2 d>e c>dB>c | A>BG>A F2 F>E |
+D>Fd>F D>Fd>F | E>Fc>F D>F d2 | e2 d>e c>dB>c | A>G (3FGA B2 :|
+|: B>c |d>Dc>D B>DA>D | G>DG>B d>B G2 | ^F>DF>A d>A F2 | G>DG>B d>B G2 |
+d>Dc>D B>DA>D | G>DG>B d>B G2 | ^F>DF>A d>AF>D | G2 B2 G2 :|
+X: 3
+T: Concert, The
+Z: ceolachan
+S: https://thesession.org/tunes/2000#setting21402
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Dmaj
+|: A>G |F>Af>A F>Af>A | G>Ae>A F>A f2 | g2 f>g e>fd>e | c>dB>c A2 A>G |
+F>Af>A F>Af>A | G>Ae>A F>A f2 | g2 f>g e>fd>e | c>B (3ABc d2 :|
+|: d>e |f>Fe>F d>Fc>F | B>FB>d f>d B2 | ^A>FA>c f>c A2 | B>FB>d f>d B2 |
+f>Fe>F d>Fc>F | B>FB>d f>d B2 | ^A>FA>c f>cA>F | B2 d2 B2 :|
+X: 4
+T: Concert, The
+Z: ceolachan
+S: https://thesession.org/tunes/2000#setting21403
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Fmaj
+|: c2 |Acac Acac | Bcgc (Ac) a2 | b2 a>b g>af>g | e>fd>e c2 B2 |
+Acac Acac | Bcgc (Ac) a2 | b2 a>b g>af>g | e>d (3cde f2 :|
+|: A2 |a>Ag>A f>Ae>A | d>Ad>f a>fd>A | ^c>Ac>e a>ec>A | d>Ad>f a>fd>A |
+a>Ag>A f>Ae>A | d>Ad>f a>fd>A | ^c>Ac>e a>ec>A | d>Af>e d2 :|
+X: 5
+T: Concert, The
+Z: ceolachan
+S: https://thesession.org/tunes/2000#setting21404
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Dmaj
+|: A2 |F>Af>A F>Af>A | G>Ae>A (F>A) f2 | g2 f>g e>fd>e | c>dB>c A2 G2 |
+F>Af>A F>Af>A | G>Ae>A (F>A) f2 | g2 f>g e>fd>e | c>B (3ABc d2 :|
+|: F2 |f>Fe>F d>Fc>F | B>FB>d f>dB>F | ^A>FA>c f>cA>F | B>FB>d f>dB>F |
+f>Fe>F d>Fc>F | B>FB>d f>dB>F | ^A>FA>c f>cA>F | B>Fd>c B2 :|
+X: 6
+T: Concert, The
+Z: ceolachan
+S: https://thesession.org/tunes/2000#setting21405
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Dmaj
+|: (3AGE |F>Af>A F>A f2 | G>B e2 F>A d2 | g2 (3fgf e2 (3ded | (3cdc (3BcB A2 (3AGE |
+F>Af>A F>Af>A | G>Be>B F>Ad>f | (3gag f2 (3efe d2 | (3cBA (3ABc d2 :|
+|: (3cde |f>Fe>F d>Fc>F | (3B^AB (3FBd f>dB>d | (3^AcA (3FAc f>ed>c | (3B^AB (3c^Bc (3dcd (3e^de |
+(3fFF (3eFF (3dFF (3cFF | (3B^AB (3FBd f>d B2 | c>F^A>c f>ed>c | (3B^AB (3cBA B2 :|

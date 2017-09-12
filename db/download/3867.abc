@@ -1,0 +1,45 @@
+X: 1
+T: Cat In The Corner, The
+Z: edl
+S: https://thesession.org/tunes/3867#setting3867
+R: jig
+M: 6/8
+L: 1/8
+K: Dmix
+|:D|FEF DFA| dAF AFD | (3 DEF E CEG| cGE CEG|
+~F3 DFA| dAF AFD |GBG EFG|AFD D2:|
+|:e|fdd ~d3| afd def| ecc ~c3|
+[1 gec ceg|fdd ~d3| afd def|gfg eag| fdd d2:|
+[2 gec efg|afa geg|fdf e^cA|GBG EFG|AFD D2 ||
+X: 2
+T: Cat In The Corner, The
+Z: LH
+S: https://thesession.org/tunes/3867#setting16784
+R: jig
+M: 6/8
+L: 1/8
+K: Dmix
+D2E|:F~F2 DFA|dAF AFD|E~E2 cEG|cGE cEG| F~F2 DFA|dAF AFD|G~G2 EFG|1 AFD D2E:|2 AFD D2e|| |ffd d^cd|AFd def|eec cBc|GEG ceg| ffd d^cd|AFd def|g~g2 efg|afd d2e|| |f~f2 dAd|afd def|e2c cBc|geG ceg| agf gz e|fed cAF|G~G2 EFG|AFD D3||
+X: 3
+T: Cat In The Corner, The
+Z: Pontus Adefjord
+S: https://thesession.org/tunes/3867#setting16785
+R: jig
+M: 6/8
+L: 1/8
+K: Amix
+|:c2A AcA|ecA AB=c|B2G GBG|dBG Bcd|c2A AcA|ecA ABc|ded Bcd|ecA A2d:||:c2a a^ga|efe edc|B2g gfg|ded dcB|c2a a^ga|efe edc|ded Bcd|ecA A2d:|
+X: 4
+T: Cat In The Corner, The
+Z: Torc
+S: https://thesession.org/tunes/3867#setting27228
+R: jig
+M: 6/8
+L: 1/8
+K: Dmix
+|:F~F2 DFA|dAF AFD|E~E2 cEG|cGE cEG|
+F~F2 DFA|dAF AFD|G~G2 EFG|1 AFD D2E:|2 AFD D2e||
+|ffd d^cd|afd def|eec cBc|gec ceg|
+ffd d^cd|afd def|g~g2 efg|afd d2e||
+|ffd d^cd|afd def|eec cBc|gec ceg|
+agf gz e|fed cAF|G~G2 EFG|AFD D3||

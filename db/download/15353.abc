@@ -1,0 +1,28 @@
+X: 1
+T: First Trout, The
+Z: billwolfe
+S: https://thesession.org/tunes/15353#setting28641
+R: jig
+M: 6/8
+L: 1/8
+K: Emix
+B,|: EFE DB,A,| B,E^D E2 E |F/=G/AB cdd| BAF CDD|
+dAF dAF | =GFE DB,A, | G,A,B, DB,A, |[1 B,E^D E2 B, :|[2B,E^D EGB|]
+|:eBG GAA|EFE DB,A,|eBc cdd |dAF dAF |
+eBG GAA|EFE DB,A,| G,A,B, DB,A, |[1 B,E^D EGB :|[2B,E^D EG,A,|]
+|:B,2 E B,EE| B,EB, DCD | B,EE B,EE |F/=G/AB cdd|
+dAF dAF | =GFE DB,A, | G,A,B, DB,A, |[1 B,E^D EG,A, :|[2B,E^D E2B,|]
+X: 2
+T: First Trout, The
+Z: billwolfe
+S: https://thesession.org/tunes/15353#setting28642
+R: jig
+M: 6/8
+L: 1/8
+K: Amix
+E|: ABA GED| EA^G ~A3 |B/2c/2de ~g3| edB ~G3|
+gdB gdB | =cBA GED | CDE GED | [1 EA^G A2 E :| [2EA^G Ace|
+|:aec cdd|ABA GED|aef ~g3 |gdB gdB |
+aec cdd|ABA GED| CDE GED | [1 EA^G Ace :| [2EA^G ACD|
+|:E2 A EAA| EAE ~G3 | EAA EAA |B/2c/2de ~g3|
+gdB gdB | =cBA GED | CDE GED | [1 EA^G ACD :| [2EA^G A2 E|]

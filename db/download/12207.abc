@@ -1,0 +1,48 @@
+X: 1
+T: Barrington
+Z: ceolachan
+S: https://thesession.org/tunes/12207#setting12207
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Gmaj
+|: B>c |d<bg>d B>gd>B | G>ec>A F>dB>G | D>EF>G A>Bc>d | e>d^c>d A2 B>=c |
+d<bg>d B>gd>B | G>ec>A F>dB>G | D>EF>G A>ed>F | G2 B2 G2 :|
+|: B>c |d>^cd>B G>Bd>g | e>^de>c G>ce>g | d>bc>a B>gA>G | F>ed>^c (3d/e/d2 B>=c |
+d>^cd>B G>Bd>g | e>^de>c G>ce>g | d>gf>e (3ded (3cBA | (3GBd (3gdB G2 :|
+X: 2
+T: Barrington
+Z: ceolachan
+S: https://thesession.org/tunes/12207#setting23647
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Gmaj
+|: Bc |d>bg>d B>gd>B | G>ec>A F>dB>G | D>EF>G ABcd | ed^cd A2 B=c |
+d>bg>d B>gd>B | G>ec>A F>dB>G | .D.E.F.G A>ed>F | G2 B2 G2 :|
+|: Bc |d^cdB G>Bd>g | e^dec A>ce>g | dbca BgAG | F>ed>^c d2 B=c |
+d/e/d/^c/dB G>Bd>g | e^dec Aceg | dgfe (3ded (3cBA | (3GBd (3gdB G2 :|
+X: 3
+T: Barrington
+Z: ceolachan
+S: https://thesession.org/tunes/12207#setting23648
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Gmaj
+|: B>c |d<bg>d B<gd>B | G<ec>A F>dB>G | D>EF>G A>Bc<d | e>d^c>d A2 B>=c |
+d<bg>d B<gd>B | G<ec>A F>dB>G | D>EF>G A>ed<F | G2 B2 G2 :|
+|: (3ABc |d>^cd>B G>Bd>g | e>^d>ec G>ce>g | d>bc>a B>gA>G | F<ed>^c d2 B>=c |
+d>^cd>B G>Bd>g | e>^de>c G>ce>g | d>gf>e (3ded (3cBA | (3GBd (3gdB G2 :|
+X: 4
+T: Barrington
+Z: ceolachan
+S: https://thesession.org/tunes/12207#setting23649
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Gmaj
+|: B>c |d>bg>d B>gd>B | G>ec>A F>dB>G | D>EF>G A>Bc>d | e>d^c<d A2 B>=c |
+d>bg>d B>gd>B | G>ec>A F>dB>G | D>EF>G A>ed>F | G2 B2 G2 :|
+|: B>c |d>^cd>B G>Bd>g | e>^de>c G>ce>g | d>bc>a B>gA>G | F>ed>^c d2 B>=c |
+d/e/d/^c/d>B G>Bd>g | e>^de>c A>ce>g | d>gf>e (3ded (3cBA | (3GBd (3gdB G2 :|

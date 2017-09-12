@@ -1,0 +1,33 @@
+X: 1
+T: Earl Of Breadalbane
+Z: dancarney84
+S: https://thesession.org/tunes/13439#setting23710
+R: reel
+M: 4/4
+L: 1/8
+K: Emin
+|e|:(3EEE EF B3^c|dBAd FDAF|(3EEE EF B3 g|fdB^d e3f:|
+|gfef gfeg|feda fadf|gfef gfeg|fdB^d e3f|
+|gfef gfeg|feda fadf|gbeg bgeg|fdB^d e3f|]
+X: 2
+T: Earl Of Breadalbane
+Z: dancarney84
+S: https://thesession.org/tunes/13439#setting23711
+R: reel
+M: 4/4
+L: 1/8
+K: Emin
+|e|:(3EEE (EF) (~B3^c)|{^c}dBAd {G}FDAF|(3EEE (EF) ~B3 g|fdB^d ~(e3f):|
+|{f}(gf)ef {f}(gf)eg|~(fe)(da) fadf|{f}(gf)(ef) {f}gfeg|fdB^d ~(e3f)|
+|{f}(gf)ef {f}(gf)eg|~(fe)da fadf|gbeg bgeg|fdB^d ~(e3f)|]
+X: 3
+T: Earl Of Breadalbane
+Z: dancarney84
+S: https://thesession.org/tunes/13439#setting23712
+R: reel
+M: 4/4
+L: 1/8
+K: Emin
+B|:(3EEE (EF) B3(^c|dB)Ad FDAF|(3EEE (EF) B3 g|fdB^d e3(f:|
+|gf)e(f gf)e(g|fe)d(a fa)d(f|gf)e(f gf)eg|fdB^d e3|
+(f|gf)e(f gf)e(g|fe)d(a fa)d(f|gf)eg bge(g|fd)B^d e3f|]

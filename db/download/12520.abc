@@ -1,0 +1,42 @@
+X: 1
+T: Breton Air
+Z: ndlxs
+S: https://thesession.org/tunes/12520#setting21018
+R: waltz
+M: 3/4
+L: 1/8
+K: Amin
+|:EG|"Am"A3c BG|A4GA|"C"c3d(3edc|"G"d4cd|"Am"e2a2e2|"Dm"f4ed|1"Am"c2A2AB|"G"G4:|2"Am"c2A2"Am"G2|A4e2||
+|:"Am"a3 b ag|a4ba|"C"g2e2^f2|"G"g4e2|"Am"e2a2e2|"Dm"f4ed|1c2A2AB|"G"G4e2:|2"Am"c2A2"G"G2|"Am"A4||
+X: 2
+T: Breton Air
+Z: P I
+S: https://thesession.org/tunes/12520#setting21896
+R: waltz
+M: 3/4
+L: 1/8
+K: Emin
+[V:F1] E | "Em" E>G/F "D"EDE | "A" G>A/ B/G/ "C" A2 G/A/ | "Em" BeB "C" cBA | "Em" G>E/ E "D" D2 D |
+"Em" E>G/F EDE | "G" G>A/ B/G/ "D" A2 G/A/ | "Em" BeB "Am" cBA | "Em" GE"D"D "Em" E2 D|
+"Em" E>G/F EDE | "G" G>A/ B/G/ "D" A2 G/A/ | "Em" BeB "Am" cBA | "Em" GEE "D" D2 d |
+"Em" e>g/f ede | "G" g>f/e "D" f2 e/f/ | "Em" gab "Am" agf | "Em" e2"D"d "Em" e2 |]
+[V:F2] z | z6 | z6 | z6 | z3 z2 F |
+G2A GFG | BAG F3 | G3 c3 | BGF G2 F |
+G2A GFG | BAG F3 | G3 c3 | B2 G F2 F |
+G2A GFG | BAG F3 | G3 c3 | BGF G2 |]
+X: 3
+T: Breton Air
+Z: P I
+S: https://thesession.org/tunes/12520#setting21897
+R: waltz
+M: 3/4
+L: 1/8
+K: Emin
+[V:F1] E2 | "Em" E2 > G F2 | "D"E2 D2 E2 | "A" G2 > A BG | "C" A4 GA | "Em" B2 e2 B2 | "C" c2 B2 A2 | "Em" G2>E E2 | "D" D4 D2 |
+"Em" E2 > G F2 | E2 D2 E2 | "G" G2 > A BG | "D" A4 GA | "Em" B2 e2 B2 | "Am" c2 B2 A2 | "Em" G2 E2 "D" D2 | "Em" E4 D2|
+"Em" E2 > G F2 | E2 D2 E2 | "G" G2 >A BG | "D" A4 GA | "Em" B2 e2 B2 | "Am" c2 B2 A2 | "Em" G2 E2 E2 | "D" D4 d2 |
+"Em" e2>g f2 | e2 d2 e2 | "G" g2>f e2 | "D" f4 ef | "Em" g2 a2 b2 | "Am" a2 g2 f2 | "Em" e4"D"d2 | "Em" e4 |]
+[V:F2] z2 | z6 | z6 | z6 | z6 | z6 | z6 | z6 | z4 F2 |
+G4 A2 | G2 F2 G2 | B2 A2 G2 | F6 | G6 | c6 | B2 G2 F2 | G4 F2 |
+G4 A2 | G2 F2 G2 | B2 A2 G2 | F6 | G6 | c6 | B4 G2 | F4 F2 |
+G4 A2 | G2 F2 G2 | B2 A2 G2 | F6 | G6 | c6 | B2 G2 F2 | G4 |]

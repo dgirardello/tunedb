@@ -1,0 +1,61 @@
+X: 1
+T: Donegal Tinker, The
+Z: banjoscout
+S: https://thesession.org/tunes/1770#setting1770
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+d4cAGc|AddB cAGc |Addc AdcA|GEED CDEG |
+Ad (3ddd fd (3ddd|adfd cAGc | Ad (3ddc AdcA |GE (3EED CDEG |
+AD (3DDD A,D (3DDD|ADAd cAGc| ADFA (3EEE EG|AdcA G4|
+AD (3DDD A,D (3DDD |ADAd cAGc| ADFA (3EEE EG|AdcA GcAG |
+Ad (3ddd c2Ac |dA (3AAA afgf|Ad d2c3A |cdefg2 fg|
+d4c2Ac|d2 (3AAA afgf|Ad d2c3A|(3Bcd efg2 fg|
+ad (3ddd adbd |ad (3ddd adgd|ad (3ddd ad gd|^cdef g2fg|
+a2 (3ddd bd (3ddd |adfg adfg |abaf gfed |^cdef gefe|
+X: 2
+T: Donegal Tinker, The
+Z: Zina Lee
+S: https://thesession.org/tunes/1770#setting15215
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+d|d|dB cAGc|Addc AGEG |Addc AdcA|GEED CDEG |Ad (3ddd fd (3ddd|Addc AGEG | Addc AdcA |GEED CDEG ||AD (3DDD A,DDA|AGAB c2 Bc| ADDD A,CEG|AdcA {F}G4|AD (3DDD A,DDA|AGAB c2 Bc| ADDD A,CEG|AdcA {F}G4||d|d|d B c|c|c A |dAAA afga|d|d|d B c|c|c A |Bcef g2 fe|{c}d|d|d B c|c|c A |dAAA afga|d|d|d B c|c|c A |Bcef gg fg ||aadd adbd | aada dggd |aada-abad |cdef ggfg|ad (3ddd adbd|adda-adge|abae gage |cdef gefe||
+X: 3
+T: Donegal Tinker, The
+Z: Zina Lee
+S: https://thesession.org/tunes/1770#setting15216
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+dddB cAGc|Addc AGEG |Addc AdcA|GEED CDEG |Ad (3ddd fd (3ddd|Addc AGEG | Addc AdcA |GEED CDEG ||AD (3DDD A,DDA|AGAB c2 Bc| ADDD A,CEG|AdcA {F}G4|AD (3DDD A,DDA|AGAB c2 Bc| ADDD A,CEG|AdcA {F}G4||dddB ccc A |dAAA afga|dddB cccA |Bcef gg fe|{c}dddB ccc A |dAAA afga|dddB cccA |Bcef gg fg ||aadd adbd | aada dggd |aada- abad |cdef ggfg|ad (3ddd adbd|adda- adge|abae gage |cdef gefe||
+X: 4
+T: Donegal Tinker, The
+Z: Dr. Dow
+S: https://thesession.org/tunes/1770#setting15217
+R: reel
+M: 4/4
+L: 1/8
+K: Dmix
+d3e cAGc|AddB cAGc|Addc AdcA|GEED CDEG|Ad (3ddd fd (3ddd|adfd cAGc|Addc AdcA|GEED CDEG||AD (3DDD AD (3DDD|ADAd cAGc|ADFA ~E3G|AdcA G3c|AD (3DDD A,D (3DDD|ADAd cAGc|ADFA EDEG|AdcA GcAG||Ad (3ddd BcAc|dA (3AAA afgf|Ad~d2 ~c3A|cdef g2fe|d2 (3ddd BcAc|dA (3AAA afgf|Adde ~c3A|cdef g2bg||ad (3ddd adbd|ad (3ddd adgd|ad (3ddd adfd|^cdef g2fe|ad (3ddd bd (3ddd |ad (3ddd adfg|abaf gfed|^cdef gefe||
+X: 5
+T: Donegal Tinker, The
+Z: banjobabe
+S: https://thesession.org/tunes/1770#setting15218
+R: reel
+M: 4/4
+L: 1/8
+K: Dmix
+d3d cAGc|AddB cAGc|Addc AdcA|GEED CDEG|Ad (3ddd fd (3ddd|adfd cAGc|Addc AdcA|GEED CDEG||AD (3DDD A,D (3DDD|ADAd cAGc|ADFA ~E3G|AdcA G2cG|AD (3DDD A,D (3DDD|ADAd cAGc|ADFA EDEG|AdcA GcAG||Ad (3ddd c2Bc|dA (3AAA afgf|Ad~d2 ~c3A|(3Bcd ef g2fe|d3 d c2Ac|dA (3AAA afgf|Ad (3ddd ~c3A|(3Bcd ef g2fg||ad (3ddd adbd|ad (3ddd adgd|ad (3ddd ^cdef|g2fg ad 3ddd|bd (3ddd adfg|a2 fg abaf|gfed ^cdef g2fe||
+X: 6
+T: Donegal Tinker, The
+Z: JACKB
+S: https://thesession.org/tunes/1770#setting15219
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+|:d3B cAGc|AddB cAGc |Addc AdcA|GEED E3G | Ad d2 fd d2|AdFd cAGc | Addc AdcA |GEED E3G || |:AD D2 AD D2|ADAd cAGc| ADFA E3G|AdcA G3B| AD D2 AD D2 |ADAd cAGc| ADFA E3G|AdcA GcAG || |:Ad d2 c2 Ac |dA A2 Afgf|dA A2 c3A |(3Bcd ef g2 fg| d3e BcAc|dA A2 Afgf|dA A2 c3A|(3Bcd ef g2 fg|| |:ad d2 AdBd |ad d2 AdGd|ad d2 Adgd|(3B^cd ef g2 fg| ad d2 Bd d2 |adfg adfg |abaf gfed |(3B^cd ef gefe||

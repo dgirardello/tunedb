@@ -1,0 +1,30 @@
+X: 1
+T: Katie's Lilt
+Z: joe fidkid
+S: https://thesession.org/tunes/8555#setting8555
+R: jig
+M: 6/8
+L: 1/8
+K: Ador
+E|:ABA A2 a |e2 d efg | dBG GBc | dBG GBc|
+ABA A2 a | e2 d efg | dBG GAB | A3 A3:|
+|: a^ga A3 | a^ga A2 A |gfg G3| gfg GFG |
+ccc BBB | AAA a2 a | gfe dBG | A3 A3 :|
+X: 2
+T: Katie's Lilt
+Z: ceolachan
+S: https://thesession.org/tunes/8555#setting19554
+R: jig
+M: 6/8
+L: 1/8
+K: Ador
+On ABC notation, here ~ | =gfg G3 | ~ you do not need the '=' natural sign, the bar line immediately returns things to the norm, so this is actually correct ~ | gfg G3 |
+X: 3
+T: Katie's Lilt
+Z: ceolachan
+S: https://thesession.org/tunes/8555#setting19555
+R: jig
+M: 6/8
+L: 1/8
+K: Ador
+ABA A2 a | e2 d efg | dBG GAB | dBG GAB |ABA A2 a | e2 d efg | dBG GAB | A3 A2 :|a^ga AAA | a^ga AAA | gfg GGG | gfg GGG |ccc BBB | AAA a2 a | gfe dBG | A3 A2 :|

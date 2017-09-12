@@ -1,0 +1,52 @@
+X: 1
+T: Cordal, The
+Z: Will Harmon
+S: https://thesession.org/tunes/864#setting864
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+|:BAF ~E3|FEF DFA|BAF EFA|B2A Bcd|
+|BAF ~E3|FEF DFA|def edc|B2A Bcd:|
+|:d2 e fed|~c3 ecA|dcd fed|f/f/fe fga|
+|~d3 fed|c2 d ecA|dcB cBA|B2A Bcd:|
+X: 2
+T: Cordal, The
+Z: Will Harmon
+S: https://thesession.org/tunes/864#setting14033
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+|:BAF ~E3|FEF DFA|BAF EFA|B{d}B A Bcd|
+BAF ~E3|FEF DFA|def edc|~B3 Bcd:|
+|:d2 e fed|c2 d ecA|d2 e fed|f2 e fga|
+dcd fed|cBc ecA|dcd fed|~f3 fga:|
+X: 3
+T: Cordal, The
+Z: ceolachan
+S: https://thesession.org/tunes/864#setting14034
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+|: d |BAF E3 | FEF DFA | BAF DF/G/A | B2 A Bcd |
+BAF E3 | FEF DFA | d2 f edc |[1 B2 ^A Bc :|[2 B2 ^A B2 ||
+|: c |d2 e fed | c2 d ecA | d2 e fed | f2 e ff/g/a |
+dcd fed | c2 d ecA | d3 cdc |[1 B2 ^A B2 :|[2 B2 ^A Bc |]
+X: 4
+T: Cordal, The
+Z: JACKB
+S: https://thesession.org/tunes/864#setting25869
+R: jig
+M: 6/8
+L: 1/8
+K: Ador
+|:BAF E3 | FEF DFA | BAF DFA | B2A Bcd |
+BAF E3 | FEF DFA | d2f edc | B2A Bcd :||
+|:d2e g/f/ed | c2d ecA | d2e g/f/ed | f2e fga |
+d2e g/f/ed | cF/G/c ecA | dfd cec | B2A Bcd :||
+|:BAF E3 | FEF DF/G/A | BAF DFA | B2A Bcd |
+BAF E3 | FEF DF/G/A | d2f edc | B2A Bcd :||
+|:d3 g/f/ed | c3 ecA | d3 g/f/ed | f2e fga |
+d2e g/f/ed | cF/G/c ecA | df/g/d cf/g/c | B2A Bcd :||

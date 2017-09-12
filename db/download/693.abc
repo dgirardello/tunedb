@@ -1,0 +1,81 @@
+X: 1
+T: Strop The Razor
+Z: b.maloney
+S: https://thesession.org/tunes/693#setting693
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+BGG AGG|BGG AGF|DGG GFG|DGG G2A|
+BGG AGG|BGG AGF|D2E F2G|ADE FGA:||
+dBB cAA|dBB cAF|DGG GFG|DGG G2B|
+dBB cAA|dBB cAF|D2E F2G|ADE FGA:||
+BAB cBc|dcd dBd | g3 gfd|gag gdc|
+BAB cBc|dcd d2e | f3 fde|fag fdc:||
+X: 2
+T: Strop The Razor
+Z: b.maloney
+S: https://thesession.org/tunes/693#setting13750
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+~B3 ~c3|~d3 d2e| ~=f3 fde| ~=fag ^fdc:|
+X: 3
+T: Strop The Razor
+Z: CreadurMawnOrganig
+S: https://thesession.org/tunes/693#setting13751
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+~B3 ~c3|~d3 d2e| ~=f3 fde| ~^fag fdc:|
+X: 4
+T: Strop The Razor
+Z: JACKB
+S: https://thesession.org/tunes/693#setting23367
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+|:BGG AGG|BGG AGF|DGG GAG|DGG G2A|
+BGG AGG|BGG AGF|D2E F2G|ADE FGA:||
+|:dcB cAA|dcB cAF|DGG GFG|DGG G(3ABc|
+dcB cAA|dcB cAF|D2E F2G|ADE FGA:||
+|:B3 cBc|d(3Bcd dBd | g3 gfd|gba gdc|
+B3 cBc|dB/c/d d2e | =f3 fde|fdg fdc:||
+X: 5
+T: Strop The Razor
+Z: zoronic
+S: https://thesession.org/tunes/693#setting28644
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+|:DGG BAG|AFD FDC| DGG BAG|Add cAG |
+DGG BAG|AFD D2E|=FDE F2G|Add cAG:|
+K:Gmix
+|:Ade f2g|a<ag f2d| cAG FGc|Add cAG |
+Ade f2g|a<ag ^f2d| cAG ^FGA|Add cAG:|
+X: 6
+T: Strop The Razor
+Z: daveboling
+S: https://thesession.org/tunes/693#setting29750
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+Add fdd|ecA =c2A|Add fdd|faf gec|Add fdd|
+ecA =c2d|=cBA c2d|eaa ged:|:Add {c}d2e|A=cc {B}c2d|Add{c}d2g|
+faa gec|Add {c}d2e|A=cc {B}c2d|=cBA c2d|eaa ged:|
+X: 7
+T: Strop The Razor
+Z: daveboling
+S: https://thesession.org/tunes/693#setting29751
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+DGG BGG|AFD =F2D|DGG BGG|BdB cAF|DGG BGG|
+AFD =F2G|=FED F2G|Add cAG:|:DGG {F}G2A|D=FF {E}F2G|DGG{F}G2c|
+Bdd cAF|DGG {F}G2A|D=FF {E}F2G|=FED F2G|Add cAG:|

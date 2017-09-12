@@ -1,0 +1,114 @@
+X: 1
+T: Whistling Postman, The
+Z: Will Harmon
+S: https://thesession.org/tunes/586#setting586
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+ag|:fd (3ddd edge|dBAF E2 FE|(3DED FD ADFD|ABdf g2 ag|
+|fd (3ddd edge|dBAF EGFE|(3DED FA defd|1 edBc d2 ag:|2 edBc d2 Ad||
+|:fedc dfaf|bfaf gfef|dfaf g2 bg|afdf (3efe de|
+|1 f2 dc dfaf|bfaf gfeg|fdAG FAdf|edBc d2 Ad:|
+|2 a2 ^gb afdf|gefd edBc|dBAG FAdf|edBc d2 |
+X: 2
+T: Whistling Postman, The
+Z: Phantom Button
+S: https://thesession.org/tunes/586#setting13582
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+fd ~d2 edef|dBAF EAFE|DEED FAAB|defdgdag|fd ~d2 edef|dBAF EAFE|DEED FAdf| edBc d2 de:||fd~d2 dfaf|bfaf gfef|dfaf g2 fg|afdf efde|fd~d2 dfaf|bfaf gfef|dBAF ABdf|edBc d2 de|fd~d2 dfaf|bfaf gfef|dfaf g2 fg|afdf e2fg|a3^g afdf|gefd edBc|dBAF ABdf|edBc d2 de||
+X: 3
+T: Whistling Postman, The
+Z: Phantom Button
+S: https://thesession.org/tunes/586#setting13583
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+fd ~d2 e2fe|dBAF EGFE|DE F/E/D AGFA|defd ~g4|~f3de2 fe|dBAF EGFE|DE F/E/D FAdf|1 edBc d2 ag:|2 edBc d3e||fd~d2 B/c/d fa|bfaf gfef|dfaf g2 fg|afdf ~e4|fd~d2 B/c/d fa|bfaf gfef|dBAF ABdf|edBc d3e|fd~d2 B/c/d fa|bfaf gfef|dfaf g2 fg|afdf ~e4|~a3b afdf|g2fg edBc|dBAF ABdf|edBc d2ag||
+X: 4
+T: Whistling Postman, The
+Z: slainte
+S: https://thesession.org/tunes/586#setting20676
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+|:e|fddf edef|dBAF EGFE|DEFD FA~A2|ABdf g2ag|
+fddf edef|dBAF EGFE|DEFA Bcdf|edBc d3:|
+e|fddc dfaf|bfaf gfef|dfaf g2fg|afdf e2de|
+fddc dfaf|bfaf gfef|dBAF ABdf|edBc d3e|
+fddc dfaf|bfaf gfef|dfaf g2fg|afdf e2fg|
+~a3b afdf|g2fg edBc|dBAF ABdf|edBc d3||
+X: 5
+T: Whistling Postman, The
+Z: slainte
+S: https://thesession.org/tunes/586#setting20716
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+|:e|fd~d2 edBc|dBAF EGFE|~D3F AF~F2|ABdf g2ag|
+fd~d2 edBc|dBAF EGFE|D2ED FAdf|eABc d3:|
+e|fddc dfaf|bfaf gfef|dfaf ~g3b|afdf e2de|
+fddc dfaf|bfaf gfef|d2AG FAdf|eABc d3e|
+fddc dfaf|bfaf gfef|dfaf ~g3b|afdf e2fg|
+~a3b afdf|gefd edBc|d2AG FAdf|eABc d3||
+X: 6
+T: Whistling Postman, The
+Z: Ralex
+S: https://thesession.org/tunes/586#setting22899
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+f2df edBc|dBAF EGFE|DF~F2 AF~F2|ABdf g2ag|
+f2df edBc|dBAF EGFE|DF F2 ABdf|edBc d3e:|
+|fddc dfaf|bfaf gfef|dfaf ~g3b|afdf e2de|
+fddc dfaf|bfaf gfef|dBAF ABdf|edBc d3e|
+fddc dfaf|bfaf gfef|dfaf ~g3b| afdf e2fg|
+~a3b afdf|gefd edBc|dB~B2 ABdf|edBc d3e||
+X: 7
+T: Whistling Postman, The
+Z: sebastian the m3g4p0p
+S: https://thesession.org/tunes/586#setting24309
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+fd~d2 edef|dBAF EDEF|D2 (3FED AD (3FED|defd ge ag|
+fd~d2 eB~B2|dBAF EAFE|D2FA dcdf|edBc d2de:|
+fd~d2 dfaf|bfaf gfec|dfaf ~g2gb|afdf e2de|
+fd~d2 dfaf|bfaf gfec|dBAF ABdf|edef d2de|
+fd~d2 dfaf|bfaf gfec|dfaf ~g2gb|afdf e2fg|
+~a2ab afdf|gfgf edBc|dBAF ABdf|edef d2de||
+X: 8
+T: Whistling Postman, The
+Z: GaryAMartin
+S: https://thesession.org/tunes/586#setting28183
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+fd ~d2 edef|dBAF ~E3 F|~D2 FD AGFA|defd g2 ag|
+fd ~d2 edef|dBAF ~E3F|~D2 F~A3 f|1 eABc d2 z2:|2 edBc d2 Ad||
+fddc dfaf|bfaf gfec|dfaf g3 b|afdf e2 de|
+f2 dc dfaf|bfaf gfec|dBAG FAdf|eABc dcde||
+fddc dfaf|bfaf gfec|dfaf g3 b|afdf e2 fg|
+~a3 a afdf|gefd edBc|dBAG FAdf|eABc d4 |]
+X: 9
+T: Whistling Postman, The
+Z: Thady Quill
+S: https://thesession.org/tunes/586#setting30939
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+|:de |fd ~d2 e^def|dBAF (3EFG FE|D2FD ADFA|~e3f gbag|
+fd ~d2 edef|dBAF (3EFG FE|DF ~F2 ADFd| edBc d2:||
+|:(3fed dc dfaf|bfaf gfef|dfaf gfgb|afdf e2de|
+|1 fd~d2 dfaf|bfaf gfef|dBAG (3FGA df|edBc d2 de:|
+|2 a2bf afef|efdf edBe|dBAF ABdf|eABc d4||

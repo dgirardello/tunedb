@@ -1,0 +1,45 @@
+X: 1
+T: Miss Monaghan
+Z: Josh Kane
+S: https://thesession.org/tunes/471#setting471
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+|: D2ED FAAd | B2BA FABc | d2dB ABde | fede fee2 |
+{E}D2ED FAAd | ~B3A FABc | d2dB ABdB | (3AGF EG FDD2 :|
+|: faab afdf | gefd edBc | ~d3B ABde | fede fee2 |
+faab afdf | g2fd edBc | d2dB ABdB | AFEG FDD2 :|
+X: 2
+T: Miss Monaghan
+Z: stanton135
+S: https://thesession.org/tunes/471#setting21843
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+|: B | Addc d2fd | ABBA BAAB | d2dB ABdf | afde fee2 |
+Addc d2fd | ABBA BAAB | d2dB ABdf | afeg fdd :|
+|: e | fa~a2 afdf | gefd edBc | d2dB ABdf | afde fee2 |
+[1 fa~a2 afdf | gefd edBc | d2dB ABdf | afeg fdd :|
+[2 Addc d2fd | ABBA BAAB | d2dB ABdf | afeg fdd ||
+X: 3
+T: Miss Monaghan
+Z: JACKB
+S: https://thesession.org/tunes/471#setting22357
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+|:D3G FAAF | G2 BG FABc | dABG FADf | gefd edAG |
+FAGE DFAF | G2 BG FABc | dgfa ecdB | AFGE FDDA |
+D3G FAAF | G2 BG FABc | dABG FADf | gefd edAG |
+FAGE DFAF | G2 BG FABc | dg (3fgf efdB | AFGE FDDg ||
+|:faaf afdf | gefd edBc | dABG FADf | gefd edBg |
+faaf afdf | gefd edBc | dfea ecdB | AFGE FDDg |
+faaf afdf | (3gfe fd edBf | geBg fadf | gefd edBg |
+(3fgf af bfaf | gefd edBc | dgfa ecdB | AFGE FDDA ||
+|: D3G FADF | GBDE FADA | dABG FADf | gefd edAG |
+FAGE DFAF | G2 BG FABc | dgfa ecdB | AFGE FDDg ||
+|:fa a2 afdf | gefd edBf | gebg fadf | gefd edBg |
+(3fgf af bfaf | gbfg edBc | dgfa ecdB | AFGE FD D2 ||

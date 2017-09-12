@@ -1,0 +1,35 @@
+X: 1
+T: Gardybylatten
+Z: dafydd
+S: https://thesession.org/tunes/2948#setting2948
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Dmaj
+|:FG|ABAF ABAF|A2fe d2c2|BdBG BdBG
+|B2gf e2d2|c3d c2B2|A2g2 f2e2|1dcde f
+efg|a2a2 a2:|2d2fd cdec||d2f2 d2fg
+|:a4 fdfa|b2a2 g2f2|g3f e2f2|g2f2
+e2d2|c3d c2B2|A2g2 f2e2|1dcde fefg
+|a2a2a2fg:|2d2fd cdec|d2f2 d2||
+X: 2
+T: Gardybylatten
+Z: Falkbeer
+S: https://thesession.org/tunes/2948#setting16116
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Dmaj
+FG | ABAF ABAF | A2 fed2c2 | BdBG BdBG | B2gfe2d2 |c2>d2c2~B2 | A2g2~f2e2 |[1 dcde fefg | a4z2 :|[2 d4 Acec | d4defg ||: a4a2^ga | b2~a2=g2f2 | g4 B3d | g2~f2e2d2 |c3d c2~B2 | A2g2~f2e2 |[1 dcde fefg | a4z2fg :|[2 d4Acec | d4z2 |]
+X: 3
+T: Gardybylatten
+Z: Mix O'Lydian
+S: https://thesession.org/tunes/2948#setting26545
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Dmaj
+|: FG | "D" ABAF ABAF | "D" A2 fe d2 c2 | "G" BdBG BdBG | "G" B2 gf e2 d2 |
+"A" c3 d cdcB | "A" A2 eg f2 ec | [1 "D" dcde "F#m" fefg | "D" a4-a z :| [2 "D" d2 fd "A" Acec | "D" d3 c de |]
+|: fg | "D" a4 a2 ^ga | "D" b2 a2 g2 f2 | "G" g2 gd BGBd | "G" g2 f2 e2 d2 |
+"A" c3 B cdcB | "A" A2 eg f2 ec | [1 "D" dcde "F#m" fe | "F#m" fg "D" a4-a z :| [2 "D" d2 fd "A" Acec | "D" d3 c d2 |]

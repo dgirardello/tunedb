@@ -1,0 +1,28 @@
+X: 1
+T: Pumpherston, The
+Z: ceolachan
+S: https://thesession.org/tunes/13464#setting23771
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Dmin
+|: (3A,=B,^C |\
+(3D^CD A,>F E>DC>G | (3FGA f>e d>cB>A | ^G>AG>A E>F D2 | (3EFG (3FED ^C>A (3A,=B,C |
+(3D^CD A,>F E>DC>G | (3FGA f>e d>cB>A | ^G>A (3EF=G (3FGA D>F | (3ED^C A>A, D2- :|
+|: D>e |(3fed (3fed e>a- a2 | (3fed (3fed e>a- a2 | (3fed (3edc (3dcB (3cBA |
+[1 (3BAG (3^GAF E>D ^C2 | (3DEF (3DEF ^G>AG>A | (3DEF (3DEF ^G>AG>A | (3DEF (3^CDE (3FGA (3GFE | (3FED A>A, D2- D3/ :|
+[2 (3BAG (3^GAF E>D^C>A, | (3D^CD A,>F E>DC>G | (3FGA f>e d>cB>A |^G>A (3EF=G (3FGA D>F | (3ED^C A>A, D2 |]
+X: 2
+T: Pumpherston, The
+Z: zoronic
+S: https://thesession.org/tunes/13464#setting29051
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Dmin
+M: 12/8
+|: A,=B,^C|D^CD A,2F E2D C2G|FGA f2e d2c B2A|^G2A G2A E2F D3 |EFG FED ^C2A |
+A,=B,^C|D^CD A,2F E2D C2G|FGA f2e d2c B2A|^G2A EF=G FGA D2F|ED^C A2A, D3 :|
+|: D2e |fed fed e2a a3 |fed fed e2a a3 | fed edc dcB cBA|BAG ^GAF E2D |
+[1 ^C3 |DEF DEF ^G2A G2A|DEF DEF ^G2A G2A| DEF ^CDE FGA GFE|FED A2A, D3 :|
+[2 ^C2A, |D^CD A,2F E2D C2G|FGA f2e d2c B2A|^G2A EF=G FGA D2F|ED^C A2A, D3 |]

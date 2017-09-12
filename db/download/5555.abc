@@ -1,0 +1,45 @@
+X: 1
+T: Ivory Lady
+Z: cvn
+S: https://thesession.org/tunes/5555#setting5555
+R: reel
+M: 4/4
+L: 1/8
+K: Fmaj
+|: F cd f c2 AG | A FF2 dc AG | F2 BAB FF2 | BAGFGAFC |
+F cd f c2 AG | A FF2 dc Af | dc BAB ccd | BAGFGAFD :|
+|: A Acd f2 dc | z fdc dff2 | dg ga g2 f2 | dg gagafd |
+A Acd f2 dc | z fdc dff2 | F2 BAB ccd |1 BAGFGAFG :|2 BAGFCDFG ||
+X: 2
+T: Ivory Lady
+Z: Avery
+S: https://thesession.org/tunes/5555#setting17620
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+|: Gdeg d2 BA | BG G2 ed BA | G2 cA BG G2 | cBAG ABGD |Gdeg d2 BA | BG G2 ed Bg | edBA BG ~G2 | cBAG ABGD :||: BBde g2 ed | z ged egg2 | eaab a2 g2 | eaab abge |BBde g2 ed | z ged egg2 | G2 BABG ~G2 |1 cBAG GAFG :|2 cBAG DEGA ||
+X: 3
+T: Ivory Lady
+Z: Mikethebook
+S: https://thesession.org/tunes/5555#setting23207
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+|: Gdeg d2 {c/}BA | {c/}BG ~G2 ed {c/}BA | G2 cA BG ~G2 | cB{c/}AG ABGD |
+Gdeg d2 {c/}BA | {c/}BG ~G2 ed Bg | ezcBcdde|c{c/}BA{c/}B AG ~G2 :|
+|: Bdde g2 ed | Bged eg~g2 | ez ab ~a3 g | eaz gabge |
+Bdde g2 ed | Bged eg~g2 | G2 cBcdde |c{c/}BA{c/}BA~G3 :|
+X: 4
+T: Ivory Lady
+Z: JACKB
+S: https://thesession.org/tunes/5555#setting26462
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+|: Gdeg d2 BA | BG G2 edBA | G2 cA BG G2 | cBAG ABGD |
+Gdeg d2 BA | BG G2 edBg | edBA BG G2 | cBAG ABGD :|
+|: BBde g2 ed | z ged egg2 | eaab a3g | eaab abge |
+BBde g2 ed | z ged egg2 | G2 BA BG G2 |1 cBAG GAFG :|2 cBAG DEGA ||

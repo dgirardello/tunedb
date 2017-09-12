@@ -1,0 +1,53 @@
+X: 1
+T: Pinch Of Snuff, The
+Z: Dr. Dow
+S: https://thesession.org/tunes/2610#setting2610
+R: reel
+M: 4/4
+L: 1/8
+K: Dmix
+fage d2dB|AD (3FED EFGB|A3B cGcd|ed (3B^cd efge:|
+f2df afdf|f2df efge|f2df afdf|eA (3B^cd efge|
+f2df afdf|f2df efge|fa~a2 afdf|eA (3B^cd efge||
+X: 2
+T: Pinch Of Snuff, The
+Z: joe fidkid
+S: https://thesession.org/tunes/2610#setting22087
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+|: ADFD EFGB | A^GAB =cBcd | eA (3Bcd efge |1 fage d3 B :|2 ~f3 d fafd ||
+|: ~f2 df efge | ~f2 df agfg | eA (3Bcd efge |1 ~f2 df afdf :|2 afge d3 |]
+X: 3
+T: Pinch Of Snuff, The
+Z: Bryce
+S: https://thesession.org/tunes/2610#setting22163
+R: reel
+M: 4/4
+L: 1/8
+K: Dmix
+K:D
+|:"D"F2DF F2DF|"D"F2DF "A7"EFGE|"D"F2DF F2DF|"G"G2BG "A7"EFGE:|
+|:"D"DFAF BFAF|"D"DFAF "A7"EFGE|"D"DFAF BFAF|"G"G2BG "A7"EFGE:|
+K:Gmaj
+|:"G"B2GB B2GB|"G"B2GB "D7"ABcA|"G"B2GB B2GB|"C"c2ec "D7"ABcA:|
+|:"G"GBdB eBdB|"G"GBdB "D7"ABcA|"G"GBdB eBdB|"C"c2ec "D7"ABcA:|
+K:Amaj
+|:"A"c2Ac c2Ac|"A"c2Ac "E7"BcdB|"A"c2Ac c2Ac|"D"d2fd "E7"BcdB:|
+|:"A"Acec fcec|"A"Acec "E7"BcdB|"A"Acec fcec|"D"d2fd "E7"BcdB:|
+K:D
+|:"D"F2DF F2DF|"D"F2DF "A7"EFGE|"D"F2DF F2DF|"G"G2BG "A7"EFGE:|
+|:"D"DFAF BFAF|"D"DFAF "A7"EFGE|"D"DFAF BFAF|"G"G2BG "A7"EFGE:|
+X: 4
+T: Pinch Of Snuff, The
+Z: JACKB
+S: https://thesession.org/tunes/2610#setting22866
+R: reel
+M: 4/4
+L: 1/8
+K: Dmix
+|afge d3B|ADFD EFGB|A3B =cBcd|eA (3B^cd efge|
+afge d3B|ADFD EFGB|A3B =cBcd|eA (3B^cd efge||
+|f2df afdf|f2df efge|f2df afdf|eA (3B^cd efge|
+f2df afdf|f2df efge|fa~a2 afdf|eA (3B^cd efge||

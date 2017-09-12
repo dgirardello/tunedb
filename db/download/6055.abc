@@ -1,0 +1,95 @@
+X: 1
+T: Jimmy's Favorite
+Z: McMandolin
+S: https://thesession.org/tunes/6055#setting6055
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+|: gag gdB |GAG GAB|c2c cBA| E3-E2g|
+f2f fed|fgf f2e|1 d^cd ed=c |B3 def:|2 d^cd =cAF |G3DEF||
+|:G2G GDB,|GDB, GDB,|GGG GAB|c3 cBA|
+F2F FED|FGF F2E|DFA cBA |1 GFE DEF:|2 G3 def||
+X: 2
+T: Jimmy's Favorite
+Z: ceolachan
+S: https://thesession.org/tunes/6055#setting17957
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+|: dd/e/f |gbg dBd | G2 G GAB | c2 c cBA | E3 E2 g |
+f2 f fed | fgf f2 e |[1 d^cd ed=c | B3 :|[2 d^cd =cAF | G3 ||
+DD/E/F |G2 G GDB, | GDB, G2 D | G2 G GAB | c3 cBA |
+F2 F FED | FED F2 E | DFA cBA | B3 DD/E/F |
+G2 G GDB, | GBA GDB, | G2 G GAB | c3 cdg |
+f/g/ag fed | f/g/ag f2 e | d^cd =cAF | G3 |]
+X: 3
+T: Jimmy's Favorite
+Z: McMandolin
+S: https://thesession.org/tunes/6055#setting17958
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+d|:gbg gdB |G2G GAB|cdc cBA| E3E3|f2f fed| faf f2e|1ded ded| B3 B3:|2ded def| g3 g3:||:G2G GDB,|GDB, GDB,|G2G GAB|c3 c3|F2F FED|FED FED |FGA cBA| G3 G3:|
+X: 4
+T: Jimmy's Favorite
+Z: ceolachan
+S: https://thesession.org/tunes/6055#setting17959
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+|: d |gbg gdB | G2 G GAB | cdc B2 A | E3- E2 g |
+f2 f fed | fgf f2 e |[1 ded ded | B3 B2 :|[2 ded def g3 g3 ||
+|: G2 G GDB, | GDB, GDB, | G2 G GAB | c3- cBA |
+F2 F FED | FED F2 E | DFA cBA |[1 G3 G3 :|[2 G3 G2 |]
+X: 5
+T: Jimmy's Favorite
+Z: ceolachan
+S: https://thesession.org/tunes/6055#setting17960
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+|: d |g3 gdB | G3 GAB | c2 c B2 A | E3-E3 |
+f2 f fed | fed f2 e |[1 d2 d e2 d | B3 B2 :|[2 d2 d e2 f | g3 g2 D ||
+|: G2 G GAB | GAB GAB | G2 G A2 B | c3 cBA |
+F2 F FED | FED F2 E |[1 D2 D E2 D | B,3 B,2 D :|[2 D2 D E2 F | G3 G2 |]
+X: 6
+T: Jimmy's Favorite
+Z: ceolachan
+S: https://thesession.org/tunes/6055#setting17961
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+|: d |gbg gdB | G2 G GAB | cdc cBA | E3- E2 A |
+f2 f fed | faf f2 e |[1 d2 d ded | B3- B2 :|[2 ded def | g3- g2 D ||
+|: G2 G GDB, | GDB, GDB, | G2 G GAB | c3- c2 A |
+F2 F FED | FED FED | FGA cBA |[1 B3- B2 D :|[2 G3- G2 |]
+X: 7
+T: Jimmy's Favorite
+Z: ceolachan
+S: https://thesession.org/tunes/6055#setting17962
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+|: d |gbg gdB | G2 G GAB | cdc cBA | E3 E2 A |
+f2 f fed | faf f2 e |[1 ded ded | B3 B2 :|[2 ded def |g3 g2 |]
+|: D |G2 G GDB, | GDB, GDB, | G2 G GAB | c3 c2 A |
+F2 F FED | FED FED | FGA cBA | G3 G2 :|
+X: 8
+T: Jimmy's Favorite
+Z: ceolachan
+S: https://thesession.org/tunes/6055#setting25335
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+|: dd/e/f |g2 b gdB | GAG GAB | cdc cBA | E3 E2 g |
+fgf fed | afa f2 e |[1 dcd edc | B3 :|[2 dcd dd/e/f | g3 ||
+|: DD/E/F |G2 G GD[B,B] | GD[B,B] GD[B,B] | GFG GAB | c3 cBA |
+F2 F FED | FED FED | DF/G/A cAF |[1 GBA :|[2 G3 |]

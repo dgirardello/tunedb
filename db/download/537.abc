@@ -1,0 +1,108 @@
+X: 1
+T: Up Sligo
+Z: Josh Kane
+S: https://thesession.org/tunes/537#setting537
+R: jig
+M: 6/8
+L: 1/8
+K: Emin
+|: EBB BAG | Fdd AFD | EBB EBB | AGF EFD |
+EBB BAG | Fdd AB^c | ded BGB | AGF E2D :|
+|: Bee ede | fef dBA | Bee Bee | fe^c d2A |
+Bee ede | fef dBA | BdB GBd | AGF E2E :|
+X: 2
+T: Up Sligo
+Z: fidicen
+S: https://thesession.org/tunes/537#setting13482
+R: jig
+M: 6/8
+L: 1/8
+K: Edor
+BEE {c}BAG|FAA AFD|BEE BEE|AGF ~E3|BEE {c}BAG|FAA ABc|~d3 ~B3|AGF ~E3||Bee ede|fdd dBA|Bee ede|fdc ~d3|Bee ede|~f3 dBA|~d3 ~B3|AGF ~E3||
+X: 3
+T: Up Sligo
+Z: slainte
+S: https://thesession.org/tunes/537#setting13483
+R: jig
+M: 6/8
+L: 1/8
+K: Edor
+EBB BAG|FAA AGF|EBB GBd|AGF E2D|EBB BAG|FAA ABc|dcd BdB|1 AGF E2D:|2 AGF E2A||Bee ede|fef dBA|Bee ede|fdc d2A|Bee ede|fef dBA|BdB GBd|1 AGF E2A:|2 AGF E2D||
+X: 4
+T: Up Sligo
+Z: gian marco
+S: https://thesession.org/tunes/537#setting13484
+R: jig
+M: 6/8
+L: 1/8
+K: Edor
+D|EBB BAG|FDF AFD|EBB GBB|AGF E2D|EBB BAG|FDF ABc|ded ~B3|AGF E2:|:A|Bee ede|faf dBA|Bee ede|fec d2A|Bee ede|~f3 dBA|B/c/dB GBd|AGF E2:|
+X: 5
+T: Up Sligo
+Z: slainte
+S: https://thesession.org/tunes/537#setting13485
+R: jig
+M: 6/8
+L: 1/8
+K: Edor
+BEE BEE|AFD D2A|BEE BEE|ABc ~d3|BEE BEE|AFD D2A|Bcd AFD|1 FEE E2A:|2 FEE EFA||Bee efg|fdd dBA|Bee efg|fdd d2A|Bee efg|fdd dBA|~B3 Bcd|1 AGF EFA:|2 AGF E2A||
+X: 6
+T: Up Sligo
+Z: JACKB
+S: https://thesession.org/tunes/537#setting13486
+R: jig
+M: 6/8
+L: 1/8
+K: Emin
+|: EBB BAG | FDF AGF | EBB Bcd | AGF EFD |EBB BAG | FDF AGF | EBB Bcd | AGF E2D :||: Bee efg | fdB AFD | Bee efg | fdf e2A |Bee efg | fdB AFD | EBB Bcd | AGF E2E :|
+X: 7
+T: Up Sligo
+Z: Bannerman
+S: https://thesession.org/tunes/537#setting13487
+R: jig
+M: 6/8
+L: 1/8
+K: Emin
+D|EBB BAG | FDF AFD | EBB Bcd | AGF E2D |EBB BAG | FDF ABc | ded BdB | AGF E2 :|A|Bee ede | fef dBA | Bee ede | fec d2A |Bee ede | fef dBA | B2B Bcd | AGF E2 :|
+X: 8
+T: Up Sligo
+Z: birlibirdie
+S: https://thesession.org/tunes/537#setting13488
+R: jig
+M: 6/8
+L: 1/8
+K: Ador
+Aee edc | BGB dcB | Aee Aee | dcB c2B |Aee edc | BGB def | g2g ege | dcB A2G :||eaa aga | bab ged | eaa aga | bgf g2g |eaa aga | bab ged | deg ceg | dcB A2A :|
+X: 9
+T: Up Sligo
+Z: ceolachan
+S: https://thesession.org/tunes/537#setting13489
+R: jig
+M: 6/8
+L: 1/8
+K: Ador
+Aee edc | BGB dcB | Aee AeA | dcB A2 ^G |Aee edc | BG/A/B def | gbg ege | dcB A2 :|eaa a^ga | b^ab ged | e2 a a^ga | bgf g2 a |eaa a^ga | b^ab ged | GdB ecg | d>cB A2 :|
+X: 10
+T: Up Sligo
+Z: cac
+S: https://thesession.org/tunes/537#setting26495
+R: jig
+M: 6/8
+L: 1/8
+K: Edor
+EGB {c}BAG | FAd AFD | ~e3 dAd | AGF E{f}ed |
+ez B {c}BAG | ~F3 {B}AFD | EGB EG{c}B | A{GA}GF E{f}ed ||
+ez B {c}BAG | F/G/Ad AFD | ~e3 BG{c}B | AGF Ez d |
+~e3 {c}BAG | FAd AFD | ~e3 Bz B | AGF E3 ||
+Bee efg | {g}fdB A{A}GF | eBe {f}efg | f/g/af gz g |
+~B3 bge | dAd AFD | ez {ef}e BGB | AGF E3 ||
+Bee efg | {g}fdB AGF | ~e3 ez g | faf {a}gfe |
+~B3 {c}BGE | dz d AFD | ~E3 BGB | AGF E3 ||
+EGB {c}BAG | {G}FDF {B}AFD | ~e3 dAd | AGF Ez d |
+eGB {c}BAG | ~F3 Az D | EGB EGB | A{GA}GF E{f}ed ||
+ez B {c}BAG | FAd AFD | ~E3 BGB | A{A}GF Ez d |
+~e3 {c}BAG | FAd AFD | ez {ef}e BGB | AGF E3 ||
+Bee efg | fdB AGF | ~e3 ~e3 | gz g {a}gfe |
+~B3 bge | dAd AFD | ez {ef}e BGB | AGF E3 ||
+Bee efg | ~f3 AGF | ez e ef{a}g | f/g/af {a}gfe |
+~B3 bge | dAd fz d | ~e3 BGB | AGF E3 ||

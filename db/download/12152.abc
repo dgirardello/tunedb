@@ -1,0 +1,21 @@
+X: 1
+T: Tamerack'er Down
+Z: Nigel Gatherer
+S: https://thesession.org/tunes/12152#setting12152
+R: reel
+M: 4/4
+L: 1/8
+K: Amaj
+f | ecBc AFEF | A2 Af ecce | =g2 fa ecBc | AFEF A/A/A Af | ecBc A/A/A A :|
+f | eAce =g2 fa | eAce fBBf | ecce f2 bf | ecBc A/A/A A :|
+X: 2
+T: Tamerack'er Down
+Z: Tate
+S: https://thesession.org/tunes/12152#setting20667
+R: reel
+M: 4/4
+L: 1/8
+K: Amaj
+f |[M: 6/4] ecBc AFEF A2 Af |[M: 4/4] ecce =g2 fa |[M: 6/4] ecBc AFEF A2 Af |[M:4/4] ecBc A/A/A A :|
+f | eAce =g2 fa | eAce fBBf | ecce f2 bf | ecBc A/A/A Af |
+eAce =g2 fa | eAce fBBf | ecce fgaf | ecBc A/A/A A |]

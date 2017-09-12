@@ -1,0 +1,69 @@
+X: 1
+T: Fraser's
+Z: ceolachan
+S: https://thesession.org/tunes/8206#setting8206
+R: jig
+M: 6/8
+L: 1/8
+K: Gmix
+|: D |GAG d3 | d^cd g3 | f2 c dfd | cAF AGF |
+GAG d3 | d^cd g2 e | f2 d cAF | G3 G2 :|
+|: ^f |g3 de^f | g^fg d2 e | f2 c dfd |
+[1 cAF F2 ^f | g3 de^f | g^fg d2 e | f2 d cAF | G3 G2 :|
+[2 cAF AGF | G^FG d^cd | g^fg a2 g | f2 d cAF | G3 G2 |]
+X: 2
+T: Fraser's
+Z: ceolachan
+S: https://thesession.org/tunes/8206#setting19390
+R: jig
+M: 6/8
+L: 1/8
+K: Gmix
+|: D |GAG d3 | dcd g3 | f2 c dfd | cAF AGF |
+GAG d3 | dcd g2 e | f2 d cAF |[1 G3 G2 :|[2 G3 G ||
+|: Bd |g3 def | gfg d2 e | f2 c dfd |
+[1 cAF F2 f | g3 def | gfg d2 e | f2 d cAF | G3 G :|
+[2 cAF AGF | GAG dcd | gfg a2 g | f2 d cAF | G3 G2 |]
+X: 3
+T: Fraser's
+Z: drone
+S: https://thesession.org/tunes/8206#setting21977
+R: jig
+M: 6/8
+L: 1/8
+K: Gdor
+|:GFG d3|dcd g2a|f2c dfd|cAF AGF|
+GFG d3|dcd g2a|f2d cAF|1]G3 Gz D|2]G3 G2 d:||
+g3 de^f|g^fg d2e|=f2c dfd|cAF Fzz|
+g3 de^f|g^fg d2e|=fed cAF|G3 Gz d|
+g^fg def|g^fg d2e|=f2c dfd|cAF AGF|
+GFG dcd|gfg a2g|f2d cAF|G3 Gzz||
+X: 4
+T: Fraser's
+Z: Nigel Gatherer
+S: https://thesession.org/tunes/8206#setting21980
+R: jig
+M: 6/8
+L: 1/8
+K: Gdor
+D | GFG d3 | dcd g2a | f2c dfd | cAF AGF |
+GFG d3 | dcd g2a | f2d cAF | G3 G2 :|
+d | g3 de^f | g^fg d2e | =f2c dfd | cAF F2z |
+g3 de^f | g^fg d2e | =fed cAF | G3 Gzd |
+g^fg def | g^fg d2e | =f2c dfd | cAF AGF |
+GFG dcd | gfg a2g | f2d cAF | G3 Gzz |]
+X: 5
+T: Fraser's
+Z: BarbaryAnne
+S: https://thesession.org/tunes/8206#setting22260
+R: jig
+M: 6/8
+L: 1/8
+K: Gmix
+Z: Nigel Gatherer by ear from a Gan Ainm 12856
+D | GFG d3 | dcd g2a | f2c dfd | cAF AGF |
+GFG d3 | dcd g2a | f2d cAF | G3 G2 :|
+d | g3 de^f | g^fg d2e | =f2c dfd | cAF F2z |
+g3 de^f | g^fg d2e | =fed cAF | G3 Gzd |
+g^fg def | g^fg d2e | =f2c dfd | cAF AGF |
+GFG dcd | gfg a2g | f2d cAF | G3 Gzz |]

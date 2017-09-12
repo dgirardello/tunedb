@@ -1,0 +1,100 @@
+X: 1
+T: Tourist, The
+Z: bdh
+S: https://thesession.org/tunes/9139#setting9139
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Dmaj
+de|fAAB ABde|fAAB A2 ef|gBBg BBgB|acca BBgB|
+fAAB ABde|fAAB A2 ef|gBBa ccBc|d2 dc d2:|
+de|fAAf fede|fedB A2ef|gBBg BBgB|acca BBgB|
+fAAf fede|fedB A2ef|gBBa ccBc|d2 dc d2:|
+de|fAAf AAfA|fAdf AAef|gBBg BBgB|acca BBgB|
+fAAf AAfA|fAdf AAef|gBBa ccBc|d2 dc d2:|
+de|fAAa AAfA|AaaA fAdf|gBBg BBgB|acca BBgB|
+fAAa AAfA|AaaA fAdf|gBBa ccBc|d2 dc d2:|
+X: 2
+T: Tourist, The
+Z: JACKB
+S: https://thesession.org/tunes/9139#setting24029
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Gmaj
+GA|BDDE DEGA|BDDE D2 AB|cEEc EEcE|dFFd EEcE|
+BDDE DEGA|BDDE D2 AB|cEEd FFEF|G2 GF G2:|
+GA|BDDB BAGA|BAGE D2AB|cEEc EEcE|dFFd EEcE|
+BDDB BAGA|BAGE D2AB|cEEd FFEF|G2 GF G2:|
+GA|BDDB DDBD|BDGB DDAB|cEEc EEcE|dFFd EEcE|
+BDDB DDBD|BDGB DDAB|cEEd FFEF|G2 GF G2:|
+GA|BDDd DDBD|DddD BDGB|cEEc EEcE|dFFd EEcE|
+BDDd DDBD|DddD BDGB|cEEd FFEF|G2 GF G2:|
+X: 3
+T: Tourist, The
+Z: JACKB
+S: https://thesession.org/tunes/9139#setting24037
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Dmaj
+de|"D"fAAB ABde|fAAB A2 ef|"G"gBBg BBgB|"A"acca BBgB|
+"D" fAAB ABde|fAAB A2 ef|"G"gBBa "A"ccBc|"D"d2 dc d2:|
+de|"D"fAAf fede|fedB A2ef|"G"gBBg "E"BBgB|"A"acca "G"BBgB|
+"D"fAAf fede|fedB A2ef|"G"gBBa "A"ccBc|"D"d2 dc d2:|
+de|"D"fAAf AAfA|fAdf AAef|"G"gBBg "E"BBgB|"A"acca "G"BBgB|
+"D"fAAf AAfA|fAdf AAef|"G"gBBa "A"ccBc|"D"d2 dc d2:|
+de|"D"fAAa AAfA|AaaA fAdf|"G"gBBg "E"BBgB|"A"a2 a2 gece|
+"D" fAAf fede|fedB A2 ef|"G"gBBa "A"ccBc|"D"d2 dc d2:|
+X: 4
+T: Tourist, The
+Z: JACKB
+S: https://thesession.org/tunes/9139#setting24038
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Gmaj
+GA|"G"BDDE DEGA|BDDE D2 AB|"C"cEEc EEcE|"D"dFFd EEcE|
+"G" BDDE DEGA|BDDE D2 AB|"C"cEEd "D"FFEF|"G"G2 GF G2:|
+GA|"G"BDDB BAGA|BAGE D2AB|"C"cEEc "A"EEcE|"D"dFFd "C"EEcE|
+"G"BDDB BAGA|BAGE D2AB|"C"cEEd "D"FFEF|"G"G2 GF G2:|
+GA|"G"BDDB DDBD|BDGB DDAB|"C"cEEc "A"EEcE|"D"dFFd "C"EEcE|
+"G"BDDB DDBD|BDGB DDAB|"C"cEEd "D"FFEF|"G"G2 GF G2:|
+GA|"G"BDDd DDBD|DddD BDGB|"C"cEEc "A"EEcE|"D"d2 d2 cAFA|
+"G" BDDB BAGA|BAGE D2 AB|"C"cEEd "D"FFEF|"G"G2 GF G2:|
+X: 5
+T: Tourist, The
+Z: JACKB
+S: https://thesession.org/tunes/9139#setting29502
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Gmaj
+GA|:BDDE DEGA|BDDE D2 AB|cEEc EEcE|dFFd EEcE|
+BDDE DEGA|BDDE D2 AB|cEEd FFEF|G2 GF G2:|
+GA|:BDDB BAGA|BAGE D2AB|cEEc EEcE|dFFd EEcE|
+BDDB BAGA|BAGE D2AB|cEEd FFEF|G2 GF G2:|
+GA|:BDDB DDBD|BDGB DDAB|cEEc EEcE|dFFd EEcE|
+BDDB DDBD|BDGB DDAB|cEEd FFEF|G2 GF G2:|
+GA|:BDDd DDBD|DddD BDGB|cEEc EEcE|dFFd EEcE|
+BDDd DDBD|DddD BDGB|cEEd FFEF|G2 GF G2:|
+GA|:BDDB DDBD|BDDB DDBD|cEEc EEcE|dFFd EEcE|
+BDDB DDBD|BDDB DDBD|cEEd FFEF|G2 GF G2:||
+X: 6
+T: Tourist, The
+Z: JACKB
+S: https://thesession.org/tunes/9139#setting29507
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Dmaj
+de|:fAAB ABde|fAAB A2 ef|gBBg BBgB|acca BBgB|
+fAAB ABde|fAAB A2 ef|gBBa ccBc|d2 dc d2:|
+de|:fAAf fede|fedB A2ef|gBBg BBgB|acca BBgB|
+fAAf fede|fedB A2ef|gBBa ccBc|d2 dc d2:|
+de|:fAAf AAfA|fAdf AAef|gBBg BBgB|acca BBgB|
+fAAf AAfA|fAdf AAef|gBBa ccBc|d2 dc d2:|
+de|:fAAa AAfA|AaaA fAdf|gBBg BBgB|acca BBgB|
+fAAa AAfA|AaaA fAdf|gBBa ccBc|d2 dc d2:|
+de|:fAAf AAfA|fAAf AAfA|gBBg BBgB|acca BBgB|
+fAAf AAfA|fAAf AAfA|gBBa ccBc|d2 dc d2:||

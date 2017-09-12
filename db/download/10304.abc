@@ -1,0 +1,24 @@
+X: 1
+T: Beatrice Hill's Three Handed
+Z: Yogi
+S: https://thesession.org/tunes/10304#setting10304
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+|: A2 | "G" B2AF "D" DFAd | "A" c2 BA B2 ed |"A" cdef gece | edcB "D" A2A2 |
+"G" B2AF "D" DFAd |"A" c2 BA B2 ed | cdef gece | e2 "D" dc d2 :|
+|:A2 | "G" B2 AF "D" DF A2 | A2 GF "A" G2 EF |"A" GFED CDEF | G2FE "D" F2A2 |
+"G" B2 AF "D" DF A2 |A2GF "A" G2 EF | GFED CDEF | E2 DC "D" D2 :|
+X: 2
+T: Beatrice Hill's Three Handed
+Z: Mix O'Lydian
+S: https://thesession.org/tunes/10304#setting26136
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+|: FA | B2 A2 AFAd | c2 B2 B2 ed | cdef gece | edcB A2 FA |
+B2 A2 AFAd | c2 B2 B2 ed | cdef gece |e2 d2 d2 :|
+|: a2 | b2 afdf a2 | a2 gf g2 ef | gfed cdeg | g2 fe f2 a2 |
+b2 afdf a2 | a2 gf g2 ef | gfed cdef | e2 dc d2 :|

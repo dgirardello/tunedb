@@ -1,0 +1,30 @@
+X: 1
+T: Tana
+Z: Kuddel
+S: https://thesession.org/tunes/1859#setting1859
+R: reel
+M: 4/4
+L: 1/8
+K: Fmaj
+|A,D ~D2 CF ~F2|F,A,A,A, G,C C2|A,2 G,A, F,G,A,C|B,2 A,B,G,4|
+A,D ~D2 CF ~F2|F,A,A,A, G,C C2|A,2 G,A, F,G,A,C|B,2 A,B,G,4||
+AGFE ~F3 C |D2 CA, G,3 A,| F,CCA, G,2 F,G, |A,DDC DEFG|
+AGFE GFEC |(3.D.E.F CA, G,3 A,|F,CCA, G,2 F,G, |A,DDC D4 ||
+X: 2
+T: Tana
+Z: Kuddel
+S: https://thesession.org/tunes/1859#setting15292
+R: reel
+M: 4/4
+L: 1/8
+K: Fmaj
+|Ad d2 cf f2|FAAA Gc c2|A2 GA FGAc|B2 ABG4|Ad d2 cf f2|FAAA Gc c2|A2 GA FGAc|B2 ABG4||agfe f3 c |d2 cA G3 A| FccA G2 FG |Addc defg|agfe gfec |(3.d.e.f cA G3 A|FccA G2 FG |Addc d4 ||
+X: 3
+T: Tana
+Z: bdh
+S: https://thesession.org/tunes/1859#setting15293
+R: reel
+M: 4/4
+L: 1/8
+K: Fmaj
+|FB B2 Ad d2|DFFF EA A2|F2 EF DEFA|G2 FGE4|FB B2 Ad d2|DFFF EA A2|F2 EF DEFA|G2 FGE4||fedc d3 A |B2 AF E3 F| DAAF E2 DE |FBBA Bcde|fedc edcA |(3.B.c.d AF E3 F|DAAF E2 DE |FBBA B4 ||

@@ -1,0 +1,44 @@
+X: 1
+T: Alistair Anderson's Fancy
+Z: Noel Jackson
+S: https://thesession.org/tunes/13760#setting24566
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+|(3DEF|"G"GBFG EGDC|"G"B,DGB "C"cedc|"G"BGDG BdcB|"D7"AGFG AcBA|!
+|"G"GBFG EGDC|"G"B,D"G"GB "C"cedc|"G"Bgfe "D7"dBAc|"G"B2G2 G2:||!
+||FG|"D7"AcFA DFAc| "G"BdGB DGBd|"C"cege "G"BdGB|AGFE DGFG|!
+|"D7"AcFA DFAc|"G"BdGB DGBd|"C"cege dBAc|"G"B2G2 G2FG|!
+|"D7"AcFA DFAc|"G"BdGB DGBd|"C"cege "G"BdGB|"D7"Agfe dcBA|!
+|"G"GBFG EGDC|"G"B,DGB "C"cedc|"G"Bgfe "D7"dBAc|"G"B2G2 G2||
+X: 2
+T: Alistair Anderson's Fancy
+Z: ceolachan
+S: https://thesession.org/tunes/13760#setting24571
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+R: hornpipe
+|: (3DEF |G>BF>G E>GD3/[C/c/] | [B,3/B3/]D/G>B c>ed>c | B>GD>G B>dc>B | A>GF>G A>c (3cBA |
+G>BF>G (3EFG D3/[C/c/] | [B,3/B3/]D/G>B c>e (3edc | B>g (3gfe d>BA>c | (3BcB G2 G2 :|
+F>G |A>cF>A D>FA>c | B>dG>B D>GB>d | ^c>eg>e d>B=c>A | A>G (3GFE D2 F>G |
+(3ABc F>A D>F A2 | (3Bcd G>B D>G B2 | ^c>eg>e d>B (3ABc | B2 G2 G>DF>G |
+A>c (3FGA D>F (3ABc | B>d (3GAB D>G (3Bcd | ^c>eg>e B>dG>B | A>gf>e d>^c=c>A |
+G>BF>G E>G D2 | [B,3/B3/]D/G>B c>ed>c | B>gf>e (3ded (3cBA | (3GAG F2 G2 |]
+X: 3
+T: Alistair Anderson's Fancy
+Z: ceolachan
+S: https://thesession.org/tunes/13760#setting24572
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+R: hornpipe
+|: (3DEF |G>BF>G E>GD>C | B,>DG>B c>ed>c | B>GD>G B>dc>B | A>GF>G A>cB>A |
+G>BF>G E>GD>C | B,>DG>B c>ed>c | B>gf>e d>BA>c | B2 G2 G2 :|
+F>G |A>cF>A D>FA>c | B>dG>B D>GB>d | c>eA>c B>dG>B | A>GF>E D>GF>G |
+A>cF>A D>FA>c | B>dG>B D>GB>d | c>eg>e d>BA>c | B2 G2 G2 F>G |
+A>cF>A D>FA>c | B>dG>B D>GB>d | c>eA>c B>dG>B | A>gf>e d>cB>A |
+G>BF>G E>GD>C | B,>DG>B c>ed>c | B>gf>e d>BA>c | B2 G2 G2 |]

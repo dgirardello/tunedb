@@ -1,0 +1,79 @@
+X: 1
+T: Hogmanay, The
+Z: ceolachan
+S: https://thesession.org/tunes/6917#setting6917
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+A |f2 f fgf | e2 d d2 e | f>gf fed | c2 B B3 |
+c2 c c>dc | B/c/BA AcB | Ace g2 a | g2 f fAd |
+f3 fgf | e2 d d3 | f>gf fed | c2 B B3 |
+c3 c>dc | B2 A AcB | Ace gfe | d2 d dAd ||
+f2 f e2 e | d2 d c2 c | B>cB BAB | c3 Ace |
+g2 g f2 f | e2 e d2 d | c>dc B<cB | A3 A2 e |
+f3 efe | d3 cdc | B>cB BAB | c2 B Ace |
+g2 g f>gf | e2 e d>ed | cBA gfe | d3- d2 |]
+X: 2
+T: Hogmanay, The
+Z: ceolachan
+S: https://thesession.org/tunes/6917#setting18497
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+|: G/A/ |B2 B BcB | A2 G G2 A | B2 B BAG | F2 E E2 D/E/ |
+F2 F FGF | E2 D D2 E |[1 DFA d^cd | c2 B B2 :|[2 DFA cBA | G3 G2 ||
+|: A |B2 B A2 A | G2 G F2 F | E2 E EDE | F2 E DE/F/A | c2 c B2 B |
+[1 A2 A G2 G | FGF EFE | D3 DB,/C/D :|\
+[2 ABA GFE | DFA cBA | G3- G2 |]
+X: 3
+T: Hogmanay, The
+Z: ceolachan
+S: https://thesession.org/tunes/6917#setting18498
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+G2 A |:B2 B BcB | A2 G G2 A | B2 B BAG | F2 E E3 |
+F2F FGF | E2 D D2 E |[1 DFA d^cd | c2 B BGA :|[2 DFA cBA | G3 G2 ||
+|: A |B2 B A2 A | G2 G F2 F | E2 E EDE | F3 FDF |
+c2 c B2 B | A2 A G2 G |[1 FGF EFE | D3 DB,D :|[2 DFA cBA | G3 |]
+X: 4
+T: Hogmanay, The
+Z: Dr. Dow
+S: https://thesession.org/tunes/6917#setting18499
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+fgf fgf|e2d d2e|fgf fed|c2B B3|cdc cdc|B2A A2^G|Ace a2a|1 g2f f2e:|2 d3 d2e|||:f2f e2e|d2d c2c|B2B BAB|c3 Ace|g2g f2f|e2e d2d|1 c2c BcB|A3 Ace:|2 c2A ABc|d3 d2e||
+X: 5
+T: Hogmanay, The
+Z: ceolachan
+S: https://thesession.org/tunes/6917#setting18500
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+|: e |fgf fgf | e2 d d2 e | fgf fed | c2 B B2 B |
+cdc cdc | B2 A A2 ^G |[1 Ace a2 g | g2 f f2 :|[2 Ace aec | d3 d2 ||
+|: e |f3 e2 e | d3 c2 c | B2 B BcB | c2 B Ace |
+ggg fff | e2 e d2 d |[1 c2 c BcB | A3 A2 :|[2 c2 c cBc | d3 dc ||
+|: B |AAd d2 e | f3 f2 d | fff g2 f |
+[1 e3 e2 e | cdc B2 B | cdA B2 B | cBc dcB | A2 G F2 :|
+[2 e3 A2 d | cde B2 B | c2 A B2 B | AAA f2 e | d3- d2 |]
+X: 6
+T: Hogmanay, The
+Z: Mix O'Lydian
+S: https://thesession.org/tunes/6917#setting26329
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+d/e/ | fgf fgf | e2 d d2 e | fgf fed | c2 B B2 B | cdc cdc | B2 A A2 ^G | Ace a2 g | g2 f f2 e |
+fgf fgf | e2 d d2 e | fgf fed | c2 B B2 B | cdc cdc | B2 A A2 ^G | Ace a2 c | d3 d2 e |]
+f3 e3 | d3 c3 | B2 B BAB | c2 B Ace | g2 g f2 f | e2 e d2 d | c2 c dcB | A2 A d2 e |
+f3 e3 | d3 c3 | B2 B BAB | c2 B Ace | gag fgf efe ded | c2 c cBc | d2 d dcB |]
+Add d2 e | f3 fde | fff g2 f | e3 e2 d | cde B2 B | cde B2 B | cBc dcB | A2 G F2 A |
+Add d2 e | f3 fde | fff g2 f | e3 e2 d | cde B2 B | cde B2 B | A^GA f2 e | d3 d2 |]

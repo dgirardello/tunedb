@@ -1,0 +1,49 @@
+X: 1
+T: Struan Robertson's Rant
+Z: ceolachan
+S: https://thesession.org/tunes/11742#setting11742
+R: strathspey
+M: 4/4
+L: 1/8
+K: Emin
+|: (3AGF |E2 G>A B>AB<d | D2 F>E D/E/F/G/ A<F | E/E/E G>A B>AB<e | d>BA<F E2 :|
+|: g>f |e>fg>e B>eg<e | f<dd>f a/g/f/e/ d<f | e>fg>e b>eg<e | d<BA>F E2 :|
+|: (3cBA |G>BE>B G>Be>B | F>AD>A F>Ad>A | G>BE>B G>BE>g |[1 f<d (3agf e2 :|[2 f<da>f e2- ||
+e>f |g>be>b g>be<b | f>ad>a f>ad<a | g>be>b g>be>g | f<da>f e2- e>f |
+g>be>b g<b e2 | f>ad>a f<a d2 | g>bf>a e>gd>F | d/^c/B/A/ d<F E2 |]
+X: 2
+T: Struan Robertson's Rant
+Z: ceolachan
+S: https://thesession.org/tunes/11742#setting22482
+R: strathspey
+M: 4/4
+L: 1/8
+K: Emin
+|: d/ |E/E/E {F/}G>A TB>AB<d | D/D/D TF>E D/E/F/G/ A<F |\
+E/E/E {F/}G>A TB>AB<e | {^c/}d>BA>F E/E/E TE3/ :|
+|: g/ |e>f{f/}g>e b>e{f/}g>e | f<dd>f a/g/f/e/ {^c/}d>f |\
+e>f{f/}g>e b>e{f/}g>e | d>BA>F E/E/E E3/ :|
+|: B/ |{F/}G>BE>B {F/}G>BE>B | F>AD>A F>AD>A |\
+{F/}G>BE>B {F/}G>BE>g | Tf>da>f e/e/e Te3/ :|
+f/ |g>be>b g>be>b | f>ad>a f>ad>a |\
+g>be>b g>be>g | Tf>da>f e/e/e Te>f |
+g>be>b g>be>b | f>ad>a f>ad>f |\
+g>bf>a e>f{^c/}d>f | {^c/}d/c/B/A/ {c/}d<F E/E/E E3/ |]
+X: 3
+T: Struan Robertson's Rant
+Z: ceolachan
+S: https://thesession.org/tunes/11742#setting22483
+R: strathspey
+M: 4/4
+L: 1/8
+K: Emin
+|: F |E/E/E GA B>ABd | D/D/D dF D/E/F/G/ AF |\
+E/E/E GA B>ABd | eBdF E/E/E E :|
+|: f |e>fge b>fge | f>edg a/g/f/e/ df |\
+efge bfge | dBAF E/E/E E :|
+|: B/ |G>BE>B G>BE>B | F>AD>A F>AD>A |\
+G>BE>B G>BE>G | f>e^df e/e/e e :|
+f |g>be>b g>be>b | f>ad>a f>ad>a |\
+g>be>b g>be>g | f>e^df e/e/e e2 |
+g>be>b g>be>b | f>ad>a f>ad>a |\
+b>fg>e f>de>^c | d/^c/B/A/ dF E/E/E E2 |]

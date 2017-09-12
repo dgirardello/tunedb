@@ -1,0 +1,38 @@
+X: 1
+T: Farewell, The
+Z: errik
+S: https://thesession.org/tunes/3214#setting3214
+R: strathspey
+M: 4/4
+L: 1/8
+K: Emaj
+|: G<A | B3A G3F | E>GB<e g2 e2 | f<Bf<g a2g<a |
+f2 F<G F2 G<A |B3A G3F | (3EGB (3egb a2g<f |
+[1 f>ed<c B>de<f | g2e2 e2 :|2 f>ed<c c>BA<G | B2E2 E2 ||
+|: g<a | b3e g3b | e>de<f g2e2 | a3f g<ba<g | f2 F<G F2 g<a |
+b3a g>fe<d | f>ed<c c>BA<G | A<cB>e d>fB<a | g2e2 e2 g<a |
+b3e g3d | e2 E2 c>BA<G | B,>EG>B c>de<f | g2 f2 f2 G<A |
+B3 A G3 F | (3EGB (3egb a2 g<f | f>ed<c c>BA<G | B2E2 E2 ||
+X: 2
+T: Farewell, The
+Z: Flatseventh
+S: https://thesession.org/tunes/3214#setting16289
+R: strathspey
+M: 4/4
+L: 1/8
+K: Dmaj
+G>A|(B3A) (G3{G}F) (EGBe) g3e|(fBfg) {b}a2ga {g}f2FG F2GA|B3AG2{G}F2 (3EGB (3egb) {b}a2gf|(f{gf}e)dc) (c{dc}B)AG {G}B2E2 E2||g>a|b3eg3b {d}(e3{fede}f) (g3e)|a3f gbag {f}f2F>G F2 ~ga|(B3A)G3{G}F (3EGB (3egb {b}a2 gf|(f{gf}e)dc (c{dc}B)AG {G}B2E2 E2||F>G|(A3G) (F3{F}E) (DFAd) f3d|(eAef) {a}g2fg {f}e2EF E2 FG|(A3{A}G)(F3{F}E) (3DFA (3dfa {a}g3fe| (e{(fe)}d)cB (Ac)de {de}f2d2 d2 ~FG|A3GF2FE (DFAd) {de}f3d|(eAef) {a}g2fg {f}e2(EF) E2~FG|A3GF2{F}E2 (3DFA (3dfa) {a}g2fe|(e{fe}d)cB) (B{cB}A)GF {F}A2D2 D2||f>g|a3df3a {c}(d3{edcd}e) (f3d)|g3e fagf {e}e2E>F E2 ~fg|a2d2 (f/2g/2f/2e/2)dc (e{fe}d)cB (BA{A}GF|(GB)Ad (ce)(Ag) f2d2 d2fg| (a3d)(f3c) d2 D2 (B{c}A)(GF)|(A,DFA) GBcd) {d}f3e e2 FG|(A3G)F3{F}E (3DFA (3dfa {a}g2 fe|(e{fe}d)cB (B{cB}A)GF {F}A2D2 D2||F>G|(A3G) (F3E) (DFAd) f3d|(eAef) {a}g2fg {f}e2EF E2 FG|(A3G) (F3E) (3DFA (3dfa g3fe| (ed)cB (Ac)de f2d2 d2 FG|A3G F2FE (DFAd) f3d|(eAef) {a}g2fg {f}e2(EF) E2FG|A3G F2E2 (3DFA (3dfa) g2fe|(ed)cB) (BA)GF A2D2 D2||f>g|a3d f3a d3e f3d|d (ce)(Ag) f2d2 d2fg|(a3d) (f3c) d2D2 (BA)(GF)|(A,DFA) GBcd) f3e e2 FG|(A3G) F3E (3DFA (3dfa g2 fe|(ed)cB (BA)GF A2D2 D2||
+X: 3
+T: Farewell, The
+Z: Philip W
+S: https://thesession.org/tunes/3214#setting23722
+R: strathspey
+M: 4/4
+L: 1/8
+K: Dmaj
+F>G|"D"A3G "A"F3E "D"DFAd f3d|"A"eAef "Em"g2fg "A"e2EF  E2 FG|"D"A3G "A"F3E "D"3DFA 3dfa "G"g3fe|
+"A"edcB Acde "D"f2d2 d2 FG|A3G "A" F2FE "D" DFAd f3d|"A"eAef "Em"g2fg "A"e2EF E2FG|
+"D"A3G "A"F3E "D"3DFA 3dfa "G"g2fe|"A"edcB BAGF "D"A2D2 D2|
+|f>g|"Bm"a3d f3a "D" dcde f3d|"Em"g3e"D" fagf "Em"e2E>F"A" E2 fg|"Bm"a2d2 fedc "A"edcB "G"BAGF|
+"Em"GBAd"A" ceAg"D" f2d2 d2fg|"Bm"a3d f3c "D"d2D2 "Em"BAGF|"D/F#"A,DFA "G"GBcd "A"f3e e2 FG|
+"D"A3G "A"F3E 3DFA "D"3dfa "G"Hg2 fe|"A"edcB BAGF"D" A2D2 D2|]

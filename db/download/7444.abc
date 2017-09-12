@@ -1,0 +1,72 @@
+X: 1
+T: Bedford Cross
+Z: Nigel Gatherer
+S: https://thesession.org/tunes/7444#setting7444
+R: slide
+M: 12/8
+L: 1/8
+K: Amaj
+e3 ede f2e d2f | edB d2B A2B d3 | e3 ede f2e d2f |
+[1 edB d2B A3 ABd :|2 edB d2B A3 A2 ||
+a | a2e ede f2e d2f | edB d2B A2B d2a | a2e ede f2e d2f |
+[1 edB d2B A3 A2 :|2 edB d2B A3 ABd |]
+X: 2
+T: Bedford Cross
+Z: ceolachan
+S: https://thesession.org/tunes/7444#setting18931
+R: slide
+M: 12/8
+L: 1/8
+K: Dmaj
+|: A3 AGA B2 A G2 B | AGE G2 E D2 E G2 B ||: d2 A A^GA B2 A =G2 B | AGE G2 E D2 E G2 B |
+X: 3
+T: Bedford Cross
+Z: ceolachan
+S: https://thesession.org/tunes/7444#setting18932
+R: slide
+M: 12/8
+L: 1/8
+K: Dmaj
+|: A3 AGA B2 A G2 B | AGE G2 E D2 E G3 ||: d2 A AGA B2 A G2 B | AGE G2 E D2 E G3 |
+X: 4
+T: Bedford Cross
+Z: ceolachan
+S: https://thesession.org/tunes/7444#setting18933
+R: slide
+M: 12/8
+L: 1/8
+K: Gmaj
+|: d3 d^cd e2 d =c2 e | dcA c2 A G2 A c2 e ||: g2 d d^cd e2 d =c2 e | dcA c2 A G2 A c2 e |
+X: 5
+T: Bedford Cross
+Z: ceolachan
+S: https://thesession.org/tunes/7444#setting18934
+R: slide
+M: 12/8
+L: 1/8
+K: Amaj
+|: efe ede {a/}f2 e d2 {a/}f | edB d2 B A2 B d3 |
+X: 6
+T: Bedford Cross
+Z: benhockenberry
+S: https://thesession.org/tunes/7444#setting29201
+R: slide
+M: 12/8
+L: 1/8
+K: Dmaj
+|: A3 AGA B2 A G2 B | AGE G2 E D2 E G2 B |
+ABA AGA B2 A G2 B | AGE G2 E D3 D3 :|
+|: d2 A A^GA B2 A =G2 B | AGE G2 E D2 E G2 B |
+d3 A^GA B2 A =G2 B | AGE G2 E D3 D3 :|
+X: 7
+T: Bedford Cross
+Z: Thady Quill
+S: https://thesession.org/tunes/7444#setting30898
+R: slide
+M: 12/8
+L: 1/8
+K: Dmaj
+||: A3 AGA B2A G2B | AGE G2E D2E F2G |
+| A3 A^GA B2A G2B | AGE G2E D3 D3 :|
+|: d2c A2B =c2A G2e | d2c A2B =cBc e3 |
+| d2c A2B =c2A G2B | AGE G2E D3 D3 :|

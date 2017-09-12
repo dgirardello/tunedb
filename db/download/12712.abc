@@ -1,0 +1,41 @@
+X: 1
+T: Rover Through The Bog
+Z: Daemco
+S: https://thesession.org/tunes/12712#setting21487
+R: waltz
+M: 3/4
+L: 1/8
+K: Dmaj
+"_VB"(dB)|(A2B2)(dB)|(d2e2f2)|(F2A2ed)|B4(dB)|(A2B2)(dB)|(d2e2f2)|(F2A2Bd)|d4||
+(df)|.g.g f2(fe)|.f.a a2(fe)|.d.d e2(dB)|A4f2|a2(fedB)|(de) f4|(F2A2)(Bd)|d4|]
+X: 2
+T: Rover Through The Bog
+Z: Daemco
+S: https://thesession.org/tunes/12712#setting21488
+R: waltz
+M: 3/4
+L: 1/8
+K: Dmaj
+"_VB"(A2B2c2)|(d3e f2)|(A2B2)(ce)|d6|(A2B2c2)|(d3e f2)|(A/2d/2) z(B/2d/2) z(c/2e/2) z|{e}d4||
+(f2f2f2)|(g3B) B2|f2f2e2|(d3B) .A2|a2(ge)(dc)|(d3e f2)|(A/2d/2) z(B/2d/2) z(c/2e/2) z|{e}d4|]
+X: 3
+T: Rover Through The Bog
+Z: Daemco
+S: https://thesession.org/tunes/12712#setting21489
+R: waltz
+M: 3/4
+L: 1/8
+K: Gmin
+(F2G2A2)|(B3cd2)|(F2G2)(Ac)|B6|(F2G2A2)|(B3cd2)|
+(F/B/)z (G/B/)z (A/c/)z|{c}B2||d2d2d2|(e3G) G2|d2d2c2|
+(B3G)F2|f2 (ec)(BA)|(B3cd2)|(F/B/)z (G/B/)z (A/c/)z|{c}B2||
+X: 4
+T: Rover Through The Bog
+Z: fluther
+S: https://thesession.org/tunes/12712#setting21491
+R: waltz
+M: 3/4
+L: 1/8
+K: Dmaj
+DEF GAB | DEF G3 | DEF GAB | DEF G3
+BBB cAA | BBA GED | dcB AGA | BDE FG2

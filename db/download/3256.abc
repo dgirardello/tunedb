@@ -1,0 +1,89 @@
+X: 1
+T: Baidin Fheilimi
+Z: Will Harmon
+S: https://thesession.org/tunes/3256#setting3256
+R: slide
+M: 12/8
+L: 1/8
+K: Dmaj
+|: A2 D FED ABc d2 B | A2 D FED GEE EFG |
+A2 D FED ABc d2 c |1 d2 B ABG FDD D2 B :|2 d2 B ABG FDD D2 A ||
+|: d2 ef2 dg2 e fed | B2 cd2 B ABG FED |
+d2 ef2 dg2 e fed |1 B2 d ABG FDD D2 A :|2 B2 d ABG FDD D2 B ||
+X: 2
+T: Baidin Fheilimi
+Z: Alancorsini
+S: https://thesession.org/tunes/3256#setting16324
+R: slide
+M: 12/8
+L: 1/8
+K: Dmaj
+A4 D2|F3 E D2|A2 B2 c2|d4 B2|\A4 D2|F3 E D2|G2 E2 E2 |E6|\A4 D2|F3 E D2|A2 B2 c2|d4 B2|\d4 B2|A3 B G2|F2 D2 D2 |D6||\d4 e2|f4 d2|g4 e2|f4 d2|\B4 c2|d4 B2|A3 B G2|F3 E D2|\d4 e2|f4 d2|g4 e2|f4 d2|\B4 d2|A3 B G2|F2 D2 D2|D6||
+X: 3
+T: Baidin Fheilimi
+Z: JACKB
+S: https://thesession.org/tunes/3256#setting25579
+R: slide
+M: 12/8
+L: 1/8
+K: Dmaj
+|: A2 D F>ED ABc d2 B | A2 D F>ED GEE E3 |
+A2 D F>ED ABc d2B | d2 B A>BG FDD D2 A ||
+|: d2e f2d g2e f>ed | B2d d>cB A>BG F>ED |
+d2e f2d g2e f>ed | B2d ABG FDD D3 ||
+X: 4
+T: Baidin Fheilimi
+Z: JACKB
+S: https://thesession.org/tunes/3256#setting26455
+R: slide
+M: 12/8
+L: 1/8
+K: Dmaj
+V:1
+|:A2D F>ED ABc d2B|A2D F>ED GEE E3 |
+V:2
+|:F2A d>BA FGA F2D|F2A d>BA dBB B3|
+V:1
+A2D F>ED ABc d2B|d2B A>BG FDD D2 A||
+V:2
+F2A d>BA FGA F2D|A2G F>GB AFF F2D||
+V:1
+|:d2e fed g2e f>ed|B2d d>cB A>BG F>ED|
+V:2
+|:A2B dBA d2B d>BA|d2B B>cd F>GB AGF|
+V:1
+d2e f2d g2e f>ed|B2d ABG FDD D3||
+V:2
+A2B d2A d2B d>BA|d2B FGB AFF F3||
+X: 5
+T: Baidin Fheilimi
+Z: JACKB
+S: https://thesession.org/tunes/3256#setting26456
+R: slide
+M: 12/8
+L: 1/8
+K: Dmaj
+V:1
+|:A2D F>ED ABc d2B|A2D F>ED GEE E3 |
+V:2
+|:F2A d>BA FGA F2D|F2A d>BA dBB B3|
+V:3
+|:d2f d>ef agf a2f|d2f d>ef fgg g3|
+V:1
+A2D F>ED ABc d2B|d2B A>BG FDD D2A||
+V:2
+F2A d>BA FGA F2D|A2G F>ED AFF F2D||
+V:3
+d2f d>ef agf a2f|a2d d>gB dAA A2F||
+V:1
+|:d2e fed g2e f>ed|B2d d>cB A>BG F>ED|
+V:2
+|:A2B dBA d2B d>BA|d2B B>cd F>GB AGF|
+V:3
+|:f2g agf a2g agf|f2g a>gf d>ed fga|
+V:1
+d2e f2d g2e f>ed|B2d ABG FDD D3||
+V:2
+A2B d2A d2B d>BA|d2B FGB AFF F3||
+V:3
+f2g a2f b2g a>gf|g2f dfd dAA A3||

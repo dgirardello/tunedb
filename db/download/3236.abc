@@ -1,0 +1,51 @@
+X: 1
+T: Muineira De Ourense
+Z: Christian_T
+S: https://thesession.org/tunes/3236#setting3236
+R: slide
+M: 12/8
+L: 1/8
+K: Cmaj
+~G2G GFE DEF ~G2G|~A2A AGG cGG FFE|!
+CED CEE EDC AAF|CED ~C3 BCD ~E2C|!
+CED CEE EDC AAF|CED C2C BCD CGC:|!
+K:F
+|:~A2A cAc cBA B2G|~G2G BGB BAG A2F|!
+~A2A ADE FGA c2B|BcB ABA GAG ~F3:|!
+X: 2
+T: Muineira De Ourense
+Z: Bill Reeder
+S: https://thesession.org/tunes/3236#setting16313
+R: slide
+M: 12/8
+L: 1/8
+K: Gmaj
+"D"~A3 AGF|"A"EFG "D"A3|"G"~B3 BAA|"D"dAA "G"G2F|!"D"DFE DFF|"D"FED "G"B2A|"D"DFE ~D3|"A"EDE "D"F2D|!"D"DFE DFF|"D"FED "G"B2A|"D"DFE ~D3|"A"EDE "D"D3:||!"G"BAB dBd|"G"dcB "D"c2A|"D"AGA cAc|"D"cBA "G"B2G|!"G"BAB "Em"EFG|"G"GAB "D"d2c|"C"cdc "G"BcB|"D"ABA "G"G3:||
+X: 3
+T: Muineira De Ourense
+Z: bagpie
+S: https://thesession.org/tunes/3236#setting25653
+R: slide
+M: 12/8
+L: 1/8
+K: Dmaj
+AAA |: AGF EFG | ABA BBB | BAA dAA | G2 F DFE |
+DFF FED | B2 G DFE | DED CDE | F2 D DFE |
+DFF FED | B2 G DFE |1 DED CDE | D2 D AAA :|2 DED CDE | D2 D BBB ||
+[K:Gmaj]
+|: dBd dcB | c2 A AAA | cAc cBA | B2 G BBB |
+BEF GAB | d2 c cdc | BcB ABA |1 G2 G BBB :|2 G2 G AAA ||
+X: 4
+T: Muineira De Ourense
+Z: JACKB
+S: https://thesession.org/tunes/3236#setting25871
+R: slide
+M: 12/8
+L: 1/8
+K: Dmaj
+"D"A3| AGF "A"EFG| "D"A3"G"B3 |BAA "D"dAA| "G"G2F "D"DFE|
+"D"DFF "D" FED |"G"B2G "D"DFE| D3"A"EDE| "D"F2D "D"DFE|
+"D"DFF "D"FED| "G"B2G "D"DFE| D3"A"EDE|1"D"D3 "G"A3:|2 "D"D3 "G"B3||
+K:Gmaj
+"D"dBd "G"dcB| "D"c2A "D"A3| cAc "D"cBA| "G"B2G "G"B3|
+"Em"BEF "G"GAB| "D"d2c "C"cdc| "G"BcB "D"ABA|1 "G"G3 B3:|2 "G"G3 "D"A3||

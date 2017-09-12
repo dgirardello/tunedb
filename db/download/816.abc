@@ -1,0 +1,84 @@
+X: 1
+T: Tom Billy's
+Z: Mark Cordova
+S: https://thesession.org/tunes/816#setting816
+R: jig
+M: 6/8
+L: 1/8
+K: Amix
+~a3 ece|edB BAB|Aaa Ace|dcB Ace|
+~a3 ece|edB BAF|GBd ged|1 edB Ace:|2 edB A2f||
+|:~g3 ~a3|bag fed|faf g2d|BAB def|
+~g3 ~a3|bge gab|age dBe|1 ABA A2f:|2 A BA A2B||
+|:~c3 edd|edB dBA|~A3 dBA|~A3 aed|
+~c3 dcd|ede gab|age dBe|1 ABA A2B:|2 A BA Ace||
+X: 2
+T: Tom Billy's
+Z: JACKB
+S: https://thesession.org/tunes/816#setting26062
+R: jig
+M: 6/8
+L: 1/8
+K: Amix
+|:a3 ece|edB BAA|eaa e3|edB Ace|
+a3 ece|edB BAA|GBd ged|1 fdB Ace:|2 fdB A2f||
+|:g3 a3|bag fed|fg/a/f g2e|fdB def|
+|1 g3 a3|bge gab|age dBG| Ac/B/A Ace:|
+|2 g3 a3|bge gab|age dBe| Ac/B/A A3||
+|:c3 edd|edB dBA|Ac/B/A cBA|A3 ecA|
+c3 edd|ede gab|age dBe|1 Ac/B/A A3:|2 Ac/B/A Ace||
+X: 3
+T: Tom Billy's
+Z: aidriano
+S: https://thesession.org/tunes/816#setting26810
+R: jig
+M: 6/8
+L: 1/8
+K: Amix
+|:~a3 ece|edB ~A3|eaa ece|dcB Ace|
+~a3 ece|edB ~A3|GBd gfe|fdB Ace:|
+|:~g3 ~a3|bag fed|faf g2e|edB def|
+~g3 ~a3|bge gab|age dBe|~A3 Ace:||
+X: 4
+T: Tom Billy's
+Z: Moulouf
+S: https://thesession.org/tunes/816#setting30325
+R: jig
+M: 6/8
+L: 1/8
+K: Amix
+|:~a3 ece|edB BAA|eaa ece|dcB Ace|
+~a3 Ace|edB BAF|GBd gdB|dcB Ace:|
+|:~g3 ~a3|bag fed|faf gdB|BAB GBd|
+gBg aAa|bge gab|age dBe|1 ABA Ace:|2 Ace aed||
+|:cBc dcd|edc dBe|ABA dBG|ABA fed|
+cAA dAA|ede gab|age dBe|1 ABA ABd:|2 ABA Ace||
+X: 5
+T: Tom Billy's
+Z: Michael Toomey
+S: https://thesession.org/tunes/816#setting30521
+R: jig
+M: 6/8
+L: 1/8
+K: Amix
+~a3 ece | edB BAA | eaa ece | edB Ace |
+~a3 ece | edB BAA | GBd ged |1 edB Ace :|2 edB A2f ||
+|: ~g3 ~a3 | bag fed | faf g2d | edB def |
+~g3 ~a3 | bge gab | age dBe |1 ABA A2f :|2 A BA A2B ||
+|: ~c3 edd | edB dBA | ABA cBA | ~A3 ecA |
+~c3 edd | ede gab | age dBe |1 ABA A2B :|2 A BA Ace ||
+X: 6
+T: Tom Billy's
+Z: JACKB
+S: https://thesession.org/tunes/816#setting30530
+R: jig
+M: 6/8
+L: 1/8
+K: Dmix
+|:d3 AFA|AGE EDD|Add A3|AGE DF/G/A|
+d3 AFA|AGE EDD|E3 cAG|1 BGE DFA:|2 BGE D2B||
+|:c3 dB/c/d|edc BAG|Bc/d/B c2A|BGE GAB|
+|1 c3 d3|ecA cde|dcA GEA| D3 DFA:|
+|2 c3 dB/c/d|ecA cde|dcA GEA| D3 D3||
+|:F3 AGG|AGE GED|D3 FED|D3 AFD|
+F3 AGG|AGA cde|dcA GEA|1 D3 D3:|2 D3 DFA||

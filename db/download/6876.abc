@@ -1,0 +1,88 @@
+X: 1
+T: Westphalia, The
+Z: ceolachan
+S: https://thesession.org/tunes/6876#setting6876
+R: waltz
+M: 3/4
+L: 1/8
+K: Gmaj
+|: D EF |"G" G4 A2 | B4 e2 | d4- de | d3 D EF |
+"G" G4 A2 | "(Gdim)" B4 c2 | "Am" A4- AB | "D" A4 G2 |
+"D" F4 A2 | "(Am)" c4 g2 | "D" f3 A fg | f4 (3gfe |
+[1 "D" d2- dd- dA | "D+" e2 d2 c2 | "G" B4- Bc | "(D7)" B3 :|
+[2 "D" d2- dd- dd | c2 F2 A2 | "G" G2 GF GA | G3 ||
+|: B dG |"G" g2- gg- gA | f2- ff- fA | e2 fA g2 | B4- BG |
+"G" B2 A2 G2 | B2 A2 G2 | "Am" c2 cB cd | "D" c4- cA |
+"Am" e2 ee eA | "Am/G#" e2 ee eA | "Am/G" e2 f2 g2 | "D/F#" f3 A fe |
+[1 "D" d2- dd- dA | "D+" e2 d2 c2 | "G" B4- Bc | "D" B3- :|
+[2 "D" d2- dd- dd | c2 B2 A2 | "G" G2 GF GA | G3 |]
+X: 2
+T: Westphalia, The
+Z: ceolachan
+S: https://thesession.org/tunes/6876#setting18451
+R: waltz
+M: 3/4
+L: 1/8
+K: Gmaj
+|: D/ E>F |G4 A2 | B4 e2 | d4- d>e | d2- d>D E>F |
+G4 A2 | B4 c2 | A4- A>B | A4 G2 |
+F4 A2 | c4 g2 | f2- f>A f>g | f4 (3gfe |
+[1 d2- d>d- d>A | e2 d2 c2 | B4- B>c | B2- B3/ :|
+[2 d2- d>d- d>d | c2 F2 A2 | G2 G>F G>A | G2- G3/ ||
+|: B/ d>G |g2- g>g- g>A | f2- f>f- f>A | e2 f>A g2 | B4- B>G |
+B2 A2 G2 | B2 A2 G2 | c2 c>B c>d | c4- c>A |
+e2 e>e e>A | e2 e>e e>A | e2 f2 g2 | f2- f>A f>e |
+[1 d2- d>d- d>A | e2 d2 c2 | B4- B>c | B2- B3/- :|
+[2 d2- d>d- d>d | c2 B2 A2 | G2 G>F G>A | G2- G3/ |]
+X: 3
+T: Westphalia, The
+Z: ceolachan
+S: https://thesession.org/tunes/6876#setting18452
+R: waltz
+M: 3/4
+L: 1/8
+K: Gmaj
+|: D2 |G4 A2 | B4 e2 | d6- | d4 D2 |\
+G4 A2 | B4 c2 | A6- | A4 G2 |
+F4 A2 | c4 g2 | f6- | f4 e2 |\
+d4 d2 |[1 e2 d2 c2 | B6- | B4 :|[2 c2 B2 A2 | G6- | G6 ||
+|: g6 | f6 | e2 f2 g2 | B6 |\
+B2 A2 G2 | B2 A2 B2 | c6- | c6 |
+e6 | e6 | e2 f2 g2 | f4 e2 |\
+d4 d2 |[1 e2 d2 c2 | B6- | B6 :|[2 c2 B2 A2 | G6- | G4 |]
+X: 4
+T: Westphalia, The
+Z: ceolachan
+S: https://thesession.org/tunes/6876#setting18453
+R: waltz
+M: 3/4
+L: 1/8
+K: Gmaj
+|: (3DEF |G2 G>F G>A | B2 B>^A B>e | d2 d>e d>^c | (3ddd d>D E>F |
+(3GGG G>F G>A | (3BBB B>^A B>c | A2 A>^G A>B | A2 A>E G>E |
+F2 D>A (3FGA | c2 c>B c>g | f2 f>^e f>g | f2 f>g (3gfe |
+[1 d2 d>^c (3ded | e2 (3ded c2 | B2 B>^A B>c | (3BBB B2 :|
+[2 d2 (3ddd d2 | c2 F2 D2 | G2 G>F G>A | G2 (3BAG (3Bcd ||
+g2 g>G B>g | f2 f>F A>f | (3efe (3fgf (3gag | B2 B>^A B>c |
+(3BcB A2 G2 | (3BcB (3ABA G2 | c2 c>B c>d | c2 c>D (3FAc |
+e2 (3eee e2 | e2 (3efe e>A | e2 f3 g | f3 A f>e |
+[1 d2 d>^c d>A | e2 (3ded c2 | B2 B>^A B>c | B2 B>D (3GBd :|
+[2 d2 (3ddd d>A | c2 (3BcB A2 | G2 G>F G>A | G4 |]
+X: 5
+T: Westphalia, The
+Z: ceolachan
+S: https://thesession.org/tunes/6876#setting21354
+R: waltz
+M: 3/4
+L: 1/8
+K: Gmaj
+|: DF |G2 GF GA | B2 B^A Be | d2 de d^c | d2 dD EF |
+G2 GF GA | B2 B^A Bc | A2 A^G AB | A2 AE GE |
+F2 DA FA | c2 cB cg | f2 f^e fg | f2 fg fe |
+[1 d2 dc d2 | e2 d2 c2 | B2 B^A Bc | B2 B2 :|
+[2 d2 d2 d2 | c2 F2 D2 | G2 GF GA | G2 BG Bd ||
+g2 gG Bg | f2 fF Af | e2 f2 g2 | B2 B^A Bc |
+B2 A2 G2 | B2 A2 G2 | c2 cB cd | c2 cD FA |
+e2 e2 e2 | e2 e2 eA | e2 f2 g2 | f3 A fe |
+[1 d2 d^c dA | e2 d2 c2 | B2 B^A Bc | B2 BD Gd :|
+[2 d2 d2 dA | c2 B2 A2 | G2 GF GA | G4 |]

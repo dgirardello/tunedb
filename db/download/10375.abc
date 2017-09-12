@@ -1,0 +1,30 @@
+X: 1
+T: La Ronde Des Milloraines
+Z: martin clarke
+S: https://thesession.org/tunes/10375#setting10375
+R: jig
+M: 6/8
+L: 1/8
+K: Dmin
+|:dcd|efg a2a|gfe f2e|dcd A2A|
+dcd efg|a2a gfe|f2e d2c|d3:|
+|:dcd|B2B BAG|A2D EFG|ABA GFG|A3 dcd|
+B2B BAG|A2D EFG|ABA GFE|D3:|
+X: 2
+T: La Ronde Des Milloraines
+Z: ceolachan
+S: https://thesession.org/tunes/10375#setting20326
+R: jig
+M: 6/8
+L: 1/8
+K: Dmin
+d^cd efg | aba gfe | [M: 9/8] f2 e d^cd A2 A | [M: 6/8]d^cd efg | aba gfe | [M: 9/8] f2 e d2 ^c d2 :|ddd B2 B | BAG A2 D | EFG ABA | GFE F2 D | ddd B2 B | BAG A3 | EFG ABA |[1 GFE D3 :|[2 GFE D2 |]
+X: 3
+T: La Ronde Des Milloraines
+Z: ceolachan
+S: https://thesession.org/tunes/10375#setting20327
+R: jig
+M: 6/8
+L: 1/8
+K: Dmin
+dcd efg | a2 a gfe | [M: 9/8] f2 e dcd A2 A | [M: 6/8]dcd efg | a2 a gfe | [M: 9/8] f2 e d2 c d2 :|dcd B2 A | BAG A2 D | EFG ABA | GFG A2 A | dcd B2 A | BAG A2 D | EFG ABA |[1 GFE D2 :|

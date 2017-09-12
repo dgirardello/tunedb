@@ -1,0 +1,78 @@
+X: 1
+T: Strike The Gay Harp
+Z: Mark Cordova
+S: https://thesession.org/tunes/1216#setting1216
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+d2B cBA|dAF FED|d2B cAA|dAF EFA|
+def Bcd|ABA F2 E|DED DEF|AFE EFA:|
+dcd fdf|aba afe|def afa|bge edB|
+def afa|bgb a2g|fed dfe|dAF EFA:|
+def def|dAF DFA|def def|dAF F2A|
+def Bcd|ABA F2 E|DED DEF|AFE EFA:|
+X: 2
+T: Strike The Gay Harp
+Z: MichaelBolton
+S: https://thesession.org/tunes/1216#setting14511
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+def B3|ABA GFE|DED DEF|AFE EFA:|
+X: 3
+T: Strike The Gay Harp
+Z: m.r.kelahan
+S: https://thesession.org/tunes/1216#setting23022
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+|:dcB cAA|cAG FED|dBd cAF|AGF EFA|dcB cAA|dAG FEF|DFA DFA|AGF EFA:|
+|:~d3 fdf|a2a afe|ded fdf|e/f/ge ecA|~d3 fdf|a2a afe|dcB cAF|AGF EFA:|
+|:def def|dAG|FED|def def|AGF EFA|def edc|dAG FED|D2D FEF|AGF EFA:|
+X: 4
+T: Strike The Gay Harp
+Z: Cerebus
+S: https://thesession.org/tunes/1216#setting26525
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+A|d.B.B cAA| "tr"BAG "tr"FED| dBB cAA| dAF EFA|\
+(de)f (Bc)d| ABG FEF|
+D>ED DFA| AFE (EF)A::\
+d3 f3| a2b afd| d2f afa| bge ecA|
+d2f a(f/g/a/).f/| (bg/a/b/)g/ a2g| fed dfe| dAF EFA::\
+(df).e (df).e| (dA).G (FE).D|
+(df).e (df).e| (dA).F (EF).A|\
+(de).f (Bc).d| ABG FEF| DED DFA| AFE EFA:|
+X: 5
+T: Strike The Gay Harp
+Z: Steve Ross
+S: https://thesession.org/tunes/1216#setting28310
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+d2B cBA|dAF FED|d2B cBA|dAF EFA|
+def Bcd|ABA ~F2 E|DED DEF|AFE EFA:|
+~d2d fdf|aba afe|~d2f afa|bge edB|
+d2f afa|bgb a2f|fed def|dAF EFA:|
+def def|dAF DFA|def def|dAF ~E2A|
+def Bcd|ABA ~F2 E|DED DEF|AFE EFA:|
+X: 6
+T: Strike The Gay Harp
+Z: pipersgrip
+S: https://thesession.org/tunes/1216#setting29703
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+d2B cBA|dAF FED|DdB cBA|dAF ~E3|
+def Bcd|ABA F2 E|~D3 DEF|AFE EFA:|
+dcd fdf|aba afe|def ~a3|bge edB|
+Bdf ~a3|bgb a2g|fed dfe|dAF EFA:|
+def dfe|dAF DFA|def dfe|dAF ~E3|
+def Bcd|ABA F2 E|~D3 DEF|AFE EFA:|

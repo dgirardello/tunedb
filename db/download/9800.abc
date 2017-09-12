@@ -1,0 +1,36 @@
+X: 1
+T: Plane Of The Plank, The
+Z: laveylad
+S: https://thesession.org/tunes/9800#setting9800
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Gmaj
+|:(3DEF|GABd g2fg|eGce d2Bd|cece d2BG|DFAB cAFA|
+BGBd g2fg|eceg f2ga|bgdB cGEG|(3FED BA G2:|
+|:(3ABc|d2d^c dAFA|BAGF G2AB|c2cd edcB|Adfg a2fa|
+g2dg e2ce|d2Bd cece|dcAG FDBA|G2 (3FGA G2:|
+X: 2
+T: Plane Of The Plank, The
+Z: seanquinn
+S: https://thesession.org/tunes/9800#setting26940
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Gmaj
+|:(3DEF|GABd g2fg|eGce d2Bd|cece d2BG|DFAB cAFA|
+BGBd g2fg|eceg f2ga|bgdB cGEG|(3FED BA G2:|
+|:(3ABc|dGBd cedc | BAGF G2AB|c2cd edcB|Adfg a2fa|
+~g2dg ~e2ce|~d2Bd cedc|(3Bcd gd ecAF |DGGF G2:|
+X: 3
+T: Plane Of The Plank, The
+Z: seanquinn
+S: https://thesession.org/tunes/9800#setting27213
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Gmaj
+|(3DEF|GABd ~g2fg|eGce d2Bd|cece ~d2BG|DFAB cAFc|
+(3BAG Bd ~g2fg|eceg f2ga|bgdB cECG|FDBA G2:|
+|:Bc|dB~B2 dAFc|BAGF G2AB|cBcd edcB|Adfg ~a2fa|
+g2dg eGce|~d2Bd cece|dcAG FDBA|~G2 FAG2:|

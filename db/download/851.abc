@@ -1,0 +1,78 @@
+X: 1
+T: Return From Fingal
+Z: slainte
+S: https://thesession.org/tunes/851#setting851
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Edor
+|:B2GF EFGA|B2GF E4|AGFA d2A2|B2A2 Bcd2|
+B2GF EFGA|B2GF E4|AGFA d2AG|F2E2 E4:|
+|:f2e2 e2dc|B2A2 d2A2|B2A2 d2A2|B2A2 Bcde|
+f2e2 e2dc|B2A2 d2A2|AGFA d2AG|F2E2 E4:|
+X: 2
+T: Return From Fingal
+Z: ceolachan
+S: https://thesession.org/tunes/851#setting14018
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Emin
+|: {ABc}BAGF EFGA | {c}BAGF E4 | AGFA d2 A2 | {Bc}B2 A2 B^c d2 | {Bc}BAGF EFGA | {Bc}BAGF E4 | AGFA d2{ed} A2 | F2 E2 {F}E4 :|f2{gf} e2 e2 d^c | B2{^cB} A2 d3 A | B2{^cB} A2 d2 A2 | B2{^cB} A2 B^cde |f2{gf} e2 e2 d^c | B2{^cB} A2 d3 B | AGFA d2{ed} A2 |[1 F2{GF} E2 E2 g2 :|[2 F2{GF} E2 E4 |]
+X: 3
+T: Return From Fingal
+Z: ceolachan
+S: https://thesession.org/tunes/851#setting14019
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Edor
+BG/F/ E/F/G/A/ | BG/F/ E2 | A/G/F/A/ dA | BA B/c/d/e/ |BG/F/ E/F/G/A/ | BG/F/ E2 | A/G/F/A/ dA | FE E2 ||fe ed/c/ | BA dA | BA dA | BA B/c/d/e/ |fe ed/c/ | BA d2 | A/G/F/A/ dG | FE E2 |]B2 GF EFGA | B2 GF E4 | AGFA d2 A2 | B2 A2 Bcde |B2 GF EFGA | B2 GF E4 | AGFA d2 A2 |F2 E2 E4 ||f2 e2 e2 dc | B2 A2 d2 A2 |B2 A2 d2 A2 | B2 A2 Bcde |f2 e2 e2 dc | B2 A2 d4 | AGFA d2 G2 | F2 E2 E4 |]
+X: 4
+T: Return From Fingal
+Z: OsvaldoLaviosa
+S: https://thesession.org/tunes/851#setting24114
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Edor
+B/A/G/F/ E/F/G/A/|B/A/G/F/ EE|A/G/F/A/ dA|BA B/c/d|
+B/A/G/F/ E/F/G/A/|B/A/G/F/ EE|A/G/F/A/ dA|FE E2:|
+!|:fe ed/c/|BA d>A|BA dA|BA B/c/d/e/|
+fe ed/c/|BA d>A|B/A/F/A/ dA|FE E2:|
+X: 5
+T: Return From Fingal
+Z: JACKB
+S: https://thesession.org/tunes/851#setting26692
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Ador
+|:e2 cB ABcd|e2cB A2 d2|dcBd g2d2|e2d2 efg2|
+e2 cB ABcd|e2cB A2 d2|dcBd g2dc|B2A2 A4:|
+|:b2a2 a2gf|e2 de g2d2|e2d2 g2d2|e2d2 efga|
+b2a2 a2gf|e2 de g2d2|dcBd g2dc|B2A2 A4:|
+X: 6
+T: Return From Fingal
+Z: JACKB
+S: https://thesession.org/tunes/851#setting26693
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Edor
+|:B2 GF EFGA|B2GF E2 A2|AGFA d2A2|B2A2 Bcd2|
+B2 GF EFGA|B2GF E2 A2|AGFA d2AG|F2E2 E4:|
+|:f2e2 e2dc|B2 AB d2A2|B2A2 d2A2|B2A2 Bcde|
+f2e2 e2dc|B2 AB d2A2|AGFA d2AG|F2E2 E4:|
+X: 7
+T: Return From Fingal
+Z: Guillom
+S: https://thesession.org/tunes/851#setting30562
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Fdor
+|:c2AG FGAB|c2AG F4|BAGB e2B2|c2B2 cdef|
+c2AG FGAB|c2AG F4|BAGB e2Bc|G2F2 F4:|
+|:g2f2 f2ed|c2B2 e2B2|c2B2 e2B2|c2B2 cdef|
+g2f2 f2ed|c2B2 e2B2|BAGB e2Bc|G2F2 F4:|

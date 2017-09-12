@@ -1,0 +1,58 @@
+X: 1
+T: Deck The Halls
+Z: JosephC
+S: https://thesession.org/tunes/8086#setting8086
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Gmaj
+|:d3c B2A2|G2A2 B2G2|1ABcA B3A|G2F2 G2Bc:|2ABcA B3A|G2F2 G2D2||
+A3B c2A2|B3c d2A2|Bcd2 efg2|(3fgf(3efe d2Bc|
+d3c B2A2|G2A2 B2G2|e3e d3c|B2A2 G4||
+X: 2
+T: Deck The Halls
+Z: JosephC
+S: https://thesession.org/tunes/8086#setting19300
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Gmaj
+|:d>cBA|GABG|1A/B/c/A/B>A|GFGB/c/:|2A/B/c/A/B>A|GFGD|||A>BcA|B>cdA|B/c/de/f/g|fedB/c/|d>cBA|GABG|e>e d>c|BAG2||
+X: 3
+T: Deck The Halls
+Z: ceolachan
+S: https://thesession.org/tunes/8086#setting19301
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Gmaj
+d>c BA | GG/A/ BG | A/B/c/A/ B>A | GF G2 |dd/c/ BA | G>A BG | A/B/c/A/ B>A | GF G2 ||AA/B/ cA | BB/c/ dA | B/^A/B/c/ dg | fe d/A/B/c/ |d>c B>A | G/F/G/A/ BG | A/e/c/A/ d>G | GF G2 |]~ | A/e/c/A/ d>c | BA G2 |]
+X: 4
+T: Deck The Halls
+Z: ceolachan
+S: https://thesession.org/tunes/8086#setting19302
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Fmaj
+|: c3 B A2 G2 | F2 F2 A2 F2 | GABG A3 G| F2 E2 F4 :|G3 A B2 G2 | A3 B c2 G2 | A/B/ c3 B/c/ d3 | e2 d2 c4 |c3 B A2 G2 | F2 F2 A2 F2 | GdBG A3 G | F2 C2 F4 |]
+X: 5
+T: Deck The Halls
+Z: ceolachan
+S: https://thesession.org/tunes/8086#setting19303
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Gmaj
+|: c3 B A2 G2 | F2 FG A2 F2 | GABG A3 G | F2 E2 F4 :|G2 GA B2 G2 | A2 AB c2 G2 | AGAB c2 f2 | e2 d2 cGAB |c2 cB A2 AG | FEFG A2 F2 | GdBG c3 G | F2 E2 F4 |]d>c BA | GG/A/ BG | A/B/c/A/ B>A | GF G/D/G/B/ |dd/c/ B/c/B/A/ | G/F/G/A/ BG | A/B/c/A/ B>A | GF G2 ||A>B cA | B>c dA | B/^A/B/c/ dg | f>e d2 |d>c BA | G>A BG | A/e/c/A/ d>c | BA G2 |]|: d>c BA | GG/A/ BG | A/B/c/A/ B>A | GF G2 :|AA/B/ cA | B/A/B/c/ dA | B/A/B/c/ dg | fe d2 |d>c BA | GG/A/ BG | A/e/c/A/ d>c | BA G2 |]
+X: 6
+T: Deck The Halls
+Z: sallyanndra
+S: https://thesession.org/tunes/8086#setting26746
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Dmaj
+|: "G" d3 c B2 A2 | G2 A2 B2 G2 | "C" ABcA "G" B3 A | "D" G2 F2 "G" G4 :|
+"D" A3 B c2 A2 | "G" B3 c d2 A2 | Bc d2 "A" ef g2 | "D" f2 e2 d4
+"G" d3 c B2 A2 | G2 A2 B2 G2 | "Am" AecA "G" d3 c | "D" B2 A2 "G" G4 |]

@@ -1,0 +1,54 @@
+X: 1
+T: Alan MacPherson Of Mosspark
+Z: fiddlematt
+S: https://thesession.org/tunes/8475#setting8475
+R: jig
+M: 6/8
+L: 1/8
+K: Amaj
+|:a|fae fce|A<AA ace|dcc ceA|cBB B2 a|
+fae fce|A<AA ace|dcc eBe|A3 A2:|
+|:e|a2 e f<ga|f2 a fec|dcc ceA|
+[1 cBB B2 e|a2 e f<ga|f2 a fec|dcc eBe|A3 A2:|
+[2 cBB B2a|fae fce|A<AA ace|dcc eBe|A3 A2||
+|:a|A2 c A<AA|ece fec|dcc ceA|cBB B2 a|
+A2 c A<AA|ece fec|dcc eBe|A3 A2:|
+|:e|a2 a a2 e|aef ceA|dcc ceA|
+[1 cBB B2e|a2 a a2 e|aef ceA|dcc eBe|A3 A2:|
+[2 cBB B2a|A2 c A<AA|ece fec|dcc eBe|A3 A3||
+X: 2
+T: Alan MacPherson Of Mosspark
+Z: JACKB
+S: https://thesession.org/tunes/8475#setting30060
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+|:g|egd eBd|G<GG gBd|cBB BdG|BAA A2 g|
+egd eBd|G<GG gBd|cBB dAd|G3 G2:|
+|:d|g2 d e<fg|e2 g edB|cBB BdG|
+[1 BAA A2 d|g2 d e<fg|e2 g edB|cBB dAd|G3 G2:|
+[2 BAA A2g|egd eBd|G<GG gBd|cBB dAd|G3 G2||
+|:g|G2 B G<GG|dBd edB|cBB BdG|BAA A2 g|
+G2 B G<GG|dBd edB|cBB dAd|G3 G2:|
+|:d|g2 g g2 d|gde BdG|cBB BdG|
+[1 BAA A2d|g2 g g2 d|gde BdG|cBB dAd|G3 G2:|
+[2 BAA A2g|G2 B G<GG|dBd edB|cBB dAd|G3 G3||
+X: 3
+T: Alan MacPherson Of Mosspark
+Z: JACKB
+S: https://thesession.org/tunes/8475#setting30414
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+|:g|egd eBd|G3 gBd|cBB BdG|BAA A2 g|
+egd eBd|G3 gBd|cBB dB/c/d|G3 G2:||
+|:d|g2 d e>fg|e2 g edB|cBB BdG|BAA A2 d|
+|1g2 d e>fg|e2 g edB|cBB dB/c/d|G3 G2:|
+|2 egd eBd|G3 gBd|cBB dB/c/d|G3 G2||
+|:g|G2 B G3|dB/c/d edB|cBB BdG|BAA A2 g|
+G2 B G3|dB/c/d edB|cBB dB/c/d|G3 G2:||
+|:d|g3 g2 d|gde BdG|cBB BdG|BAA A2d|
+g3 g2 d|gde BdG|cBB dB/c/d|G3 G2:|
+[2 G2 B G3|dB/c/d edB|cBB dB/c/d|G3 G3||

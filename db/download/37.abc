@@ -1,0 +1,114 @@
+X: 1
+T: Gold Ring, The
+Z: Jeremy
+S: https://thesession.org/tunes/37#setting37
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+|:BAG A2d|cAG G2A|BAG A2d|cAG FGA|BAG A2d|cAG GBd|gfg afd|cAF G3:||:BGB Bdc|A2A dcA|GFG GBd|cAG FGA|B2B Bdc|A2A dcA|GFG GBd|cAF G3:||:fdd edd|fdd edd|fdd edd|cAF G3|fdd edd|fdd edd|faf ged|cAF G3:||:gfg afd|cAF GBd|gfg afd|cAG F3|gfg afd|Bdg fed|gfg afd|cAF G3:||:BDB BDB|ADA ADA|GFG GBd|cAG FGA|BDB BDB|ADA ADA|G2G GBd|cAF G3:||:BAB D2D|ABA D2D|GFG GBd|cAG FGA|BAB DED|ABA DED|G2G GBd|cAF G3:|
+X: 2
+T: Gold Ring, The
+Z: Toni Ribas
+S: https://thesession.org/tunes/37#setting12445
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+BAG ~A2d|cAG ~G2A|BAG A2d|cAG FGA|BAG A2d|cAG GBd|~g3 afd|cAF G2A:||:~B3 BAG|~A3 AGF|~G3 GFG|ADE FGA|~B3 BAG|~A3 AGF|FDE F2d|1 cAF G2A:|2 cAF G2g|||:fdd edd|fdd edd|fdd edd|dcA GBd|fdd edd|fdd ed^c|dfa ged|1 cAF G2g:|2 cAF GBd||fed|cAG FGA|~g3 fed|~g3 fed|~g3 afd|1 cAF GBd:|2 cAF G2E||GBd|cAG FGA|DBB DBB|DAA DAA|~G3 GBd|1 cAF G2E:|2 cAF G2A||GBd|cAG FGA|~B3 ~D3|~A3 ~D3|~G3 GBd|cAF G2A:|A2G|cAG FGA|BAG AGF|GFD FGA|fag fed|1 cAF G2A:|2 cAF G3
+X: 3
+T: Gold Ring, The
+Z: CreadurMawnOrganig
+S: https://thesession.org/tunes/37#setting12446
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+|:BAG A2d|cAG ~G3|BAG A2d|cAG FGA|BAG A2d|cAG GBd|gbg afd|cAG G2A:|
+|:~B3 Bdc|~A3 dcA|~G3 GFG|ADE FGA|~B3 Bdc|A3 dAG|FDE F2d|1 cAG G2A:|2 cAG G2g||
+|:fdd edd|fdd edd|fdd ed^c|d=cA GBd|fdd edd|fdd ed^c|dfa gfd|1 cAG G2z:|2 cAG GBd||
+|:~g3 efd|cAG GBd|~g3 efd|cAG FGA|~g3 efd|~g3 fed|gfg afd|1 cAG GBd:|2 cAG G2E||
+|:DBB DBB|DAA DAA|~G3 GBd|cAG FGA|DBB DBB|DAA DAA|G3 GBd|1 cAF G2E:|2 cAF G2A||
+|:~B3 ~D3|~A3 ~D3|~G3 GBd|cAG FGA|~B3 ~D3|~A3 ~D3|~G3 GBd|cAF G2A:|
+|:B2G A2G|d2G G2A|B2G A2G|cAG FGA|BAG AGF|GFD FGA|fag fed|cAF G2A:|
+X: 4
+T: Gold Ring, The
+Z: JACKB
+S: https://thesession.org/tunes/37#setting12447
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+|:BAG A2d|cAF G2A|BAG (3BcdB |cAG FGA|
+BAG Add|cAD GBd|g3 afd|cAF G2A:|
+|:B3 Bdc|A3 dcA|G3 GBd|cAG FGA|
+B3 Bdc|A3 dAG|FDE F2d|1 cAF G2A:|
+|:fdd edd|fdd edd|fdd ed^c|d=cA GBd|
+fdd edd|fdd ed^c|dfa gfd|cAF G2z:|
+|:d| g3 f2d|cAF GBd|g3 f2d|cAF G2d|
+g3 f2d|g3 f2d|g3 afd|cAF G3:|
+|:A|DBB DBB|DAA DAA|G3 GBd|cAG FGA|
+DBB DBB|DAA DAA|G3 GBd|cAF G2:|
+|:A| B3 D3|A3 D3|G3 GBd|cAG FGA|
+B3 D3|A3 D3|G3 GBd|cAF G2A|
+B3 D3 | D3 D3 |G3 GBd | cAG FGA|
+B3 D3 | A3 D3 |G3 GBd | cAF G2A :|
+|:B2G A2G|d2G G2A|B2G A2G|cAG FGA|
+BAG AGF|GFD FGA|(3fgaf gfd|cAF G2A:|
+X: 5
+T: Gold Ring, The
+Z: swisspiper
+S: https://thesession.org/tunes/37#setting21061
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+G|BAG A2d|cAG ~G3|BAG A.d.d|cAG A~F3|
+BAG A.d.d|cAG GBd|gbg afd|cAF ~G2:|
+z|~B3 {d}Bdc|~A3 .d.c.A|~G3 GBd|cAG FGA|
+!slide!~B3 {d}B.d.c|(3.A.c.A dAG|FDE ~F2d|cAG ~G2:|
+g|f.d.d e.d.d|f.d.d e.d.d|f.d.d ed^c|.d.cA ~G3|
+f.d.d e.d.d|f.d.d ed^c|dfa gfd|cAF {c}G2:|
+z|~g3 !slide!f2d|.cAG {d}GBd|~g3 !slide!f2 d|cAG ~F2A|
+~g3 .f.e(d|!slide!~g3) .f.f(d|!slide!~g3) afd|cAF ~G2:|
+E|D.B.B D.B.B|D.A.A D.A.A|~G3 GBd|cAG FGA|
+D.B.B D.B.B|D.A.A D.A.A|~G3 GBd|cAF ~G2:|
+A|~B3 D(3DDD|(3AcA A D(3DDD |~G3 GBd|cAG FGA|
+~B3 D(3DDD|~A3 D(3DDD|~G3 GBd|cAF ~G2:|
+A|B2G A2G|d2 G ~G2A|B2G A2G|cAG FGA|
+BAG {d}AGF|GFE {B}FGA|(3.f.g.a f gdB|cAF {c}G2:|
+X: 6
+T: Gold Ring, The
+Z: Larke
+S: https://thesession.org/tunes/37#setting24456
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+"1"d |: cAG GFG | cAF G2d | cAG GFG | cAG F2d |
+cAG GFG | cAG A2G | FGA fed | cAF G2 d :|
+"2" cAd cAd | cAF G2d | cAd cAd | cAG F2 d |
+cAd cAd | cAG A2G | FAd fed | cAF G2 d :|
+"3" gdg gdc | BGG Gde | fff fed | cAG FGA |
+gdg gdc | BGG G2d | (4fgag fed | c-AF G2d :|
+"4" gdd fdd |gdd fdd | gdd fdd | cAF GBd |
+gdd fdd |gdd fdd | fag fed | c-AF G2d :|
+"5" bdd add |bdd add |bdd add | cAF GBd |
+bdd add |bdd add |fag fed | c-AF G2d :|
+"6" B2G A2G | d2G G2A | B2G A2G | cAG FGA |
+BAG AGF | GFD FGA | fag fed | cAF G3 :|
+X: 7
+T: Gold Ring, The
+Z: sebastian the m3g4p0p
+S: https://thesession.org/tunes/37#setting24911
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+BAG A2d|cAF G2A|BAG A2d|cAG FGA|BAG A2d|cAF GBd|~g3 afd|1cAF G2A:|2cAF Gdc||
+~B3 Bdc|~A3 dAF|~G3 GFG|A2d cAG|~B3 Bdc|~A3 dAG|FDE F2d|1cAF G2A:|2cAF GBd||
+fdd edd|fdd edd|fdd efd|dcA GBd|fdd edd|fdd ed^c|dfa gfd|1cAF G2d:|2cAF GBd||
+~g3 f2d|cAG G2d|~g3 f2d|cAG FAd|~g3 f2d|~g3 f2d|gdg afd|1cAF G2d:|2cAF GFE||
+DBB DBB|DAA DAA|~G3 GBd|cAG FGA|DBB DBB|DAA DAA|~G3 GBd|cAF G2A:|
+BAB ~D3|~A3 ~D3|~G3 GBd|cAG FGA|~B3 ~D3|~A3 ~D3|~G3 GBd|cAF G2A:|
+B2G A2G|d2G G2A|B2G A2G|cAG FGA|BAG AGF|GFE FAd|faf fed|1cAF G2A:|2cAF G3||

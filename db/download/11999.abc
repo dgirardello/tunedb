@@ -1,0 +1,48 @@
+X: 1
+T: Cradle Song
+Z: Tøm
+S: https://thesession.org/tunes/11999#setting11999
+R: reel
+M: 4/4
+L: 1/8
+K: Amaj
+|: Ac BA e2 f2 | e4 c4 | Ac BA e2 c2 | B6 c2 |
+Ac BA e2 f2 | e4 c2A2 | FE AB c2 B2 | A6 z2 :|
+|: fd Ad f2 a2 | e4 c4 | Ac BA e2 c2 | B6 z2 |
+Ac BA ef ga | e4 c2 A2 | FE AB c2 B2 | A6 z2 :|
+X: 2
+T: Cradle Song
+Z: Tøm
+S: https://thesession.org/tunes/11999#setting22736
+R: reel
+M: 4/4
+L: 1/8
+K: Amaj
+|: (Ac {c}BA) (e2 f2) | (e4 c2) z2 | (Ac) {c}(BA) {A}(e2 c2) | {c}B6 c2 |
+(Ac {c}BA) (e2 f2) | (e4 c2) .A2 | {FG}(FE AB) {AB}c2 {Ac}B2 | A6 z2 :|
+|: (fd Ad) (f2 a2) | (e4 c2) z2 | (Ac) {c}(BA) {A}(e2 c2) | {c}B6 z2 |
+(AcBA) (ef).g.a | (e4 c2) .A2 | {FG}(FE AB) {AB}c2 {Ac}B2 | A6 z2 :|
+X: 3
+T: Cradle Song
+Z: JACKB
+S: https://thesession.org/tunes/11999#setting23086
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+V:1
+|: GBAG d2 e2 | d4 B4 | GBAG d2 B2 | A6 B2 |
+V:2
+|:G2 FG BGcG|BcBA G2 D2|G2 FG BAGE|FGFE F2 D2|
+V:1
+GBAG d2 e2 | d4 B2G2 | EDGA B2 A2 | G6 z2 :||
+V:2
+G2 FG BGcG|BcBA G2 B2|GABc dgdc|B2 dc B4:||
+V:1
+|: ecGc e2 g2 | d4 B4 | GBAG d2 B2 | A6 z2 |
+V:2
+|:cEDE cGec|BcBA G2 D2|G2 FG BAGE|FGFE F2 D2|
+V:1
+GBAG defg | d4 B2 G2 | EDGA B2 A2 | G6 z2 :||
+V:2
+BdcB Bcdc|BcBA G2 B2|GABc dgdc|B6 z2:||

@@ -1,0 +1,40 @@
+X: 1
+T: Southwest Wind, The
+Z: David Levine
+S: https://thesession.org/tunes/8445#setting8445
+R: jig
+M: 6/8
+L: 1/8
+K: Ddor
+~A3 AdB|cAG EFD|DGG DEG|AGE cGE|
+~A2G AdB|cAG EFD|~D3 AGE|GED DEG|
+~A3 A2d|cAG EFD|DGG GFG|DGG GFG|
+~A2G AdB|cAG EFD|~D3 AGE|GED D2e|
+|:fed ed^c|ed^c d2e|fed efd|=cAG Ade|
+fed efd|cAB c2d|cAG EAG|1 EFD D2e:|2 EFD D3||
+X: 2
+T: Southwest Wind, The
+Z: JACKB
+S: https://thesession.org/tunes/8445#setting25160
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+|:Ac/A/A A2d|cAG EFD|DGG DE/F/G|AGE =cAG|
+Ac/A/A A2d|cAG EFD|DE/F/G AGE|FDD D3:||
+|:e|fdd edd|fdd d2e|fdd e2d|cAG A2e|
+fdd e2d|cAB =c2d|=cAG EF/G/E|FDD D2:||
+X: 3
+T: Southwest Wind, The
+Z: JACKB
+S: https://thesession.org/tunes/8445#setting25789
+R: jig
+M: 6/8
+L: 1/8
+K: Ddor
+|:Ac/A/A AdB|cAG EFD|DGG DE/F/G|AGE cAG|
+A2G AdB|cAG EFD|DE/F/G AGE|FDD DE/F/G|
+A3 A2d|cAG EFD|DGG GFG|DGG cAG|
+Ac/A/A AdB|cAG EFD|D3 AGE|FDD D2e||
+|:fdd edd|fdd d2e|fdd e2d|=cAG Ade|
+fdd efd|cAB c2d|cAG E/F/GE| FDD D2e:|2 FDD D3||

@@ -1,0 +1,48 @@
+X: 1
+T: Courtyard, The
+Z: JACKB
+S: https://thesession.org/tunes/13671#setting24265
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+|:DE|F3 FED|FGA AFD|B3 BAG|B3 Bcd|
+F3 FED|FGA AFD|B3 Bcd|1FGE D2E:|2FGE DdA||
+|B3 BAG|B3 BAG|A3 AGF|A3 AGF|
+B3 BAG|B3 Bcd|A3 BAG|1FGE DdA|2FGE D2E||
+|:F2A AGF|A3 AGF|G2B BAG|B3 BAG|
+F2A AGF|A3 AGF|G3 BAG|FGE D2E||
+|:G3 GFE|G3 GFE|F3 FED|F3 FED|
+G3 GFE|G3 GFE|A3 BAG|FGE D2F||
+X: 2
+T: Courtyard, The
+Z: JACKB
+S: https://thesession.org/tunes/13671#setting24266
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+|:GA|B3 BAG|Bcd dBG|e3 edc|e3 efg|
+B3 BAG|Bcd dBG|e3 efg|1BcA G2A:|2BcA Ggd||
+|e3 edc|e3 edc|d3 dcB|d3 dcB|
+e3 edc|e3 efg|d3 edc|1BcA Ggd|2BcA G2A||
+|:B2d dcB|d3 dcB|c2e edc|e3 edc|
+B2d dcB|d3 dcB|c3 edc|BcA G2A||
+|:c3 cBA|c3 cBA|B3 BAG|B3 BAG|
+c3 cBA|c3 cBA|d3 edc|BcA G2B||
+X: 3
+T: Courtyard, The
+Z: JACKB
+S: https://thesession.org/tunes/13671#setting24267
+R: jig
+M: 6/8
+L: 1/8
+K: Amaj
+|:AB|c3 cBA|cde ecA|f3 fed|f3 fga|
+c3 cBA|cde ecA|f3 fga|1cdB A2B:|2cdB Aae||
+|f3 fed|f3 fed|e3 edc|e3 edc|
+f3 fed|f3 fga|e3 fed|1cdB Aae|2cdB A2B||
+|:c2e edc|e3 edc|d2f fed|f3 fed|
+c2e edc|e3 edc|d3 fed|cdB A2B||
+|:d3 dcB|d3 dcB|c3 cBA|c3 cBA|
+d3 dcB|d3 dcB|e3 fed|cdB A2c||
