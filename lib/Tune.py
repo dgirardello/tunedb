@@ -1,7 +1,8 @@
 import os
 import re
 import json
-import music21
+
+NOTES = []
 
 class Tune(object):
     name = ''
@@ -12,7 +13,9 @@ class Tune(object):
     tune_abc = ''
     link = ''
     key = ''
-    tune_norm = ''
+    lines = []
+    has_gracenotes = False
+    has_triplets = False
 
     def __init__(self, source):
         if os.path.isfile(source):
@@ -29,7 +32,32 @@ class Tune(object):
                 self.parse_json_tune(source)
 
     def parse_abc_tune(self, abc_text):
-        pass
+        tune = ''
+        for line in abc_text:
+            if re.match('^[A-Z]\:[\s]?.*$', line):
+                key = re.search('^([A-Z])\:[\s]?.*$', line).group(1)
+                value = re.search('^[A-Z]\:[\s]?(.*)$', line).group(1)
+                if re.match('X', key):
+                    self.version = int(str(value).strip())
+                elif re.match('T', key):
+                    self.name = str(value).strip()
+                elif re.match('S', key):
+                    self.link = str(value).strip()
+                elif re.match('R', key):
+                    self.type = str(value).strip()
+                elif re.match('M', key):
+                    self.metric = str(value).strip()
+                elif re.match('L', key):
+                    self.unit = str(value).strip()
+                elif re.match('K', key):
+                    self.key = str(value).strip()
+            else:
+                tune += line
+        if re.match('\{\w*\}', tune):
+            self.has_gracenotes = True
+        if re.match('\(\d\s?\w', tune):
+            self.has_triplets = True
+        self.tune_abc = tune
 
     def parse_json_tune(self, abc_text):
         pass
@@ -37,16 +65,8 @@ class Tune(object):
     def normalize_tune(self):
         pass
 
-    def change_meter_note(self, beat_str, base_note, conversion_note=16):
-        pass
 
-    def transpose_to_C(self, beat_str, base_key):
-        # https://method-behind-the-music.com/theory/scalesandkeys/#transposition
-        pass
 
-    def get_note_duration(self, beat_str):
-        # http://abcnotation.com/wiki/abc:standard:v2.2#note_lengths
-        pass
 
 
 def is_abc_tune(tune_str):
@@ -72,3 +92,45 @@ def is_json_tune(tune_str):
     if not 'tune_abc' in loaded_tune: return False
     return True
 
+
+def parse_lines(tune_text):
+    return tune_text.split('\n')
+
+
+def parse_beats(line):
+    return filter(None, re.split('\||\|]|\|\||\[\||\|:|:\||::', line))
+
+def parse_fragment(beat):
+    return filter(None, re.split('\s', beat))
+
+
+def convert_to_dsq(abc_text, base_note_value=8):
+    note_mult = int(32/base_note_value)
+    pos = 0
+    return_str = ''
+    note = ''
+    while pos < len(abc_text):
+        # Detect Note
+        if str(abc_text[pos:]).startswith('[\^|\=|\_]?\w'):
+            if re.match('[\^|\=|\_]', abc_text[pos]):
+                note += abc_text[pos]
+                pos += 1
+            if re.match('[a|b|c|d|e|f|g|A|B|C|D|E|F|G]', abc_text[pos]):
+                note += abc_text[pos]
+                pos += 1
+            if re.match('[\,|\']', abc_text[pos]):
+                note += abc_text[pos]
+                pos += 1
+            if pos >= len(abc_text):
+                return_str += note * note_mult
+                break
+
+        # Detect duration
+        if str(abc_text[pos:]).startswith('[\d|\<|\>|\\]'):
+            if
+
+
+    return return_str
+
+def extract_first_note(notes):
+    return re.findall('[\^|\=|\_]?[a|b|c|d|e|f|g|A|B|C|D|E|F|G][\,|\']?', notes)[0]
