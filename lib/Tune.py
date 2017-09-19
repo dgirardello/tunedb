@@ -1,8 +1,8 @@
 import os
 import re
 import json
+import abc_tools
 
-NOTES = []
 
 class Tune(object):
     name = ''
@@ -13,9 +13,7 @@ class Tune(object):
     tune_abc = ''
     link = ''
     key = ''
-    lines = []
-    has_gracenotes = False
-    has_triplets = False
+    ornamentation = False
 
     def __init__(self, source):
         if os.path.isfile(source):
@@ -26,9 +24,9 @@ class Tune(object):
                 elif file_name.endswith('json'):
                     self.parse_json_tune(f)
         elif isinstance(source, str):
-            if is_abc_tune(source):
+            if abc_tools.is_abc_tune(source):
                 self.parse_abc_tune(source)
-            elif is_json_tune(source):
+            elif abc_tools.is_json_tune(source):
                 self.parse_json_tune(source)
 
     def parse_abc_tune(self, abc_text):
@@ -52,85 +50,19 @@ class Tune(object):
                 elif re.match('K', key):
                     self.key = str(value).strip()
             else:
-                tune += line
-        if re.match('\{\w*\}', tune):
-            self.has_gracenotes = True
-        if re.match('\(\d\s?\w', tune):
-            self.has_triplets = True
-        self.tune_abc = tune
+                self.tune_abc += line
+        if len(re.findall('[\{\(\~]', tune)) > 0:
+            self.has_ornamentation = True
+        else:
+            try:
+                self.converted_tune = ''
+                for line in abc_tools.parse_lines(self.tune_abc):
+                    for beat in abc_tools.parse_beats(line):
+                        for fragment in abc_tools.parse_fragment(beat):
+                            converted_fragment = abc_tools.convert_to_dsq(fragment, base_note_value=int(self.unit[-1]))
+                            self.converted_tune += abc_tools.convert_to_scale(converted_fragment, self.key) + ' '
+            except Exception as e:
+                print 'Error converting the tune: {} ({})'.format(self.name, str(self.version))
 
     def parse_json_tune(self, abc_text):
         pass
-
-    def normalize_tune(self):
-        pass
-
-
-
-
-
-def is_abc_tune(tune_str):
-    if not re.match('T\:[\s]]?.*', tune_str): return False
-    if not re.match('R\:[\s]]?\w*', tune_str): return False
-    if not re.match('M\:[\s]]?\d\\\d', tune_str): return False
-    if not re.match('L\:[\s]]?\d\\\d', tune_str): return False
-    if not re.match('K\:[\s]]?\w*', tune_str): return False
-    if not re.match('\|.*\|', tune_str): return False
-    return True
-
-
-def is_json_tune(tune_str):
-    try:
-        loaded_tune = json.loads(tune_str)
-    except ValueError:
-        return False
-    if not 'name' in loaded_tune: return False
-    if not 'type' in loaded_tune: return False
-    if not 'metric' in loaded_tune: return False
-    if not 'unit' in loaded_tune: return False
-    if not 'key' in loaded_tune: return False
-    if not 'tune_abc' in loaded_tune: return False
-    return True
-
-
-def parse_lines(tune_text):
-    return tune_text.split('\n')
-
-
-def parse_beats(line):
-    return filter(None, re.split('\||\|]|\|\||\[\||\|:|:\||::', line))
-
-def parse_fragment(beat):
-    return filter(None, re.split('\s', beat))
-
-
-def convert_to_dsq(abc_text, base_note_value=8):
-    note_mult = int(32/base_note_value)
-    pos = 0
-    return_str = ''
-    note = ''
-    while pos < len(abc_text):
-        # Detect Note
-        if str(abc_text[pos:]).startswith('[\^|\=|\_]?\w'):
-            if re.match('[\^|\=|\_]', abc_text[pos]):
-                note += abc_text[pos]
-                pos += 1
-            if re.match('[a|b|c|d|e|f|g|A|B|C|D|E|F|G]', abc_text[pos]):
-                note += abc_text[pos]
-                pos += 1
-            if re.match('[\,|\']', abc_text[pos]):
-                note += abc_text[pos]
-                pos += 1
-            if pos >= len(abc_text):
-                return_str += note * note_mult
-                break
-
-        # Detect duration
-        if str(abc_text[pos:]).startswith('[\d|\<|\>|\\]'):
-            if
-
-
-    return return_str
-
-def extract_first_note(notes):
-    return re.findall('[\^|\=|\_]?[a|b|c|d|e|f|g|A|B|C|D|E|F|G][\,|\']?', notes)[0]
