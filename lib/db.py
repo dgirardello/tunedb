@@ -19,7 +19,8 @@ def query_db_select(query):
 def query_db_insert(table, columns, values):
     conn   = get_connection()
     cursor = conn.cursor()
-    query = "INSERT INTO {table}({columns}) VALUES({values})".format(table=table, columns=','.join(columns), values='?' * len(columns))
+
+    query = "INSERT INTO {table}({columns}) VALUES({values});".format(table=table, columns=','.join(columns), values=','.join(['?'] * len(columns)))
     cursor.execute(query, values)
     conn.commit()
     return cursor.lastrowid

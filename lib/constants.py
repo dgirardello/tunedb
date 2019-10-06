@@ -1,4 +1,4 @@
-DB_FILE = '..db/tuneDB.db'
+DB_FILE = '../db/tuneDB.db'
 
 
 KEY_REFERENCE = {
